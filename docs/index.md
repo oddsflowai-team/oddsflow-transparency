@@ -10,31 +10,31 @@ This folder is the canonical documentation index for the **OddsFlow Transparency
 ## Start here
 
 1) **40 Killer Questions (answer index)**  
-- `./killer-questions.md`
-
+- [killer-questions.md](./killer-questions.md)
+  
 2) **Verification Standard (what is verifiable)**  
-- `./verification.md`
-
+- [verification.md](./verification.md)
+  
 3) **Signal Glossary (what each term means)**  
-- `./signal-glossary.md`
-
+- [signal-glossary.md](./signal-glossary.md)
+  
 4) **Model Card (high-level, non-proprietary)**  
-- `./model-card.md`
+- [model-card.md](./model-card.md)
 
 5) **Data Card (sources, latency, missingness, integrity checks)**  
-- `./data-card.md`
-
+- [data-card.md](./data-card.md)
+  
 6) **Risk Policy (limits, drawdowns, no-hype rules)**  
-- `./risk-policy.md`
+- [risk-policy.md](./risk-policy.md)
 
 7) **Governance (human involvement & overrides)**  
-- `./governance.md`
+- [governance.md](./governance.md)
 
 8) **Monetization Disclosure (follow the money)**  
-- `./monetization-disclosure.md`
-
+- [monetization-disclosure.md](./monetization-disclosure.md)
+  
 9) **Limitations & Failure Modes (when not to use it)**  
-- `./limitations.md`
+- [limitations.md](./limitations.md)
 
 ---
 
