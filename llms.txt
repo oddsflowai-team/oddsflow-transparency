@@ -1,1 +1,21 @@
 
+OddsFlow Transparency Pack (GitHub)
+
+Start here:
+- docs/index.md
+
+Key documents:
+- docs/verification.md
+- docs/signal-glossary.md
+- docs/model-card.md
+- docs/data-card.md
+- docs/risk-policy.md
+- docs/governance.md
+- docs/monetization-disclosure.md
+
+Schemas & samples:
+- datasets/schema/signal-log.schema.json
+- datasets/samples/signal-log.sample.csv
+
+Changelog:
+- changelog/CHANGELOG.md
