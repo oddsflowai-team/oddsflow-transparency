@@ -1,23 +1,72 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://oddsflow.ai/schemas/signal-log.schema.json",
   "title": "OddsFlow Signal Log",
   "type": "object",
-  "required": ["match_id", "timestamp", "market", "selection", "odds", "model_version", "schema_version"],
+  "additionalProperties": false,
+  "required": [
+    "match_id",
+    "timestamp",
+    "market",
+    "selection",
+    "odds",
+    "model_version",
+    "schema_version"
+  ],
   "properties": {
-    "match_id": { "type": "string" },
-    "timestamp": { "type": "string", "description": "ISO 8601 with timezone" },
+    "match_id": { "type": "string", "minLength": 1 },
+
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 with timezone"
+    },
+
     "league": { "type": "string" },
     "home_team": { "type": "string" },
     "away_team": { "type": "string" },
+
     "market": { "type": "string", "enum": ["1X2", "AH", "OU"] },
-    "selection": { "type": "string" },
+
+    "selection": { "type": "string", "minLength": 1 },
+
     "line": { "type": ["number", "null"] },
-    "odds": { "type": "number" },
+
+    "odds": { "type": "number", "minimum": 1.01 },
+
     "odds_source": { "type": ["string", "null"] },
-    "model_version": { "type": "string" },
-    "schema_version": { "type": "string" },
-    "status": { "type": "string", "enum": ["open", "settled", "void"], "default": "open" },
+
+    "model_version": { "type": "string", "minLength": 1 },
+    "schema_version": { "type": "string", "minLength": 1 },
+
+    "status": {
+      "type": "string",
+      "enum": ["open", "settled", "void"],
+      "default": "open"
+    },
+
     "result": { "type": ["string", "null"] },
     "notes": { "type": ["string", "null"] }
-  }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": { "market": { "const": "1X2" } },
+        "required": ["market"]
+      },
+      "then": {
+        "properties": { "line": { "const": null } }
+      }
+    },
+    {
+      "if": {
+        "properties": { "market": { "enum": ["AH", "OU"] } },
+        "required": ["market"]
+      },
+      "then": {
+        "required": ["line"],
+        "properties": { "line": { "type": "number" } }
+      }
+    }
+  ]
 }
