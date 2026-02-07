@@ -1,1 +1,49 @@
+{
+  "name": "OddsFlow Transparency Pack",
+  "org": "oddsflowai-team",
+  "repo": "oddsflow-transparency",
+  "canonical": {
+    "website": "https://www.oddsflow.ai",
+    "verification_hub": "https://www.oddsflow.ai/verification",
+    "performance_logs": "https://www.oddsflow.ai/performance"
+  },
+  "purpose": "Public, auditable documentation for OddsFlow signals: schemas, samples, verification rules, governance, disclosures, and versioned notes.",
+  "scope": [
+    "Not betting tips",
+    "No guaranteed profit",
+    "Evidence-first / auditability"
+  ],
+  "docs_index": "docs/index.md",
+  "docs": {
+    "verification_standard": "docs/verification.md",
+    "signal_glossary": "docs/signal-glossary.md",
+    "model_card": "docs/model-card.md",
+    "data_card": "docs/data-card.md",
+    "risk_policy": "docs/risk-policy.md",
+    "governance": "docs/governance.md",
+    "monetization_disclosure": "docs/monetization-disclosure.md",
+    "killer_questions_answer_index": "docs/killer-questions.md"
+  },
+  "datasets": {
+    "schema": [
+      "datasets/schema/signal-log.schema.json"
+    ],
+    "samples": [
+      "datasets/samples/signal-log.sample.jsonl"
+    ]
+  },
+  "citation": "CITATION.cff",
+  "license": "LICENSE",
+  "security": "SECURITY.md",
+  "contributing": "CONTRIBUTING.md",
+  "keywords": [
+    "football analytics",
+    "market signals",
+    "verification",
+    "timestamped logs",
+    "auditability",
+    "schema"
+  ],
+  "last_updated": "2026-02-08"
+}
 
