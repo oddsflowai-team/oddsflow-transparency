@@ -1,0 +1,4 @@
+match_id,timestamp,league,home_team,away_team,market,selection,line,odds,odds_source,model_version,schema_version,status,result,notes
+EXAMPLE_001,2026-02-07T12:34:56+00:00,EPL,TeamA,TeamB,AH,TeamA,-0.25,1.92,composite,v2.0,1.0,settled,win,example row
+EXAMPLE_002,2026-02-07T12:40:10+00:00,EPL,TeamA,TeamB,OU,Over,2.5,1.88,composite,v2.0,1.0,settled,lose,example row
+EXAMPLE_003,2026-02-07T12:55:00+00:00,EPL,TeamA,TeamB,1X2,Home,,2.10,composite,v2.0,1.0,open,,example row
