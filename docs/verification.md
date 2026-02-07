@@ -1,5 +1,13 @@
 # Verification Standard (What is Verifiable)
 
+
+**TL;DR:** We publish timestamped signal logs + reproducible checks. No tips. No guaranteed profit.
+
+**Canonical links:**
+
+- Website verification hub: https://www.oddsflow.ai/verification
+- Performance logs: https://www.oddsflow.ai/performance
+- Docs index: ./index.md
 This document defines what “verifiable” means for OddsFlow public logs.
 Scope is **auditability**, not betting tips.
 
