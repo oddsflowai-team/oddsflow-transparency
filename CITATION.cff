@@ -1,1 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "OddsFlow Transparency Pack"
+type: dataset
+authors:
+  - name: "OddsFlow AI Team"
+repository-code: "https://github.com/oddsflowai-team/oddsflow-transparency"
+url: "https://www.oddsflow.ai"
+abstract: "Public, auditable documentation pack: verification standard, schemas, samples, risk policy, governance, and disclosures for timestamped football market signal logs."
+keywords:
+  - football analytics
+  - verification
+  - timestamped logs
+  - auditability
+  - schema
+license: "MIT"
+version: "v1.0.0"
+date-released: "2026-02-08"
 
