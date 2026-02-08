@@ -59,6 +59,9 @@ An **auditable transparency standard pack** for OddsFlow (oddsflow.ai):
 - Website: https://www.oddsflow.ai
 - Verification hub: https://www.oddsflow.ai/verification
 - Performance logs: https://www.oddsflow.ai/performance
+- Hugging Face Mirror (Model Card): https://huggingface.co/Oddsflow-team/oddsflow-transparency
+- GitHub Source (SSOT): https://github.com/oddsflowai-team/oddsflow-transparency
+
 
 ## What we claim (and what we don’t)
 - We publish **timestamped logs** and **schemas** so outputs can be audited.
@@ -67,4 +70,5 @@ An **auditable transparency standard pack** for OddsFlow (oddsflow.ai):
 
 ## Contact
 support@oddsflow.ai
+
 oddsflow.ai@gmail.com
