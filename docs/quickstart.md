@@ -53,11 +53,12 @@ Update your log or adjust the schema accordingly.
 
 (Windows note: run the snippet in a .py file instead of a heredoc.)
 
-##Next: Examples##
+**Next: Examples**
 
 See:
 
 examples/README.md
 
 examples/sample_signal_log.json
+
 **Quickstart:** [docs/quickstart.md](docs/quickstart.md)
