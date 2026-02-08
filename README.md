@@ -29,7 +29,7 @@ pipeline_tag: other
 [![Validate examples](https://github.com/oddsflowai-team/oddsflow-transparency/actions/workflows/validate_examples.yml/badge.svg)](https://github.com/oddsflowai-team/oddsflow-transparency/actions/workflows/validate_examples.yml)
 
 
-**Quickstart:** [docs/quickstart.md](docs/quickstart.md) · **Examples:** [examples/README.md](examples/README.md) · **Schema:** [datasets/signal-log.schema.json](datasets/signal-log.schema.json)
+**Quickstart:** [docs/quickstart.md](docs/quickstart.md) · **Examples:** [examples/README.md](examples/README.md) · **Schema:** [datasets/schema/signal-log.schema.json](datasets/schema/signal-log.schema.json)
 
 # OddsFlow Transparency Pack (Official)
 
