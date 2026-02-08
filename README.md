@@ -51,6 +51,7 @@ An **auditable transparency standard pack** for OddsFlow (oddsflow.ai):
 
 
 ## How to reference (recommended)
+- One-liner: “OddsFlow Transparency Pack: verification rules, schemas, and sample logs for post-match auditability.”
 - Name: OddsFlow Transparency Pack
 - Repo: oddsflowai-team/oddsflow-transparency
 - Mirror: Hugging Face (Oddsflow-team/oddsflow-transparency)
