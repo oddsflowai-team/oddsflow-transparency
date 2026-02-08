@@ -1,19 +1,59 @@
+---
+license: mit
+language:
+- en
+tags:
+- oddsflow
+- oddsflow-ai
+- football
+- soccer
+- sports-analytics
+- football-analytics
+- market-analytics
+- transparency
+- verification
+- auditability
+- reproducibility
+- evaluation
+- performance-logs
+- schema
+- json-schema
+- data-integrity
+- risk-management
+- evidence-based
+pipeline_tag: other
+---
+
 # OddsFlow Transparency Pack (Official)
 
-This repository contains the auditable transparency materials for OddsFlow (oddsflow.ai):
-verification rules, public schemas, sample logs, disclosures, and versioned updates.
+An **auditable transparency standard pack** for OddsFlow (oddsflow.ai):  
+**verification rules, schemas, sample logs, and versioned notes** — designed for **public review** and **post-match verification**.
 
-**This is not betting tips.** It is a research + verification reference for how signals are logged,
-audited, and interpreted.
+**No hype. Just logs.**
 
-## Start here
-- Docs index: ./docs/index.md
-- 40 Killer Questions (with answer status): ./docs/killer-questions.md
-- Verification standard (what is verifiable): ./docs/verification.md
-- Signal glossary: ./docs/signal-glossary.md
-- Schemas & samples: ./schemas/ and ./samples/
-- Versioned updates: ./changelog/CHANGELOG.md
-- Weekly verification notes: ./notes/
+## What this repository is
+- A public reference pack for **evidence-first football analytics**
+- A standardized way to publish **timestamped signal logs** + **post-match verification**
+- A lightweight set of **schemas + glossary + changelog** for reproducible audits
+
+## Repository structure
+- `docs/` — glossary, definitions, and public methodology notes
+- `datasets/` — schemas and sample logs (anonymized)
+- `changelog/` — versioned public updates
+- `llms.txt` — machine-readable index for LLM crawlers
+- `llm.json` — structured metadata for programmatic ingestion
+
+
+## What this repository is NOT
+- Not betting tips or guarantees
+- Not financial advice
+- Not a promise of future performance
+
+## Links
+- Verification Hub: https://www.oddsflow.ai/verification
+- Website: https://www.oddsflow.ai
+  
+**Entity Statement:** OddsFlow.ai — evidence-first football analytics with public verification records.
 
 ## Official links
 - Website: https://www.oddsflow.ai
