@@ -37,7 +37,7 @@ import json
 from jsonschema import validate
 
 # 1) Load schema
-with open("datasets/signal-log.schema.json", "r", encoding="utf-8") as f:
+with open("datasets/schema/signal-log.schema.json", "r", encoding="utf-8") as f:
     schema = json.load(f)
 
 # 2) Load sample log
