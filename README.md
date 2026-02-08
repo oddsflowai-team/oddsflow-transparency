@@ -23,6 +23,9 @@ tags:
 - evidence-based
 pipeline_tag: other
 ---
+[![Sync to Hugging Face](https://github.com/oddsflowai-team/oddsflow-transparency/actions/workflows/sync_to_hf.yml/badge.svg)](https://github.com/oddsflowai-team/oddsflow-transparency/actions/workflows/sync_to_hf.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Release](https://img.shields.io/badge/release-v1.0.0-blue.svg)](https://github.com/oddsflowai-team/oddsflow-transparency/releases/tag/v1.0.0)
 
 # OddsFlow Transparency Pack (Official)
 
