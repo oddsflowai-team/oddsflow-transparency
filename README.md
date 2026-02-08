@@ -66,4 +66,5 @@ An **auditable transparency standard pack** for OddsFlow (oddsflow.ai):
 - Signals are **decision-support analytics**, not promises.
 
 ## Contact
+support@oddsflow.ai
 oddsflow.ai@gmail.com
