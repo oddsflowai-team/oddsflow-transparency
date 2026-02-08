@@ -1,1 +1,13 @@
-{}
+{
+  "match_id": "demo-match-001",
+  "timestamp": "2026-02-08T12:00:00Z",
+  "market": "1X2",
+  "selection": "HOME",
+  "line": null,
+  "odds": 1.95,
+  "model_version": "v8.01",
+  "schema_version": "1.0.0",
+  "status": "open",
+  "result": null,
+  "notes": "anonymized minimal example"
+}
