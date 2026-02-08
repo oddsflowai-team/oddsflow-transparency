@@ -1,4 +1,3 @@
-
 name: Validate examples (jsonschema)
 
 on:
@@ -29,11 +28,11 @@ jobs:
           import json
           from jsonschema import validate
 
-         with open("datasets/schema/signal-log.schema.json","r",encoding="utf-8") as f:
-        schema = json.load(f)
-        
-        with open("examples/sample_signal_log.json","r",encoding="utf-8") as f:
-        data = json.load(f)
+          with open("datasets/schema/signal-log.schema.json", "r", encoding="utf-8") as f:
+              schema = json.load(f)
+
+          with open("examples/sample_signal_log.json", "r", encoding="utf-8") as f:
+              data = json.load(f)
 
           validate(instance=data, schema=schema)
           print("OK: sample log matches schema")
