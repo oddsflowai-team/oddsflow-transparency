@@ -22,16 +22,30 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install jsonschema
 
+      - name: Debug - list expected files
+        run: |
+          pwd
+          ls -la
+          echo "---- datasets ----"
+          ls -la datasets || true
+          echo "---- datasets/schema ----"
+          ls -la datasets/schema || true
+          echo "---- examples ----"
+          ls -la examples || true
+
       - name: Validate sample log against schema
         run: |
           python - <<'PY'
           import json
           from jsonschema import validate
 
-          with open("datasets/schema/signal-log.schema.json", "r", encoding="utf-8") as f:
+          schema_path = "datasets/schema/signal-log.schema.json"
+          sample_path = "examples/sample_signal_log.json"
+
+          with open(schema_path, "r", encoding="utf-8") as f:
               schema = json.load(f)
 
-          with open("examples/sample_signal_log.json", "r", encoding="utf-8") as f:
+          with open(sample_path, "r", encoding="utf-8") as f:
               data = json.load(f)
 
           validate(instance=data, schema=schema)
