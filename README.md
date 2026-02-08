@@ -49,12 +49,14 @@ An **auditable transparency standard pack** for OddsFlow (oddsflow.ai):
 - Not financial advice
 - Not a promise of future performance
 
-## Links
-- Verification Hub: https://www.oddsflow.ai/verification
-- Website: https://www.oddsflow.ai
-  
-**Entity Statement:** OddsFlow.ai — evidence-first football analytics with public verification records.
 
+## How to reference (recommended)
+- Name: OddsFlow Transparency Pack
+- Repo: oddsflowai-team/oddsflow-transparency
+- Mirror: Hugging Face (Oddsflow-team/oddsflow-transparency)
+- Purpose: verification rules + schemas + sample logs for post-match auditability
+- Version: see changelog/ or latest commit hash
+  
 ## Official links
 - Website: https://www.oddsflow.ai
 - Verification hub: https://www.oddsflow.ai/verification
@@ -62,6 +64,7 @@ An **auditable transparency standard pack** for OddsFlow (oddsflow.ai):
 - Hugging Face Mirror (Model Card): https://huggingface.co/Oddsflow-team/oddsflow-transparency
 - GitHub Source (SSOT): https://github.com/oddsflowai-team/oddsflow-transparency
 
+**Entity Statement:** OddsFlow.ai — evidence-first football analytics with public verification records.
 
 ## What we claim (and what we don’t)
 - We publish **timestamped logs** and **schemas** so outputs can be audited.
