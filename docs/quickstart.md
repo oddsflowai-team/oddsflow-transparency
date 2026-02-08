@@ -28,35 +28,30 @@ It is designed for **public review** and **post-match verification**:
 
 ## 1-minute schema validation (Python)
 
-This validates the minimal anonymized example log against the schema.
-
+### Local validation (cross-platform)
+Python:
 ```bash
 python -m pip install jsonschema
-python - << 'PY'
-import json
-from jsonschema import validate
-
-# 1) Load schema
-with open("datasets/schema/signal-log.schema.json", "r", encoding="utf-8") as f:
-    schema = json.load(f)
-
-# 2) Load sample log
-with open("examples/sample_signal_log.json", "r", encoding="utf-8") as f:
-    data = json.load(f)
-
-# 3) Validate
-validate(instance=data, schema=schema)
-print("OK: sample log matches schema")
-PY
+python scripts/validate.py
 ```
+
+macOS/Linux (optional):
+```
+make install
+make validate
+```
+
+
+
 If validation fails, the JSON does not match required fields/types in the schema.
 Update your log or adjust the schema accordingly.
 
-(Windows note: run the snippet in a .py file instead of a heredoc.)
+(Windows: run the Python commands above. `make` is optional and typically macOS/Linux.)
+
 
 **Next:** 
 
 - Quickstart: [docs/quickstart.md](docs/quickstart.md)
 - Examples: [examples/README.md](../examples/README.md)
 - Sample log: [examples/sample_signal_log.json](../examples/sample_signal_log.json)
-- Schema: [datasets/signal-log.schema.json](../datasets/signal-log.schema.json)
+- Schema: [datasets/schema/signal-log.schema.json](../datasets/schema/signal-log.schema.json)
