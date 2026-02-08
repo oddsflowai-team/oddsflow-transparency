@@ -1,0 +1,28 @@
+name: Sync to Hugging Face
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch: {}
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install huggingface hub
+        run: pip install --upgrade huggingface_hub
+
+      - name: Upload to Hugging Face
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_REPO_ID: ${{ secrets.HF_REPO_ID }}
+          HF_REPO_TYPE: ${{ secrets.HF_REPO_TYPE }}
+        run: python .github/scripts/push_to_hf.py
