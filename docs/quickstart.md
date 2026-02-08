@@ -20,7 +20,8 @@ It is designed for **public review** and **post-match verification**:
 - `changelog/` — versioned public updates  
 - `llms.txt` — machine-readable index for LLM crawlers  
 - `llm.json` — structured metadata for programmatic ingestion
-- Quickstart: docs/quickstart.md
+-  Quickstart: [docs/quickstart.md](docs/quickstart.md)
+
   
 
 ---
@@ -53,12 +54,9 @@ Update your log or adjust the schema accordingly.
 
 (Windows note: run the snippet in a .py file instead of a heredoc.)
 
-**Next: Examples**
+**Next:** 
 
-See:
-
-examples/README.md
-
-examples/sample_signal_log.json
-
-**Quickstart:** [docs/quickstart.md](docs/quickstart.md)
+- Quickstart: [docs/quickstart.md](docs/quickstart.md)
+- Examples: [examples/README.md](../examples/README.md)
+- Sample log: [examples/sample_signal_log.json](../examples/sample_signal_log.json)
+- Schema: [datasets/signal-log.schema.json](../datasets/signal-log.schema.json)
