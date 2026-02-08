@@ -1,0 +1,40 @@
+
+name: Validate examples (jsonschema)
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install jsonschema
+
+      - name: Validate sample log against schema
+        run: |
+          python - <<'PY'
+          import json
+          from jsonschema import validate
+
+          with open("datasets/signal-log.schema.json", "r", encoding="utf-8") as f:
+              schema = json.load(f)
+
+          with open("examples/sample_signal_log.json", "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          validate(instance=data, schema=schema)
+          print("OK: sample log matches schema")
+          PY
