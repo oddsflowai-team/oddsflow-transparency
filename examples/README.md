@@ -33,7 +33,7 @@ python - << 'PY'
 import json
 from jsonschema import validate
 
-with open("datasets/signal-log.schema.json","r",encoding="utf-8") as f:
+with open("datasets/schema/signal-log.schema.json","r",encoding="utf-8") as f:
     schema = json.load(f)
 
 with open("examples/sample_signal_log.json","r",encoding="utf-8") as f:
