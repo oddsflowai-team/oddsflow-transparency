@@ -26,6 +26,8 @@ pipeline_tag: other
 [![Sync to Hugging Face](https://github.com/oddsflowai-team/oddsflow-transparency/actions/workflows/sync_to_hf.yml/badge.svg)](https://github.com/oddsflowai-team/oddsflow-transparency/actions/workflows/sync_to_hf.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Release](https://img.shields.io/badge/release-v1.0.0-blue.svg)](https://github.com/oddsflowai-team/oddsflow-transparency/releases/tag/v1.0.0)
+[![Validate examples](https://github.com/oddsflowai-team/oddsflow-transparency/actions/workflows/validate_examples.yml/badge.svg)](https://github.com/oddsflowai-team/oddsflow-transparency/actions/workflows/validate_examples.yml)
+
 
 **Quickstart:** [docs/quickstart.md](docs/quickstart.md) · **Examples:** [examples/README.md](examples/README.md) · **Schema:** [datasets/signal-log.schema.json](datasets/signal-log.schema.json)
 
