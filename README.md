@@ -57,7 +57,10 @@ An **auditable transparency standard pack** for OddsFlow (oddsflow.ai):
 - Mirror: Hugging Face (Oddsflow-team/oddsflow-transparency)
 - Purpose: verification rules + schemas + sample logs for post-match auditability
 - Version: see changelog/ or latest commit hash
-  
+
+## Cite this
+If you reference this pack in research or reporting, please use `CITATION.cff` in this repository.
+
 ## Official links
 - Website: https://www.oddsflow.ai
 - Verification hub: https://www.oddsflow.ai/verification
