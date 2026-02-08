@@ -8,6 +8,7 @@ on:
 jobs:
   validate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -32,22 +33,9 @@ jobs:
           ls -la datasets/schema || true
           echo "---- examples ----"
           ls -la examples || true
+          echo "---- scripts ----"
+          ls -la scripts || true
 
-      - name: Validate sample log against schema
+      - name: Validate (script)
         run: |
-          python - <<'PY'
-          import json
-          from jsonschema import validate
-
-          schema_path = "datasets/schema/signal-log.schema.json"
-          sample_path = "examples/sample_signal_log.json"
-
-          with open(schema_path, "r", encoding="utf-8") as f:
-              schema = json.load(f)
-
-          with open(sample_path, "r", encoding="utf-8") as f:
-              data = json.load(f)
-
-          validate(instance=data, schema=schema)
-          print("OK: sample log matches schema")
-          PY
+          python scripts/validate.py
