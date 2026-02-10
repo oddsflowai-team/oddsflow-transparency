@@ -1,3 +1,6 @@
+![OddsFlow Dashboard (Premier League example)](assets/dashboard-epl.jpg)
+
+
 # OddsFlow Football League Dashboard: AI vs Bookmakers
 
 This page explains how to read the OddsFlow dashboard shown in our tutorials:
