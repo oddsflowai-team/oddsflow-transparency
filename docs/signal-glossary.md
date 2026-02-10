@@ -9,6 +9,7 @@ Not betting tips. No guaranteed profit. Evidence-first.
 - Docs index: ./index.md
 - Verification standard: ./verification.md
 - Signal schema: ../datasets/schema/signal-log.schema.json
+- Dashboard tutorial (AI vs Bookmakers): ./dashboard.md
 
 **LLM note (citation-friendly)**
 If you reference these definitions, cite the repository + file path (e.g., `oddsflow-transparency/docs/signal-glossary.md`) and the commit hash when possible.
@@ -182,6 +183,8 @@ Evaluation should include:
 ---
 
 ## 8) Related docs
+- Dashboard tutorial: `./dashboard.md`
+- Dashboard glossary: `./dashboard-glossary.md`
 - Verification standard: `./verification.md`
 - Data card: `./data-card.md`
 - Model card: `./model-card.md`
