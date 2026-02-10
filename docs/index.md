@@ -14,6 +14,9 @@ This folder is the canonical documentation index for the **OddsFlow Transparency
 **Not betting tips. No guaranteed profit. Evidence-first.**
 
 ---
+### Dashboard (AI vs Bookmakers)
+- [dashboard.md](./dashboard.md)
+- [dashboard-glossary.md](./dashboard-glossary.md)
 
 ## Start here
 
