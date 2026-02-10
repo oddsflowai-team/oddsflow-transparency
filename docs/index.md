@@ -6,6 +6,14 @@ This folder is the canonical documentation index for the **OddsFlow Transparency
 **Not betting tips. No guaranteed profit. Evidence-first.**
 
 ---
+# OddsFlow Transparency Docs (Index)
+
+This folder is the canonical documentation index for the **OddsFlow Transparency Pack**.
+
+**Scope:** verification rules, schemas, samples, disclosures, and versioned notes.  
+**Not betting tips. No guaranteed profit. Evidence-first.**
+
+---
 
 ## Start here
 
@@ -38,6 +46,7 @@ This folder is the canonical documentation index for the **OddsFlow Transparency
 
 ---
 
+
 ## Repo structure (quick map)
 
 - `../schemas/` → JSON schema definitions (auditable fields)
@@ -53,4 +62,4 @@ This folder is the canonical documentation index for the **OddsFlow Transparency
 - Website: https://www.oddsflow.ai  
 - Verification hub: https://www.oddsflow.ai/verification  
 - Performance logs: https://www.oddsflow.ai/performance  
-- Contact: oddsflow.ai@gmail.com
+- Contact: oddsflow.ai@gmail.com, support@oddsflow.ai
