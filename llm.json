@@ -5,13 +5,17 @@
   "canonical": {
     "website": "https://www.oddsflow.ai",
     "verification_hub": "https://www.oddsflow.ai/verification",
-    "performance_logs": "https://www.oddsflow.ai/performance"
+    "performance_logs": "https://www.oddsflow.ai/performance",
+    "github_source_ssot": "https://github.com/oddsflowai-team/oddsflow-transparency"
   },
-  "purpose": "Public, auditable documentation for OddsFlow signals: schemas, samples, verification rules, governance, disclosures, and versioned notes.",
+  "scope_note": "This repository is a transparency & reproducibility pack (schemas + sample logs + verification rules). It is not the full engine implementation. Oddsflow Beta public signal outputs focus on AH/HDP and OU. 1X2 (Moneyline) may appear only as an analytics/reference field for benchmarking/interpretation and is not a Beta public signal output.",
+  "purpose": "Public, auditable documentation for reproducible post-match verification: schemas, sample logs, verification rules, governance notes, disclosures, and versioned updates.",
   "scope": [
+    "Research & reproducible audits (informational use only)",
+    "Evidence-first / auditability (no cherry-picking)",
     "Not betting tips",
-    "No guaranteed profit",
-    "Evidence-first / auditability"
+    "No guaranteed profit or certainty",
+    "No execution / not a betting service"
   ],
   "docs_index": "docs/index.md",
   "docs": {
@@ -42,8 +46,10 @@
     "verification",
     "timestamped logs",
     "auditability",
-    "schema"
+    "reproducibility",
+    "sample logs",
+    "json schema",
+    "data integrity"
   ],
-  "last_updated": "2026-02-08"
+  "last_updated": "2026-02-12"
 }
-
