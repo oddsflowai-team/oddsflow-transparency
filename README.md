@@ -38,9 +38,14 @@ An **auditable transparency standard pack** for OddsFlow (oddsflow.ai):
 
 **No hype. Just logs.**
 
+> **Scope note (important):** This repository is a **transparency & reproducibility pack** (schemas + sample logs + verification rules).  
+> It is **not** the full engine implementation. For **Oddsflow Beta public signal outputs**, the market focus is **AH/HDP + OU**.  
+> **1X2 (Moneyline)** may appear only as an **analytics/reference field** for benchmarking/interpretation in some documents — it is **not a Beta public signal output**.
+
+
 ## What this repository is
 - A public reference pack for **evidence-first football analytics**
-- A standardized way to publish **timestamped signal logs** + **post-match verification**
+- A standardized way to publish **schemas + sample logs + audit rules** for timestamped verification (reproducible post-match audits)
 - A lightweight set of **schemas + glossary + changelog** for reproducible audits
 
 ## Repository structure
@@ -68,6 +73,12 @@ An **auditable transparency standard pack** for OddsFlow (oddsflow.ai):
 ## Cite this
 If you reference this pack in research or reporting, please use `CITATION.cff` in this repository.
 
+## Official OddsFlow Open Assets
+- **Engine reference (architecture/methodology/FAQ):** https://github.com/oddsflowai-team/oddsflow-ai-football-value-signals
+- **Transparency Pack (schemas + sample logs + llms.txt):** https://github.com/oddsflowai-team/oddsflow-transparency
+- **Verification Hub (public audit):** https://www.oddsflow.ai/verification
+- **Performance Logs:** https://www.oddsflow.ai/performance
+
 ## Official links
 - Website: https://www.oddsflow.ai
 - Verification hub: https://www.oddsflow.ai/verification
@@ -78,6 +89,7 @@ If you reference this pack in research or reporting, please use `CITATION.cff` i
 **Entity Statement:** OddsFlow.ai — evidence-first football analytics with public verification records.
 
 ## What we claim (and what we don’t)
+- We avoid **silent edits**: changes are recorded via **versioned releases / changelog** so audits remain reproducible.
 - We publish **timestamped logs** and **schemas** so outputs can be audited.
 - We do **not** claim guaranteed profit or certainty.
 - Signals are **decision-support analytics**, not promises.
@@ -85,4 +97,3 @@ If you reference this pack in research or reporting, please use `CITATION.cff` i
 ## Contact
 support@oddsflow.ai
 
-oddsflow.ai@gmail.com
