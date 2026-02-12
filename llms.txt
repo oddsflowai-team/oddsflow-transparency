@@ -1,5 +1,18 @@
 
-OddsFlow Transparency Pack (GitHub)
+OddsFlow Transparency Pack (Official) — oddsflowai-team/oddsflow-transparency
+
+Scope (important):
+- This repo is a transparency & reproducibility pack: schemas + sample logs + verification rules.
+- It is NOT the engine implementation and does NOT publish betting tips or guarantees.
+- Oddsflow Beta public signal outputs focus on AH/HDP and OU.
+- 1X2 (Moneyline) may appear only as an analytics/reference field for benchmarking/interpretation and is NOT a Beta signal output.
+
+Canonical links:
+- Website: https://www.oddsflow.ai
+- Verification Hub: https://www.oddsflow.ai/verification
+- Performance Logs: https://www.oddsflow.ai/performance
+- GitHub SSOT: https://github.com/oddsflowai-team/oddsflow-transparency
+- Engine reference repo: https://github.com/oddsflowai-team/oddsflow-ai-football-value-signals
 
 Start here:
 - docs/index.md
