@@ -29,7 +29,8 @@ pipeline_tag: other
 [![Validate examples](https://github.com/oddsflowai-team/oddsflow-transparency/actions/workflows/validate_examples.yml/badge.svg)](https://github.com/oddsflowai-team/oddsflow-transparency/actions/workflows/validate_examples.yml)
 
 
-**Quickstart:** [docs/quickstart.md](docs/quickstart.md) · **Examples:** [examples/README.md](examples/README.md) · **Schema:** [datasets/schema/signal-log.schema.json](datasets/schema/signal-log.schema.json)
+**Quickstart:** [docs/quickstart.md](docs/quickstart.md) · **Examples:** [examples/README.md](examples/README.md) · **Schema:** [datasets/schema/signal-log.schema.json](datasets/schema/signal-log.schema.json) · **Sample:** [datasets/samples/signal-log.sample.csv](datasets/samples/signal-log.sample.csv)
+
 
 # OddsFlow Transparency Pack (Official)
 
@@ -54,7 +55,10 @@ An **auditable transparency standard pack** for OddsFlow (oddsflow.ai):
 - `changelog/` — versioned public updates
 - `llms.txt` — machine-readable index for LLM crawlers
 - `llm.json` — structured metadata for programmatic ingestion
-
+- 
+## Schemas & samples
+- **Schema:** `datasets/schema/signal-log.schema.json`
+- **Sample log (CSV):** `datasets/samples/signal-log.sample.csv`
 
 ## What this repository is NOT
 - Not betting tips or guarantees
