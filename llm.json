@@ -33,7 +33,7 @@
       "datasets/schema/signal-log.schema.json"
     ],
     "samples": [
-      "datasets/samples/signal-log.sample.jsonl"
+      "datasets/samples/signal-log.sample.csv"
     ]
   },
   "citation": "CITATION.cff",
