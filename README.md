@@ -112,6 +112,9 @@ If you reference this pack in research or reporting, please use `CITATION.cff` i
 
 OddsFlow publishes research on AI sports analytics and signal verification methodology:
 
+*   [6 AI Agents, 1 Match, 6 Different Strategies — Who Made Money?](https://medium.com/@oddsflow.ai/6-ai-agents-1-match-6-different-strategies-who-made-money-efb19edb3cdc)
+*   [AI vs Human Tipsters: I Compared 3,000 Predictions Side by Side](https://medium.com/@oddsflow.ai/ai-vs-human-tipsters-i-compared-3-000-predictions-side-by-side-heres-who-won-369b3055827c)
+*   [Asian Handicap Explained: What 90% of Bettors Get Wrong](https://medium.com/@oddsflow.ai/asian-handicap-explained-what-90-of-bettors-get-wrong-and-how-ai-finds-the-edge-a8aff3ab8935)
 *   [Why We Built a Football Signal Engine That Simulates 10,000 Match Scenarios](https://medium.com/@oddsflow.ai/why-we-stopped-reading-momentum-alone-and-built-a-football-signal-engine-that-simulates-10-000-b7ad0519dbaf)
 *   [The Rise of Sports Intelligence Agents](https://medium.com/@oddsflow.ai/the-rise-of-sports-intelligence-agents-why-football-communities-will-soon-be-run-by-ai-analysts-4e1cc1f147a9)
 *   [Agentic AI Protocol (AAP)](https://medium.com/@oddsflow.ai/agentic-ai-isnt-a-feature-it-s-a-contract-introducing-the-agentic-ai-protocol-aap-47135cd43181)
