@@ -1,0 +1,26 @@
+match_date,league,home_team,away_team,final_score,market,selection,line,entry_odds,entry_minute,score_at_entry,pressure_signal,stake,result,profit_loss
+2026-03-01,Premier League,Manchester United,Crystal Palace,2-1,AH,HOME,-0.25,2.05,78,2-1,24.04,200,LOST,-200
+2026-03-02,Serie A,Pisa,Bologna,0-1,OU,AWAY,,2.2,27,0-0,,563.33,WON,676
+2026-03-03,Premier League,Bournemouth,Brentford,0-0,OU,HOME,,2.75,25,0-0,,922.12,VOID,0
+2026-03-04,Premier League,Manchester City,Nottingham Forest,2-2,AH,HOME,-0.5,1.9,68,2-1,24.03,200,LOST,-200
+2026-03-04,Bundesliga,Hamburger SV,Bayer Leverkusen,0-1,AH,AWAY,0.5,2.075,48,0-0,-20.75,200,HALF_WON,107.5
+2026-03-04,Premier League,Newcastle,Manchester United,2-1,OU,AWAY,,2.6,70,1-1,,665.42,VOID,0
+2026-03-07,Bundesliga,VfL Wolfsburg,Hamburger SV,1-2,OU,HOME,,2.75,33,1-0,,927.78,VOID,0
+2026-03-07,Ligue 1,Nantes,Angers,0-1,AH,AWAY,1,2.3,67,0-1,-20.24,200,LOST,-200
+2026-03-07,Serie A,Atalanta,Udinese,2-2,AH,HOME,-0.25,2.55,84,2-2,22.64,200,LOST,-200
+2026-03-08,Serie A,Fiorentina,Parma,0-0,AH,HOME,-0.25,2,66,0-0,20.86,200,LOST,-200
+2026-03-14,Ligue 1,Lorient,Lens,2-1,AH,AWAY,0.5,2,60,1-1,-24.5,200,LOST,-200
+2026-03-14,Serie A,Udinese,Juventus,0-1,AH,AWAY,1.25,2,69,0-1,-37.98,200,LOST,-200
+2026-03-14,Serie A,Udinese,Juventus,0-1,OU,UNDER,2.5,1.727,80,,62,500,WON,363.5
+2026-03-14,Premier League,West Ham,Manchester City,1-1,AH,AWAY,0.25,2.35,85,1-1,-39.41,200,LOST,-200
+2026-03-15,La Liga,Mallorca,Espanyol,2-1,AH,HOME,-0.25,2,78,1-1,22.35,200,WON,200
+2026-03-15,Serie A,Como,AS Roma,2-1,AH,HOME,-0.25,2.35,64,1-1,33.5,200,WON,270
+2026-03-15,Ligue 1,Strasbourg,Paris FC,0-0,AH,HOME,-0.5,2.125,67,0-0,25.62,200,HALF_LOST,-100
+2026-03-15,Ligue 1,Strasbourg,Paris FC,0-0,OU,UNDER,1.5,1.909,67,,38.36,500,WON,454.5
+2026-03-20,Serie A,Cagliari,Napoli,0-1,AH,AWAY,1.25,2,63,0-1,-27.29,200,LOST,-200
+2026-03-20,Serie A,Cagliari,Napoli,0-1,OU,UNDER,2.5,1.909,71,,41.39,500,WON,454.5
+2026-03-20,La Liga,Villarreal,Real Sociedad,3-1,AH,HOME,-0.5,2.025,60,3-1,31,200,HALF_LOST,-100
+2026-03-21,Serie A,Juventus,Sassuolo,1-1,AH,HOME,-0.5,2.025,67,1-1,26.62,200,HALF_LOST,-100
+2026-03-21,Ligue 1,Nice,Paris Saint Germain,0-4,AH,AWAY,1.25,2,60,0-2,-29,200,WON,200
+2026-03-21,La Liga,Sevilla,Valencia,0-2,AH,AWAY,0.75,2.1,60,0-2,-20.5,200,LOST,-200
+2026-03-22,Ligue 1,Rennes,Metz,0-0,OU,UNDER,1.5,2.1,86,,49.21,500,WON,550

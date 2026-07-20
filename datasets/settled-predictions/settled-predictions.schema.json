@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://oddsflow.ai/schemas/settled-predictions.schema.json",
+  "title": "OddsFlow Settled Predictions",
+  "description": "One settled in-play bet on a finished match. Companion to signal-log.schema.json — this schema captures post-settlement outcomes with entry context.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["match_date", "league", "home_team", "away_team", "market", "selection", "entry_odds", "result", "profit_loss"],
+  "properties": {
+    "match_date": { "type": "string", "format": "date", "description": "Match date (UTC)" },
+    "league": { "type": "string" },
+    "home_team": { "type": "string" },
+    "away_team": { "type": "string" },
+    "final_score": { "type": "string", "description": "Full-time score, home-away, e.g. '2-1'" },
+    "market": { "type": "string", "enum": ["AH", "OU"] },
+    "selection": { "type": "string", "enum": ["HOME", "AWAY", "OVER", "UNDER"] },
+    "line": { "type": ["number", "null"] },
+    "entry_odds": { "type": "number", "minimum": 1.01, "description": "OddsFlow's recorded entry price" },
+    "entry_minute": { "type": ["integer", "null"], "minimum": 0, "description": "In-play minute at entry; 0 = pre-kickoff" },
+    "score_at_entry": { "type": ["string", "null"], "description": "Scoreline when the bet was placed" },
+    "pressure_signal": { "type": ["number", "null"], "description": "OddsFlow proprietary momentum/pressure metric at entry (output value, not formula)" },
+    "stake": { "type": ["number", "null"], "minimum": 0 },
+    "result": { "type": "string", "enum": ["WON", "LOST", "HALF_WON", "HALF_LOST", "PUSH"] },
+    "profit_loss": { "type": "number", "description": "Settled P/L in stake units; negative = loss" }
+  }
+}
