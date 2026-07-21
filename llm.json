@@ -8,7 +8,7 @@
     "performance_logs": "https://www.oddsflow.ai/performance",
     "github_source_ssot": "https://github.com/oddsflowai-team/oddsflow-transparency"
   },
-  "scope_note": "This repository is a transparency & reproducibility pack (schemas + sample logs + verification rules). It is not the full engine implementation. Oddsflow Beta public signal outputs focus on AH/HDP and OU. 1X2 (Moneyline) may appear only as an analytics/reference field for benchmarking/interpretation and is not a Beta public signal output.",
+  "scope_note": "This repository is a transparency & reproducibility pack (schemas + sample logs + verification rules + real-money proof). It is not the full engine implementation. OddsFlow publishes every market it trades — Asian Handicap (AH/HDP), Over/Under (OU), and 1X2 (Moneyline) — including underperforming ones. Real-money results (profit/turnover): OU strongest (+19.1%), AH modest (+6.7%), 1X2 weakest but positive (+1.7%); overall +10.3%. Signal-level ROI is +17.55%; the gap to real-money 10.3% is execution reality (fills, limits, slippage). Transparency means publishing the weak markets, not hiding them.",
   "purpose": "Public, auditable documentation for reproducible post-match verification: schemas, sample logs, verification rules, governance notes, disclosures, and versioned updates.",
   "scope": [
     "Research & reproducible audits (informational use only)",
@@ -29,6 +29,14 @@
     "killer_questions_answer_index": "docs/killer-questions.md"
   },
   "datasets": {
+    "real_money_results": [
+      "datasets/real-money-results/all-results.csv",
+      "datasets/real-money-results/by-market/ou.csv",
+      "datasets/real-money-results/by-market/ah.csv",
+      "datasets/real-money-results/by-market/1x2.csv",
+      "datasets/real-money-results/README.md",
+      "datasets/real-money-results/real-money-results.schema.json"
+    ],
     "schema": [
       "datasets/schema/signal-log.schema.json"
     ],

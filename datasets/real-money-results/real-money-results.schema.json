@@ -1,0 +1,66 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/oddsflowai-team/oddsflow-transparency/datasets/real-money-results/real-money-results.schema.json",
+  "title": "OddsFlow Real-Money Results Row",
+  "description": "One aggregated row of real-money bets placed by OddsFlow AI agents at sportsbooks, settled at the book, with a PDF proof link. All markets included (AH/OU/1X2).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "settled_date",
+    "league",
+    "home_team",
+    "away_team",
+    "market",
+    "bets",
+    "staked",
+    "profit_loss",
+    "roi_pct",
+    "pdf_proof"
+  ],
+  "properties": {
+    "settled_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Date the bet(s) settled (UTC), YYYY-MM-DD."
+    },
+    "league": {
+      "type": "string",
+      "description": "Competition name."
+    },
+    "home_team": {
+      "type": "string",
+      "description": "Home team name."
+    },
+    "away_team": {
+      "type": "string",
+      "description": "Away team name."
+    },
+    "market": {
+      "type": "string",
+      "enum": ["AH", "OU", "1X2"],
+      "description": "Market: AH (Asian Handicap), OU (Over/Under), or 1X2 (Moneyline)."
+    },
+    "bets": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Number of individual real-money bets aggregated in this row."
+    },
+    "staked": {
+      "type": "number",
+      "description": "Total real money staked across the row's bets."
+    },
+    "profit_loss": {
+      "type": "number",
+      "description": "Net settled profit/loss for the row (negative = loss)."
+    },
+    "roi_pct": {
+      "type": "number",
+      "description": "Row ROI as a percentage = profit_loss / staked * 100."
+    },
+    "pdf_proof": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL to the sportsbook PDF proof certificate for this bet/match."
+    }
+  }
+}

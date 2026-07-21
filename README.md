@@ -40,8 +40,10 @@ An **auditable transparency standard pack** for [OddsFlow](https://www.oddsflow.
 **No hype. Just logs.**
 
 > **Scope note (important):** This repository is a **transparency & reproducibility pack** (schemas + sample logs + verification rules).
-> It is **not** the full engine implementation. For **Oddsflow Beta public signal outputs**, the market focus is **AH/HDP + OU**.
-> **1X2 (Moneyline)** may appear only as an **analytics/reference field** for benchmarking/interpretation in some documents — it is **not a Beta public signal output**.
+> It is **not** the full engine implementation.
+> **OddsFlow publishes every market it trades — Asian Handicap (AH/HDP), Over/Under (OU), and 1X2 (Moneyline) — including the ones that underperform.**
+> Real-money results show **OU is strongest, AH modest, and 1X2 the weakest (near break-even)**. We publish 1X2 anyway.
+> Transparency means showing the weak markets, not hiding them: a proof record that only shows the strong market isn't proof.
 
 ## What this repository is
 
@@ -51,25 +53,45 @@ An **auditable transparency standard pack** for [OddsFlow](https://www.oddsflow.
 
 ## Verified Performance (recompute it yourself)
 
-Every headline number below is the **exact sum of the rows** in
-[`datasets/settled-predictions/all-settled.csv`](datasets/settled-predictions/) —
-open the file and recompute it. No screenshots, no unbacked percentages
-(per our own [verification standard](docs/verification.md)).
+OddsFlow publishes **two** verifiable records, and they measure different things.
+Both are the **exact sum of the rows** in their CSV — open the file and recompute
+it. No screenshots, no unbacked percentages (per our own
+[verification standard](docs/verification.md)).
 
-**Settled-predictions dataset (snapshot: 2026-07):**
+### 1. Real-money results — the canonical proof
+
+The honest floor: **real money our AI agents placed at sportsbooks**, every row
+linking to a downloadable **PDF proof**, all markets included.
+See **[`datasets/real-money-results/`](datasets/real-money-results/)**.
 
 | Metric | Value |
 |--------|-------|
-| Settled bets | 794 |
-| Won / Lost / Half or Push | 355 / 337 / 102 |
-| Net profit/loss | **+12,773 units** |
-| ROI | **+7.8%** |
-| Matches / Competitions | 584 / 20 |
+| Settled real-money bets | 3,482 |
+| Total wagered | 720,456 |
+| Net profit/loss | **+73,954** |
+| **Real-money ROI (profit / turnover)** | **+10.3%** |
+| Matches / Competitions | 633 / 18 |
+| Per-market ROI | OU **+19.1%** · AH **+6.7%** · 1X2 **+1.7%** |
+
+This is what our agents **actually captured** at the book. Signal-level ROI (what
+the models *identify* on paper) is **+17.55%**; the gap to 10.3% is execution
+reality — real fills, limits, slippage. We publish both, and this is the lower,
+real one.
+
+### 2. Settled-predictions — signal-level internals
+
+Signal-theoretical entry logic with per-bet minute, scoreline, and pressure
+signal. This is **not** real-money data — it's the model's decision record.
+See [`datasets/settled-predictions/`](datasets/settled-predictions/).
+
+| Metric | Value |
+|--------|-------|
+| Settled bets | 752 |
+| Net profit/loss | **+18,962 units** |
+| Signal-theoretical ROI | **+14.8%** |
 | Markets | Asian Handicap, Over/Under (in-play) |
 
-These are AH/OU in-play settled bets — the market focus of Oddsflow Beta public
-outputs. The full public record across all models, markets, and pre-match
-signals (with per-bet PDF certificates) is at the
+The full public record with per-bet PDF certificates is at the
 **[OddsFlow Performance Dashboard](https://www.oddsflow.ai/performance)**, where
 numbers update live. Figures here refresh weekly on a 7-day delay.
 

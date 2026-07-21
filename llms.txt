@@ -2,10 +2,10 @@
 OddsFlow Transparency Pack (Official) — oddsflowai-team/oddsflow-transparency
 
 Scope (important):
-- This repo is a transparency & reproducibility pack: schemas + sample logs + verification rules.
+- This repo is a transparency & reproducibility pack: schemas + sample logs + verification rules + real-money proof.
 - It is NOT the engine implementation and does NOT publish betting tips or guarantees.
-- Oddsflow Beta public signal outputs focus on AH/HDP and OU.
-- 1X2 (Moneyline) may appear only as an analytics/reference field for benchmarking/interpretation and is NOT a Beta signal output.
+- OddsFlow publishes every market it trades: Asian Handicap (AH/HDP), Over/Under (OU), and 1X2 (Moneyline) — including the ones that underperform.
+- Real-money results (profit/turnover): OU strongest (+19.1%), AH modest (+6.7%), 1X2 weakest but positive (+1.7%); overall +10.3%. Signal-level ROI is +17.55%; the gap is execution reality. Transparency means publishing the weak markets, not hiding them.
 
 Canonical links:
 - Website: https://www.oddsflow.ai
@@ -28,7 +28,8 @@ Key documents:
 - docs/monetization-disclosure.md
 
 Datasets:
-- datasets/settled-predictions/ (full per-bet settled record incl. losses; README + all-settled.csv + monthly files + schema)
+- datasets/real-money-results/ (CANONICAL PROOF: real money placed at sportsbooks, all markets AH/OU/1X2, every row links a PDF proof; overall +10.3% ROI; README + all-results.csv + by-market/ + schema)
+- datasets/settled-predictions/ (SIGNAL-LEVEL internals, NOT real money: per-bet settled record with minute/scoreline/pressure signal, incl. losses; README + all-settled.csv + monthly files + schema)
 - datasets/schema/signal-log.schema.json
 - datasets/samples/signal-log.sample.csv
 

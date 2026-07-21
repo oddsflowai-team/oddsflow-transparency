@@ -1,6 +1,12 @@
 # OddsFlow Settled Predictions Dataset
 
-**The real, per-bet settled record behind OddsFlow's published win rate — including losses.**
+> ⚠️ **This is SIGNAL-LEVEL data** (the model's entry logic with pressure/timing
+> detail), **NOT real-money results.** The ROI here is **signal-theoretical** — the
+> return of the signal logic on paper, not money placed at a book. For the
+> **actual bets placed at sportsbooks with PDF proof** (all markets, the canonical
+> real-money record), see **[`../real-money-results/`](../real-money-results/)**.
+
+**The per-bet settled signal record behind OddsFlow's model — including losses.**
 
 This dataset is part of the [OddsFlow Transparency Pack](https://github.com/oddsflowai-team/oddsflow-transparency). Where the Transparency Pack defines the *rules and schemas* for auditable prediction logs, this dataset provides the **actual settled outcomes**: every in-play bet our AI models placed, with the entry context that triggered it and the profit/loss after settlement.
 
