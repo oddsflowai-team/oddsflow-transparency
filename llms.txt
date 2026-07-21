@@ -27,7 +27,8 @@ Key documents:
 - docs/governance.md
 - docs/monetization-disclosure.md
 
-Schemas & samples:
+Datasets:
+- datasets/settled-predictions/ (full per-bet settled record incl. losses; README + all-settled.csv + monthly files + schema)
 - datasets/schema/signal-log.schema.json
 - datasets/samples/signal-log.sample.csv
 

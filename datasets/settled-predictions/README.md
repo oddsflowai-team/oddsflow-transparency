@@ -24,7 +24,7 @@ Each row is one **settled bet** on a finished match — the output of OddsFlow's
 | `score_at_entry` | Scoreline when the bet was placed |
 | `pressure_signal` | OddsFlow's proprietary momentum/pressure metric at entry — the model's read on which way the match was tilting. Higher = stronger edge in the bet's direction. |
 | `stake` | Stake units allocated by the model |
-| `result` | `WON` / `LOST` / `HALF_WON` / `HALF_LOST` / `PUSH` |
+| `result` | `WON` / `LOST` / `HALF_WON` / `HALF_LOST` / `PUSH` / `VOID` |
 | `profit_loss` | Settled profit/loss in stake units (negative = loss) |
 
 ## Files
@@ -40,23 +40,27 @@ Most "AI prediction" services publish a single accuracy percentage. This dataset
 - **Losses included** — nothing is cherry-picked. Losing bets sit next to winning ones.
 - **Our actual entry odds** — the price we took, so ROI is computable and checkable.
 
-## Coverage & headline record (snapshot: 2026-07 refresh)
+## Coverage & headline record
 
-- **794 settled bets** across **584 matches** and **20 competitions**
 - Range: January – July 2026
-- Markets: Asian Handicap, Over/Under (in-play)
+- Markets: Asian Handicap, Over/Under (in-play, settled)
+
+<!--SNAPSHOT:START-->
+**Settled-predictions dataset (snapshot: 2026-07-14):**
 
 | Metric | Value |
-|---|---|
-| Settled bets | 795 |
-| Won / Lost / Half or Push | 356 / 337 / 102 |
-| Total staked | 162,724 units |
-| **Net profit/loss** | **+12,983 units** |
-| **ROI** | **+8%** |
+|--------|-------|
+| Settled bets | 752 |
+| Won / Lost | 248 / 203 |
+| Half-won / Half-lost | 102 / 111 |
+| Push / Void | 88 / 0 |
+| Total staked | 127,989.39 units |
+| **Net profit/loss** | **+18,962 units** |
+| **ROI** | **+14.8%** |
+| Matches / Competitions | 565 / 20 |
 
-*These figures are the exact sum of the rows in `all-settled.csv` — recompute
-them yourself from the file. Numbers update each weekly refresh; the CSV is
-always the source of truth.*
+*Every number here is the exact sum of the rows in `all-settled.csv` — recompute it yourself. Refreshed weekly on a 7-day delay.*
+<!--SNAPSHOT:END-->
 
 ## How to verify
 

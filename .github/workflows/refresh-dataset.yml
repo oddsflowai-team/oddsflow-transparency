@@ -1,25 +1,33 @@
 name: Refresh settled-predictions dataset
 
-# Weekly auto-refresh of the settled-predictions dataset from OddsFlow's public
-# read-only export endpoint. Fully autonomous — runs in GitHub's infra, commits
-# with the built-in GITHUB_TOKEN, then the existing HF sync workflow mirrors it.
+# Weekly auto-refresh from OddsFlow's public read-only export endpoint. Commits
+# with the built-in token, then pushes to Hugging Face IN THIS JOB — because
+# commits made by GITHUB_TOKEN do NOT trigger the separate on:push HF sync
+# workflow (GitHub's recursion guard), the mirror would otherwise silently freeze.
 on:
   schedule:
     - cron: '0 5 * * 1'   # Mondays 05:00 UTC (13:00 MYT)
-  workflow_dispatch: {}    # manual trigger button
+  workflow_dispatch: {}
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
       - name: Fetch latest settled export
         run: python3 .github/scripts/refresh_dataset.py
         env:
           EXPORT_URL: https://www.oddsflow.ai/api/v1/settled-export
+
       - name: Commit if changed
         run: |
           git config user.name "oddsflow-bot"
@@ -31,3 +39,22 @@ jobs:
           else
             echo "No dataset changes this week."
           fi
+
+      - name: Mirror to Hugging Face
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_REPO_ID: ${{ secrets.HF_REPO_ID }}
+          HF_REPO_TYPE: ${{ secrets.HF_REPO_TYPE }}
+        run: |
+          pip install --upgrade huggingface_hub
+          python3 .github/scripts/push_to_hf.py
+
+      - name: Alert on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --title "⚠️ Weekly dataset refresh failed ($(date -u +%Y-%m-%d))" \
+            --body "The scheduled settled-predictions refresh or HF mirror failed. Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
+            --label "automation" 2>/dev/null || echo "issue create skipped"

@@ -34,6 +34,11 @@
     ],
     "samples": [
       "datasets/samples/signal-log.sample.csv"
+    ],
+    "settled_predictions": [
+      "datasets/settled-predictions/all-settled.csv",
+      "datasets/settled-predictions/README.md",
+      "datasets/settled-predictions/settled-predictions.schema.json"
     ]
   },
   "citation": "CITATION.cff",
@@ -51,5 +56,5 @@
     "json schema",
     "data integrity"
   ],
-  "last_updated": "2026-07-20"
+  "last_updated": "2026-07-21"
 }

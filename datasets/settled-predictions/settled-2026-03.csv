@@ -1,11 +1,7 @@
 match_date,league,home_team,away_team,final_score,market,selection,line,entry_odds,entry_minute,score_at_entry,pressure_signal,stake,result,profit_loss
 2026-03-01,Premier League,Manchester United,Crystal Palace,2-1,AH,HOME,-0.25,2.05,78,2-1,24.04,200,LOST,-200
-2026-03-02,Serie A,Pisa,Bologna,0-1,OU,AWAY,,2.2,27,0-0,,563.33,WON,676
-2026-03-03,Premier League,Bournemouth,Brentford,0-0,OU,HOME,,2.75,25,0-0,,922.12,VOID,0
 2026-03-04,Premier League,Manchester City,Nottingham Forest,2-2,AH,HOME,-0.5,1.9,68,2-1,24.03,200,LOST,-200
 2026-03-04,Bundesliga,Hamburger SV,Bayer Leverkusen,0-1,AH,AWAY,0.5,2.075,48,0-0,-20.75,200,HALF_WON,107.5
-2026-03-04,Premier League,Newcastle,Manchester United,2-1,OU,AWAY,,2.6,70,1-1,,665.42,VOID,0
-2026-03-07,Bundesliga,VfL Wolfsburg,Hamburger SV,1-2,OU,HOME,,2.75,33,1-0,,927.78,VOID,0
 2026-03-07,Ligue 1,Nantes,Angers,0-1,AH,AWAY,1,2.3,67,0-1,-20.24,200,LOST,-200
 2026-03-07,Serie A,Atalanta,Udinese,2-2,AH,HOME,-0.25,2.55,84,2-2,22.64,200,LOST,-200
 2026-03-08,Serie A,Fiorentina,Parma,0-0,AH,HOME,-0.25,2,66,0-0,20.86,200,LOST,-200

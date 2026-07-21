@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 """Pull the latest settled-predictions CSVs from OddsFlow's public export
-endpoint and write them into datasets/settled-predictions/. Also refreshes the
-snapshot numbers in the dataset README. Read-only fetch; no secrets."""
-import json, os, sys, urllib.request, re, pathlib
+endpoint and write them into datasets/settled-predictions/. Injects the
+endpoint's pre-rendered README snapshot between the <!--SNAPSHOT--> markers
+(single generated block — no fragile regex, no stale-number drift). Read-only
+fetch; no secrets. Aborts loudly on empty/degraded data."""
+import json, os, sys, urllib.request, pathlib, re
 
 URL = os.environ.get("EXPORT_URL", "https://www.oddsflow.ai/api/v1/settled-export")
 DEST = pathlib.Path("datasets/settled-predictions")
+MIN_BETS = 600  # floor guard: refuse to overwrite good data with a degraded pull
 
 def main():
     req = urllib.request.Request(URL, headers={"User-Agent": "oddsflow-dataset-refresh"})
@@ -13,8 +16,15 @@ def main():
         payload = json.load(r)
 
     files = payload.get("files", {})
-    if not files or "all-settled.csv" not in files:
-        print("No files in export payload; aborting.", file=sys.stderr)
+    summary = payload.get("summary", {})
+    snapshot = payload.get("readme_snapshot", "")
+
+    # Floor guard — a header-only/empty CSV or a collapsed row count means the
+    # source query is degraded; do NOT overwrite the published dataset.
+    bets = int(summary.get("bets", 0))
+    all_csv = files.get("all-settled.csv", "")
+    if "all-settled.csv" not in files or bets < MIN_BETS or all_csv.count("\n") < MIN_BETS:
+        print(f"ABORT: degraded export (bets={bets}, floor={MIN_BETS}). Not overwriting.", file=sys.stderr)
         sys.exit(1)
 
     DEST.mkdir(parents=True, exist_ok=True)
@@ -22,22 +32,19 @@ def main():
         (DEST / name).write_text(content, encoding="utf-8")
         print(f"wrote {name} ({len(content)} bytes)")
 
-    # Refresh the README snapshot table from the summary
-    s = payload.get("summary", {})
+    # Inject the pre-rendered snapshot block (generated from the same summary the
+    # CSV is built from — cannot drift).
     readme = DEST / "README.md"
-    if readme.exists() and s:
+    if readme.exists() and snapshot:
         txt = readme.read_text(encoding="utf-8")
-        repl = {
-            r"\| Settled bets \| [\d,]+ \|": f"| Settled bets | {s['bets']:,} |",
-            r"\| Won / Lost / Half or Push \| [\d/ ]+\|": f"| Won / Lost / Half or Push | {s['won']} / {s['lost']} / {s['bets']-s['won']-s['lost']} |",
-            r"\| \*\*Net profit/loss\*\* \| \*\*[+\-][\d,]+ units\*\* \|": f"| **Net profit/loss** | **{'+' if s['netPl']>=0 else ''}{round(s['netPl']):,} units** |",
-            r"\| \*\*ROI\*\* \| \*\*[+\-][\d.]+%\*\* \|": f"| **ROI** | **{'+' if s['roiPct']>=0 else ''}{s['roiPct']}%** |",
-            r"\| Matches / Competitions \| [\d/ ]+\|": f"| Matches / Competitions | {s['matches']} / 20 |",
-        }
-        for pat, sub in repl.items():
-            txt = re.sub(pat, sub, txt)
-        readme.write_text(txt, encoding="utf-8")
-        print(f"README snapshot refreshed: {s['bets']} bets, ROI {s['roiPct']}%")
+        new = re.sub(r"<!--SNAPSHOT:START-->.*?<!--SNAPSHOT:END-->",
+                     f"<!--SNAPSHOT:START-->\n{snapshot}\n<!--SNAPSHOT:END-->",
+                     txt, flags=re.DOTALL)
+        if new != txt:
+            readme.write_text(new, encoding="utf-8")
+            print(f"README snapshot injected: {bets} bets, ROI {summary.get('roiPct')}%")
+        else:
+            print("WARNING: SNAPSHOT markers not found in README — snapshot NOT updated", file=sys.stderr)
 
 if __name__ == "__main__":
     main()

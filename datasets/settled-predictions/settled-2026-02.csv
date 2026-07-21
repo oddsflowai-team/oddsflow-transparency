@@ -20,35 +20,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-02-07,Premier League,Bournemouth,Aston Villa,1-1,AH,HOME,0,2,15,0-0,25,156.25,PUSH,0
 2026-02-07,Premier League,Bournemouth,Aston Villa,1-1,AH,HOME,0.75,2.05,66,1-1,26.1,43.75,WON,45.94
 2026-02-07,Premier League,Burnley,West Ham,0-2,AH,HOME,1,2.025,55,0-2,33.18,200,WON,205
-2026-02-07,Ligue 1,Stade Brestois 29,Lorient,2-0,OU,AWAY,,3.4,26,0-0,,1084.13,LOST,-1084.13
-2026-02-07,Serie A,Fiorentina,Torino,2-2,OU,HOME,,3.4,32,0-1,,1003.76,LOST,-1003.76
 2026-02-07,Premier League,Newcastle,Brentford,2-3,AH,HOME,-1.25,1.95,29,1-0,20.12,132.31,LOST,-132.31
-2026-02-08,Ligue 1,Nice,Monaco,0-0,OU,AWAY,,2.375,34,0-0,,740.07,LOST,-740.07
-2026-02-08,Ligue 1,Nice,Monaco,0-0,OU,AWAY,,2.375,34,0-0,,740.07,LOST,-740.07
-2026-02-08,Ligue 1,Nice,Monaco,0-0,OU,AWAY,,2.375,34,0-0,,740.07,LOST,-740.07
-2026-02-08,Ligue 1,Nice,Monaco,0-0,OU,AWAY,,2.375,34,0-0,,740.07,LOST,-740.07
-2026-02-08,Serie A,Lecce,Udinese,2-1,OU,HOME,,3.1,27,1-0,,1023.91,WON,2150.21
-2026-02-08,Serie A,Lecce,Udinese,2-1,OU,HOME,,3.1,27,1-0,,1023.91,WON,2150.21
-2026-02-08,Serie A,Lecce,Udinese,2-1,OU,HOME,,3.1,27,1-0,,1023.91,WON,2150.21
-2026-02-08,Serie A,Lecce,Udinese,2-1,OU,HOME,,3.1,27,1-0,,1023.91,WON,2150.21
-2026-02-08,Premier League,Brighton,Crystal Palace,0-1,OU,HOME,,2.3,25,0-0,,604.15,LOST,-604.15
-2026-02-08,Premier League,Brighton,Crystal Palace,0-1,OU,HOME,,2.3,25,0-0,,604.15,LOST,-604.15
-2026-02-08,Premier League,Brighton,Crystal Palace,0-1,OU,HOME,,2.3,25,0-0,,604.15,LOST,-604.15
-2026-02-08,Premier League,Brighton,Crystal Palace,0-1,OU,HOME,,2.3,25,0-0,,604.15,LOST,-604.15
-2026-02-08,La Liga,Alaves,Getafe,0-2,OU,DRAW,,3.5,69,0-1,,984.14,LOST,-984.14
-2026-02-08,La Liga,Alaves,Getafe,0-2,OU,HOME,,2.4,34,0-0,,651.39,LOST,-651.39
-2026-02-08,La Liga,Alaves,Getafe,0-2,OU,HOME,,2.4,34,0-0,,651.39,LOST,-651.39
-2026-02-08,La Liga,Alaves,Getafe,0-2,OU,HOME,,2.4,34,0-0,,651.39,LOST,-651.39
-2026-02-08,La Liga,Alaves,Getafe,0-2,OU,HOME,,2.4,34,0-0,,651.39,LOST,-651.39
-2026-02-08,La Liga,Alaves,Getafe,0-2,OU,DRAW,,3.5,69,0-1,,984.14,LOST,-984.14
-2026-02-08,La Liga,Alaves,Getafe,0-2,OU,DRAW,,3.5,69,0-1,,984.14,LOST,-984.14
-2026-02-08,La Liga,Alaves,Getafe,0-2,OU,DRAW,,3.5,69,0-1,,984.14,LOST,-984.14
-2026-02-08,Ligue 1,Angers,Toulouse,1-0,OU,AWAY,,2.2,29,0-0,,563.33,LOST,-563.33
-2026-02-08,Ligue 1,Angers,Toulouse,1-0,OU,AWAY,,2.2,29,0-0,,563.33,LOST,-563.33
-2026-02-08,Ligue 1,Angers,Toulouse,1-0,OU,AWAY,,2.2,29,0-0,,563.33,LOST,-563.33
-2026-02-08,Ligue 1,Angers,Toulouse,1-0,OU,AWAY,,2.2,29,0-0,,563.33,LOST,-563.33
-2026-02-10,Premier League,Everton,Bournemouth,1-2,OU,HOME,,2.6,33,0-0,,814.64,LOST,-814.64
-2026-02-10,Premier League,Everton,Bournemouth,1-2,OU,AWAY,,2.875,25,0-0,,970,WON,1818.75
 2026-02-10,Premier League,Tottenham,Newcastle,1-2,AH,AWAY,0.5,2,33,0-0,-30.32,200,HALF_WON,100
 2026-02-11,Premier League,Aston Villa,Brighton,1-0,AH,HOME,-0.5,2.025,15,0-0,25,10,HALF_WON,5.13
 2026-02-11,Premier League,Aston Villa,Brighton,1-0,AH,HOME,-0.25,1.8,25,0-0,31.8,154.83,WON,123.86
@@ -63,7 +35,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-02-14,Ligue 1,Lille,Stade Brestois 29,1-1,AH,HOME,0.5,1.975,63,0-1,22.65,98.81,WON,96.34
 2026-02-14,Ligue 1,Lille,Stade Brestois 29,1-1,OU,OVER,1.5,1.8,40,,79,300,HALF_WON,120
 2026-02-15,Ligue 1,Le Havre,Toulouse,2-1,AH,AWAY,0.75,1.9,53,1-1,-23.48,200,LOST,-200
-2026-02-15,La Liga,Levante,Valencia,0-2,OU,HOME,,2.875,25,0-0,,965.7,VOID,0
 2026-02-15,Ligue 1,Lyon,Nice,2-0,AH,AWAY,-0.25,2.025,29,0-0,-21.12,55.54,LOST,-55.54
 2026-02-15,Serie A,Torino,Bologna,1-2,AH,AWAY,0.25,2.15,47,0-0,-24.15,163.88,WON,188.46
 2026-02-15,La Liga,Rayo Vallecano,Atletico Madrid,3-0,AH,HOME,-0.25,1.85,45,2-0,20.5,62.53,WON,53.15
@@ -72,14 +43,10 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-02-15,Bundesliga,RB Leipzig,VfL Wolfsburg,2-2,AH,HOME,0.25,1.775,57,0-1,39.76,171.52,WON,132.93
 2026-02-15,Bundesliga,RB Leipzig,VfL Wolfsburg,2-2,OU,OVER,2.5,1.8,78,,56.31,300,WON,240
 2026-02-15,Bundesliga,RB Leipzig,VfL Wolfsburg,2-2,OU,OVER,3.5,2.3,89,,58.36,100,HALF_WON,65
-2026-02-17,UEFA Champions League,Galatasaray,Juventus,5-2,OU,AWAY,,2.375,25,1-1,,680.14,VOID,0
-2026-02-17,UEFA Champions League,Galatasaray,Juventus,5-2,OU,HOME,,3.2,53,2-2,,1011.33,VOID,0
 2026-02-17,UEFA Champions League,Monaco,Paris Saint Germain,2-3,AH,AWAY,0.5,1.825,78,2-3,-21.34,176.81,HALF_LOST,-88.4
 2026-02-17,UEFA Champions League,Monaco,Paris Saint Germain,2-3,AH,AWAY,1.25,2.05,85,2-3,-25.32,23.19,LOST,-23.19
-2026-02-17,UEFA Champions League,Benfica,Real Madrid,0-1,OU,AWAY,,2.25,25,0-0,,562.72,VOID,0
 2026-02-18,Premier League,Wolves,Arsenal,2-2,AH,AWAY,1.25,1.875,77,1-2,-22.86,200,LOST,-200
 2026-02-18,UEFA Champions League,Bodo/Glimt,Inter,3-1,AH,AWAY,0.5,1.975,37,1-1,-21.46,200,LOST,-200
-2026-02-20,La Liga,Athletic Club,Elche,2-1,OU,HOME,,2.15,59,0-0,,537.4,VOID,0
 2026-02-21,Premier League,West Ham,Bournemouth,0-0,AH,HOME,0,1.925,15,0-0,50.5,200,PUSH,0
 2026-02-21,Bundesliga,1. FC Köln,1899 Hoffenheim,2-2,AH,HOME,-0.5,1.925,28,1-0,25.78,200,LOST,-200
 2026-02-21,Premier League,Brentford,Brighton,0-2,AH,AWAY,0,2.075,29,0-0,-24.12,200,WON,215
@@ -87,18 +54,12 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-02-21,Ligue 1,Toulouse,Paris FC,1-1,AH,HOME,-0.5,2,15,0-0,26.5,200,HALF_LOST,-100
 2026-02-21,Bundesliga,VfL Wolfsburg,FC Augsburg,2-3,AH,AWAY,0,1.9,35,0-0,-22.43,200,WON,180
 2026-02-21,La Liga,Atletico Madrid,Espanyol,4-2,AH,HOME,-0.25,1.9,48,1-1,29.5,200,WON,180
-2026-02-22,Serie A,AC Milan,Parma,0-1,OU,HOME,,1.666,58,0-0,,573.75,VOID,0
 2026-02-22,Ligue 1,Strasbourg,Lyon,3-1,AH,HOME,-0.25,1.925,58,2-0,34.73,200,LOST,-200
 2026-02-22,Ligue 1,Angers,Lille,0-1,AH,AWAY,0.5,2.025,39,0-0,-27.07,200,HALF_WON,102.5
-2026-02-22,Bundesliga,1. FC Heidenheim,VfB Stuttgart,3-3,OU,AWAY,,2.875,38,2-1,,1038.8,VOID,0
-2026-02-22,Bundesliga,FC St. Pauli,Werder Bremen,2-1,OU,HOME,,2.875,25,0-0,,965.7,VOID,0
-2026-02-22,Bundesliga,FC St. Pauli,Werder Bremen,2-1,OU,AWAY,,2.875,42,0-0,,956.72,VOID,0
 2026-02-23,Serie A,Bologna,Udinese,1-0,AH,HOME,-0.25,1.95,58,0-0,22.42,200,WON,190
 2026-02-24,UEFA Champions League,Inter,Bodo/Glimt,1-2,AH,HOME,0,2.05,63,0-1,45.64,200,PUSH,0
 2026-02-24,UEFA Champions League,Inter,Bodo/Glimt,1-2,OU,UNDER,2.5,1.909,65,,73.12,500,HALF_LOST,-250
 2026-02-24,UEFA Champions League,Bayer Leverkusen,Olympiakos Piraeus,0-0,AH,HOME,-0.5,1.8,15,0-0,26,200,HALF_LOST,-100
-2026-02-27,La Liga,Levante,Alaves,2-0,OU,AWAY,,3,45,0-0,,517.34,VOID,0
-2026-02-27,La Liga,Levante,Alaves,2-0,OU,HOME,,3,76,0-0,,1906.22,VOID,0
 2026-02-28,Premier League,Burnley,Brentford,3-4,AH,AWAY,1.25,1.775,20,0-1,-33,200,LOST,-200
 2026-02-28,Premier League,Burnley,Brentford,3-4,OU,OVER,4.5,2,48,,48.75,500,WON,500
 2026-02-28,Ligue 1,Le Havre,Paris Saint Germain,0-1,AH,AWAY,1.25,2.05,81,0-1,-43.89,200,LOST,-200
