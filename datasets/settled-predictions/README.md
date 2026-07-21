@@ -48,11 +48,11 @@ Most "AI prediction" services publish a single accuracy percentage. This dataset
 
 | Metric | Value |
 |---|---|
-| Settled bets | 794 |
-| Won / Lost / Half or Push | 355 / 337 / 102 |
+| Settled bets | 795 |
+| Won / Lost / Half or Push | 356 / 337 / 102 |
 | Total staked | 162,724 units |
-| **Net profit/loss** | **+12,773 units** |
-| **ROI** | **+7.8%** |
+| **Net profit/loss** | **+12,983 units** |
+| **ROI** | **+8%** |
 
 *These figures are the exact sum of the rows in `all-settled.csv` — recompute
 them yourself from the file. Numbers update each weekly refresh; the CSV is

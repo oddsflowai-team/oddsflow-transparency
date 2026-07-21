@@ -793,3 +793,4 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-12,Brazilian Serie B,CRB,Goias,2-2,AH,HOME,0,2.3,45,0-1,18,4,WON,5.2
 2026-07-12,Brazilian Serie B,CRB,Goias,2-2,AH,AWAY,0,2.375,75,2-2,19.4,4,PUSH,0
 2026-07-13,Brazilian Serie B,Ceara,Athletic Club,0-0,AH,AWAY,-0.5,1.825,10,0-0,0,5,HALF_WON,2.06
+2026-07-14,World Cup,France,Spain,0-2,AH,AWAY,0,2.05,10,0-0,0,200,WON,210
