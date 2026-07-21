@@ -49,19 +49,29 @@ An **auditable transparency standard pack** for [OddsFlow](https://www.oddsflow.
 *   A standardized way to publish **schemas + sample logs + audit rules** for timestamped verification (reproducible post-match audits)
 *   A lightweight set of **schemas + glossary + changelog** for reproducible audits
 
-## Live Performance (auto-updated)
+## Verified Performance (recompute it yourself)
 
-The OddsFlow AI engine currently tracks **3,047+ signals** across 6 major European leagues with the following verified results:
+Every headline number below is the **exact sum of the rows** in
+[`datasets/settled-predictions/all-settled.csv`](datasets/settled-predictions/) —
+open the file and recompute it. No screenshots, no unbacked percentages
+(per our own [verification standard](docs/verification.md)).
+
+**Settled-predictions dataset (snapshot: 2026-07):**
 
 | Metric | Value |
 |--------|-------|
-| Win Rate | 62.2% |
-| ROI | +28.1% |
-| Signals Tracked | 3,047+ |
-| Leagues | EPL, La Liga, Serie A, Bundesliga, Ligue 1, UCL |
-| Markets | 1X2 Moneyline, Asian Handicap, Over/Under |
+| Settled bets | 794 |
+| Won / Lost / Half or Push | 355 / 337 / 102 |
+| Net profit/loss | **+12,773 units** |
+| ROI | **+7.8%** |
+| Matches / Competitions | 584 / 20 |
+| Markets | Asian Handicap, Over/Under (in-play) |
 
-View the full verified track record: **[OddsFlow Performance Dashboard](https://www.oddsflow.ai/performance)**
+These are AH/OU in-play settled bets — the market focus of Oddsflow Beta public
+outputs. The full public record across all models, markets, and pre-match
+signals (with per-bet PDF certificates) is at the
+**[OddsFlow Performance Dashboard](https://www.oddsflow.ai/performance)**, where
+numbers update live. Figures here refresh weekly on a 7-day delay.
 
 ## Repository structure
 
