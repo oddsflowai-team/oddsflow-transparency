@@ -52,18 +52,18 @@ Most "AI prediction" services publish a single accuracy percentage. This dataset
 - Markets: Asian Handicap, Over/Under (in-play, settled)
 
 <!--SNAPSHOT:START-->
-**Settled-predictions dataset (snapshot: 2026-07-14):**
+**Settled-predictions dataset (snapshot: 2026-07-20):**
 
 | Metric | Value |
 |--------|-------|
-| Settled bets | 752 |
-| Won / Lost | 248 / 203 |
-| Half-won / Half-lost | 102 / 111 |
-| Push / Void | 88 / 0 |
-| Total staked | 127,989.39 units |
-| **Net profit/loss** | **+18,962 units** |
-| **ROI** | **+14.8%** |
-| Matches / Competitions | 565 / 20 |
+| Settled bets | 782 |
+| Won / Lost | 253 / 212 |
+| Half-won / Half-lost | 109 / 114 |
+| Push / Void | 94 / 0 |
+| Total staked | 130,960.89 units |
+| **Net profit/loss** | **+18,846 units** |
+| **ROI** | **+14.4%** |
+| Matches / Competitions | 587 / 20 |
 
 *Every number here is the exact sum of the rows in `all-settled.csv` — recompute it yourself. Refreshed weekly on a 7-day delay.*
 <!--SNAPSHOT:END-->
