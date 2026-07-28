@@ -58,38 +58,29 @@ Both are the **exact sum of the rows** in their CSV — open the file and recomp
 it. No screenshots, no unbacked percentages (per our own
 [verification standard](docs/verification.md)).
 
+Figures are deliberately **not repeated on this page**. Each dataset carries its
+own totals, regenerated from the same query that builds the CSV every week, so
+the published number and the file can never disagree. Restating them here would
+create a third copy that only a human remembers to update — and that copy would
+be wrong within a week.
+
 ### 1. Real-money results — the canonical proof
 
 The honest floor: **real money our AI agents placed at sportsbooks**, every row
-linking to a downloadable **PDF proof**, all markets included.
-See **[`datasets/real-money-results/`](datasets/real-money-results/)**.
+linking to a downloadable **PDF proof**, all markets included. Totals, per-market
+breakdown and turnover:
+**[`datasets/real-money-results/`](datasets/real-money-results/)**.
 
-| Metric | Value |
-|--------|-------|
-| Settled real-money bets | 3,482 |
-| Total wagered | 720,456 |
-| Net profit/loss | **+73,954** |
-| **Real-money ROI (profit / turnover)** | **+10.3%** |
-| Matches / Competitions | 633 / 18 |
-| Per-market ROI | OU **+19.1%** · AH **+6.7%** · 1X2 **+1.7%** |
-
-This is what our agents **actually captured** at the book. Signal-level ROI (what
-the models *identify* on paper) is **+17.55%**; the gap to 10.3% is execution
-reality — real fills, limits, slippage. We publish both, and this is the lower,
-real one.
+This is what our agents **actually captured** at the book, so it sits below the
+signal-level record in section 2 — the gap is execution reality: real fills,
+limits, slippage. We publish both, and this is the lower, real one.
 
 ### 2. Settled-predictions — signal-level internals
 
 Signal-theoretical entry logic with per-bet minute, scoreline, and pressure
-signal. This is **not** real-money data — it's the model's decision record.
-See [`datasets/settled-predictions/`](datasets/settled-predictions/).
-
-| Metric | Value |
-|--------|-------|
-| Settled bets | 752 |
-| Net profit/loss | **+18,962 units** |
-| Signal-theoretical ROI | **+14.8%** |
-| Markets | Asian Handicap, Over/Under (in-play) |
+signal, across in-play Asian Handicap and Over/Under. This is **not** real-money
+data — it's the model's decision record. Totals:
+[`datasets/settled-predictions/`](datasets/settled-predictions/).
 
 The full public record with per-bet PDF certificates is at the
 **[OddsFlow Performance Dashboard](https://www.oddsflow.ai/performance)**, where
