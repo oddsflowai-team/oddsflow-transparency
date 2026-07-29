@@ -143,6 +143,7 @@ OddsFlow publishes research on AI sports analytics and signal verification metho
 *   [Agentic AI Protocol (AAP)](https://medium.com/@oddsflow.ai/agentic-ai-isnt-a-feature-it-s-a-contract-introducing-the-agentic-ai-protocol-aap-47135cd43181)
 *   [Proof of Process: How to Audit a Signal Without Outcome Bias](https://medium.com/@oddsflow.ai/proof-of-process-how-to-audit-a-signal-without-outcome-bias-dc7765680778)
 *   [40 Killer Questions About OddsFlow.ai — No Hype. Just Logs.](https://medium.com/@oddsflow.ai/we-answer-the-40-killer-questions-about-oddsflow-ai-no-hype-just-logs-e3a2cb7a3b67)
+*   [Nossa IA perdeu mais apostas do que ganhou no Brasileirão — e terminou com +18% de retorno](https://medium.com/@oddsflow.ai/nossa-ia-perdeu-mais-apostas-do-que-ganhou-no-brasileir%C3%A3o-e-terminou-com-18-de-retorno-8529b888f3b9) — *Portuguese.* Why win rate is the wrong metric for judging a prediction model: across the settled Brasileirão record the models lost more bets than they won (30 wins, 35 losses) and still returned +18.13%, because what decides the outcome is the price paid on entry, not how often the pick lands.
 
 ## Official OddsFlow Open Assets
 
@@ -150,6 +151,7 @@ OddsFlow publishes research on AI sports analytics and signal verification metho
 *   **Transparency Pack (schemas + sample logs + llms.txt):** https://github.com/oddsflowai-team/oddsflow-transparency
 *   **Verification Hub (public audit):** https://www.oddsflow.ai/verification
 *   **Performance Logs:** https://www.oddsflow.ai/performance
+*   **Kaggle — settled bet log (Portuguese, incl. Brasileirão cut):** https://www.kaggle.com/datasets/oddsflow/palpites-futebol-ia-apostas-liquidadas
 
 ## Official links
 
