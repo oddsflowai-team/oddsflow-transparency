@@ -126,3 +126,32 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-26,Brazilian Serie B,Londrina,Novorizontino,1-4,AH,AWAY,0,1.775,40,1-1,-2,4,WON,3.1
 2026-07-27,Brazilian Serie B,CRB,Vila Nova,2-0,AH,AWAY,-0.5,1.92,10,0-0,0,4,LOST,-4
 2026-07-27,Brazilian Serie B,Sport Recife,Cuiaba,1-1,AH,AWAY,0,2.05,28,0-0,-18.36,4,PUSH,0
+2026-07-28,Brazilian Serie B,Atletico Goianiense,Operario-PR,3-1,AH,AWAY,0,2.15,69,2-1,16.54,5,LOST,-5
+2026-07-28,UEFA Europa Conference League,Apollon Limassol,Dila,3-0,AH,AWAY,-1,2.15,22,0-0,0,5,LOST,-5
+2026-07-28,UEFA Europa Conference League,Riga,Vardar Skopje,5-2,AH,AWAY,-1,2.05,10,0-0,0,4,LOST,-4
+2026-07-29,UEFA Europa Conference League,FC Copenhagen,Polessya,2-1,AH,AWAY,0,2.025,40,1-0,2,4,PUSH,0
+2026-07-29,UEFA Champions League,Lech Poznan,Aarhus,1-4,AH,AWAY,-0.5,1.95,10,0-0,0,4,WON,3.8
+2026-07-29,UEFA Champions League,Lech Poznan,Aarhus,1-4,AH,HOME,0.5,2.05,54,0-1,16.5,4,LOST,-4
+2026-07-30,UEFA Europa Conference League,Atlètic Club d'Escaldes,FC Vaduz,0-2,AH,HOME,0.5,2.15,11,0-1,0,5,HALF_LOST,-2.5
+2026-07-30,UEFA Europa Conference League,FK Tobol Kostanay,Panevėžys,1-1,AH,AWAY,-1,2.25,10,0-0,0,4,WON,5
+2026-07-30,UEFA Europa Conference League,Pyunik Yerevan,Debreceni VSC,0-0,AH,AWAY,0,1.925,73,0-0,-14.3,5,PUSH,0
+2026-07-30,UEFA Europa Conference League,Brann,Universitatea Cluj,3-1,AH,AWAY,-1,1.9,30,1-1,0,6,LOST,-6
+2026-07-30,UEFA Europa Conference League,Velež,Dunajska Streda,0-3,AH,HOME,0,2.35,29,0-1,0,4,LOST,-4
+2026-07-30,UEFA Europa Conference League,FK Zalgiris Vilnius,Dinamo Tbilisi,7-2,AH,AWAY,-0.5,1.975,30,1-0,0,4,LOST,-4
+2026-07-30,UEFA Europa Conference League,Valletta FC,Raków Częstochowa,0-4,AH,HOME,0.5,2.25,10,0-0,0,4,LOST,-4
+2026-07-30,UEFA Europa Conference League,Derry City,HNK Rijeka,0-1,AH,HOME,0.5,1.725,10,0-0,0,4,HALF_LOST,-2
+2026-07-30,UEFA Europa Conference League,Derry City,HNK Rijeka,0-1,AH,HOME,0,2.25,15,0-1,0,4,PUSH,0
+2026-07-30,UEFA Europa Conference League,Ludogorets,Hapoel Tel Aviv,2-2,AH,AWAY,0,2.5,30,0-1,0,4,LOST,-4
+2026-07-30,UEFA Europa Conference League,UNA Strassen,FK Partizan,0-1,AH,HOME,0.5,1.8,15,0-0,0,4,HALF_LOST,-2
+2026-07-30,UEFA Europa Conference League,FC Sion,Bate Borisov,4-0,AH,AWAY,-1.5,2.075,16,1-0,13.25,6,LOST,-6
+2026-07-30,UEFA Europa Conference League,The New Saints,Flora Tallinn,1-0,AH,AWAY,0,2.75,10,0-0,0,4,LOST,-4
+2026-07-30,UEFA Europa Conference League,The New Saints,Flora Tallinn,1-0,AH,AWAY,-0.5,1.975,10,0-0,0,4,HALF_LOST,-2
+2026-07-30,UEFA Europa Conference League,Beitar Jerusalem,AEK Larnaca,2-3,AH,AWAY,0,2.675,10,0-0,0,4,WON,6.7
+2026-07-30,UEFA Europa Conference League,Beitar Jerusalem,AEK Larnaca,2-3,AH,HOME,0.5,1.775,25,0-0,0,4,HALF_LOST,-2
+2026-07-30,UEFA Europa Conference League,CFR 1907 Cluj,Alashkert,3-0,AH,AWAY,-0.5,1.975,10,1-0,0,4,LOST,-4
+2026-07-30,UEFA Europa Conference League,GKS Katowice,Žilina,3-1,AH,AWAY,-0.5,2.2,10,0-0,0,4,LOST,-4
+2026-07-30,UEFA Europa Conference League,GKS Katowice,Žilina,3-1,AH,AWAY,-1,1.7,28,0-0,0,6,LOST,-6
+2026-07-30,UEFA Europa Conference League,Panathinaikos,Paks,2-2,AH,AWAY,-1,2.425,12,0-0,0,4,WON,5.7
+2026-07-30,UEFA Europa Conference League,Gent,LNZ Cherkasy,0-0,AH,AWAY,0,2.75,10,0-0,0,4,PUSH,0
+2026-07-30,UEFA Europa Conference League,Gent,LNZ Cherkasy,0-0,AH,AWAY,-0.5,1.875,11,0-0,0,4,HALF_WON,1.75
+2026-07-30,Brazilian Serie A,Corinthians,Atletico Paranaense,0-0,OU,OVER,0.5,2,66,,9.45,500,HALF_LOST,-250
