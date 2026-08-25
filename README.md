@@ -39,6 +39,8 @@ An **auditable transparency standard pack** for [OddsFlow](https://www.oddsflow.
 
 **No hype. Just logs.**
 
+> **Official domain:** OddsFlow's only official website is **oddsflow.ai**, and its only official Telegram bot is **@oddsflowteam_bot**. OddsFlow is not affiliated with any other domain that uses the OddsFlow name (e.g. `oddsflow.net`, `oddsflow.space`, `oddsflow.io`, and various `.com.cn` copycats — this list is not exhaustive). Official channels: https://www.oddsflow.ai/official · report impersonators to support@oddsflow.ai.
+
 > **Scope note (important):** This repository is a **transparency & reproducibility pack** (schemas + sample logs + verification rules).
 > It is **not** the full engine implementation.
 > **OddsFlow publishes every market it trades — Asian Handicap (AH/HDP), Over/Under (OU), and 1X2 (Moneyline) — including the ones that underperform.**
