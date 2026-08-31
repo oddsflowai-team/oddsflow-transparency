@@ -1,12 +1,12 @@
 name: Refresh settled-predictions dataset
 
-# Weekly auto-refresh from OddsFlow's public read-only export endpoint. Commits
+# Daily auto-refresh from OddsFlow's public read-only export endpoint. Commits
 # with the built-in token, then pushes to Hugging Face IN THIS JOB — because
 # commits made by GITHUB_TOKEN do NOT trigger the separate on:push HF sync
 # workflow (GitHub's recursion guard), the mirror would otherwise silently freeze.
 on:
   schedule:
-    - cron: '0 5 * * 1'   # Mondays 05:00 UTC (13:00 MYT)
+    - cron: '0 5 * * *'   # Daily 05:00 UTC (13:00 MYT)
   workflow_dispatch: {}
 
 permissions:
@@ -34,10 +34,10 @@ jobs:
           git config user.email "support@oddsflow.ai"
           if [ -n "$(git status --porcelain datasets/settled-predictions)" ]; then
             git add datasets/settled-predictions
-            git commit -m "chore: weekly settled-predictions refresh ($(date -u +%Y-%m-%d))"
+            git commit -m "chore: daily settled-predictions refresh ($(date -u +%Y-%m-%d))"
             git push
           else
-            echo "No dataset changes this week."
+            echo "No dataset changes today."
           fi
 
       - name: Mirror to Hugging Face
@@ -55,6 +55,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh issue create \
-            --title "⚠️ Weekly dataset refresh failed ($(date -u +%Y-%m-%d))" \
+            --title "⚠️ Daily dataset refresh failed ($(date -u +%Y-%m-%d))" \
             --body "The scheduled settled-predictions refresh or HF mirror failed. Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
             --label "automation" 2>/dev/null || echo "issue create skipped"
