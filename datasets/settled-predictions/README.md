@@ -52,7 +52,7 @@ Most "AI prediction" services publish a single accuracy percentage. This dataset
 - Markets: Asian Handicap, Over/Under (in-play, settled)
 
 <!--SNAPSHOT:START-->
-**Settled-predictions dataset (snapshot: 2026-08-24):**
+**Settled-predictions dataset (snapshot: 2026-08-25):**
 
 | Metric | Value |
 |--------|-------|
