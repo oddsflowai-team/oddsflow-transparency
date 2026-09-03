@@ -1,0 +1,87 @@
+match_date,league,home_team,away_team,final_score,market,selection,line,entry_odds,entry_minute,score_at_entry,pressure_signal,stake,result,profit_loss
+2026-06-06,J1 League,Kawasaki Frontale,Sanfrecce Hiroshima,0-1,AH,HOME,0.5,1.82,35,0-0,-11.14,4,HALF_LOST,-2
+2026-06-06,J1 League,Kawasaki Frontale,Sanfrecce Hiroshima,0-1,AH,HOME,1,2,76,0-1,-10.24,3.5,WON,3.5
+2026-06-10,Brazilian Serie B,Goias,Novorizontino,0-4,AH,AWAY,0,2.375,10,0-0,0,4,WON,5.5
+2026-06-11,Brazilian Serie B,Ceara,Avai,2-1,OU,OVER,3.5,2,69,,48.41,500,HALF_LOST,-250
+2026-06-11,Brazilian Serie B,Sport Recife,Athletic Club,1-1,AH,AWAY,0,2.75,43,0-0,17.05,4,PUSH,0
+2026-06-14,Brazilian Serie B,São Bernardo,Sport Recife,0-0,AH,HOME,-0.5,2.425,10,0-0,0,4,HALF_LOST,-2
+2026-06-14,Brazilian Serie B,Juventude,Ponte Preta,3-0,AH,AWAY,-1,2.15,10,0-0,0,4,LOST,-4
+2026-06-14,Brazilian Serie B,Athletic Club,Goias,1-1,AH,AWAY,0,2.5,10,0-0,0,4,PUSH,0
+2026-06-14,Brazilian Serie B,Cuiaba,Vila Nova,1-0,AH,AWAY,-0.5,1.79,10,0-0,0,4,HALF_LOST,-2
+2026-06-14,Brazilian Serie B,Botafogo SP,Operario-PR,2-1,AH,AWAY,0,2.2,10,0-0,0,5,LOST,-5
+2026-06-14,Brazilian Serie B,Novorizontino,Nautico Recife,2-2,AH,HOME,-0.5,2.075,10,0-0,0,4,HALF_LOST,-2
+2026-06-14,Brazilian Serie B,Novorizontino,Nautico Recife,2-2,AH,AWAY,0,2.6,11,0-0,0,4,PUSH,0
+2026-06-15,World Cup,Belgium,Egypt,1-1,AH,AWAY,-1,1.925,11,0-0,0,200,WON,185
+2026-06-15,World Cup,Saudi Arabia,Uruguay,1-1,AH,AWAY,1,2.05,10,0-0,0,200,LOST,-200
+2026-06-16,Brazilian Serie B,Londrina,Avai,3-2,AH,AWAY,0,2.05,85,2-2,8.5,3.5,LOST,-3.5
+2026-06-16,Brazilian Serie B,Criciuma,Ceara,1-1,AH,AWAY,-0.5,1.85,26,1-0,0,4,WON,3.4
+2026-06-16,Brazilian Serie B,Criciuma,Ceara,1-1,AH,AWAY,0,2.675,26,1-0,0,4,WON,6.7
+2026-06-16,World Cup,Iran,New Zealand,2-2,AH,AWAY,-0.5,1.8,33,1-1,-26.32,200,HALF_WON,80
+2026-06-16,World Cup,France,Senegal,3-1,AH,AWAY,-1,1.775,10,0-0,0,200,LOST,-200
+2026-06-16,World Cup,Iraq,Norway,1-4,AH,HOME,0.5,2.6,30,0-1,-0.5,200,LOST,-200
+2026-06-16,Brazilian Serie B,Fortaleza EC,America Mineiro,0-3,AH,HOME,-0.5,1.7,20,0-0,0,4,LOST,-4
+2026-06-16,Brazilian Serie B,Fortaleza EC,America Mineiro,0-3,AH,AWAY,-1,1.75,28,0-0,0,4,WON,3
+2026-06-17,World Cup,Argentina,Algeria,3-0,AH,AWAY,-1,1.875,12,0-0,0,200,LOST,-200
+2026-06-17,World Cup,Austria,Jordan,3-1,AH,AWAY,-0.5,2.1,44,1-0,-5,200,HALF_LOST,-100
+2026-06-17,World Cup,England,Croatia,4-2,AH,AWAY,-0.5,1.95,18,1-0,32,200,HALF_LOST,-100
+2026-06-17,World Cup,Ghana,Panama,1-0,AH,AWAY,0,1.8,24,0-0,-17,200,LOST,-200
+2026-06-18,World Cup,Uzbekistan,Colombia,1-3,AH,HOME,1,2.675,13,0-0,0,200,LOST,-200
+2026-06-18,World Cup,Czechia,South Africa,1-1,AH,HOME,-0.5,2.15,10,1-0,0,200,LOST,-200
+2026-06-18,World Cup,Switzerland,Bosnia & Herzegovina,4-1,AH,AWAY,-0.5,1.825,63,0-0,9.22,200,LOST,-200
+2026-06-19,Brazilian Serie B,Sport Recife,Atletico Goianiense,1-1,AH,AWAY,-0.5,1.8,10,0-0,0,4,HALF_WON,1.6
+2026-06-19,Brazilian Serie B,Sport Recife,Atletico Goianiense,1-1,AH,AWAY,0,2.75,11,0-0,0,4,PUSH,0
+2026-06-19,World Cup,Mexico,South Korea,1-0,AH,HOME,-0.5,2.025,10,0-0,0,200,HALF_WON,102.5
+2026-06-19,World Cup,USA,Australia,2-0,AH,AWAY,-0.5,2.2,26,1-0,18.77,200,HALF_LOST,-100
+2026-06-19,World Cup,Scotland,Morocco,0-1,AH,HOME,0.5,1.85,25,0-1,-10.7,200,HALF_WON,85
+2026-06-20,World Cup,Germany,Ivory Coast,2-1,AH,AWAY,-1,1.925,10,0-0,0,200,PUSH,0
+2026-06-20,Brazilian Serie B,Ceara,Botafogo SP,0-1,AH,HOME,-0.5,1.85,10,0-0,0,4,LOST,-4
+2026-06-21,World Cup,Tunisia,Japan,0-4,AH,AWAY,1,2.3,17,0-1,-49.35,200,WON,260
+2026-06-21,Brazilian Serie B,Avai,Cuiaba,1-0,AH,AWAY,0,1.875,10,0-0,0,7,LOST,-7
+2026-06-21,Brazilian Serie B,Avai,Cuiaba,1-0,AH,AWAY,0.5,2.5,18,0-0,0,4,LOST,-4
+2026-06-21,Brazilian Serie B,CRB,Fortaleza EC,1-1,AH,AWAY,0,1.85,11,1-0,0,8,WON,6.8
+2026-06-21,Brazilian Serie B,São Bernardo,Juventude,0-1,AH,AWAY,0,1.9,10,0-0,0,4,WON,3.6
+2026-06-21,World Cup,Uruguay,Cape Verde Islands,2-2,AH,AWAY,-0.5,2.2,44,1-1,15.86,200,HALF_WON,120
+2026-06-22,World Cup,New Zealand,Egypt,1-3,AH,HOME,0.5,2.2,10,0-0,0,200,LOST,-200
+2026-06-22,World Cup,Argentina,Austria,2-0,AH,HOME,-1.5,2.5,13,0-0,0,200,HALF_WON,150
+2026-06-22,World Cup,France,Iraq,3-0,AH,AWAY,-1.5,2.35,31,1-0,2.5,200,HALF_LOST,-100
+2026-06-22,Brazilian Serie B,Ponte Preta,Novorizontino,0-2,AH,AWAY,0.5,1.95,11,0-0,0,6,WON,5.7
+2026-06-23,World Cup,Norway,Senegal,3-2,AH,HOME,0,2.05,50,1-0,9.1,200,PUSH,0
+2026-06-23,World Cup,Panama,Croatia,0-1,AH,AWAY,1,1.775,10,0-0,0,200,PUSH,0
+2026-06-23,Brazilian Serie B,America Mineiro,Criciuma,0-1,AH,AWAY,0,1.7,10,0-0,0,4,WON,2.8
+2026-06-24,World Cup,Colombia,Congo DR,1-0,AH,AWAY,-1,2.2,18,0-0,34.5,200,PUSH,0
+2026-06-24,World Cup,Switzerland,Canada,2-1,AH,AWAY,0,1.725,77,2-1,-4.17,200,PUSH,0
+2026-06-24,World Cup,Bosnia & Herzegovina,Qatar,3-1,AH,AWAY,-1,1.9,10,0-0,0,200,LOST,-200
+2026-06-24,World Cup,Scotland,Brazil,0-3,AH,HOME,0.5,2.6,10,0-1,0,200,LOST,-200
+2026-06-25,World Cup,South Africa,South Korea,1-0,AH,AWAY,1,2.75,10,0-0,0,200,LOST,-200
+2026-06-25,World Cup,Czechia,Mexico,0-3,AH,HOME,0.5,2,10,0-0,0,200,LOST,-200
+2026-06-25,World Cup,Ecuador,Germany,2-1,AH,AWAY,1,2.6,10,1-1,0,200,LOST,-200
+2026-06-25,World Cup,Tunisia,Netherlands,1-3,AH,HOME,1.5,2.075,19,0-2,0.5,200,WON,215
+2026-06-25,World Cup,Japan,Sweden,1-1,AH,HOME,-0.5,2.425,23,0-0,-3,200,HALF_LOST,-100
+2026-06-25,Brazilian Serie B,Cuiaba,Londrina,2-2,AH,HOME,-1,2.15,10,0-1,0,4,PUSH,0
+2026-06-26,World Cup,Paraguay,Australia,0-0,AH,AWAY,0,2.25,16,0-0,-3,200,PUSH,0
+2026-06-26,World Cup,Paraguay,Australia,0-0,OU,OVER,0.5,2,50,,7.5,500,HALF_LOST,-250
+2026-06-26,World Cup,Türkiye,USA,3-2,AH,AWAY,0.5,2.15,10,0-1,0,200,LOST,-200
+2026-06-26,World Cup,Norway,France,1-4,AH,HOME,1.5,1.85,11,0-1,0,200,HALF_LOST,-100
+2026-06-26,Brazilian Serie B,Novorizontino,Vila Nova,2-1,AH,HOME,-0.5,1.975,10,1-0,0,4,HALF_LOST,-2
+2026-06-26,Brazilian Serie B,Novorizontino,Vila Nova,2-1,AH,AWAY,0,2.75,67,1-1,1.5,4,LOST,-4
+2026-06-27,World Cup,Cape Verde Islands,Saudi Arabia,0-0,AH,HOME,-0.5,2.675,10,0-0,0,200,HALF_LOST,-100
+2026-06-27,World Cup,Egypt,Iran,1-1,AH,HOME,-0.5,2.75,10,1-0,0,200,LOST,-200
+2026-06-27,World Cup,Egypt,Iran,1-1,OU,OVER,2.5,2,64,,48.26,500,HALF_LOST,-250
+2026-06-27,Brazilian Serie B,Operario-PR,America Mineiro,1-0,AH,AWAY,-0.5,2,19,0-0,5.5,4,HALF_LOST,-2
+2026-06-27,Brazilian Serie B,Operario-PR,America Mineiro,1-0,AH,AWAY,0,2.75,44,0-0,5.5,4,LOST,-4
+2026-06-27,World Cup,Croatia,Ghana,2-1,AH,AWAY,-0.5,1.975,12,0-0,0,200,HALF_LOST,-100
+2026-06-27,World Cup,Colombia,Portugal,0-0,AH,HOME,0.5,2,10,0-0,0,200,HALF_WON,100
+2026-06-27,World Cup,Congo DR,Uzbekistan,3-1,AH,HOME,-0.5,1.875,10,0-0,0,200,WON,175
+2026-06-27,World Cup,Congo DR,Uzbekistan,3-1,OU,OVER,2.5,2.5,69,,26.87,500,WON,750
+2026-06-28,World Cup,Algeria,Austria,3-3,AH,AWAY,0,1.975,10,0-0,0,200,PUSH,0
+2026-06-28,Brazilian Serie B,Atletico Goianiense,Ponte Preta,2-0,AH,HOME,-1.5,2.2,10,0-0,0,4,HALF_WON,2.4
+2026-06-28,Brazilian Serie B,Juventude,Ceara,2-0,AH,HOME,-0.5,1.95,10,0-0,0,4,WON,3.8
+2026-06-28,Brazilian Serie B,Juventude,Ceara,2-0,AH,AWAY,0,2.375,26,1-0,0,4,LOST,-4
+2026-06-28,World Cup,South Africa,Canada,0-1,AH,AWAY,0.5,2.025,10,0-0,0,200,HALF_WON,102.5
+2026-06-28,Brazilian Serie B,Athletic Club,Avai,1-0,AH,AWAY,0,2.75,10,0-0,0,4,LOST,-4
+2026-06-28,Brazilian Serie B,Fortaleza EC,Sport Recife,2-1,AH,AWAY,-0.5,1.875,10,0-0,0,5,HALF_LOST,-2.5
+2026-06-28,Brazilian Serie B,Nautico Recife,Goias,0-1,AH,HOME,-0.5,1.95,10,0-0,0,7,LOST,-7
+2026-06-30,World Cup,Netherlands,Morocco,1-1,AH,HOME,-0.5,2.35,10,0-0,0,200,HALF_LOST,-100
+2026-06-30,World Cup,Ivory Coast,Norway,1-2,AH,HOME,0,2.5,11,0-0,0,200,LOST,-200
+2026-06-30,World Cup,France,Sweden,3-0,AH,HOME,-1.5,2.15,23,0-0,2.5,200,WON,230
+2026-06-30,Brazilian Serie B,Botafogo SP,CRB,0-1,AH,HOME,-0.5,2.425,10,0-0,0,4,LOST,-4

@@ -1,0 +1,1621 @@
+match_date,league,home_team,away_team,final_score,market,selection,line,entry_odds,entry_minute,score_at_entry,pressure_signal,stake,result,profit_loss
+2026-08-05,UEFA Champions League Women,Vålerenga W,Malmö FF W,0-1,AH,HOME,0.5,1.875,16,0-0,0,50,HALF_LOST,-25
+2026-08-05,Friendlies Clubs,AC Milan,Inter,1-1,AH,AWAY,0,1.75,22,0-0,0,50,PUSH,0
+2026-08-05,Friendlies Clubs,Chelsea,Juventus,0-1,AH,AWAY,0,2,10,0-0,0,50,WON,50
+2026-08-05,Cup,Śląsk Wrocław II,Stal Stalowa Wola,3-2,AH,AWAY,-0.5,2,18,1-0,0,50,HALF_WON,25
+2026-08-05,Cup,Śląsk Wrocław II,Stal Stalowa Wola,3-2,AH,AWAY,-1.5,1.95,25,1-0,0,50,WON,47.5
+2026-08-05,Cup,Podbeskidzie,Hutnik Kraków,2-0,AH,AWAY,-1,1.825,10,0-0,0,50,LOST,-50
+2026-08-05,Cup,Podhale Nowy Targ,Chojniczanka Chojnice,2-0,AH,AWAY,0,1.925,10,0-0,0,50,LOST,-50
+2026-08-05,Friendlies Clubs,Virtus Entella,Novara,2-1,AH,AWAY,-0.5,1.775,10,0-0,0,50,HALF_LOST,-25
+2026-08-05,UEFA Champions League Women,Ferencváros W,PAOK W,2-3,AH,HOME,0.5,1.975,17,1-1,0,50,HALF_LOST,-25
+2026-08-05,Cup,Warta Poznań,Resovia Rzeszów,0-1,AH,AWAY,-1,1.95,10,0-0,0,50,WON,47.5
+2026-08-05,Cup,Warta Poznań,Resovia Rzeszów,0-1,AH,AWAY,-0.5,2.6,15,0-0,0,50,WON,80
+2026-08-05,Cup,Warta Poznań,Resovia Rzeszów,0-1,AH,AWAY,0,2.05,30,0-1,0,50,PUSH,0
+2026-08-05,Cup,Fakel,Dynamo,0-1,AH,HOME,0.5,1.87,10,0-0,0,50,HALF_LOST,-25
+2026-08-05,UEFA Europa Conference League,Panathinaikos,CSKA 1948,1-1,AH,AWAY,-1,1.825,38,1-1,-7.98,6,WON,4.95
+2026-08-05,Friendlies Clubs,Arsenal,Real Betis,1-3,AH,HOME,1,1.975,27,0-2,0,50,WON,48.75
+2026-08-05,Friendlies Clubs,Mallorca,Paris Saint Germain,3-0,AH,AWAY,0,1.825,13,0-0,0,50,LOST,-50
+2026-08-05,Friendlies Clubs,Mallorca,Paris Saint Germain,3-0,AH,AWAY,-1,1.975,21,0-0,0,50,LOST,-50
+2026-08-05,Friendlies Clubs,Mallorca,Paris Saint Germain,3-0,AH,AWAY,-0.5,2.25,30,1-0,0,50,LOST,-50
+2026-08-05,Primera División,Gualberto Villarroel SJ,San Antonio Bulo Bulo,0-0,AH,AWAY,-1,1.925,10,0-0,0,50,WON,46.25
+2026-08-05,Primera División,Gualberto Villarroel SJ,San Antonio Bulo Bulo,0-0,AH,AWAY,-0.5,1.925,23,0-0,0,50,HALF_WON,23.13
+2026-08-05,Liga Profesional Argentina,Boca Juniors,Estudiantes L.P.,1-0,AH,AWAY,-0.5,2,16,0-0,-11.25,50,HALF_LOST,-25
+2026-08-05,Primera División,Nacional Potosí,The Strongest,2-3,AH,AWAY,0,2.15,12,0-0,0,50,WON,57.5
+2026-08-05,Primera División,Nacional Potosí,The Strongest,2-3,AH,AWAY,-1,1.85,19,1-0,0,50,WON,42.5
+2026-08-05,Copa Do Brasil,Cruzeiro,Chapecoense-sc,2-0,AH,AWAY,-1,2.05,32,0-0,22.38,50,LOST,-50
+2026-08-05,Copa Do Brasil,Gremio,Mirassol,1-0,AH,AWAY,0,2.25,23,0-0,-1,50,LOST,-50
+2026-08-05,Copa Do Brasil,Gremio,Mirassol,1-0,AH,AWAY,-0.5,1.8,37,0-0,22.96,50,HALF_LOST,-25
+2026-08-05,Copa Do Brasil,Gremio,Mirassol,1-0,AH,AWAY,-1,1.9,56,1-0,6.72,50,WON,45
+2026-08-05,Copa Do Brasil,Gremio,Mirassol,1-0,OU,OVER,2,2,57,,31.6,50,LOST,-50
+2026-08-05,Primera A,Internacional de Bogota,Jaguares,1-0,AH,AWAY,-1,1.92,10,0-0,0,50,PUSH,0
+2026-08-06,Leagues Cup,Inter Miami,Atletico San Luis,4-2,AH,AWAY,-1,1.81,28,1-1,4.93,50,LOST,-50
+2026-08-06,Liga Profesional Argentina,Tigre,Belgrano Cordoba,0-0,AH,AWAY,0,2.375,13,0-0,0,50,PUSH,0
+2026-08-06,Liga Profesional Argentina,Tigre,Belgrano Cordoba,0-0,OU,OVER,0.5,2.075,68,,44.27,50,HALF_LOST,-25
+2026-08-06,Copa Do Brasil,Fortaleza EC,Palmeiras,3-2,AH,HOME,0.5,1.9,10,0-0,0,50,WON,45
+2026-08-06,Copa Do Brasil,Fortaleza EC,Palmeiras,3-2,AH,HOME,0,2.61,16,0-0,25,50,WON,80.5
+2026-08-06,Copa Do Brasil,Fortaleza EC,Palmeiras,3-2,AH,AWAY,-0.5,2.025,35,1-0,7.14,50,HALF_WON,25.62
+2026-08-06,Copa Do Brasil,Fluminense,Vasco DA Gama,1-3,AH,AWAY,0,2.2,18,0-0,-12.5,50,WON,60
+2026-08-06,Copa Do Brasil,Fluminense,Vasco DA Gama,1-3,AH,HOME,-0.5,2.675,30,0-0,-17.5,50,LOST,-50
+2026-08-06,Copa Do Brasil,Fluminense,Vasco DA Gama,1-3,OU,OVER,3,2.05,58,,29.01,50,WON,52.5
+2026-08-06,USL Championship,FC Tulsa,Sacramento Republic,1-0,AH,AWAY,0,1.74,28,0-0,0,50,LOST,-50
+2026-08-06,Leagues Cup,FC Dallas,Club Queretaro,2-0,AH,AWAY,0,1.95,10,0-0,0,50,LOST,-50
+2026-08-06,Leagues Cup,FC Dallas,Club Queretaro,2-0,AH,AWAY,-1,1.9,47,1-0,7.33,50,PUSH,0
+2026-08-06,Leagues Cup,FC Dallas,Club Queretaro,2-0,OU,OVER,2,2,58,,68.05,50,PUSH,0
+2026-08-06,Leagues Cup,Nashville SC,Leon,0-1,AH,AWAY,0,2.15,19,0-0,-12.47,50,WON,57.5
+2026-08-06,Leagues Cup,Nashville SC,Leon,0-1,OU,OVER,1,2.025,51,,17.09,50,PUSH,0
+2026-08-06,UEFA Europa Conference League,Riga,Gyori ETO FC,1-0,AH,AWAY,-1,1.88,31,1-0,16.61,7,WON,6.16
+2026-08-06,Leagues Cup,Monterrey,Orlando City SC,1-2,AH,AWAY,0,1.875,10,0-0,0,50,WON,43.75
+2026-08-06,Leagues Cup,Monterrey,Orlando City SC,1-2,AH,HOME,1,1.75,29,0-1,13.41,50,WON,37.5
+2026-08-06,USL Championship,El Paso Locomotive,Monterey Bay,1-0,AH,AWAY,-1,1.775,10,0-0,0,50,PUSH,0
+2026-08-06,Primera A,Once Caldas,America de Cali,0-1,AH,AWAY,0,2.25,18,0-0,-10,50,WON,62.5
+2026-08-06,Primera A,Once Caldas,America de Cali,0-1,AH,AWAY,-1,2.025,38,0-0,5.5,50,WON,51.25
+2026-08-06,NWSL Women,Denver Summit W,North Carolina Courage W,0-2,AH,AWAY,0,2.1,38,0-0,-7.48,50,WON,55
+2026-08-06,NWSL Women,Denver Summit W,North Carolina Courage W,0-2,AH,HOME,1,1.775,48,0-0,-3.25,50,LOST,-50
+2026-08-06,USL Championship,Las Vegas Lights,Oakland Roots,0-0,AH,AWAY,0,1.9,10,0-0,0,50,PUSH,0
+2026-08-06,Leagues Cup,Los Angeles FC,Guadalajara Chivas,1-1,AH,AWAY,0,1.84,10,0-0,0,50,PUSH,0
+2026-08-06,Liga 3,Iberia 2010,Gonio,0-2,AH,HOME,1,1.85,25,0-0,0,50,LOST,-50
+2026-08-06,Liga 3,Kolkheti Khobi,Dinamo Tbilisi II,2-3,AH,AWAY,0,1.775,13,0-0,0,50,WON,38.75
+2026-08-06,UEFA Europa Conference League,Inter Turku,FC Vaduz,2-1,AH,AWAY,0,2.75,12,0-0,0,4,LOST,-4
+2026-08-06,UEFA Europa Conference League,Inter Turku,FC Vaduz,2-1,AH,AWAY,-0.5,1.85,13,0-0,0,4,HALF_LOST,-2
+2026-08-06,UEFA Europa Conference League,Inter Turku,FC Vaduz,2-1,AH,AWAY,-1,2,33,1-0,1.5,6,WON,6
+2026-08-06,UEFA Europa Conference League,Inter Turku,FC Vaduz,2-1,OU,OVER,2,2.025,60,,13.5,186,WON,190.65
+2026-08-06,UEFA Europa Conference League,HJK Helsinki,Motherwell,1-1,AH,AWAY,0,2.72,40,0-0,7.5,4,PUSH,0
+2026-08-06,UEFA Europa Conference League,HJK Helsinki,Motherwell,1-1,OU,OVER,1,2.1,61,,13,196,WON,215.6
+2026-08-06,UEFA Europa Conference League,FK Jablonec,Rīgas FS,2-0,AH,AWAY,-0.5,1.975,10,0-0,0,4,LOST,-4
+2026-08-06,UEFA Europa Conference League,FK Jablonec,Rīgas FS,2-0,OU,OVER,2,2.1,50,,8,196,PUSH,0
+2026-08-06,UEFA Europa Conference League,FC Noah,FC Sion,2-2,AH,AWAY,0,1.8,14,1-1,0,4,PUSH,0
+2026-08-06,Liga 3,Iveria Khashuri,Saburtalo II,0-1,AH,HOME,0.5,1.875,12,0-0,0,50,HALF_LOST,-25
+2026-08-06,UEFA Europa Conference League,CFR 1907 Cluj,Tromso,0-5,AH,HOME,1,1.8,10,0-1,0,5,LOST,-5
+2026-08-06,UEFA Europa Conference League,FK Zalgiris Vilnius,HNK Hajduk Split,2-5,AH,HOME,0.5,1.825,36,1-1,-2,4,LOST,-4
+2026-08-06,UEFA Europa Conference League,Debreceni VSC,FC Copenhagen,0-3,AH,HOME,0.5,2,10,0-0,0,4,LOST,-4
+2026-08-06,UEFA Europa Conference League,Debreceni VSC,FC Copenhagen,0-3,AH,HOME,1.5,1.775,23,0-1,1,8,HALF_LOST,-4
+2026-08-06,UEFA Europa Conference League,IFK Goteborg,Gent,0-1,AH,HOME,1,2.25,45,0-1,-4,5,WON,6.25
+2026-08-06,UEFA Europa Conference League,Dynamo Kyiv,Qarabag,1-0,AH,AWAY,-1,1.825,16,1-0,-1,6,WON,4.95
+2026-08-06,UEFA Europa Conference League,Dynamo Kyiv,Qarabag,1-0,AH,AWAY,0,1.77,21,1-0,-1.5,4,PUSH,0
+2026-08-08,Liga Pro,LDU de Quito,Independiente del Valle,0-2,AH,HOME,1,1.7,53,0-1,-5.4,50,PUSH,0
+2026-08-08,Liga Pro,LDU de Quito,Independiente del Valle,0-2,OU,OVER,1.75,2,68,,4.65,50,WON,50
+2026-08-08,NWSL Women,NJ/NY Gotham FC W,San Diego Wave W,1-0,OU,OVER,1.75,2,68,,48.56,50,LOST,-50
+2026-08-08,Leagues Cup,FC Cincinnati,U.N.A.M. - Pumas,2-0,AH,AWAY,-1,1.825,75,1-0,-4.4,50,PUSH,0
+2026-08-08,Leagues Cup,FC Cincinnati,U.N.A.M. - Pumas,2-0,OU,UNDER,2,1.825,65,,55.53,50,PUSH,0
+2026-08-08,Primera División,U. Catolica,Cobresal,2-0,AH,AWAY,-1.5,1.775,62,1-0,12.62,50,HALF_WON,19.37
+2026-08-08,Primera División,U. Catolica,Cobresal,2-0,OU,UNDER,2,2.05,65,,44.23,50,PUSH,0
+2026-08-08,Torneo Federal A,Juventud Antoniana,Alvarado,0-2,AH,AWAY,-0.5,1.875,10,0-0,0,50,WON,43.75
+2026-08-08,Leagues Cup,Tigres UANL,Minnesota United FC,0-0,AH,AWAY,0,2.375,36,0-0,1.5,50,PUSH,0
+2026-08-08,Leagues Cup,Tigres UANL,Minnesota United FC,0-0,AH,HOME,0.5,1.8,42,0-0,10.36,50,HALF_WON,20
+2026-08-08,Leagues Cup,Tigres UANL,Minnesota United FC,0-0,OU,OVER,1,2,58,,34.83,50,LOST,-50
+2026-08-08,Primera División,Universitario,Sporting Cristal,1-1,AH,AWAY,0,2.425,28,0-0,4.43,50,PUSH,0
+2026-08-08,Primera División,Universitario,Sporting Cristal,1-1,OU,UNDER,1.5,1.925,72,,33,50,HALF_LOST,-25
+2026-08-08,Liga Panameña de Fútbol,San Francisco FC,Herrera,3-1,AH,AWAY,-0.5,1.85,10,0-0,0,50,LOST,-50
+2026-08-08,Liga Panameña de Fútbol,San Francisco FC,Herrera,3-1,AH,AWAY,-1.5,1.825,13,1-0,0,50,HALF_WON,20.63
+2026-08-08,Leagues Cup,Vancouver Whitecaps,FC Juarez,1-3,AH,AWAY,-1,2.025,45,1-1,34.5,50,WON,51.25
+2026-08-08,Friendlies Clubs,Albacete,Real Murcia,1-1,AH,AWAY,-0.5,1.875,10,0-0,0,50,HALF_WON,21.88
+2026-08-08,Friendlies Clubs,Albacete,Real Murcia,1-1,AH,HOME,0.5,1.825,16,0-1,0,50,WON,41.25
+2026-08-08,First League,Enisey,Tekstilshchik,0-0,AH,AWAY,-0.5,2.43,16,0-0,0,50,HALF_WON,35.75
+2026-08-08,Friendlies Clubs,Real Unión,Eibar,1-1,AH,AWAY,-0.5,1.925,26,1-0,0,50,WON,46.25
+2026-08-08,J1 League,Avispa Fukuoka,Vissel Kobe,0-1,AH,HOME,1,2.05,30,0-1,-24,4,WON,4.2
+2026-08-08,J1 League,Avispa Fukuoka,Vissel Kobe,0-1,OU,OVER,2,2,52,,30.77,196,LOST,-196
+2026-08-08,J1 League,Kashiwa Reysol,Mito Hollyhock,2-1,AH,AWAY,-1.5,1.925,10,1-0,0,6,WON,5.55
+2026-08-08,J1 League,Kashiwa Reysol,Mito Hollyhock,2-1,OU,UNDER,3.5,1.975,67,,34,194,HALF_WON,94.58
+2026-08-08,Segunda Liga,Chaves,Academica,1-4,AH,HOME,0.5,1.825,10,0-1,0,50,LOST,-50
+2026-08-08,J1 League,Cerezo Osaka,Fagiano Okayama,2-1,AH,HOME,0.5,1.875,10,0-1,0,5,WON,4.38
+2026-08-08,J1 League,Cerezo Osaka,Fagiano Okayama,2-1,AH,AWAY,-1,1.825,24,2-1,-38,6,WON,4.95
+2026-08-08,J1 League,Cerezo Osaka,Fagiano Okayama,2-1,OU,OVER,4,2,63,,63.86,189,LOST,-189
+2026-08-08,J1 League,FC Tokyo,Machida Zelvia,1-5,AH,AWAY,-1,1.875,21,1-0,10.07,6,WON,5.25
+2026-08-08,J1 League,Sanfrecce Hiroshima,JEF United Chiba,3-0,AH,AWAY,-1.5,1.825,66,1-0,35,8,HALF_LOST,-4
+2026-08-08,Friendlies Clubs,Racing Santander II,Real Avilés,2-1,AH,AWAY,0,1.9,10,1-0,0,50,PUSH,0
+2026-08-08,K League 1,Pohang Steelers,Ulsan Hyundai FC,0-2,AH,HOME,0,2.5,16,0-0,0,200,LOST,-200
+2026-08-08,Superettan,Falkenbergs FF,United Nordic,1-1,AH,AWAY,0,2.025,16,0-0,0,50,PUSH,0
+2026-08-08,Superettan,Ljungskile SK,Oddevold,0-1,AH,AWAY,0,2.075,23,0-0,0,50,WON,53.75
+2026-08-08,K League 1,Bucheon FC 1995,Gwangju FC,0-0,AH,AWAY,-0.5,1.875,10,0-0,0,200,HALF_WON,87.5
+2026-08-08,K League 1,FC Anyang,Daejeon Citizen,1-2,AH,HOME,0.5,2,10,0-0,0,200,HALF_LOST,-100
+2026-08-08,K League 2,Paju Citizen,Suwon City FC,0-1,AH,HOME,0.5,1.925,13,0-0,0,50,HALF_LOST,-25
+2026-08-08,K League 2,Seongnam FC,Cheonan City,3-2,AH,HOME,0.5,1.825,10,0-1,0,50,WON,41.25
+2026-08-08,K League 2,Seongnam FC,Cheonan City,3-2,AH,AWAY,-0.5,1.8,13,1-1,0,50,HALF_LOST,-25
+2026-08-08,Chinese Super League,Qingdao Jonoon,Shanghai Shenhua,0-1,AH,HOME,1,1.825,11,0-0,0,200,PUSH,0
+2026-08-08,Friendlies Clubs,Juventus,Inter,1-2,AH,AWAY,0,2,10,0-0,0,50,WON,50
+2026-08-08,Friendlies Clubs,Juventus,Inter,1-2,AH,HOME,1,1.85,21,0-1,0,50,WON,42.5
+2026-08-08,2. Bundesliga,SV Darmstadt 98,Holstein Kiel,2-2,AH,HOME,0.5,2.025,10,0-1,0,50,WON,51.25
+2026-08-08,2. Bundesliga,1. FC Heidenheim,VfL Osnabrück,4-3,AH,AWAY,-1.5,1.975,19,1-0,8.98,50,WON,48.75
+2026-08-08,2. Bundesliga,1. FC Heidenheim,VfL Osnabrück,4-3,AH,AWAY,-0.5,1.9,35,2-2,11.78,50,HALF_LOST,-25
+2026-08-08,2. Bundesliga,Karlsruher SC,Arminia Bielefeld,2-1,AH,AWAY,0,1.75,32,0-0,7.13,50,LOST,-50
+2026-08-08,2. Bundesliga,Karlsruher SC,Arminia Bielefeld,2-1,AH,AWAY,-1,1.7,56,1-0,2,50,WON,35
+2026-08-08,2. Bundesliga,1. FC Magdeburg,Eintracht Braunschweig,1-6,AH,AWAY,-0.5,1.9,10,0-0,0,50,WON,45
+2026-08-08,K League 1,Jeonbuk Motors,Jeju United FC,1-3,AH,AWAY,-0.5,1.925,10,0-0,0,200,WON,185
+2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,1-0,AH,AWAY,-1.5,2,32,1-0,14.75,200,WON,200
+2026-08-08,3. Liga,Havelse,Stuttgart II,2-3,AH,AWAY,-0.5,1.875,12,1-0,0,50,WON,43.75
+2026-08-08,Premier League (389),Altay,Kyzyl-Zhar,2-2,AH,AWAY,0,1.825,10,0-0,0,50,PUSH,0
+2026-08-08,3. Liga,FC Viktoria Köln,SSV Jahn Regensburg,2-5,AH,AWAY,-0.5,1.8,10,0-0,0,50,WON,40
+2026-08-08,3. Liga,MSV Duisburg,SV Meppen,3-0,AH,AWAY,-1.5,1.95,16,1-0,0,50,HALF_LOST,-25
+2026-08-08,3. Liga,SV Wehen,Preußen Münster,1-3,AH,AWAY,0,2.2,20,0-0,0,50,WON,60
+2026-08-08,Chinese Super League,Yunnan Yukun,Chengdu Better City,1-0,AH,HOME,0,2.6,10,0-0,0,200,WON,320
+2026-08-08,3. Liga,FC Ingolstadt 04,Würzburger Kickers,2-2,AH,AWAY,-0.5,2.05,12,0-0,0,50,HALF_WON,26.25
+2026-08-08,3. Liga,FC Ingolstadt 04,Würzburger Kickers,2-2,AH,AWAY,-1.5,1.925,16,1-0,0,50,WON,46.25
+2026-08-08,Friendlies Clubs,Chelsea,AC Milan,3-0,AH,AWAY,-0.5,1.975,10,0-0,0,50,LOST,-50
+2026-08-14,Liga I,FC Voluntari,Petrolul Ploiesti,1-2,AH,HOME,1,1.775,72,1-2,-1,50,WON,38.75
+2026-08-14,Liga I,FC Voluntari,Petrolul Ploiesti,1-2,OU,OVER,2.75,2,63,,43.58,50,WON,50
+2026-08-14,2. Bundesliga,Eintracht Braunschweig,VfL Bochum,0-1,AH,HOME,0.5,2.1,27,0-1,30.16,50,HALF_WON,27.5
+2026-08-14,2. Bundesliga,Eintracht Braunschweig,VfL Bochum,0-1,AH,HOME,1,1.725,43,0-1,20.24,50,WON,36.25
+2026-08-14,2. Bundesliga,Eintracht Braunschweig,VfL Bochum,0-1,OU,UNDER,2,1.9,65,,52,50,WON,45
+2026-08-14,2. Bundesliga,Holstein Kiel,FC St. Pauli,2-2,AH,HOME,0.5,2.2,38,0-1,19.45,50,WON,60
+2026-08-14,2. Bundesliga,Holstein Kiel,FC St. Pauli,2-2,AH,HOME,1,1.7,77,1-2,10.69,35,WON,24.5
+2026-08-14,First League,Rotor Volgograd,Ural,1-1,AH,AWAY,0,1.77,30,1-0,0,50,WON,38.5
+2026-08-14,Pro League (301),Al Wahda FC,Ajman,2-3,AH,HOME,0.5,1.775,21,0-1,0,50,HALF_WON,19.37
+2026-08-14,Pro League (301),Al Wahda FC,Ajman,2-3,AH,HOME,0,2.6,30,0-1,0,50,PUSH,0
+2026-08-14,Coppa Italia,Cagliari,Arezzo,1-0,AH,AWAY,-1.5,1.9,24,1-0,9.5,50,WON,45
+2026-08-14,Coppa Italia,Cagliari,Arezzo,1-0,OU,OVER,2,2,54,,35,50,LOST,-50
+2026-08-14,Damallsvenskan,Växjö W,Djurgården W,2-3,AH,HOME,1,1.95,19,0-0,0,50,PUSH,0
+2026-08-14,Allsvenskan,IF Elfsborg,Vasteras SK FK,3-0,AH,AWAY,-1.5,1.875,42,1-0,15.07,50,HALF_LOST,-25
+2026-08-14,Allsvenskan,IF Elfsborg,Vasteras SK FK,3-0,AH,AWAY,-0.5,1.93,45,1-0,19,50,LOST,-50
+2026-08-14,Superettan,IK brage,Orebro SK,3-3,AH,AWAY,-0.5,1.975,10,0-0,0,50,HALF_WON,24.38
+2026-08-14,Superettan,IK brage,Orebro SK,3-3,AH,HOME,0.5,1.8,19,0-0,0,50,HALF_WON,20
+2026-08-14,Eliteserien,Rosenborg,Viking,2-1,AH,AWAY,-1,2.05,22,1-0,0,50,WON,52.5
+2026-08-14,Eliteserien,Rosenborg,Viking,2-1,AH,AWAY,0,2.08,45,1-0,4,50,PUSH,0
+2026-08-14,Eliteserien,Rosenborg,Viking,2-1,OU,UNDER,2,1.975,65,,42.2,50,LOST,-50
+2026-08-14,Friendlies Clubs,Estac Troyes,Panetolikos,1-1,AH,AWAY,-0.5,1.775,10,0-0,0,50,HALF_WON,19.37
+2026-08-14,Friendlies Clubs,Estac Troyes,Panetolikos,1-1,AH,AWAY,0,2.5,30,0-0,0,50,PUSH,0
+2026-08-14,Superliga,Viborg,Aarhus,2-1,AH,AWAY,-1,1.975,16,1-0,0,50,WON,48.75
+2026-08-14,Superettan,Landskrona BoIS,Oddevold,1-1,AH,HOME,1,1.825,26,0-1,0,50,WON,41.25
+2026-08-14,Segunda Liga,Academica,Feirense,1-0,AH,AWAY,0,2.025,14,0-0,0,50,LOST,-50
+2026-08-14,3. Liga,Würzburger Kickers,SV Wehen,4-0,AH,AWAY,0,1.8,11,0-0,0,50,LOST,-50
+2026-08-14,Friendlies Clubs,UD Logroñés,Zaragoza,1-2,AH,AWAY,0,1.825,15,0-0,0,50,WON,41.25
+2026-08-14,Friendlies Clubs,UD Logroñés,Zaragoza,1-2,AH,HOME,1,1.85,21,0-1,0,50,WON,42.5
+2026-08-14,Friendlies Clubs,Reddis,Saguntino,2-1,AH,AWAY,-0.5,2.025,12,0-0,0,50,HALF_LOST,-25
+2026-08-14,Friendlies Clubs,Reddis,Saguntino,2-1,AH,AWAY,-1.5,1.975,19,1-0,0,50,WON,48.75
+2026-08-14,HNL,Dinamo Zagreb,Rudes,4-0,AH,AWAY,-1,1.83,59,2-0,32.36,50,LOST,-50
+2026-08-14,First League,CSKA 1948,Cherno More Varna,4-1,AH,AWAY,-0.5,1.95,10,0-0,0,50,LOST,-50
+2026-08-14,Eerste Divisie,Heracles,Den Bosch,3-2,AH,AWAY,-1,1.875,10,0-0,0,50,PUSH,0
+2026-08-14,Eerste Divisie,Heracles,Den Bosch,3-2,AH,AWAY,-0.5,2.32,15,0-0,-24.5,50,HALF_LOST,-25
+2026-08-14,Eerste Divisie,Heracles,Den Bosch,3-2,AH,AWAY,-1.5,1.875,45,1-0,29.5,50,WON,43.75
+2026-08-14,Eerste Divisie,Waalwijk,Dordrecht,2-2,AH,AWAY,-0.5,1.85,10,0-0,0,50,HALF_WON,21.25
+2026-08-14,Eredivisie,Telstar,Sparta Rotterdam,1-3,AH,HOME,0.5,2,10,0-1,0,59,HALF_LOST,-29.5
+2026-08-14,Eredivisie,Telstar,Sparta Rotterdam,1-3,AH,HOME,1,1.775,29,0-1,-25.12,63,PUSH,0
+2026-08-14,Challenger Pro League,Sporting Hasselt,Dender,1-0,AH,AWAY,-1,1.825,23,1-0,0,50,WON,41.25
+2026-08-14,Challenger Pro League,Seraing United,Lokeren-Temse,0-2,AH,HOME,1.5,1.775,24,0-1,0,50,HALF_WON,19.37
+2026-08-14,1. Lig,Esenler Erokspor,Sarıyer,1-1,AH,AWAY,0,2.25,35,0-0,-2.5,50,PUSH,0
+2026-08-14,1. Lig,Esenler Erokspor,Sarıyer,1-1,OU,OVER,0.75,2,60,,11.5,50,WON,50
+2026-08-14,Pro League (307),Al-Hilal Saudi FC,Al-Faisaly FC,4-2,AH,AWAY,-1.5,1.825,69,3-2,19.87,50,HALF_WON,20.63
+2026-08-14,Eerste Divisie,Almere City FC,Jong PSV U21,3-1,AH,AWAY,-0.5,1.975,10,1-1,0,50,LOST,-50
+2026-08-14,Eerste Divisie,Almere City FC,Jong PSV U21,3-1,AH,AWAY,0,2.05,45,1-1,-23.5,50,LOST,-50
+2026-08-14,Eerste Divisie,Almere City FC,Jong PSV U21,3-1,AH,AWAY,-1,1.825,49,2-1,-21.86,50,PUSH,0
+2026-08-14,Eerste Divisie,Almere City FC,Jong PSV U21,3-1,OU,UNDER,4,2.1,65,,58.77,50,PUSH,0
+2026-08-14,Friendlies Clubs,Atalanta,Athletic Club,1-0,AH,AWAY,0,2.25,22,0-0,0,50,LOST,-50
+2026-08-14,Eerste Divisie,FC Eindhoven,MVV,2-3,AH,AWAY,-0.5,1.875,10,0-0,0,50,WON,43.75
+2026-08-14,Eerste Divisie,FC Eindhoven,MVV,2-3,AH,AWAY,-1.5,1.725,23,1-0,5.33,50,WON,36.25
+2026-08-14,Eerste Divisie,FC Eindhoven,MVV,2-3,AH,AWAY,-1,1.85,78,2-1,-15.73,35,WON,29.75
+2026-08-14,Eerste Divisie,FC Eindhoven,MVV,2-3,OU,OVER,4,2.1,64,,29.19,50,WON,55
+2026-08-14,Eerste Divisie,NAC Breda,VVV Venlo,0-2,AH,AWAY,0,2.025,39,0-1,2.62,50,WON,51.25
+2026-08-14,Eerste Divisie,NAC Breda,VVV Venlo,0-2,AH,HOME,1,1.925,49,0-1,26.21,50,PUSH,0
+2026-08-14,Eerste Divisie,NAC Breda,VVV Venlo,0-2,AH,HOME,1,1.975,56,0-2,21.5,50,WON,48.75
+2026-08-14,Eerste Divisie,NAC Breda,VVV Venlo,0-2,AH,HOME,1.5,1.775,64,0-2,20.19,50,WON,38.75
+2026-08-14,Eerste Divisie,NAC Breda,VVV Venlo,0-2,OU,UNDER,3.25,1.85,65,,45.5,50,WON,42.5
+2026-08-14,Segunda División,Real Sociedad II,Castellón,0-1,AH,HOME,1.5,1.95,10,0-1,0,50,WON,47.5
+2026-08-14,Friendlies Clubs,Coventry,Monaco,2-0,AH,AWAY,0,1.975,10,0-0,0,50,LOST,-50
+2026-08-14,Friendlies Clubs,Coventry,Monaco,2-0,AH,AWAY,-1,1.9,12,0-0,0,50,LOST,-50
+2026-08-14,League Cup,Kilmarnock,Ayr Utd,3-2,AH,HOME,0,1.975,11,0-1,0,50,WON,48.75
+2026-08-14,Liga I,Arges Pitesti,Farul Constanta,1-1,AH,AWAY,0,2.05,14,0-0,0,50,PUSH,0
+2026-08-14,Liga I,Arges Pitesti,Farul Constanta,1-1,AH,AWAY,-1,1.925,20,1-0,-9,50,WON,46.25
+2026-08-14,Liga I,Arges Pitesti,Farul Constanta,1-1,OU,OVER,2.5,2.025,69,,25.55,50,HALF_LOST,-25
+2026-08-14,Ligue 2,Annecy,Rodez,2-0,AH,AWAY,0,1.975,11,0-0,0,50,LOST,-50
+2026-08-14,Ligue 2,Annecy,Rodez,2-0,AH,AWAY,-1,1.8,45,1-0,15.5,50,PUSH,0
+2026-08-14,Ligue 2,Annecy,Rodez,2-0,OU,OVER,2,2.075,59,,30.8,50,PUSH,0
+2026-08-14,Ligue 2,Guingamp,Boulogne,1-0,AH,AWAY,-0.5,1.8,12,0-0,0,50,HALF_LOST,-25
+2026-08-14,Ligue 2,Guingamp,Boulogne,1-0,AH,AWAY,0,2.35,45,0-0,3,50,LOST,-50
+2026-08-14,Ligue 2,Guingamp,Boulogne,1-0,OU,OVER,1,2.025,55,,22.37,50,PUSH,0
+2026-08-14,Ligue 2,Dijon,PAU,0-1,AH,AWAY,-0.5,1.88,11,0-0,0,50,WON,44
+2026-08-14,Ligue 2,Dijon,PAU,0-1,AH,AWAY,0,2.56,45,0-0,-5.5,50,WON,78
+2026-08-14,Ligue 2,Dijon,PAU,0-1,OU,OVER,1,2.05,54,,32.5,50,PUSH,0
+2026-08-14,Ligue 2,RED Star FC 93,Sochaux,0-0,AH,AWAY,-0.5,1.825,33,0-0,28.32,50,HALF_WON,20.63
+2026-08-14,Ligue 2,Nancy,Montpellier,0-1,AH,AWAY,0,1.875,11,0-0,0,50,WON,43.75
+2026-08-14,Ligue 2,Nancy,Montpellier,0-1,AH,HOME,1,1.85,72,0-1,-9.5,50,WON,42.5
+2026-08-14,Ligue 2,Nancy,Montpellier,0-1,OU,OVER,1,2.05,57,,44.74,50,PUSH,0
+2026-08-14,Pro League,Cercle Brugge,St. Truiden,3-3,AH,HOME,0.5,2.2,26,0-1,0,56,WON,67.2
+2026-08-14,Ligue 2,Reims,Dunkerque,3-3,AH,AWAY,-0.5,1.975,10,0-0,0,50,HALF_WON,24.38
+2026-08-14,Ligue 2,Reims,Dunkerque,3-3,AH,HOME,0.5,1.9,36,0-1,7,50,WON,45
+2026-08-14,Ligue 2,Saint Etienne,Clermont Foot,3-1,AH,AWAY,-1,2,11,0-0,0,50,LOST,-50
+2026-08-14,Ligue 2,Saint Etienne,Clermont Foot,3-1,AH,AWAY,-1,1.875,34,0-0,17.88,50,LOST,-50
+2026-08-14,Ligue 2,Laval,Nantes,2-1,AH,HOME,0.5,1.775,11,0-0,0,50,WON,38.75
+2026-08-14,Ligue 2,Laval,Nantes,2-1,AH,AWAY,-0.5,1.85,18,1-0,-0.5,50,HALF_WON,21.25
+2026-08-14,Championship,Wolves,Blackburn,2-2,AH,AWAY,-1,1.925,10,0-0,0,50,WON,46.25
+2026-08-14,Championship,Wolves,Blackburn,2-2,AH,AWAY,-1.5,2.025,20,1-0,0,50,WON,51.25
+2026-08-14,Championship,Wolves,Blackburn,2-2,AH,AWAY,-0.5,1.975,28,1-1,-1,50,HALF_WON,24.38
+2026-08-14,Championship,Wolves,Blackburn,2-2,AH,HOME,0.5,1.8,53,1-2,-5.9,50,WON,40
+2026-08-14,Championship,Wolves,Blackburn,2-2,OU,OVER,4,2,63,,21.78,50,PUSH,0
+2026-08-14,Primera División,Universitario de Vinto,Real Tomayapo,0-1,AH,AWAY,-1,1.825,10,0-0,0,50,WON,41.25
+2026-08-14,Primera División,Atletico Grau,Comerciantes Unidos,1-0,AH,AWAY,0,2.25,11,0-0,0,50,LOST,-50
+2026-08-14,Primera División,Atletico Grau,Comerciantes Unidos,1-0,AH,AWAY,-1,1.85,61,1-0,20.75,50,WON,42.5
+2026-08-14,Primera División,Atletico Grau,Comerciantes Unidos,1-0,OU,OVER,2,2,58,,33.72,50,LOST,-50
+2026-08-14,Division Profesional - Clausura,Deportivo Recoleta,2 de Mayo,1-2,AH,AWAY,0,1.875,10,0-0,0,50,WON,43.75
+2026-08-14,Division Profesional - Clausura,Deportivo Recoleta,2 de Mayo,1-2,AH,HOME,1,1.775,16,0-1,-11.25,50,WON,38.75
+2026-08-14,Primera División,Boston River,Danubio,0-0,AH,AWAY,0,1.975,10,0-0,0,50,PUSH,0
+2026-08-14,Brazilian Serie B,São Bernardo,Botafogo SP,0-1,AH,AWAY,0,1.85,10,0-0,0,50,WON,42.5
+2026-08-14,Brazilian Serie B,São Bernardo,Botafogo SP,0-1,AH,HOME,1,1.9,71,0-0,-4.57,65,PUSH,0
+2026-08-14,Brazilian Serie B,São Bernardo,Botafogo SP,0-1,OU,OVER,1,2,52,,48.54,500,PUSH,0
+2026-08-14,Brazilian Serie B,Ponte Preta,Nautico Recife,1-1,AH,HOME,0.5,1.8,10,0-0,0,50,HALF_WON,20
+2026-08-14,Brazilian Serie B,Ponte Preta,Nautico Recife,1-1,AH,HOME,0,2.75,14,0-0,0,50,PUSH,0
+2026-08-14,Liga Profesional Argentina,Racing Club,Banfield,0-1,AH,AWAY,-0.5,1.975,11,0-0,0,50,WON,48.75
+2026-08-14,Brazilian Serie B,Sport Recife,Londrina,2-1,AH,AWAY,-0.5,2,10,0-0,0,50,HALF_LOST,-25
+2026-08-14,Brazilian Serie B,Sport Recife,Londrina,2-1,AH,AWAY,-1.5,1.825,15,1-0,0,80,WON,66
+2026-08-15,NWSL Women,NJ/NY Gotham FC W,Kansas City W,2-1,AH,AWAY,-1,2.025,14,1-1,0,50,PUSH,0
+2026-08-15,NWSL Women,NJ/NY Gotham FC W,Kansas City W,2-1,AH,AWAY,-1.5,1.875,48,2-1,18.5,50,WON,43.75
+2026-08-15,Canadian Premier League,Vancouver FC,Pacific FC,1-1,AH,AWAY,-1,1.975,14,0-0,0,50,WON,48.75
+2026-08-15,NWSL Women,San Diego Wave W,Denver Summit W,1-1,AH,AWAY,-0.5,1.9,13,0-0,0,50,HALF_WON,22.5
+2026-08-15,NWSL Women,San Diego Wave W,Denver Summit W,1-1,AH,AWAY,0,2.25,57,1-0,2.85,50,WON,62.5
+2026-08-15,NWSL Women,San Diego Wave W,Denver Summit W,1-1,OU,OVER,3,2,60,,26,50,LOST,-50
+2026-08-15,NWSL Women,Seattle Reign FC W,Chicago Red Stars W,1-0,AH,AWAY,-1,1.9,26,0-0,34.2,50,PUSH,0
+2026-08-15,NWSL Women,Seattle Reign FC W,Chicago Red Stars W,1-0,AH,AWAY,-0.5,2.025,43,0-0,24.93,50,HALF_LOST,-25
+2026-08-15,NWSL Women,Seattle Reign FC W,Chicago Red Stars W,1-0,AH,AWAY,-1.5,1.8,54,1-0,20.67,50,WON,40
+2026-08-15,NWSL Women,Utah Royals W,Bay FC W,3-2,AH,AWAY,-1,1.925,10,1-1,0,50,PUSH,0
+2026-08-15,NWSL Women,Utah Royals W,Bay FC W,3-2,AH,AWAY,-1.5,1.975,26,2-1,10.93,50,WON,48.75
+2026-08-15,NWSL Women,Utah Royals W,Bay FC W,3-2,AH,AWAY,-0.5,1.85,30,2-1,9.5,50,HALF_WON,21.25
+2026-08-15,Friendlies Clubs,Huesca II,Ebro,1-0,AH,HOME,1,1.9,25,0-0,0,50,WON,45
+2026-08-15,First League,Enisey,KAMAZ,2-2,AH,AWAY,-0.5,2.03,15,0-0,0,50,HALF_WON,25.75
+2026-08-15,Friendlies Clubs,Gimnástica Segoviana,Unionistas de Salamanca,0-1,AH,AWAY,0,1.775,11,0-0,0,50,WON,38.75
+2026-08-15,Friendlies Clubs,Atlético Tordesillas,Guijuelo,1-1,AH,AWAY,-0.5,1.875,10,0-0,0,50,HALF_WON,21.88
+2026-08-15,J1 League,Urawa,Sanfrecce Hiroshima,1-4,AH,HOME,0.5,1.8,10,0-0,0,50,LOST,-50
+2026-08-15,3. Liga,Fortuna Düsseldorf,Hoffenheim II,0-2,AH,HOME,0,2,12,0-1,0,50,LOST,-50
+2026-08-15,J1 League,Vissel Kobe,FC Tokyo,2-2,AH,HOME,1,1.8,73,1-1,-14.33,65,WON,52
+2026-08-15,J1 League,Vissel Kobe,FC Tokyo,2-2,OU,UNDER,3.75,1.85,73,,41.13,500,LOST,-500
+2026-08-15,Damallsvenskan,AIK W,Vittsjö W,1-2,AH,AWAY,-0.5,2.025,26,0-0,0,50,WON,51.25
+2026-08-15,Superettan,Ljungskile SK,Osters IF,2-3,AH,AWAY,-0.5,1.9,10,0-0,0,50,WON,45
+2026-08-15,K League 1,Gwangju FC,Pohang Steelers,1-2,AH,AWAY,0,1.7,30,0-0,0,50,WON,35
+2026-08-15,K League 1,Jeju United FC,FC Anyang,2-0,AH,AWAY,0,1.875,11,0-0,0,50,LOST,-50
+2026-08-15,K League 1,FC Seoul,Daejeon Citizen,4-2,AH,AWAY,0,2.05,11,0-0,0,50,LOST,-50
+2026-08-15,K League 2,Busan I Park,Hwaseong,0-0,AH,AWAY,0,1.975,11,0-0,0,50,PUSH,0
+2026-08-15,Chinese Super League,Shenyang Urban,Sichuan Jiuniu,1-2,AH,AWAY,0,2.2,10,0-0,0,50,WON,60
+2026-08-15,Chinese Super League,Shenyang Urban,Sichuan Jiuniu,1-2,AH,AWAY,-1,1.775,10,0-0,0,64,WON,49.6
+2026-08-15,Chinese Super League,Shenyang Urban,Sichuan Jiuniu,1-2,OU,OVER,3,2,59,,27.3,500,PUSH,0
+2026-08-15,Premier League (235),Rodina Moskva,Akron,3-3,AH,AWAY,0,1.94,16,1-0,0,50,WON,47
+2026-08-15,Premier League (235),Rodina Moskva,Akron,3-3,OU,OVER,4,2.02,60,,29,50,WON,51
+2026-08-15,Kvindeliga,ASA Aarhus W,Nordsjælland W,1-3,AH,HOME,1.5,1.9,27,0-1,0,50,HALF_WON,22.5
+2026-08-15,Kvindeliga,Midtjylland W,KoldingQ W,3-1,AH,AWAY,-0.5,2,11,0-0,0,50,LOST,-50
+2026-08-15,Kvindeliga,Midtjylland W,KoldingQ W,3-1,AH,AWAY,-1.5,1.95,27,1-0,0,50,HALF_WON,23.75
+2026-08-15,2. Bundesliga,SpVgg Greuther Fürth,1. FC Nürnberg,2-4,AH,AWAY,0,1.825,12,0-0,0,50,WON,41.25
+2026-08-15,2. Bundesliga,SpVgg Greuther Fürth,1. FC Nürnberg,2-4,AH,HOME,1,1.95,54,2-3,14,50,PUSH,0
+2026-08-15,2. Bundesliga,Hertha BSC,1. FC Heidenheim,4-1,AH,AWAY,-1,1.775,10,1-0,0,50,LOST,-50
+2026-08-15,Championship,Bolton,Preston,2-1,AH,AWAY,-1,1.875,17,1-0,14.59,50,WON,43.75
+2026-08-15,League Two,Newport County,Rochdale,3-0,AH,AWAY,0,1.775,10,0-0,0,50,LOST,-50
+2026-08-15,League Two,Oldham,Port Vale,2-0,AH,AWAY,0,2.2,10,0-0,0,50,LOST,-50
+2026-08-15,League One,Notts County,Leicester,1-1,AH,AWAY,0,1.725,19,0-0,0,50,PUSH,0
+2026-08-15,League One,Oxford United,Milton Keynes Dons,2-2,AH,AWAY,0,2.35,13,0-0,0,50,PUSH,0
+2026-08-15,League One,Oxford United,Milton Keynes Dons,2-2,AH,AWAY,-1,1.95,20,1-0,0,50,WON,47.5
+2026-08-15,Chinese Super League,Tianjin Teda,Beijing Guoan,2-4,AH,AWAY,0,1.775,10,0-0,0,50,WON,38.75
+2026-08-15,Chinese Super League,Tianjin Teda,Beijing Guoan,2-4,AH,HOME,1,1.75,22,0-1,18.36,62,PUSH,0
+2026-08-15,League One,Reading,Luton,3-4,AH,AWAY,0,1.8,10,1-1,0,50,WON,40
+2026-08-15,Chinese Super League,Hangzhou Greentown,Chengdu Better City,2-3,AH,AWAY,0,1.725,70,2-2,8.57,61,WON,44.23
+2026-08-15,Premier League (333),Kryvbas KR,Livyi Bereh,1-1,AH,AWAY,0,2.425,10,0-0,0,50,PUSH,0
+2026-08-15,Premier League (333),Kryvbas KR,Livyi Bereh,1-1,AH,AWAY,-1,1.975,24,1-0,0,50,WON,48.75
+2026-08-15,Chinese Super League,Shanghai Shenhua,Henan Jianye,4-1,AH,HOME,0.5,1.775,41,0-1,4.78,63,WON,48.83
+2026-08-15,Chinese Super League,Shanghai Shenhua,Henan Jianye,4-1,AH,AWAY,-0.5,1.825,45,1-1,4,50,LOST,-50
+2026-08-15,Chinese Super League,Shanghai Shenhua,Henan Jianye,4-1,OU,UNDER,4,2,67,,48.12,500,LOST,-500
+2026-08-15,3. Liga,SV Meppen,SG Sonnenhof Grossaspach,2-0,AH,AWAY,-1,1.7,10,1-0,0,50,PUSH,0
+2026-08-15,3. Liga,Preußen Münster,FC Ingolstadt 04,1-1,AH,AWAY,0,1.85,10,0-0,0,50,PUSH,0
+2026-08-15,Premier League (116),FC Gomel,Naftan,6-0,AH,AWAY,-1,1.98,10,0-0,0,50,LOST,-50
+2026-08-15,3. Liga,Fortuna Köln,Alemannia Aachen,1-1,AH,HOME,1.5,1.825,12,0-1,0,50,WON,41.25
+2026-08-15,3. Liga,Fortuna Köln,Alemannia Aachen,1-1,AH,HOME,1,2.15,23,0-1,0,50,WON,57.5
+2026-08-15,Chinese Super League,Yunnan Yukun,Dalian Zhixing,3-1,AH,HOME,0.5,1.975,13,0-0,0,50,WON,48.75
+2026-08-15,Premier League (333),Kudrivka,Obolon'-Brovar,0-0,AH,AWAY,0,2.425,27,0-0,0,50,PUSH,0
+2026-08-15,Super League (391),Silver Strikers,Ekhaya,3-0,AH,AWAY,-1,2.025,10,0-0,0,50,LOST,-50
+2026-08-15,Super League (391),Chitipa United,Mitundu Baptist,1-0,AH,HOME,-0.5,2.625,13,0-0,0,50,HALF_WON,40.63
+2026-08-15,Super League (391),Chitipa United,Mitundu Baptist,1-0,AH,AWAY,0,1.925,15,0-0,0,50,LOST,-50
+2026-08-15,Super League (391),Red Lions,Moyale Barracks,1-0,AH,AWAY,-0.5,1.775,12,0-0,0,50,HALF_LOST,-25
+2026-08-15,Super League (391),Red Lions,Moyale Barracks,1-0,AH,AWAY,0,2.625,13,0-0,0,50,LOST,-50
+2026-08-15,Tweede Divisie,Hoek,Koninklijke HFC,3-1,AH,AWAY,-1,1.975,10,0-0,0,50,LOST,-50
+2026-08-15,Friendlies Clubs,Werder Bremen,Auxerre,0-1,AH,AWAY,-0.5,1.975,10,0-0,0,50,WON,48.75
+2026-08-15,Ekstraklasa,Zaglebie Lubin,Slask Wroclaw,2-1,AH,AWAY,-0.5,1.8,10,0-0,0,50,HALF_LOST,-25
+2026-08-15,Championship,Stoke City,Swansea,1-2,AH,HOME,1,1.7,78,1-2,-4.31,35,WON,24.5
+2026-08-15,Championship,Charlton,Derby,2-1,OU,OVER,2.75,2,66,,45.73,50,WON,50
+2026-08-15,Eerste Divisie,FC Volendam,FC OSS,3-0,AH,AWAY,-1.5,1.875,23,1-0,0,50,HALF_LOST,-25
+2026-08-15,Eredivisie,Willem II,NEC Nijmegen,1-4,AH,HOME,0.5,2.025,42,0-0,8.57,50,LOST,-50
+2026-08-15,First League,Tikveš,Shkëndija Haraçinë,0-1,AH,HOME,0.5,1.8,27,0-1,0,50,HALF_WON,20
+2026-08-15,First League,Tikveš,Shkëndija Haraçinë,0-1,AH,HOME,0,2.475,30,0-1,0,50,PUSH,0
+2026-08-15,Primeira Liga,Alverca,Estrela,2-2,OU,OVER,3.75,2.025,67,,59.3,500,WON,512.5
+2026-08-15,Segunda Liga,Sporting CP B,Chaves,1-0,AH,AWAY,0,2.425,26,0-0,0,50,LOST,-50
+2026-08-15,Friendlies Clubs,Manchester United,AC Milan,2-4,AH,AWAY,-1.5,1.875,10,1-0,0,50,WON,43.75
+2026-08-15,Czech Liga,Sparta Praha,Teplice,4-1,AH,AWAY,-1,1.9,26,1-1,0,50,LOST,-50
+2026-08-15,Premier League (116),Neman,FC Minsk,2-1,AH,AWAY,-0.5,1.78,22,0-0,0,50,HALF_LOST,-25
+2026-08-15,Friendlies Clubs,Fulham,VfB Stuttgart,1-0,AH,AWAY,0,1.925,15,0-0,0,50,LOST,-50
+2026-08-15,Superettan,Sandviken,IFK Norrkoping,1-4,AH,AWAY,0,1.95,22,0-0,0,50,WON,47.5
+2026-08-15,Erovnuli Liga,Dinamo Tbilisi,Rustavi,0-3,AH,AWAY,0,2.35,21,0-0,0,50,WON,67.5
+2026-08-15,Czech Liga,Pardubice,Mlada Boleslav,1-1,AH,AWAY,-1,2.025,17,1-0,0,50,WON,51.25
+2026-08-15,Bundesliga (218),Austria Lustenau,Wolfsberger AC,2-1,AH,AWAY,-0.5,2.025,29,1-0,12.41,50,HALF_WON,25.62
+2026-08-15,Premier League (389),Kaisar,Aktobe,1-2,AH,AWAY,-0.5,1.95,17,1-0,0,50,WON,47.5
+2026-08-15,2. Liga,Sturm Graz II,Admira Wacker,0-2,AH,HOME,0.5,1.9,12,0-0,0,50,LOST,-50
+2026-08-15,2. Liga,Sturm Graz II,Admira Wacker,0-2,AH,HOME,1.5,1.925,15,0-1,0,50,HALF_WON,23.13
+2026-08-15,2. Liga,Sturm Graz II,Admira Wacker,0-2,AH,HOME,1,2.2,26,0-1,0,50,PUSH,0
+2026-08-15,Tweede Divisie,Almere City II,Rijnsburgse Boys,4-0,AH,AWAY,-0.5,2.05,26,0-0,0,50,LOST,-50
+2026-08-15,Premier Soccer League,Sekhukhune United,Polokwane City,2-0,AH,AWAY,-1,2.075,13,1-0,0,50,PUSH,0
+2026-08-15,Friendlies Clubs,Angers,Paris FC,3-2,AH,AWAY,-0.5,2,13,1-0,0,50,HALF_WON,25
+2026-08-15,Friendlies Clubs,Borussia Dortmund,AS Roma,2-2,AH,HOME,1.5,1.825,10,0-2,0,50,WON,41.25
+2026-08-15,Friendlies Clubs,Borussia Dortmund,AS Roma,2-2,AH,AWAY,-0.5,1.925,28,2-2,0,50,HALF_WON,23.13
+2026-08-15,Ekstraklasa,Piast Gliwice,Wieczysta Kraków,3-4,AH,HOME,0.5,2.05,10,0-1,0,50,HALF_WON,26.25
+2026-08-15,NB I,Nyiregyhaza,Kisvarda FC,2-1,AH,AWAY,-0.5,1.975,13,0-0,0,50,HALF_LOST,-25
+2026-08-15,Liga I,Csikszereda,Sepsi OSK Sfantu Gheorghe,0-0,AH,HOME,0.5,1.775,20,0-0,0,50,HALF_WON,19.37
+2026-08-15,Liga I,Csikszereda,Sepsi OSK Sfantu Gheorghe,0-0,AH,HOME,0,2.75,23,0-0,0,50,PUSH,0
+2026-08-15,Super Liga,Skalica,FK Košice,2-4,AH,HOME,1,1.975,10,0-1,0,50,PUSH,0
+2026-08-15,Veikkausliiga,Mariehamn,SJK,2-0,AH,HOME,0.5,2,12,0-0,0,50,WON,50
+2026-08-15,Veikkausliiga,Mariehamn,SJK,2-0,AH,AWAY,-0.5,1.825,18,1-0,0,50,HALF_LOST,-25
+2026-08-15,1. SNL,Nafta,Celje,1-3,AH,HOME,1,1.9,10,0-1,0,50,PUSH,0
+2026-08-15,1. Lig,Fatih Karagümrük,Ümraniyespor,2-1,AH,AWAY,-0.5,2,17,0-0,0,50,HALF_LOST,-25
+2026-08-15,Tweede Divisie,De Treffers,GVVV Veenendaal,5-1,AH,AWAY,-1,1.9,10,0-0,0,50,LOST,-50
+2026-08-15,Süper Lig,Kasımpaşa,Trabzonspor,1-1,AH,HOME,0.5,1.925,13,0-0,0,50,HALF_WON,23.13
+2026-08-15,Süper Lig,Kasımpaşa,Trabzonspor,1-1,AH,HOME,1,2.15,46,0-1,-8.41,60,WON,69
+2026-08-15,Friendlies Clubs,Le Mans,Le Havre,0-1,AH,AWAY,0,1.825,10,0-0,0,50,WON,41.25
+2026-08-15,Friendlies Clubs,Le Mans,Le Havre,0-1,AH,HOME,1,1.95,30,0-1,0,50,WON,47.5
+2026-08-15,Primera División,Juventud,Atletico Torque,0-1,AH,AWAY,-0.5,1.775,12,0-0,0,50,WON,38.75
+2026-08-15,Primera División,Juventud,Atletico Torque,0-1,AH,AWAY,0,2.675,17,0-0,0,50,WON,83.75
+2026-08-15,Pro League (307),Al Taawon,Al Khaleej Saihat,0-0,AH,AWAY,0,2.05,16,0-0,-4,50,PUSH,0
+2026-08-15,Pro League (307),Al Taawon,Al Khaleej Saihat,0-0,OU,OVER,1,2.05,60,,40.5,50,LOST,-50
+2026-08-15,Coppa Italia,Catanzaro,Sudtirol,2-2,AH,AWAY,-0.5,1.825,10,0-0,0,50,HALF_WON,20.63
+2026-08-15,Coppa Italia,Catanzaro,Sudtirol,2-2,AH,HOME,0.5,1.825,19,0-1,0,50,WON,41.25
+2026-08-15,2. Liga,SV Kapfenberg,Wacker Innsbruck,0-1,AH,AWAY,0,1.775,17,0-0,0,50,WON,38.75
+2026-08-15,Championship,Sheffield Utd,Birmingham,0-0,AH,AWAY,0,2.6,10,0-0,0,50,PUSH,0
+2026-08-15,Championship,Sheffield Utd,Birmingham,0-0,AH,AWAY,-0.5,1.8,11,0-0,0,50,HALF_WON,20
+2026-08-15,Championship,Sheffield Utd,Birmingham,0-0,OU,OVER,0.75,2,64,,29.51,50,LOST,-50
+2026-08-15,2. Liga,Austria Vienna (Am),Austria Salzburg,3-1,AH,HOME,0.5,1.95,10,0-0,0,50,WON,47.5
+2026-08-15,2. Liga,Austria Vienna (Am),Austria Salzburg,3-1,AH,AWAY,-0.5,1.8,23,1-0,0,50,HALF_LOST,-25
+2026-08-15,2. Liga,Austria Vienna (Am),Austria Salzburg,3-1,AH,AWAY,-1.5,1.775,28,2-0,0,50,WON,38.75
+2026-08-15,Friendlies Clubs,Laredo,Cristo Atlético,1-1,AH,HOME,1,1.9,10,0-1,0,50,WON,45
+2026-08-15,Friendlies Clubs,Laredo,Cristo Atlético,1-1,AH,AWAY,0,1.8,24,1-1,0,50,PUSH,0
+2026-08-15,Coppa Italia,Udinese,Padova,1-0,AH,AWAY,-1,2,11,0-0,0,50,PUSH,0
+2026-08-15,2. Liga,Voitsberg,Schwarz-Weiß Bregenz,0-0,AH,AWAY,-0.5,2,11,0-0,0,50,HALF_WON,25
+2026-08-15,League Cup,Dundee Utd,Celtic,0-4,AH,HOME,1,1.85,10,0-0,0,50,LOST,-50
+2026-08-15,League Cup,Dundee Utd,Celtic,0-4,AH,HOME,0.5,2.2,21,0-0,0,50,LOST,-50
+2026-08-15,Eredivisie,Utrecht,AZ Alkmaar,1-4,AH,HOME,1,1.95,45,0-1,-7.5,62,LOST,-62
+2026-08-15,Pro League (301),Al-Wasl FC,Dubai United,5-1,AH,AWAY,-1,1.95,28,1-1,0,50,LOST,-50
+2026-08-15,Friendlies Clubs,Villarreal II,Zaragoza,0-2,AH,AWAY,0,1.95,16,0-0,0,50,WON,47.5
+2026-08-15,Premier League (116),Bate Borisov,FC Vitebsk,1-0,AH,AWAY,0,1.87,23,0-0,0,50,LOST,-50
+2026-08-15,Pro League (301),Khorfakkan,Shabab Al Ahli Dubai,1-5,AH,HOME,1,2.5,14,0-0,0,50,LOST,-50
+2026-08-15,Friendlies Clubs,Toulouse,Hamburger SV,1-2,AH,HOME,0.5,2.2,12,0-1,0,50,HALF_WON,30
+2026-08-15,Erovnuli Liga,Torpedo Kutaisi,Saburtalo,4-3,AH,AWAY,-1,1.975,10,1-0,0,50,WON,48.75
+2026-08-15,Segunda División,Oviedo,Granada CF,0-0,OU,OVER,0.5,2.15,70,,24.93,50,HALF_LOST,-25
+2026-08-15,Super Liga,Radnik Surdulica,Macva,2-1,AH,AWAY,-0.5,1.975,10,0-0,0,50,HALF_LOST,-25
+2026-08-15,Segunda División,Cadiz,Celta de Vigo II,0-0,AH,AWAY,-0.5,1.8,14,0-0,0,50,HALF_WON,20
+2026-08-15,Segunda División,Cadiz,Celta de Vigo II,0-0,AH,AWAY,0,2.75,18,0-0,0,50,PUSH,0
+2026-08-15,Primeira Liga,Academico Viseu,Santa Clara,0-1,AH,HOME,1,1.7,81,0-1,-6.44,44.8,WON,31.36
+2026-08-15,Segunda Liga,Torreense,Penafiel,2-2,AH,HOME,0.5,1.825,15,0-1,0,50,WON,41.25
+2026-08-15,Segunda Liga,Torreense,Penafiel,2-2,AH,HOME,1.5,1.775,18,0-2,0,50,WON,38.75
+2026-08-15,Bundesliga (218),Sturm Graz,SCR Altach,1-0,AH,AWAY,-0.5,1.95,13,0-0,0,50,HALF_LOST,-25
+2026-08-15,Bundesliga (218),Sturm Graz,SCR Altach,1-0,AH,AWAY,0,2.5,31,0-0,-39.03,50,LOST,-50
+2026-08-15,Liga Profesional Argentina,San Lorenzo,Union Santa Fe,1-0,AH,AWAY,0,1.85,10,0-0,0,50,LOST,-50
+2026-08-15,Liga Profesional Argentina,San Lorenzo,Union Santa Fe,1-0,OU,OVER,1,2.1,50,,34.2,50,PUSH,0
+2026-08-15,Liga Profesional Argentina,Aldosivi,Tigre,0-0,AH,AWAY,0,1.7,20,0-0,-7.5,50,PUSH,0
+2026-08-15,Liga Profesional Argentina,Aldosivi,Tigre,0-0,OU,OVER,0.75,2,58,,44.03,50,LOST,-50
+2026-08-15,Friendlies Clubs,Inter,Real Betis,1-0,AH,AWAY,-0.5,1.925,10,0-0,0,50,HALF_LOST,-25
+2026-08-15,Premier League (235),FC Krasnodar,Akhmat,1-0,AH,AWAY,-0.5,2.04,38,0-0,-4.24,50,HALF_LOST,-25
+2026-08-15,Friendlies Clubs,Águilas,Lorca Deportiva,1-0,AH,AWAY,-0.5,1.8,10,0-0,0,50,HALF_LOST,-25
+2026-08-15,Eredivisie,Excelsior,PSV Eindhoven,1-2,AH,HOME,1.5,1.875,45,0-1,-9,95,WON,83.13
+2026-08-15,Eredivisie,Excelsior,PSV Eindhoven,1-2,AH,HOME,0.5,1.85,54,0-1,-13.67,67,HALF_WON,28.48
+2026-08-15,Eredivisie,Excelsior,PSV Eindhoven,1-2,OU,OVER,3.5,2.025,57,,25.79,500,HALF_LOST,-250
+2026-08-15,Czech Liga,Plzen,Zlin,3-2,AH,AWAY,-1,2.05,30,1-1,0,50,PUSH,0
+2026-08-15,Premier Soccer League,Durban City,Richards Bay,1-1,AH,HOME,0.5,2.05,10,0-1,0,50,WON,52.5
+2026-08-15,Primera División,ADT,Alianza Atletico,1-1,AH,AWAY,-0.5,1.875,24,0-0,8.5,50,HALF_WON,21.88
+2026-08-15,Primera División,ADT,Alianza Atletico,1-1,AH,HOME,0.5,1.825,27,0-1,7.67,50,WON,41.25
+2026-08-15,Challenger Pro League,Excelsior Virton,K. Lierse S.K.,3-0,AH,AWAY,0,2,20,0-0,0,50,LOST,-50
+2026-08-15,Pro League (307),Al-Ittihad FC,Al Kholood,1-1,AH,AWAY,-1,1.775,11,0-0,0,50,WON,38.75
+2026-08-15,Pro League (307),Al-Ittihad FC,Al Kholood,1-1,AH,AWAY,-0.5,2.025,38,0-0,-3.24,50,HALF_WON,25.62
+2026-08-15,Pro League (307),Al-Ittihad FC,Al Kholood,1-1,AH,AWAY,-1.5,1.925,44,1-0,0.5,50,WON,46.25
+2026-08-15,Pro League (307),Al-Ittihad FC,Al Kholood,1-1,AH,AWAY,0,1.7,58,1-1,-2.1,50,PUSH,0
+2026-08-15,First League,Ludogorets,Botev Plovdiv,2-0,AH,AWAY,-1,1.825,10,0-0,0,50,LOST,-50
+2026-08-15,First League,Ludogorets,Botev Plovdiv,2-0,AH,AWAY,-0.5,2.2,30,0-0,0,50,LOST,-50
+2026-08-15,Ekstraklasa,Widzew Łódź,Korona Kielce,1-2,AH,AWAY,-0.5,1.75,24,1-1,0,50,WON,37.5
+2026-08-15,Ekstraklasa,Widzew Łódź,Korona Kielce,1-2,AH,HOME,0.5,1.85,27,1-2,0,50,HALF_WON,21.25
+2026-08-15,Süper Lig,Gaziantep FK,Alanyaspor,1-1,AH,HOME,0.5,2.1,24,0-1,-10,57,WON,62.7
+2026-08-15,1. SNL,Olimpija Ljubljana,Maribor,1-1,AH,AWAY,0,1.75,18,0-0,0,50,PUSH,0
+2026-08-15,Liga I,Rapid,Dinamo Bucuresti,0-1,AH,AWAY,0,1.95,10,0-0,0,50,WON,47.5
+2026-08-15,Liga I,Rapid,Dinamo Bucuresti,0-1,AH,HOME,-0.5,2.675,27,0-0,0,50,LOST,-50
+2026-08-15,Super Liga,Podbrezová,AS Trencin,2-1,AH,AWAY,-1.5,2,12,1-0,0,50,WON,50
+2026-08-15,1. Lig,Bursaspor,Iğdır FK,1-0,AH,AWAY,-1.5,2.025,23,1-0,0,50,WON,51.25
+2026-08-15,2. Bundesliga,1. FC Kaiserslautern,Karlsruher SC,0-0,AH,AWAY,0,2.2,45,0-0,7.5,50,PUSH,0
+2026-08-15,2. Bundesliga,1. FC Kaiserslautern,Karlsruher SC,0-0,OU,OVER,1,2.025,60,,48.5,50,LOST,-50
+2026-08-15,Friendlies Clubs,Pontevedra,Ourense CF,2-1,AH,AWAY,-0.5,1.825,18,1-1,0,50,HALF_LOST,-25
+2026-08-15,Pro League,OH Leuven,Club Brugge KV,0-3,AH,HOME,1,1.95,10,0-0,0,50,LOST,-50
+2026-08-15,Coppa Italia,Venezia,Modena,3-2,AH,AWAY,-1,1.825,27,1-1,0,50,PUSH,0
+2026-08-15,HNL,NK Osijek,NK Lokomotiva Zagreb,1-0,AH,AWAY,-0.5,1.925,10,0-0,0,50,HALF_LOST,-25
+2026-08-15,Eredivisie,Fortuna Sittard,Cambuur,3-1,AH,AWAY,-1.5,2,27,2-1,25,77,HALF_WON,38.5
+2026-08-15,Division Profesional - Clausura,Club Guarani,Rubio NU,2-3,AH,AWAY,0,2.05,12,0-0,0,50,WON,52.5
+2026-08-15,Division Profesional - Clausura,Club Guarani,Rubio NU,2-3,AH,HOME,-0.5,2.675,29,0-0,0,50,LOST,-50
+2026-08-15,Primera División,Real Oruro,Oriente Petrolero,2-3,AH,HOME,0.5,1.9,13,0-1,0,50,HALF_WON,22.5
+2026-08-15,Primera División,Real Oruro,Oriente Petrolero,2-3,AH,AWAY,0,2.075,26,1-1,0,50,WON,53.75
+2026-08-15,Liga Pro,Manta FC,Leones del Norte,0-2,AH,AWAY,0,2.025,11,0-0,0,50,WON,51.25
+2026-08-15,Brazilian Serie B,Atletico Goianiense,Vila Nova,0-2,AH,HOME,0.5,2.075,45,0-1,17,64,HALF_LOST,-32
+2026-08-15,Super Liga,Cukaricki,OFK Beograd,2-0,AH,AWAY,0,2.3,12,0-0,0,50,LOST,-50
+2026-08-15,Super Liga,Cukaricki,OFK Beograd,2-0,AH,AWAY,-1,1.9,20,0-0,0,50,LOST,-50
+2026-08-15,Torneo Federal A,Tucuman Central,Atletico Escobar,2-3,AH,HOME,-0.5,2.5,12,0-0,0,50,LOST,-50
+2026-08-15,Torneo Federal A,Tucuman Central,Atletico Escobar,2-3,AH,AWAY,-1,1.9,17,1-0,0,50,WON,45
+2026-08-15,Brazilian Serie B,Criciuma,Goias,1-0,AH,AWAY,-1.5,1.925,10,1-0,0,74,WON,68.45
+2026-08-15,Brazilian Serie B,Criciuma,Goias,1-0,OU,OVER,1.75,2,62,,52.24,500,LOST,-500
+2026-08-15,Brazilian Serie B,Ceara,Cuiaba,1-3,AH,AWAY,0,2.2,16,0-0,12.75,50,WON,60
+2026-08-15,Brazilian Serie B,Ceara,Cuiaba,1-3,OU,OVER,2,2.075,51,,32.21,500,WON,537.5
+2026-08-15,Segunda División,Mallorca,Valladolid,2-0,AH,AWAY,-0.5,2,12,0-0,0,50,LOST,-50
+2026-08-15,Primeira Liga,Rio Ave,FC Porto,0-2,AH,HOME,1.5,1.85,58,0-1,-6.1,99,HALF_WON,42.08
+2026-08-15,Primeira Liga,Rio Ave,FC Porto,0-2,OU,OVER,2,2.05,62,,35.63,500,PUSH,0
+2026-08-15,Brazilian Serie A,Fluminense,Palmeiras,3-2,AH,HOME,1,1.8,22,0-1,-5,61,WON,48.8
+2026-08-15,Brazilian Serie A,Fluminense,Palmeiras,3-2,AH,AWAY,0,1.825,45,1-1,-11,50,LOST,-50
+2026-08-15,Brazilian Serie A,Fluminense,Palmeiras,3-2,OU,OVER,3,2.025,59,,58.67,500,WON,512.5
+2026-08-15,Primera División,Racing Montevideo,Club Nacional,2-0,AH,AWAY,0,1.85,12,0-0,0,50,LOST,-50
+2026-08-15,Liga Profesional Argentina,Estudiantes L.P.,Gimnasia L.P.,4-0,AH,AWAY,-0.5,1.825,11,0-0,0,50,LOST,-50
+2026-08-15,La Liga,Sevilla,Rayo Vallecano,2-1,AH,HOME,0.5,2,10,0-1,0,91,WON,91
+2026-08-15,Serie C,Amazonas,Botafogo PB,0-0,AH,HOME,0.5,1.8,10,0-0,0,50,HALF_WON,20
+2026-08-15,Serie C,Volta Redonda,Ituano,1-0,AH,AWAY,0,2.075,13,0-0,0,50,LOST,-50
+2026-08-15,Primera División,Guabirá,The Strongest,3-1,AH,AWAY,0,2.025,10,0-0,0,50,LOST,-50
+2026-08-15,Primera División,Guabirá,The Strongest,3-1,AH,AWAY,-1,1.85,23,0-0,0,50,LOST,-50
+2026-08-15,Canadian Premier League,Cavalry FC,Forge,2-1,AH,AWAY,0,2,10,0-0,0,50,LOST,-50
+2026-08-15,Canadian Premier League,Cavalry FC,Forge,2-1,AH,HOME,1,1.725,20,0-1,0,50,WON,36.25
+2026-08-15,Brazilian Serie B,Juventude,Fortaleza EC,0-0,AH,AWAY,0,2.3,37,0-0,2.86,50,PUSH,0
+2026-08-15,Brazilian Serie B,Juventude,Fortaleza EC,0-0,OU,OVER,0.75,2.025,55,,19.37,500,LOST,-500
+2026-08-15,Division Profesional - Clausura,Sportivo Trinidense,Nacional Asuncion,1-1,AH,AWAY,0,1.825,10,0-0,0,50,PUSH,0
+2026-08-15,Brazilian Serie A,Atletico Paranaense,RB Bragantino,1-1,AH,AWAY,-0.5,2.025,13,0-0,0,50,HALF_WON,25.62
+2026-08-15,Liga Pro,Guayaquil City FC,Libertad,2-2,AH,AWAY,-0.5,1.95,10,0-0,0,50,HALF_WON,23.75
+2026-08-15,Liga Pro,Guayaquil City FC,Libertad,2-2,AH,HOME,0.5,1.775,19,0-1,0,50,WON,38.75
+2026-08-15,Liga Pro,Guayaquil City FC,Libertad,2-2,AH,HOME,1.5,1.8,24,0-1,0,50,WON,40
+2026-08-15,NWSL Women,Racing Louisville W,Boston Legacy W,4-1,AH,AWAY,0,1.775,11,0-0,0,50,LOST,-50
+2026-08-15,NWSL Women,Racing Louisville W,Boston Legacy W,4-1,AH,HOME,-0.5,2.6,17,0-0,0,50,WON,80
+2026-08-15,Primera División,Wanderers,Cerro Largo,1-1,AH,AWAY,0,2.375,21,0-0,0,50,PUSH,0
+2026-08-15,Liga MX,Atlante FC,Toluca,0-0,AH,HOME,0.5,2.025,12,0-0,0,50,HALF_WON,25.62
+2026-08-15,USL Championship,Detroit City,Loudoun United,0-0,AH,AWAY,-0.5,2.025,26,0-0,0,50,HALF_WON,25.62
+2026-08-15,USL Championship,Pittsburgh Riverhounds,Charleston Battery,3-1,AH,AWAY,-1,1.825,10,1-0,0,50,PUSH,0
+2026-08-15,USL Championship,Hartford Athletic,Miami FC,2-1,AH,AWAY,-0.5,1.975,10,0-0,0,50,HALF_LOST,-25
+2026-08-15,USL Championship,Hartford Athletic,Miami FC,2-1,AH,AWAY,-1.5,1.8,18,1-0,0,50,WON,40
+2026-08-15,Liga Panameña de Fútbol,Deportivo Universitario,Union Cocle,1-1,AH,AWAY,0,1.875,10,0-0,0,50,PUSH,0
+2026-08-15,Liga Panameña de Fútbol,Deportivo Universitario,Union Cocle,1-1,AH,HOME,-0.5,2.625,12,0-0,0,50,HALF_LOST,-25
+2026-08-15,Primera División,Blooming,Aurora,3-0,AH,AWAY,-0.5,2,10,0-0,0,50,LOST,-50
+2026-08-15,Primera División,Blooming,Aurora,3-0,AH,AWAY,-1.5,1.875,18,1-0,0,50,HALF_LOST,-25
+2026-08-15,Major League Soccer,CF Montreal,DC United,1-1,AH,AWAY,0,2.25,19,0-0,0,50,PUSH,0
+2026-08-15,USL Championship,Tampa Bay Rowdies,Rhode Island,2-0,AH,AWAY,-0.5,1.825,10,0-0,0,50,LOST,-50
+2026-08-15,Major League Soccer,Atlanta United FC,New York Red Bulls,2-1,AH,HOME,0.5,1.95,10,0-1,0,50,WON,47.5
+2026-08-15,Major League Soccer,Toronto FC,New England Revolution,2-1,AH,AWAY,0,2.05,11,0-0,0,50,LOST,-50
+2026-08-15,Major League Soccer,Orlando City SC,FC Cincinnati,1-1,AH,AWAY,0,1.8,10,0-0,0,50,PUSH,0
+2026-08-16,Liga Pro,Mushuc Runa SC,Barcelona SC,0-0,AH,AWAY,-0.5,1.775,10,0-0,0,50,HALF_WON,19.37
+2026-08-16,Liga Pro,Mushuc Runa SC,Barcelona SC,0-0,AH,AWAY,0,2.05,23,0-0,0,50,PUSH,0
+2026-08-16,Brazilian Serie A,Sao Paulo,Coritiba,1-1,AH,AWAY,-0.5,2.025,13,0-0,0,50,HALF_WON,25.62
+2026-08-16,Primera División,Everton de Vina,A. Italiano,1-1,AH,AWAY,-0.5,1.95,10,0-0,0,50,HALF_WON,23.75
+2026-08-16,Primera División,Everton de Vina,A. Italiano,1-1,AH,HOME,0.5,1.8,18,0-1,0,50,WON,40
+2026-08-16,Major League Soccer,Nashville SC,Inter Miami,4-1,AH,AWAY,0,1.975,10,0-0,0,50,LOST,-50
+2026-08-16,Major League Soccer,Nashville SC,Inter Miami,4-1,AH,AWAY,-1,2,17,1-0,0,50,LOST,-50
+2026-08-16,Major League Soccer,Houston Dynamo,Los Angeles Galaxy,1-0,AH,AWAY,-1.5,1.8,22,1-0,0,50,WON,40
+2026-08-16,USL Championship,San Antonio,El Paso Locomotive,0-3,AH,HOME,0.5,2,21,0-1,0,50,LOST,-50
+2026-08-16,USL Championship,Colorado Springs,Birmingham Legion,3-2,AH,AWAY,-1,1.875,10,0-0,0,50,PUSH,0
+2026-08-16,USL Championship,Colorado Springs,Birmingham Legion,3-2,AH,AWAY,-0.5,2.375,20,0-0,0,50,HALF_LOST,-25
+2026-08-16,Liga Panameña de Fútbol,UMECIT,Sporting San Miguelito,0-1,AH,AWAY,0,1.825,12,0-0,0,50,WON,41.25
+2026-08-16,Major League Soccer,Real Salt Lake,Minnesota United FC,1-1,AH,AWAY,-0.5,1.875,10,0-0,0,50,HALF_WON,21.88
+2026-08-16,USL Championship,New Mexico United,FC Tulsa,1-0,AH,AWAY,0,2.375,12,0-0,0,50,LOST,-50
+2026-08-16,Major League Soccer,Colorado Rapids,Sporting Kansas City,2-0,AH,AWAY,-1,1.95,10,0-0,0,50,LOST,-50
+2026-08-16,Major League Soccer,Colorado Rapids,Sporting Kansas City,2-0,AH,AWAY,-0.5,2.6,19,0-0,0,50,LOST,-50
+2026-08-16,USL Championship,Oakland Roots,Monterey Bay,1-1,AH,AWAY,-0.5,1.8,10,0-0,0,50,HALF_WON,20
+2026-08-16,USL Championship,Orange County SC,Louisville City,2-3,AH,HOME,1.5,1.775,14,0-1,0,50,WON,38.75
+2026-08-16,Major League Soccer,San Jose Earthquakes,St. Louis City,1-3,AH,HOME,0.5,1.975,11,0-1,0,50,HALF_LOST,-25
+2026-08-16,USL Championship,Las Vegas Lights,Brooklyn,2-1,AH,HOME,0.5,1.8,15,0-1,0,50,WON,40
+2026-08-16,Major League Soccer,Los Angeles FC,San Diego,0-1,AH,AWAY,-1,1.8,10,0-0,0,50,WON,40
+2026-08-16,Major League Soccer,Los Angeles FC,San Diego,0-1,AH,AWAY,-0.5,1.9,24,1-0,0,50,WON,45
+2026-08-16,USL Championship,Sacramento Republic,Lexington,1-0,AH,AWAY,-0.5,1.8,10,0-0,0,50,HALF_LOST,-25
+2026-08-16,USL Championship,Sacramento Republic,Lexington,1-0,AH,AWAY,0,2.375,27,0-0,0,50,LOST,-50
+2026-08-16,Liga MX,Atlas,Tigres UANL,2-1,AH,AWAY,-0.5,1.95,10,1-0,0,50,HALF_WON,23.75
+2026-08-16,Liga MX,Atlas,Tigres UANL,2-1,AH,HOME,0.5,1.75,29,1-1,0,50,WON,37.5
+2026-08-16,Premier League (333),LNZ Cherkasy,Chornomorets,2-0,AH,AWAY,-1,1.9,10,0-0,0,50,LOST,-50
+2026-08-16,Segunda Liga,Portimonense,Vizela,2-0,AH,AWAY,0,1.775,10,0-0,0,50,LOST,-50
+2026-08-16,Segunda Liga,Portimonense,Vizela,2-0,AH,HOME,-0.5,2.75,25,0-0,0,50,WON,87.5
+2026-08-16,Eredivisie,ADO Den Haag,Groningen,1-4,AH,HOME,1,1.825,15,0-0,0,50,LOST,-50
+2026-08-16,K League 2,Gimpo Citizen,Cheonan City,1-1,AH,AWAY,-0.5,2.15,10,0-0,0,50,HALF_WON,28.75
+2026-08-16,K League 2,Gimpo Citizen,Cheonan City,1-1,AH,AWAY,-1.5,2,30,1-0,0,50,WON,50
+2026-08-16,K League 2,Seoul E-Land FC,Ansan Greeners,3-1,AH,AWAY,-1,2.025,16,1-1,0,50,LOST,-50
+2026-08-16,K League 2,Paju Citizen,Seongnam FC,2-1,AH,HOME,1,1.85,18,0-0,0,50,WON,42.5
+2026-08-16,K League 1,Bucheon FC 1995,Jeonbuk Motors,3-2,AH,HOME,0.5,2,10,0-0,0,50,WON,50
+2026-08-16,K League 1,Bucheon FC 1995,Jeonbuk Motors,3-2,AH,AWAY,0,2.05,13,1-0,0,50,PUSH,0
+2026-08-16,K League 1,Bucheon FC 1995,Jeonbuk Motors,3-2,AH,AWAY,-1,1.875,16,2-0,0,85,WON,74.38
+2026-08-16,K League 1,Incheon United,Gimcheon Sangmu FC,1-1,AH,AWAY,0,2.3,21,0-0,0,50,PUSH,0
+2026-08-16,K League 1,Ulsan Hyundai FC,Gangwon FC,2-3,AH,AWAY,0,1.925,10,0-0,0,50,WON,46.25
+2026-08-16,K League 1,Ulsan Hyundai FC,Gangwon FC,2-3,AH,HOME,-0.5,2.6,12,0-0,0,50,LOST,-50
+2026-08-16,K League 1,Ulsan Hyundai FC,Gangwon FC,2-3,AH,AWAY,-1,1.975,15,0-0,0,62,WON,60.45
+2026-08-16,Superettan,IFK Varnamo,Ostersunds FK,1-1,AH,AWAY,0,1.925,10,0-0,0,50,PUSH,0
+2026-08-16,Superettan,IFK Varnamo,Ostersunds FK,1-1,AH,AWAY,-0.5,2.025,28,1-0,0,50,WON,51.25
+2026-08-16,Division Profesional - Clausura,Cerro Porteno,Club Sp. San Lorenzo,1-0,AH,AWAY,-1,2.05,10,0-0,0,50,PUSH,0
+2026-08-16,Friendlies Clubs,Tottenham,1899 Hoffenheim,2-2,AH,AWAY,0,2,10,0-0,0,50,PUSH,0
+2026-08-16,Friendlies Clubs,Tottenham,1899 Hoffenheim,2-2,AH,HOME,1,1.9,16,0-0,0,50,WON,45
+2026-08-16,2. Bundesliga,Dynamo Dresden,SV Darmstadt 98,1-0,AH,AWAY,-0.5,1.825,10,0-0,0,50,HALF_LOST,-25
+2026-08-16,2. Bundesliga,Dynamo Dresden,SV Darmstadt 98,1-0,AH,AWAY,-1.5,1.8,12,1-0,0,50,WON,40
+2026-08-16,2. Bundesliga,Dynamo Dresden,SV Darmstadt 98,1-0,AH,AWAY,0,2.12,58,1-0,11.1,50,PUSH,0
+2026-08-16,2. Bundesliga,Dynamo Dresden,SV Darmstadt 98,1-0,AH,AWAY,-1,1.85,69,1-0,4.4,50,WON,42.5
+2026-08-16,2. Bundesliga,Dynamo Dresden,SV Darmstadt 98,1-0,OU,OVER,2,2,61,,25.75,50,LOST,-50
+2026-08-16,3. Liga,Hansa Rostock,Waldhof Mannheim,3-3,AH,HOME,0,2.1,21,0-1,0,50,WON,55
+2026-08-16,3. Liga,Hansa Rostock,Waldhof Mannheim,3-3,AH,HOME,1,2.05,30,0-2,0,50,WON,52.5
+2026-08-16,2. Bundesliga,Hannover 96,VfL Wolfsburg,0-1,AH,AWAY,-0.5,1.775,17,0-0,0,50,WON,38.75
+2026-08-16,2. Bundesliga,Hannover 96,VfL Wolfsburg,0-1,AH,AWAY,0,2.5,45,0-0,4,50,WON,75
+2026-08-16,2. Bundesliga,Hannover 96,VfL Wolfsburg,0-1,OU,UNDER,1,1.95,65,,33.66,50,PUSH,0
+2026-08-16,Pro League,SK Beveren,Anderlecht,1-0,AH,AWAY,-0.5,2,16,1-0,0,50,HALF_WON,25
+2026-08-16,Pro League,SK Beveren,Anderlecht,1-0,OU,UNDER,2,1.95,67,,39.37,500,WON,475
+2026-08-16,2. Bundesliga,Arminia Bielefeld,Energie Cottbus,3-0,AH,AWAY,-1,2,10,0-0,0,50,LOST,-50
+2026-08-16,Superliga,FC Nordsjaelland,Silkeborg,1-0,AH,AWAY,-1,2.05,43,0-0,34.8,50,PUSH,0
+2026-08-16,Damallsvenskan,Norrköping W,Kristianstad W,0-5,AH,AWAY,0,1.775,12,0-0,0,50,WON,38.75
+2026-08-16,Damallsvenskan,Norrköping W,Kristianstad W,0-5,AH,HOME,1,2.025,26,0-1,0,50,LOST,-50
+2026-08-16,Allsvenskan,IF Brommapojkarna,Orgryte IS,3-1,AH,AWAY,-0.5,1.975,10,0-0,0,50,LOST,-50
+2026-08-16,Allsvenskan,IF Brommapojkarna,Orgryte IS,3-1,AH,AWAY,0,2.2,58,1-0,-3.5,50,LOST,-50
+2026-08-16,Allsvenskan,IF Brommapojkarna,Orgryte IS,3-1,OU,OVER,4,2.075,63,,56,50,PUSH,0
+2026-08-16,Superliga,Odense,AC Horsens,1-2,AH,AWAY,-1.5,1.825,10,1-0,0,50,WON,41.25
+2026-08-16,Superliga,Odense,AC Horsens,1-2,AH,AWAY,-0.5,1.825,39,1-1,11.73,50,WON,41.25
+2026-08-16,Allsvenskan,Djurgardens IF,AIK Stockholm,1-3,AH,HOME,1,1.75,38,0-2,-12.48,50,WON,37.5
+2026-08-16,Allsvenskan,Djurgardens IF,AIK Stockholm,1-3,AH,HOME,1.5,1.775,62,1-3,-5.9,50,WON,38.75
+2026-08-16,Eredivisie,Feyenoord,GO Ahead Eagles,2-2,AH,AWAY,-1.5,1.7,72,2-1,35,112,WON,78.4
+2026-08-16,Super League (391),Dedza Dynamos,Creck,1-1,AH,AWAY,-0.5,1.975,10,0-0,0,50,HALF_WON,24.38
+2026-08-16,Premier League (333),FC Kharkiv,Shakhtar Donetsk,0-1,AH,HOME,1.5,1.95,10,0-1,0,50,WON,47.5
+2026-08-16,Premier League (333),FC Kharkiv,Shakhtar Donetsk,0-1,AH,HOME,0.5,1.96,11,0-1,0,50,HALF_WON,24
+2026-08-16,Super League (391),Blue Eagles,CIVO United,1-2,AH,AWAY,-1,1.725,10,0-0,0,50,WON,36.25
+2026-08-16,Super League (391),Blue Eagles,CIVO United,1-2,AH,AWAY,-1.5,1.95,24,1-0,0,50,WON,47.5
+2026-08-16,Championship,Watford,Southampton,2-1,AH,HOME,0.5,1.9,10,0-0,0,50,WON,45
+2026-08-16,Championship,Watford,Southampton,2-1,AH,AWAY,-0.5,1.725,19,1-0,11.47,50,HALF_WON,18.13
+2026-08-16,Championship,Watford,Southampton,2-1,AH,AWAY,-1.5,1.9,30,2-0,29,50,WON,45
+2026-08-16,Super League (391),Karonga United,Nyasa Big Bullets,0-1,AH,HOME,1,1.725,10,0-0,0,50,PUSH,0
+2026-08-16,Super League (391),Karonga United,Nyasa Big Bullets,0-1,AH,HOME,0.5,2.2,13,0-0,0,50,HALF_LOST,-25
+2026-08-16,Ekstraklasa,Motor Lublin,GKS Katowice,1-0,AH,AWAY,0,2.3,31,0-0,12.61,50,LOST,-50
+2026-08-16,Ekstraklasa,Motor Lublin,GKS Katowice,1-0,AH,AWAY,-1,1.875,49,0-0,15.7,50,PUSH,0
+2026-08-16,Ekstraklasa,Motor Lublin,GKS Katowice,1-0,AH,HOME,1,1.725,61,0-1,7.36,50,WON,36.25
+2026-08-16,Ekstraklasa,Motor Lublin,GKS Katowice,1-0,OU,UNDER,1,1.85,65,,53.04,50,PUSH,0
+2026-08-16,Friendlies Clubs,Nottingham Forest,Stade Brestois 29,2-0,AH,AWAY,-0.5,1.975,13,0-0,0,50,LOST,-50
+2026-08-16,Friendlies Clubs,Nottingham Forest,Stade Brestois 29,2-0,AH,AWAY,-1.5,1.825,23,1-0,0,50,HALF_WON,20.63
+2026-08-16,League Cup,Hibernian,Partick,1-0,AH,AWAY,-1,2.025,10,0-0,0,50,PUSH,0
+2026-08-16,Premier League (389),Irtysh,FK Tobol Kostanay,0-2,AH,AWAY,0,1.975,10,0-0,0,50,WON,48.75
+2026-08-16,Czech Liga,Baník Ostrava,Artis,1-0,AH,AWAY,-1.5,1.95,23,1-0,-12.15,50,WON,47.5
+2026-08-16,Czech Liga,Baník Ostrava,Artis,1-0,AH,AWAY,-0.5,1.99,45,1-1,-10.5,50,HALF_LOST,-25
+2026-08-16,Czech Liga,Baník Ostrava,Artis,1-0,OU,UNDER,2.5,2.025,67,,48.92,50,WON,51.25
+2026-08-16,Segunda Liga,Amarante,Lusitânia Lourosa,0-1,AH,AWAY,0,1.825,10,0-0,0,50,WON,41.25
+2026-08-16,Premier League (389),Kaspiy,Yelimay Semey,2-2,AH,AWAY,-0.5,1.85,11,0-0,0,50,HALF_WON,21.25
+2026-08-16,League Cup,Stenhousemuir,Motherwell,1-0,AH,HOME,0.5,2.27,11,0-0,0,50,WON,63.5
+2026-08-16,Superliga,Lyngby,FC Midtjylland,1-1,AH,HOME,0.5,1.875,10,0-0,0,50,HALF_WON,21.88
+2026-08-16,Veikkausliiga,Lahti,KuPS,1-2,AH,AWAY,0,1.825,12,1-1,0,50,WON,41.25
+2026-08-16,Veikkausliiga,Lahti,KuPS,1-2,AH,HOME,1,1.975,17,1-1,0,50,PUSH,0
+2026-08-16,Community Shield,Arsenal,Manchester City,3-0,AH,AWAY,-1,1.75,16,1-0,13.75,50,LOST,-50
+2026-08-16,Pro League,RAAL La Louvière,Gent,1-2,AH,HOME,1,1.875,48,1-2,8.75,64,WON,56
+2026-08-16,Pro League,RAAL La Louvière,Gent,1-2,OU,OVER,4,2,58,,19.2,500,LOST,-500
+2026-08-16,Torneo Federal A,Costa Brava,Guillermo Brown,1-0,AH,AWAY,-0.5,2,19,0-0,0,50,HALF_LOST,-25
+2026-08-16,Brazilian Serie A,Chapecoense-sc,Bahia,3-3,AH,HOME,1,1.85,13,0-0,0,50,WON,42.5
+2026-08-16,Brazilian Serie A,Chapecoense-sc,Bahia,3-3,AH,AWAY,0,1.875,48,1-2,2.25,50,LOST,-50
+2026-08-16,Challenger Pro League,Beerschot VA,KAA Gent II,4-0,AH,AWAY,-1,1.975,10,0-0,0,50,LOST,-50
+2026-08-16,Pro League (301),Hatta SC,Al-Jazira,0-2,AH,HOME,1,2.25,16,0-0,0,50,LOST,-50
+2026-08-16,Allsvenskan,Gais,Malmo FF,0-1,AH,AWAY,0,2.05,10,0-0,0,50,WON,52.5
+2026-08-16,First League,Struga,Vardar Skopje,1-0,AH,HOME,0,2.4,12,0-0,0,50,WON,70
+2026-08-16,NB I,Debreceni VSC,Gyori ETO FC,1-1,AH,AWAY,0,2.025,12,0-0,0,50,PUSH,0
+2026-08-16,NB I,Debreceni VSC,Gyori ETO FC,1-1,AH,HOME,0.5,2.025,42,0-1,15.36,50,WON,51.25
+2026-08-16,NB I,Debreceni VSC,Gyori ETO FC,1-1,OU,UNDER,3,1.9,65,,49,50,WON,45
+2026-08-16,3. Liga,SSV Jahn Regensburg,FC Saarbrücken,0-1,AH,AWAY,0,2.025,10,0-0,0,50,WON,51.25
+2026-08-16,Primeira Liga,Nacional,Estoril,2-0,AH,AWAY,-0.5,2,40,0-0,-10.5,50,LOST,-50
+2026-08-16,Segunda Liga,Leixoes,Tondela,1-0,AH,AWAY,0,2.25,10,0-0,0,50,LOST,-50
+2026-08-16,Eredivisie,Ajax,Heerenveen,2-2,AH,AWAY,-0.5,2.05,46,2-1,18.98,50,WON,52.5
+2026-08-16,Eredivisie,Ajax,Heerenveen,2-2,AH,AWAY,-1.5,1.925,53,2-1,15.88,89,WON,82.33
+2026-08-16,Premier League (389),Atyrau,Okzhetpes,0-2,AH,AWAY,0,1.975,10,0-0,0,50,WON,48.75
+2026-08-16,Bundesliga (218),TSV Hartberg,Austria Vienna,0-2,AH,AWAY,0,1.825,10,0-0,0,50,WON,41.25
+2026-08-16,Bundesliga (218),TSV Hartberg,Austria Vienna,0-2,AH,HOME,1,1.9,34,0-1,18.88,50,PUSH,0
+2026-08-16,Erovnuli Liga,Dila,Meshakhte,3-1,AH,AWAY,-1,1.925,10,0-0,0,50,LOST,-50
+2026-08-16,Erovnuli Liga,Dila,Meshakhte,3-1,AH,AWAY,0,1.85,15,0-0,0,50,LOST,-50
+2026-08-16,Friendlies Clubs,Newcastle,Strasbourg,1-1,AH,AWAY,-0.5,1.9,10,0-0,0,50,HALF_WON,22.5
+2026-08-16,Friendlies Clubs,Newcastle,Strasbourg,1-1,AH,AWAY,0,2.6,23,0-0,0,50,PUSH,0
+2026-08-16,Championship,Burnley,West Ham,2-2,AH,HOME,1,1.9,11,0-1,0,50,WON,45
+2026-08-16,Championship,Burnley,West Ham,2-2,OU,OVER,2,2,62,,41.94,50,WON,50
+2026-08-16,Premier League (333),Dynamo Kyiv,Kolos Kovalivka,2-1,AH,AWAY,-1,1.775,10,0-0,0,50,PUSH,0
+2026-08-16,Premier League (333),Dynamo Kyiv,Kolos Kovalivka,2-1,AH,AWAY,-0.5,2.3,10,0-0,0,50,HALF_LOST,-25
+2026-08-16,Segunda División,Eibar,Tenerife,1-3,AH,HOME,0.5,1.775,25,0-1,14.9,50,HALF_LOST,-25
+2026-08-16,Segunda División,Eibar,Tenerife,1-3,AH,AWAY,-0.5,1.75,36,1-1,13.5,50,WON,37.5
+2026-08-16,Eliteserien,Sarpsborg 08 FF,Sandefjord,1-2,AH,AWAY,-0.5,2.15,10,0-0,0,50,WON,57.5
+2026-08-16,Eliteserien,Sarpsborg 08 FF,Sandefjord,1-2,AH,HOME,0.5,1.825,29,0-1,25.82,50,HALF_WON,20.63
+2026-08-16,La Liga,Racing Santander,Villarreal,2-2,AH,HOME,0.5,2.025,14,0-0,0,60,HALF_WON,30.75
+2026-08-16,Eliteserien,Brann,Ham-Kam,3-0,AH,AWAY,-1,1.975,10,0-0,0,50,LOST,-50
+2026-08-16,Super Liga,Spartak Trnava,Zemplín Michalovce,2-0,AH,AWAY,-1,1.85,10,0-0,0,50,LOST,-50
+2026-08-16,Eliteserien,Molde,Tromso,3-2,AH,AWAY,-0.5,1.85,10,0-0,0,50,HALF_LOST,-25
+2026-08-16,Eliteserien,Molde,Tromso,3-2,AH,AWAY,0,2.6,33,0-0,-6.46,50,LOST,-50
+2026-08-16,Premier Soccer League,TS Galaxy,Golden Arrows,0-0,AH,AWAY,0,1.75,10,0-0,0,50,PUSH,0
+2026-08-16,Premier Soccer League,TS Galaxy,Golden Arrows,0-0,OU,OVER,1,2.075,50,,28.2,50,LOST,-50
+2026-08-16,Liga I,Oţelul,Universitatea Craiova,1-1,AH,HOME,0.5,1.775,16,0-0,-11.25,50,HALF_WON,19.37
+2026-08-16,1. SNL,Radomlje,Aluminij,1-3,AH,HOME,1,1.825,10,0-1,0,50,PUSH,0
+2026-08-16,Torneo Federal A,Gimnasia Concepción,Defensores de Vilelas,2-0,AH,AWAY,-1,1.8,18,0-0,0,50,LOST,-50
+2026-08-16,NB I,Puskas Academy,Paks,3-2,AH,AWAY,-1,1.775,11,1-0,0,50,WON,38.75
+2026-08-16,NB I,Puskas Academy,Paks,3-2,AH,AWAY,0,1.7,36,1-1,-12,50,LOST,-50
+2026-08-16,Ekstraklasa,Cracovia Krakow,Raków Częstochowa,2-1,AH,AWAY,0,2.025,14,0-0,0,50,LOST,-50
+2026-08-16,Ekstraklasa,Cracovia Krakow,Raków Częstochowa,2-1,AH,AWAY,-1,1.775,83,2-1,20.18,35,WON,27.12
+2026-08-16,Ekstraklasa,Cracovia Krakow,Raków Częstochowa,2-1,OU,OVER,3,2,58,,29.62,50,PUSH,0
+2026-08-16,Süper Lig,Başakşehir,Kocaelispor,2-0,AH,AWAY,-1.5,1.975,15,1-0,33,74,HALF_WON,36.08
+2026-08-16,Superliga,Randers FC,FC Copenhagen,0-4,AH,HOME,1.5,1.925,10,0-1,0,50,LOST,-50
+2026-08-16,1. Lig,Keçiörengücü,Pendikspor,4-1,AH,AWAY,-0.5,1.85,10,0-0,0,50,LOST,-50
+2026-08-16,1. Lig,Keçiörengücü,Pendikspor,4-1,AH,AWAY,-1,1.975,41,2-1,15.17,50,LOST,-50
+2026-08-16,1. Lig,Keçiörengücü,Pendikspor,4-1,OU,OVER,4,2,60,,44.5,50,WON,50
+2026-08-16,Primera División,Sporting Cristal,Sport Huancayo,4-1,AH,AWAY,-1.5,2,18,1-0,24.5,50,HALF_LOST,-25
+2026-08-16,1. SNL,Brinje-Grosuplje,Mura,1-2,AH,AWAY,0,1.875,10,0-0,0,50,WON,43.75
+2026-08-16,1. SNL,Brinje-Grosuplje,Mura,1-2,AH,HOME,1,1.775,23,0-1,0,50,WON,38.75
+2026-08-16,1. Lig,Kayserispor,Sivasspor,2-0,AH,AWAY,-1,1.95,25,1-0,11.2,50,PUSH,0
+2026-08-16,Canadian Premier League,Supra du Quebec,Atlético Ottawa,1-2,AH,AWAY,-0.5,1.85,10,0-0,0,50,WON,42.5
+2026-08-16,Canadian Premier League,Supra du Quebec,Atlético Ottawa,1-2,AH,AWAY,0,2.3,20,0-0,0,50,WON,65
+2026-08-16,King's Cup,Al Bukayriyah,Al-Hazm,2-3,AH,HOME,1.5,1.95,11,0-1,0,50,WON,47.5
+2026-08-16,King's Cup,Al Bukayriyah,Al-Hazm,2-3,AH,HOME,0.5,2.025,27,0-1,0,50,HALF_WON,25.62
+2026-08-16,HNL,NK Varazdin,HNK Rijeka,2-0,AH,AWAY,0,1.775,11,0-0,0,50,LOST,-50
+2026-08-16,HNL,NK Varazdin,HNK Rijeka,2-0,AH,AWAY,-1.5,1.875,30,1-0,-0.5,50,HALF_WON,21.88
+2026-08-16,HNL,NK Varazdin,HNK Rijeka,2-0,OU,OVER,3,2.05,63,,33.36,50,LOST,-50
+2026-08-16,Primera División,Nublense,Union La Calera,2-1,AH,AWAY,-1.5,1.825,32,1-0,26.38,50,WON,41.25
+2026-08-16,Coppa Italia,Genoa,Ascoli,4-1,AH,AWAY,-1,2.025,13,0-0,0,50,LOST,-50
+2026-08-16,Pro League,KV Mechelen,Standard Liege,3-3,AH,HOME,1,1.95,19,0-1,-34.92,60,WON,57
+2026-08-16,Friendlies Clubs,Anorthosis,Apoel Nicosia,1-3,AH,HOME,0.5,1.975,10,0-0,0,50,LOST,-50
+2026-08-16,Friendlies Clubs,Anorthosis,Apoel Nicosia,1-3,AH,HOME,1.5,1.875,25,0-1,0,50,HALF_WON,21.88
+2026-08-16,Super Liga,Komárno,Dunajska Streda,0-3,AH,HOME,0.5,1.775,16,0-0,0,50,LOST,-50
+2026-08-16,First League,Shkendija,Bregalnica Štip,4-1,AH,AWAY,-1,2.2,19,0-0,0,50,LOST,-50
+2026-08-16,Segunda División,Girona,Leganes,1-1,AH,AWAY,-1,1.7,14,0-0,0,50,WON,35
+2026-08-16,Segunda División,Girona,Leganes,1-1,AH,HOME,0.5,1.75,57,0-1,6.82,50,WON,37.5
+2026-08-16,Primeira Liga,Arouca,Moreirense,4-0,AH,AWAY,-0.5,2.05,19,0-0,9.47,50,LOST,-50
+2026-08-16,Primeira Liga,Arouca,Moreirense,4-0,AH,AWAY,-1.5,1.825,24,1-0,13,80,LOST,-80
+2026-08-16,Erovnuli Liga,Samgurali,Dinamo Batumi,0-4,AH,AWAY,0,1.9,10,0-0,0,50,WON,45
+2026-08-16,Erovnuli Liga,Samgurali,Dinamo Batumi,0-4,AH,HOME,1,1.75,21,0-0,0,50,LOST,-50
+2026-08-16,Super Liga,IMT Novi Beograd,Radnicki NIS,0-0,AH,AWAY,0,2.375,27,0-0,7.17,50,PUSH,0
+2026-08-16,Super Liga,IMT Novi Beograd,Radnicki NIS,0-0,OU,OVER,1,2.075,58,,51.24,50,LOST,-50
+2026-08-16,Segunda División,Burgos,Cordoba,3-2,AH,AWAY,0,2.05,10,0-0,0,50,LOST,-50
+2026-08-16,Segunda División,Burgos,Cordoba,3-2,AH,AWAY,-0.5,2.375,45,2-1,-9,50,HALF_WON,34.38
+2026-08-16,Eliteserien,Fredrikstad,Kristiansund BK,1-0,AH,AWAY,-1.5,1.9,10,1-0,0,50,WON,45
+2026-08-16,Eliteserien,Fredrikstad,Kristiansund BK,1-0,AH,AWAY,0,2.22,45,1-0,-2,50,PUSH,0
+2026-08-16,Eliteserien,Fredrikstad,Kristiansund BK,1-0,AH,AWAY,-1,1.85,81,1-0,-5.94,35,WON,29.75
+2026-08-16,Eliteserien,Fredrikstad,Kristiansund BK,1-0,OU,OVER,2,2.025,62,,38.63,50,LOST,-50
+2026-08-16,Pro League,Lommel United,Charleroi,0-1,AH,HOME,0.5,2.15,29,0-0,-25.32,50,HALF_LOST,-25
+2026-08-16,Ligi kuu Bara,JKT Tanzania,Tabora United,1-1,AH,HOME,0.5,2,18,0-1,0,50,WON,50
+2026-08-16,Torneo Federal A,Gimnasia Chivilcoy,San Martin Formosa,1-1,AH,AWAY,-0.5,1.775,10,0-0,0,50,HALF_WON,19.37
+2026-08-16,Torneo Federal A,Gimnasia Chivilcoy,San Martin Formosa,1-1,AH,AWAY,0,2.75,11,0-0,0,50,PUSH,0
+2026-08-16,Torneo Federal A,Gimnasia Chivilcoy,San Martin Formosa,1-1,AH,HOME,0.5,1.925,21,0-1,0,50,WON,46.25
+2026-08-16,Torneo Federal A,Argentino Monte Maíz,Olimpo Bahia Blanca,1-1,AH,AWAY,0,1.8,10,0-0,0,50,PUSH,0
+2026-08-16,Czech Liga,Slovan Liberec,Slavia Praha,1-1,AH,HOME,0.5,1.9,10,0-0,0,50,HALF_WON,22.5
+2026-08-16,Czech Liga,Slovan Liberec,Slavia Praha,1-1,AH,HOME,1.5,1.775,17,0-1,12.59,50,WON,38.75
+2026-08-16,Czech Liga,Slovan Liberec,Slavia Praha,1-1,AH,HOME,1,2.075,37,0-1,-5.86,50,WON,53.75
+2026-08-16,Czech Liga,Slovan Liberec,Slavia Praha,1-1,AH,AWAY,0,1.82,45,0-1,8,50,LOST,-50
+2026-08-16,Czech Liga,Slovan Liberec,Slavia Praha,1-1,OU,OVER,2,2,60,,50.5,50,PUSH,0
+2026-08-16,King's Cup,Al Orubah,Abha,0-0,AH,HOME,1,2.1,14,0-0,0,50,WON,55
+2026-08-16,King's Cup,Al Orubah,Abha,0-0,AH,HOME,0.5,2.025,30,0-0,0,50,HALF_WON,25.62
+2026-08-16,Torneo Federal A,Sportivo Las Parejas,Independiente De Chivilcoy,0-0,AH,AWAY,-0.5,1.85,10,0-0,0,50,HALF_WON,21.25
+2026-08-16,Liga MX,U.N.A.M. - Pumas,Club Queretaro,0-0,AH,AWAY,0,2.2,83,0-0,4.17,35,PUSH,0
+2026-08-16,Primera División,Defensor Sporting,Liverpool Montevideo,0-4,AH,AWAY,0,1.925,10,0-0,0,50,WON,46.25
+2026-08-16,Primera División,Defensor Sporting,Liverpool Montevideo,0-4,AH,HOME,-0.5,2.6,12,0-0,0,50,LOST,-50
+2026-08-16,Primera División,Defensor Sporting,Liverpool Montevideo,0-4,AH,HOME,1,1.8,18,0-1,0,50,LOST,-50
+2026-08-16,Torneo Federal A,Kimberley Mar del Plata,Cipolletti,3-1,AH,AWAY,-0.5,1.825,10,0-0,0,50,LOST,-50
+2026-08-16,Liga Profesional Argentina,Sarmiento Junin,Huracan,2-0,AH,AWAY,0,1.725,15,0-0,-1,50,LOST,-50
+2026-08-16,Torneo Federal A,Douglas Haig,Sarmiento de La Banda,3-1,AH,AWAY,-0.5,1.8,10,0-0,0,50,LOST,-50
+2026-08-16,Torneo Federal A,Sol de Mayo,Germinal de Rawson,1-0,AH,AWAY,0,2.425,17,0-0,0,50,LOST,-50
+2026-08-16,First League,Lokomotiv Plovdiv,Dunav Ruse,1-2,AH,AWAY,-1.5,1.9,10,1-0,0,50,WON,45
+2026-08-16,Ekstraklasa,Gornik Zabrze,Wisla Krakow,2-1,AH,AWAY,-0.5,1.825,10,0-0,0,50,HALF_LOST,-25
+2026-08-16,Primera División,UCV Moquegua,Sport Boys,1-1,AH,AWAY,0,1.975,10,0-0,0,50,PUSH,0
+2026-08-16,Primera División,UCV Moquegua,Sport Boys,1-1,AH,AWAY,-1,1.75,14,1-0,0,50,WON,37.5
+2026-08-16,Primera División,UCV Moquegua,Sport Boys,1-1,AH,AWAY,-0.5,2.3,47,1-0,-12.66,50,WON,65
+2026-08-16,1. SNL,Koper,Bravo,0-0,AH,AWAY,-0.5,2,12,0-0,0,50,HALF_WON,25
+2026-08-16,Liga I,Corvinul Hunedoara,CFR 1907 Cluj,3-0,AH,AWAY,0,1.89,13,0-0,0,50,LOST,-50
+2026-08-16,Liga I,Corvinul Hunedoara,CFR 1907 Cluj,3-0,AH,AWAY,-1,1.875,45,1-0,31.5,50,LOST,-50
+2026-08-16,Liga I,Corvinul Hunedoara,CFR 1907 Cluj,3-0,OU,OVER,2,2.025,58,,31.43,50,WON,51.25
+2026-08-16,Süper Lig,Beşiktaş,Eyüpspor,1-0,OU,UNDER,2,1.975,65,,17.81,500,WON,487.5
+2026-08-16,1. Lig,Mardin 1969,Antalyaspor,2-0,AH,AWAY,-1,1.8,43,1-0,4.19,50,PUSH,0
+2026-08-16,1. Lig,Muğlaspor,Bandırmaspor,0-0,AH,AWAY,0,2.2,20,0-0,0,50,PUSH,0
+2026-08-16,Torneo Federal A,Villa Mitre,Alvarado,0-0,AH,AWAY,0,2.375,18,0-0,0,50,PUSH,0
+2026-08-16,Torneo Federal A,Huracan Las Heras,Juventud Antoniana,1-0,AH,AWAY,0,1.9,12,0-0,0,50,LOST,-50
+2026-08-16,Trophée des Champions,Lens,Paris Saint Germain,1-0,AH,HOME,1,1.8,10,0-0,0,50,WON,40
+2026-08-16,King's Cup,Al Wehda Club,Al Shabab,3-2,AH,HOME,1,1.875,10,0-0,0,50,WON,43.75
+2026-08-16,Super Liga,Zemun,Mladost Lucani,0-1,AH,HOME,1,1.85,10,0-1,0,50,WON,42.5
+2026-08-16,Division Profesional - Clausura,Sportivo Luqueno,Libertad Asuncion,1-2,AH,HOME,1,2.25,83,1-2,-27.18,35,WON,43.75
+2026-08-16,Brazilian Serie A,Atletico-MG,Gremio,3-0,AH,AWAY,-1.5,1.8,24,1-0,33,82,HALF_LOST,-41
+2026-08-16,Liga Pro,Orense SC,Deportivo Cuenca,2-0,AH,AWAY,-0.5,1.975,10,0-0,0,50,LOST,-50
+2026-08-16,Liga Pro,Orense SC,Deportivo Cuenca,2-0,AH,AWAY,0,2.61,27,0-0,-1,50,LOST,-50
+2026-08-16,Liga Pro,Orense SC,Deportivo Cuenca,2-0,OU,OVER,1.75,2,65,,48.23,50,WON,50
+2026-08-16,Serie C,Floresta,Anápolis,1-0,AH,AWAY,0,2.2,19,0-0,0,50,LOST,-50
+2026-08-16,Serie C,Caxias,Figueirense,1-2,AH,AWAY,-0.5,1.875,10,0-0,0,50,WON,43.75
+2026-08-16,Brazilian Serie A,Vasco DA Gama,Santos,0-3,AH,AWAY,0,2.5,45,0-0,32,50,WON,75
+2026-08-16,Brazilian Serie A,Vasco DA Gama,Santos,0-3,OU,OVER,0.75,2.1,67,,48.11,500,WON,550
+2026-08-16,Primera División,Cobresal,Concepción,0-2,AH,AWAY,0,2.1,23,0-0,32.3,50,WON,55
+2026-08-16,HNL,HNK Gorica,HNK Hajduk Split,1-2,AH,HOME,1.5,1.925,12,0-1,0,50,WON,46.25
+2026-08-16,Coppa Italia,Hellas Verona,Virtus Entella,2-2,AH,AWAY,-0.5,1.775,11,0-0,0,50,HALF_WON,19.37
+2026-08-16,Coppa Italia,Hellas Verona,Virtus Entella,2-2,AH,HOME,0.5,1.775,19,0-1,-28.42,50,WON,38.75
+2026-08-16,Coppa Italia,Hellas Verona,Virtus Entella,2-2,OU,OVER,4,2.05,54,,54.5,50,PUSH,0
+2026-08-16,Primera División,Always Ready,Real Potosí,1-1,AH,AWAY,-1,1.975,10,0-0,0,50,WON,48.75
+2026-08-16,Primeira Liga,Famalicao,Maritimo,1-2,AH,AWAY,-1.5,1.825,10,1-0,0,73,WON,60.22
+2026-08-16,Primeira Liga,Famalicao,Maritimo,1-2,AH,AWAY,-0.5,1.8,21,1-1,-7.07,50,WON,40
+2026-08-16,Canadian Premier League,York United,HFX Wanderers FC,4-3,AH,AWAY,-0.5,2.35,10,1-0,0,50,HALF_WON,33.75
+2026-08-16,Torneo Federal A,San Martín Mendoza,Deportivo Rincon,1-0,AH,AWAY,-0.5,2.025,22,0-0,0,50,HALF_LOST,-25
+2026-08-16,Primera División,FC Cajamarca,Universitario,2-3,AH,HOME,0.5,1.825,10,0-0,0,50,HALF_LOST,-25
+2026-08-16,Primera División,FC Cajamarca,Universitario,2-3,AH,HOME,1,1.95,45,1-2,-6,50,WON,47.5
+2026-08-16,Liga Profesional Argentina,River Plate,Argentinos JRS,2-0,AH,AWAY,-0.5,1.875,10,0-0,0,50,LOST,-50
+2026-08-16,Liga Profesional Argentina,River Plate,Argentinos JRS,2-0,OU,OVER,2,2.025,54,,21.67,50,PUSH,0
+2026-08-16,Primera División,Nacional Potosí,ABB,2-0,AH,AWAY,-1.5,1.95,21,1-0,0,50,HALF_WON,23.75
+2026-08-16,Brazilian Serie A,Mirassol,Flamengo,1-5,AH,HOME,0.5,1.875,10,0-0,0,50,LOST,-50
+2026-08-16,Division Profesional - Clausura,Olimpia,Sportivo Ameliano,2-1,AH,AWAY,-0.5,2.05,10,0-0,0,50,HALF_LOST,-25
+2026-08-16,Primera División,Penarol,Central Espanol,2-1,AH,AWAY,-1,1.925,12,0-0,0,50,PUSH,0
+2026-08-16,Brazilian Serie A,Vitoria,Botafogo,1-0,AH,AWAY,0,2.2,14,0-0,0,50,LOST,-50
+2026-08-16,Brazilian Serie A,Vitoria,Botafogo,1-0,AH,AWAY,-1,1.825,27,1-0,-1,81,WON,66.83
+2026-08-16,Brazilian Serie A,Vitoria,Botafogo,1-0,OU,OVER,2,2.025,62,,43.94,500,LOST,-500
+2026-08-16,Serie C,Confiança,Maringá,1-1,AH,AWAY,0,1.775,13,0-0,0,50,PUSH,0
+2026-08-16,Brazilian Serie B,America Mineiro,Athletic Club,1-3,AH,AWAY,0,2.2,26,0-0,-8.93,50,WON,60
+2026-08-16,Serie C,Barra,AO Itabaiana,1-0,AH,AWAY,-0.5,1.825,10,0-0,0,50,HALF_LOST,-25
+2026-08-16,Primera División,Colo Colo,O'Higgins,2-2,AH,AWAY,-0.5,2,22,0-0,-9.18,50,HALF_WON,25
+2026-08-16,Major League Soccer,Chicago Fire,Portland Timbers,2-1,AH,AWAY,-1.5,1.9,12,1-0,0,50,WON,45
+2026-08-16,Major League Soccer,New York City FC,Philadelphia Union,2-3,AH,AWAY,-0.5,1.9,10,1-0,0,50,WON,45
+2026-08-16,Major League Soccer,New York City FC,Philadelphia Union,2-3,AH,AWAY,0,1.75,69,2-2,18.55,50,WON,37.5
+2026-08-16,Major League Soccer,New York City FC,Philadelphia Union,2-3,AH,HOME,1,1.975,75,2-3,13.1,50,WON,48.75
+2026-08-16,Brazilian Serie A,Corinthians,Cruzeiro,1-2,AH,AWAY,-0.5,1.8,10,0-0,0,50,WON,40
+2026-08-16,Brazilian Serie A,Corinthians,Cruzeiro,1-2,AH,HOME,0.5,2,35,0-0,17.43,50,HALF_LOST,-25
+2026-08-16,Brazilian Serie A,Corinthians,Cruzeiro,1-2,AH,AWAY,0,2.25,71,1-1,0.53,55,WON,68.75
+2026-08-16,Brazilian Serie A,Corinthians,Cruzeiro,1-2,OU,OVER,2,2,57,,56.4,500,WON,500
+2026-08-16,Liga MX,Club America,Atletico San Luis,3-0,AH,AWAY,-0.5,1.9,10,0-0,0,50,LOST,-50
+2026-08-16,NWSL Women,North Carolina Courage W,Houston Dash W,2-3,AH,AWAY,-1,1.825,10,0-0,0,50,WON,41.25
+2026-08-16,NWSL Women,North Carolina Courage W,Houston Dash W,2-3,AH,AWAY,-0.5,2.2,19,0-0,-1,50,WON,60
+2026-08-16,NWSL Women,North Carolina Courage W,Houston Dash W,2-3,AH,AWAY,-1.5,1.85,51,2-1,4.53,50,WON,42.5
+2026-08-16,Liga Panameña de Fútbol,Alianza FC,Plaza Amador,2-4,AH,HOME,1.5,1.95,16,0-1,0,50,HALF_WON,23.75
+2026-08-16,Liga Profesional Argentina,Central Cordoba de Santiago,Instituto Cordoba,0-1,AH,HOME,0.5,1.75,10,0-0,0,50,HALF_LOST,-25
+2026-08-16,Primera División,Cienciano,Deportivo Garcilaso,0-0,AH,AWAY,-0.5,1.95,10,0-0,0,50,HALF_WON,23.75
+2026-08-17,Liga Profesional Argentina,Barracas Central,Rosario Central,0-1,AH,AWAY,0,1.95,10,0-0,0,50,WON,47.5
+2026-08-17,Liga Profesional Argentina,Barracas Central,Rosario Central,0-1,AH,HOME,1,1.725,58,0-1,17.02,50,WON,36.25
+2026-08-17,Liga Profesional Argentina,Barracas Central,Rosario Central,0-1,OU,OVER,1.75,2,59,,31.86,50,LOST,-50
+2026-08-17,Liga Pro,Aucas,LDU de Quito,0-1,AH,AWAY,0,2.5,28,0-0,19.79,50,WON,75
+2026-08-17,Major League Soccer,Austin,FC Dallas,1-2,AH,HOME,1,1.925,45,0-1,-15,50,WON,46.25
+2026-08-17,Major League Soccer,Austin,FC Dallas,1-2,AH,AWAY,0,1.725,58,1-1,-24.01,50,WON,36.25
+2026-08-17,Major League Soccer,Austin,FC Dallas,1-2,OU,OVER,3,2.025,63,,47.57,50,PUSH,0
+2026-08-17,Liga MX,Santos Laguna,Guadalajara Chivas,0-1,AH,HOME,1,1.775,13,0-0,0,50,PUSH,0
+2026-08-17,NWSL Women,Angel City W,Washington Spirit W,1-1,AH,AWAY,0,2.025,10,0-0,0,50,PUSH,0
+2026-08-17,NWSL Women,Angel City W,Washington Spirit W,1-1,AH,AWAY,-1,1.8,38,1-0,-3.5,50,WON,40
+2026-08-17,NWSL Women,Angel City W,Washington Spirit W,1-1,AH,HOME,1,1.85,65,0-1,-9.8,50,WON,42.5
+2026-08-17,NWSL Women,Angel City W,Washington Spirit W,1-1,OU,OVER,1,2.05,56,,34.43,50,WON,52.5
+2026-08-17,Primera División,Independiente Petrolero,Gualberto Villarroel SJ,1-0,AH,AWAY,-0.5,1.825,11,0-0,0,50,HALF_LOST,-25
+2026-08-17,Major League Soccer,Seattle Sounders,Vancouver Whitecaps,0-2,AH,HOME,0.5,1.775,12,0-0,0,50,LOST,-50
+2026-08-17,Major League Soccer,Seattle Sounders,Vancouver Whitecaps,0-2,AH,HOME,0,2.6,19,0-0,-9.47,50,LOST,-50
+2026-08-17,Liga MX,Club Tijuana,Cruz Azul,2-1,AH,AWAY,0,1.775,12,0-0,0,50,LOST,-50
+2026-08-17,Liga MX,Club Tijuana,Cruz Azul,2-1,AH,AWAY,-1,1.725,44,0-0,11.77,50,PUSH,0
+2026-08-17,Cup,Kallithea,Larisa,1-3,AH,AWAY,0,1.725,18,0-0,0,50,WON,36.25
+2026-08-19,Ligi kuu Bara,Pamba Jiji,Simba,1-2,AH,HOME,1,2.025,10,0-0,0,50,PUSH,0
+2026-08-19,Friendlies Clubs,Elche II,FC Cartagena,2-0,AH,HOME,0.5,2.025,13,0-0,0,50,WON,51.25
+2026-08-19,Friendlies Clubs,RSD Alcalá,Gimnástica Segoviana,1-1,AH,AWAY,-0.5,1.75,11,0-0,0,50,HALF_WON,18.75
+2026-08-19,Friendlies Clubs,RSD Alcalá,Gimnástica Segoviana,1-1,AH,AWAY,0,2.6,12,0-0,0,50,PUSH,0
+2026-08-19,Friendlies Clubs,RSD Alcalá,Gimnástica Segoviana,1-1,AH,AWAY,-1.5,1.775,25,1-0,0,50,WON,38.75
+2026-08-19,Cup,Nestos Chrisoupolis,Apollon Pontou,1-0,AH,AWAY,-0.5,1.85,10,0-0,0,50,HALF_LOST,-25
+2026-08-19,Cup,Kalamata,Panetolikos,4-2,AH,AWAY,0,1.825,10,0-0,0,50,LOST,-50
+2026-08-19,Cup,Niki Volos,Panionios,0-0,AH,AWAY,0,2.3,16,0-0,0,50,PUSH,0
+2026-08-19,Friendlies Clubs,Krasava Odintsovo,AEL,0-4,AH,HOME,0.5,1.775,11,0-0,0,50,LOST,-50
+2026-08-19,Cup,Panserraikos,Panthrakikos,2-1,AH,AWAY,-1.5,2.025,23,1-0,0,50,WON,51.25
+2026-08-19,Cup,Panserraikos,Panthrakikos,2-1,AH,AWAY,-0.5,2,25,1-1,0,50,HALF_LOST,-25
+2026-08-19,Ligi kuu Bara,Kagera Sugar,Singida Black Stars,1-1,AH,HOME,0.5,2,11,0-0,0,50,HALF_WON,25
+2026-08-19,Ligi kuu Bara,Kagera Sugar,Singida Black Stars,1-1,AH,AWAY,-0.5,1.95,13,1-0,0,50,WON,47.5
+2026-08-19,First League,Veles,Nizhny Novgorod,3-2,AH,HOME,0,2.56,24,0-1,0,50,WON,78
+2026-08-19,Kvindeliga,KoldingQ W,Odense Q W,3-1,AH,AWAY,-1.5,1.925,10,1-0,0,50,HALF_WON,23.13
+2026-08-19,Kvindeliga,KoldingQ W,Odense Q W,3-1,AH,AWAY,-0.5,1.9,11,1-0,0,50,HALF_LOST,-25
+2026-08-19,Kvindeliga,KoldingQ W,Odense Q W,3-1,AH,AWAY,0,2.725,12,1-1,0,50,LOST,-50
+2026-08-19,EFL Trophy,Mansfield Town,Manchester City U21,1-4,AH,AWAY,-0.5,1.95,12,0-0,0,50,WON,47.5
+2026-08-19,EFL Trophy,Mansfield Town,Manchester City U21,1-4,AH,HOME,0,2.2,26,0-1,0,50,LOST,-50
+2026-08-19,King's Cup,Al Ula,Al-Fateh,3-0,AH,AWAY,0,2.35,15,1-0,0,50,LOST,-50
+2026-08-19,Friendlies Clubs,Ponferradina,Real Madrid II,2-2,AH,AWAY,-1,1.9,25,0-0,0,50,WON,45
+2026-08-19,Friendlies Clubs,Ponferradina,Real Madrid II,2-2,AH,AWAY,0,2.025,28,1-1,0,50,PUSH,0
+2026-08-19,Friendlies Clubs,CF Talavera,Getafe II,0-1,AH,AWAY,-0.5,1.825,10,0-0,0,50,WON,41.25
+2026-08-19,UEFA Champions League,Hapoel Beer Sheva,Sabah FA,2-1,AH,HOME,1,1.725,42,0-1,-1.5,65,WON,47.13
+2026-08-19,UEFA Champions League,NEC Nijmegen,Bodo/Glimt,1-3,AH,HOME,1,1.925,27,0-1,-8.67,62,PUSH,0
+2026-08-19,UEFA Champions League,Slovan Bratislava,Celje,1-1,AH,AWAY,-1.5,1.85,16,1-0,11.25,78,WON,66.3
+2026-08-19,UEFA Champions League,Slovan Bratislava,Celje,1-1,AH,AWAY,-0.5,1.9,43,1-1,15.06,50,HALF_WON,22.5
+2026-08-19,La Liga,Atletico Madrid,Malaga,2-0,AH,AWAY,-1,2.05,11,0-0,0,107,LOST,-107
+2026-08-19,La Liga,Atletico Madrid,Malaga,2-0,AH,AWAY,-0.5,2.05,45,0-0,7.5,65,LOST,-65
+2026-08-19,La Liga,Atletico Madrid,Malaga,2-0,OU,UNDER,1,1.875,66,,27.09,500,LOST,-500
+2026-08-19,Primera A,Águilas Doradas,Llaneros,1-1,AH,AWAY,-0.5,1.8,12,0-0,0,50,HALF_WON,20
+2026-08-19,Primera A,Cucuta,Internacional de Bogota,1-1,AH,AWAY,0,2.05,25,0-0,7.2,50,PUSH,0
+2026-08-19,CONMEBOL Libertadores,Cerro Porteno,Palmeiras,0-1,AH,HOME,0.5,1.85,10,0-0,0,50,HALF_LOST,-25
+2026-08-19,CONMEBOL Libertadores,Cerro Porteno,Palmeiras,0-1,AH,HOME,1,2.15,51,0-1,4.56,50,WON,57.5
+2026-08-19,CONMEBOL Libertadores,Cerro Porteno,Palmeiras,0-1,OU,OVER,1.75,2.05,63,,26.64,50,LOST,-50
+2026-08-19,CONMEBOL Sudamericana,Atletico-MG,RB Bragantino,2-2,AH,AWAY,0,1.95,11,0-0,0,50,PUSH,0
+2026-08-19,CONMEBOL Sudamericana,Atletico-MG,RB Bragantino,2-2,AH,HOME,1,1.95,45,0-1,-6.5,50,WON,47.5
+2026-08-19,CONMEBOL Sudamericana,Atletico-MG,RB Bragantino,2-2,OU,OVER,3,2.05,54,,50.83,50,WON,52.5
+2026-08-19,CONMEBOL Libertadores,Coquimbo Unido,Platense,0-0,AH,AWAY,0,2.675,30,0-0,12,50,PUSH,0
+2026-08-19,CONMEBOL Libertadores,Coquimbo Unido,Platense,0-0,OU,OVER,0.75,2,59,,24.81,50,LOST,-50
+2026-08-19,Brazilian Serie B,Fortaleza EC,São Bernardo,1-1,AH,AWAY,-0.5,1.95,10,0-0,0,50,HALF_WON,23.75
+2026-08-19,Brazilian Serie B,Fortaleza EC,São Bernardo,1-1,AH,AWAY,-1.5,1.825,34,1-0,6.3,86,WON,70.95
+2026-08-19,NWSL Women,Racing Louisville W,Seattle Reign FC W,2-1,AH,AWAY,0,1.8,10,0-0,0,50,LOST,-50
+2026-08-19,NWSL Women,Racing Louisville W,Seattle Reign FC W,2-1,AH,AWAY,-1,1.75,52,1-1,-21.8,50,PUSH,0
+2026-08-19,Brazilian Serie B,Avai,Sport Recife,2-1,AH,AWAY,0,1.975,10,0-0,0,50,LOST,-50
+2026-08-19,Brazilian Serie B,Avai,Sport Recife,2-1,OU,OVER,1,2,50,,26.6,500,WON,500
+2026-08-19,Canadian Premier League,Atlético Ottawa,Vancouver FC,4-0,AH,AWAY,0,1.9,10,0-0,0,50,LOST,-50
+2026-08-19,Canadian Premier League,Atlético Ottawa,Vancouver FC,4-0,AH,AWAY,-1,2,14,1-0,0,50,LOST,-50
+2026-08-19,Canadian Premier League,Forge,Supra du Quebec,3-2,AH,AWAY,-1,1.8,10,0-0,0,50,PUSH,0
+2026-08-19,Major League Soccer,FC Cincinnati,New York City FC,2-1,AH,AWAY,-0.5,1.9,10,0-0,0,50,HALF_LOST,-25
+2026-08-19,Major League Soccer,FC Cincinnati,New York City FC,2-1,AH,AWAY,-1.5,1.8,14,1-0,0,50,WON,40
+2026-08-19,Major League Soccer,FC Cincinnati,New York City FC,2-1,AH,AWAY,0,2.675,35,1-1,9.65,50,LOST,-50
+2026-08-19,Major League Soccer,FC Cincinnati,New York City FC,2-1,OU,UNDER,3,1.9,65,,45.42,50,PUSH,0
+2026-08-19,Major League Soccer,DC United,New England Revolution,0-3,AH,AWAY,0,2,10,0-0,0,50,WON,50
+2026-08-19,Major League Soccer,DC United,New England Revolution,0-3,AH,HOME,-0.5,2.425,12,0-0,0,50,LOST,-50
+2026-08-19,Major League Soccer,Columbus Crew,CF Montreal,1-2,AH,HOME,0,2,10,0-1,0,50,PUSH,0
+2026-08-19,Major League Soccer,Columbus Crew,CF Montreal,1-2,AH,AWAY,-0.5,1.95,22,1-1,-12.18,50,WON,47.5
+2026-08-19,Major League Soccer,Columbus Crew,CF Montreal,1-2,AH,AWAY,0,2.35,62,1-1,-11.31,50,WON,67.5
+2026-08-19,Major League Soccer,Columbus Crew,CF Montreal,1-2,OU,UNDER,3,1.825,65,,17.58,50,PUSH,0
+2026-08-19,Major League Soccer,New York Red Bulls,Nashville SC,0-1,AH,AWAY,0,1.9,10,0-0,0,50,WON,45
+2026-08-19,Major League Soccer,New York Red Bulls,Nashville SC,0-1,OU,UNDER,1,1.825,67,,27.31,50,PUSH,0
+2026-08-19,Major League Soccer,Toronto FC,Charlotte,3-3,AH,HOME,0.5,1.975,10,0-1,0,50,WON,48.75
+2026-08-19,Major League Soccer,Toronto FC,Charlotte,3-3,AH,AWAY,0,2.64,37,1-2,-4,50,LOST,-50
+2026-08-19,Major League Soccer,Philadelphia Union,Inter Miami,2-2,AH,AWAY,-1,1.8,12,1-0,0,50,WON,40
+2026-08-19,Major League Soccer,Philadelphia Union,Inter Miami,2-2,AH,AWAY,0,2.56,40,1-2,20.5,50,LOST,-50
+2026-08-19,Major League Soccer,Orlando City SC,Chicago Fire,1-2,AH,HOME,0.5,2.1,15,0-1,-26,50,HALF_WON,27.5
+2026-08-19,Major League Soccer,Orlando City SC,Chicago Fire,1-2,AH,AWAY,-0.5,1.85,53,1-1,13.19,50,WON,42.5
+2026-08-19,Major League Soccer,Orlando City SC,Chicago Fire,1-2,AH,AWAY,0,2.25,58,1-1,12.31,50,WON,62.5
+2026-08-19,Major League Soccer,Orlando City SC,Chicago Fire,1-2,OU,UNDER,3,1.85,65,,41.19,50,PUSH,0
+2026-08-20,Brazilian Serie B,Cuiaba,Operario-PR,1-0,AH,AWAY,0,2.5,52,0-0,-6.96,50,LOST,-50
+2026-08-20,Brazilian Serie B,Cuiaba,Operario-PR,1-0,AH,AWAY,-1,1.85,85,1-0,-14.97,70.7,WON,60.1
+2026-08-20,Brazilian Serie B,Cuiaba,Operario-PR,1-0,OU,OVER,1,2.05,52,,22.8,500,PUSH,0
+2026-08-20,NWSL Women,Houston Dash W,Chicago Red Stars W,5-0,AH,AWAY,-1.5,2,28,1-0,15.36,50,LOST,-50
+2026-08-20,Major League Soccer,Sporting Kansas City,St. Louis City,1-1,AH,HOME,0.5,1.825,10,0-0,0,50,HALF_WON,20.63
+2026-08-20,Major League Soccer,Sporting Kansas City,St. Louis City,1-1,AH,HOME,1,1.975,45,0-1,14.5,50,WON,48.75
+2026-08-20,Major League Soccer,Sporting Kansas City,St. Louis City,1-1,AH,AWAY,0,1.86,45,0-1,14.5,50,LOST,-50
+2026-08-20,Major League Soccer,Sporting Kansas City,St. Louis City,1-1,OU,OVER,3,2.025,64,,22.56,50,LOST,-50
+2026-08-20,Brazilian Serie B,Botafogo SP,Criciuma,1-1,AH,AWAY,0,2.425,15,0-0,0,50,PUSH,0
+2026-08-20,Brazilian Serie B,Botafogo SP,Criciuma,1-1,OU,OVER,1,2.025,51,,46.8,500,WON,512.5
+2026-08-20,CONMEBOL Libertadores,Flamengo,Cruzeiro,2-1,AH,AWAY,-1,1.825,10,0-0,0,50,PUSH,0
+2026-08-20,CONMEBOL Libertadores,Flamengo,Cruzeiro,2-1,AH,AWAY,-0.5,1.925,53,1-1,34.67,50,HALF_LOST,-25
+2026-08-20,CONMEBOL Sudamericana,Santa Fe,River Plate,0-0,AH,AWAY,0,1.7,21,0-0,2,50,PUSH,0
+2026-08-20,CONMEBOL Sudamericana,Santa Fe,River Plate,0-0,OU,OVER,0.5,2,55,,28.37,50,HALF_LOST,-25
+2026-08-20,CONMEBOL Sudamericana,Atletico Torque,Tigre,2-1,AH,HOME,1,2.05,11,0-1,0,50,WON,52.5
+2026-08-20,Major League Soccer,Minnesota United FC,Atlanta United FC,1-2,AH,AWAY,-0.5,2.09,32,0-0,2.5,50,WON,54.5
+2026-08-20,Major League Soccer,Seattle Sounders,Austin,1-2,AH,AWAY,-1,1.8,10,0-0,0,50,WON,40
+2026-08-20,Major League Soccer,Seattle Sounders,Austin,1-2,AH,AWAY,-0.5,2.15,17,0-0,-10.09,50,WON,57.5
+2026-08-20,Major League Soccer,Real Salt Lake,FC Dallas,3-4,AH,AWAY,0,2.52,14,0-0,0,50,WON,76
+2026-08-20,Major League Soccer,Real Salt Lake,FC Dallas,3-4,AH,HOME,0.5,1.825,17,0-1,10.09,50,HALF_WON,20.63
+2026-08-20,Major League Soccer,Real Salt Lake,FC Dallas,3-4,AH,HOME,1.5,1.85,21,0-2,8.07,50,WON,42.5
+2026-08-20,Major League Soccer,Colorado Rapids,Los Angeles FC,1-0,AH,AWAY,-1,1.975,22,1-0,-0.5,50,WON,48.75
+2026-08-20,Major League Soccer,Colorado Rapids,Los Angeles FC,1-0,OU,OVER,2,2.075,63,,40.07,50,LOST,-50
+2026-08-20,USL Championship,Phoenix Rising,Colorado Springs,3-1,AH,AWAY,0,2.3,10,0-0,0,50,LOST,-50
+2026-08-20,Major League Soccer,Los Angeles Galaxy,San Jose Earthquakes,1-0,AH,AWAY,-0.5,2,13,0-0,0,50,HALF_LOST,-25
+2026-08-20,Major League Soccer,Vancouver Whitecaps,Houston Dynamo,0-1,AH,AWAY,-1,1.825,11,0-0,0,50,WON,41.25
+2026-08-20,Major League Soccer,Vancouver Whitecaps,Houston Dynamo,0-1,AH,AWAY,0,1.75,33,0-0,-2.5,50,WON,37.5
+2026-08-20,Major League Soccer,Vancouver Whitecaps,Houston Dynamo,0-1,AH,HOME,0.5,1.75,60,0-1,-3,50,HALF_WON,18.75
+2026-08-20,Major League Soccer,Vancouver Whitecaps,Houston Dynamo,0-1,OU,OVER,2,2.05,68,,21.23,50,LOST,-50
+2026-08-20,Liga 3,Kolkheti Khobi,WIT Georgia,3-2,AH,HOME,1,2,11,0-0,0,50,WON,50
+2026-08-20,Liga 3,Kolkheti Khobi,WIT Georgia,3-2,AH,AWAY,0,2,16,1-0,0,50,PUSH,0
+2026-08-20,Ligi kuu Bara,Polisi Tanzania,JKT Tanzania,2-0,AH,AWAY,0,1.775,10,0-0,0,50,LOST,-50
+2026-08-20,Liga 3,Margveti 2006,Irao,2-1,AH,HOME,0.5,1.825,10,0-0,0,50,WON,41.25
+2026-08-20,Stars League,Al Wakrah,Qatar SC,2-2,AH,AWAY,-0.5,1.85,13,0-0,0,50,HALF_WON,21.25
+2026-08-20,Liga 3,Lokomotivi Tbilisi,Gonio,4-0,AH,HOME,0.5,1.775,11,0-0,0,50,WON,38.75
+2026-08-20,UEFA Europa Conference League,FC Midtjylland,HNK Rijeka,2-0,AH,AWAY,-1.5,1.975,22,1-0,0,77,HALF_WON,37.54
+2026-08-20,UEFA Europa Conference League,Tromso,Brighton,0-0,AH,HOME,1,2,10,0-0,0,50,WON,50
+2026-08-20,UEFA Europa Conference League,KI Klaksvik,Riga,0-0,AH,HOME,0.5,1.825,13,0-0,0,50,HALF_WON,20.63
+2026-08-20,UEFA Europa Conference League,PAOK,Brann,1-1,AH,AWAY,-1,2,10,0-0,0,59,WON,59
+2026-08-20,UEFA Europa Conference League,PAOK,Brann,1-1,AH,HOME,0.5,2,58,0-1,31.83,66,WON,66
+2026-08-20,UEFA Europa Conference League,PAOK,Brann,1-1,OU,OVER,1.25,2.05,58,,39.03,500,WON,525
+2026-08-20,Cup,Baltika,Dinamo Makhachkala,1-1,AH,AWAY,-0.5,1.86,12,0-0,0,50,HALF_WON,21.5
+2026-08-20,UEFA Europa Conference League,Drita,Inter Club d'Escaldes,2-2,AH,AWAY,-0.5,1.7,27,1-1,0,50,HALF_WON,17.5
+2026-08-20,UEFA Europa Conference League,Gornik Zabrze,Monaco,2-3,AH,HOME,1,1.95,10,0-1,0,58,WON,55.1
+2026-08-20,UEFA Europa Conference League,Twente,Qarabag,0-1,AH,AWAY,-1,2.025,10,0-0,0,59,WON,60.47
+2026-08-20,UEFA Europa Conference League,Twente,Qarabag,0-1,AH,AWAY,-0.5,2.025,51,0-0,10.56,50,WON,51.25
+2026-08-20,UEFA Europa Conference League,Twente,Qarabag,0-1,AH,HOME,0.5,1.75,58,0-1,9.71,72,HALF_WON,27
+2026-08-20,UEFA Europa Conference League,Twente,Qarabag,0-1,OU,UNDER,2,2,65,,15.58,500,WON,500
+2026-08-20,UEFA Europa Conference League,Vikingur Reykjavik,Borac Banja Luka,1-3,AH,AWAY,-0.5,1.95,10,0-0,0,50,WON,47.5
+2026-08-20,UEFA Europa Conference League,Vikingur Reykjavik,Borac Banja Luka,1-3,AH,HOME,1.5,1.775,45,0-2,-2.5,106,WON,82.15
+2026-08-20,UEFA Europa Conference League,Vikingur Reykjavik,Borac Banja Luka,1-3,OU,UNDER,3,1.975,65,,6.5,500,LOST,-500
+2026-08-20,UEFA Europa Conference League,FC Sion,Ajax,2-4,AH,HOME,0.5,1.875,10,0-0,0,50,LOST,-50
+2026-08-20,UEFA Europa Conference League,FC Sion,Ajax,2-4,AH,AWAY,-0.5,1.875,44,1-0,-23.87,50,WON,43.75
+2026-08-20,UEFA Europa Conference League,FC Sion,Ajax,2-4,AH,HOME,1,2.2,76,2-3,-16.97,41.3,PUSH,0
+2026-08-20,UEFA Europa Conference League,Gent,Hibernian,0-0,AH,AWAY,0,1.9,14,0-0,0,50,PUSH,0
+2026-08-20,UEFA Europa Conference League,Atalanta,Hapoel Tel Aviv,0-0,AH,AWAY,-1,2.05,24,0-0,0,66,WON,69.3
+2026-08-20,UEFA Europa Conference League,FC Lugano,Maccabi Tel Aviv,2-1,AH,AWAY,-0.5,1.975,21,0-0,0,50,HALF_LOST,-25
+2026-08-20,UEFA Europa Conference League,FC Lugano,Maccabi Tel Aviv,2-1,AH,AWAY,-1,1.85,83,2-1,3.67,70.7,WON,60.1
+2026-08-20,UEFA Europa Conference League,Motherwell,SC Freiburg,1-3,AH,AWAY,0,1.775,14,1-0,0,50,WON,38.75
+2026-08-20,UEFA Europa Conference League,Motherwell,SC Freiburg,1-3,AH,HOME,1,2.05,29,1-1,0,50,LOST,-50
+2026-08-20,UEFA Europa Conference League,Motherwell,SC Freiburg,1-3,AH,HOME,0.5,2.2,48,1-1,-10.5,51,LOST,-51
+2026-08-20,UEFA Europa Conference League,Motherwell,SC Freiburg,1-3,OU,OVER,3,2.1,60,,19,500,WON,550
+2026-08-20,UEFA Europa Conference League,Panathinaikos,Hradec Králové,2-2,AH,AWAY,-1,2.025,11,0-0,0,59,WON,60.47
+2026-08-20,UEFA Europa Conference League,Rangers,FK Jablonec,1-0,AH,AWAY,-1,1.775,10,0-0,0,62,PUSH,0
+2026-08-20,Brazilian Serie B,Novorizontino,America Mineiro,1-0,AH,AWAY,-1,1.825,10,0-0,0,63,PUSH,0
+2026-08-20,UEFA Europa Conference League,Heart Of Midlothian,Rapid Vienna,2-2,AH,AWAY,0,1.95,10,0-0,0,50,PUSH,0
+2026-08-20,UEFA Europa Conference League,Heart Of Midlothian,Rapid Vienna,2-2,AH,HOME,-0.5,2.675,25,0-0,-7.2,50,HALF_LOST,-25
+2026-08-20,UEFA Europa Conference League,Heart Of Midlothian,Rapid Vienna,2-2,AH,HOME,1,2.05,31,0-0,-5.81,50,WON,52.5
+2026-08-20,UEFA Europa Conference League,Heart Of Midlothian,Rapid Vienna,2-2,AH,AWAY,-1,1.85,65,2-1,-5.5,100,WON,85
+2026-08-20,UEFA Europa Conference League,Heart Of Midlothian,Rapid Vienna,2-2,OU,OVER,3,2,62,,38.72,500,WON,500
+2026-08-20,League One,Sheffield Wednesday,Bradford,0-1,AH,AWAY,0,1.975,10,0-0,0,50,WON,48.75
+2026-08-20,League One,Sheffield Wednesday,Bradford,0-1,AH,HOME,1,1.75,48,0-0,26.25,50,PUSH,0
+2026-08-20,UEFA Europa Conference League,Shamrock Rovers,KuPS,1-1,AH,AWAY,-0.5,1.8,19,0-0,0,50,HALF_WON,20
+2026-08-20,UEFA Europa Conference League,Shamrock Rovers,KuPS,1-1,AH,AWAY,0,2.25,85,1-0,11.5,39.9,WON,49.88
+2026-08-20,UEFA Europa Conference League,Shamrock Rovers,KuPS,1-1,OU,OVER,2,2.1,58,,3.5,500,PUSH,0
+2026-08-20,UEFA Europa Conference League,Getafe,FK Partizan,3-1,AH,AWAY,-0.5,2.37,48,1-1,19,50,LOST,-50
+2026-08-20,UEFA Europa Conference League,SC Braga,Austria Vienna,2-0,AH,AWAY,-1,1.975,10,0-0,0,61,LOST,-61
+2026-08-20,UEFA Europa Conference League,Dinamo Tirana,Pafos,1-1,AH,HOME,0.5,1.85,10,0-0,0,50,HALF_WON,21.25
+2026-08-20,La Liga,Rayo Vallecano,Alaves,1-1,AH,AWAY,-1,1.85,35,0-0,3.5,129,WON,109.65
+2026-08-20,La Liga,Rayo Vallecano,Alaves,1-1,OU,OVER,2,2.05,56,,28.79,500,PUSH,0
+2026-08-20,CONMEBOL Sudamericana,Macara,Santos,0-0,AH,AWAY,-0.5,1.775,11,0-0,0,50,HALF_WON,19.37
+2026-08-20,CONMEBOL Sudamericana,Olimpia,Vasco DA Gama,1-4,AH,AWAY,0,1.95,10,0-0,0,50,WON,47.5
+2026-08-20,CONMEBOL Sudamericana,Olimpia,Vasco DA Gama,1-4,AH,HOME,-0.5,2.6,14,0-0,0,50,LOST,-50
+2026-08-20,CONMEBOL Sudamericana,Olimpia,Vasco DA Gama,1-4,AH,AWAY,-1,1.775,17,1-0,0,50,WON,38.75
+2026-08-20,CONMEBOL Libertadores,LDU de Quito,Mirassol,0-0,AH,AWAY,-1,1.8,10,0-0,0,50,WON,40
+2026-08-20,Brazilian Serie B,Athletic Club,CRB,0-2,AH,AWAY,0,2.05,10,0-0,0,50,WON,52.5
+2026-08-21,CONMEBOL Libertadores,Corinthians,Rosario Central,1-0,AH,AWAY,-0.5,1.725,16,0-0,0,50,HALF_LOST,-25
+2026-08-21,CONMEBOL Libertadores,Corinthians,Rosario Central,1-0,AH,AWAY,0,2.5,57,0-0,15.63,50,LOST,-50
+2026-08-21,J1 League,FC Tokyo,JEF United Chiba,2-0,AH,AWAY,-1,1.875,10,0-0,0,60,LOST,-60
+2026-08-21,Liga 3,Guria,FC Iberia 1999 II,2-0,AH,AWAY,-1.5,2.025,27,1-0,0,50,HALF_WON,25.62
+2026-08-21,Pro League (301),Al-Ittihad Kalba,Al-Wasl FC,0-2,AH,HOME,1,1.8,13,0-0,0,50,LOST,-50
+2026-08-21,Stars League,Al-Gharafa,Al Shahaniya,1-1,AH,AWAY,-0.5,1.8,19,0-0,0,50,HALF_WON,20
+2026-08-21,Premier League (233),Wadi Degla,Masr,0-0,AH,AWAY,0,2.3,28,0-0,0,50,PUSH,0
+2026-08-21,First League,Skopje,Tikveš,1-1,AH,HOME,0.5,1.95,13,0-0,0,50,HALF_WON,23.75
+2026-08-21,Premier League (116),FC Minsk,FC Vitebsk,0-1,AH,HOME,-0.5,2.27,23,0-1,0,50,HALF_LOST,-25
+2026-08-21,Premier League (116),FC Minsk,FC Vitebsk,0-1,AH,AWAY,0,2.27,25,0-1,0,50,PUSH,0
+2026-08-21,Veikkausliiga,SJK,Lahti,0-0,AH,AWAY,0,1.775,19,0-0,0,50,PUSH,0
+2026-08-21,1. SNL,Aluminij,Brinje-Grosuplje,4-2,AH,AWAY,-1,2.05,14,1-0,0,50,PUSH,0
+2026-08-21,1. SNL,Aluminij,Brinje-Grosuplje,4-2,AH,AWAY,0,2.25,23,1-1,0,50,LOST,-50
+2026-08-21,Damallsvenskan,Malmö FF W,Hammarby W,1-1,AH,HOME,1,1.975,10,0-1,0,50,WON,48.75
+2026-08-21,DFB Pokal,Preußen Münster,Karlsruher SC,1-2,AH,HOME,0.5,1.9,10,0-0,0,50,HALF_LOST,-25
+2026-08-21,DFB Pokal,Preußen Münster,Karlsruher SC,1-2,AH,AWAY,-0.5,1.85,45,1-0,2,50,WON,42.5
+2026-08-21,DFB Pokal,Preußen Münster,Karlsruher SC,1-2,AH,HOME,1,2.15,82,1-2,-5.58,35,WON,40.25
+2026-08-21,Primera División,FC Cajamarca,Atletico Grau,1-1,AH,AWAY,0,2.2,38,1-1,7.24,50,PUSH,0
+2026-08-21,Pro League (307),Al-Hazm,Al Diriyah,0-1,AH,HOME,1,2.15,53,0-1,-6.79,50,WON,57.5
+2026-08-21,Pro League (307),Al-Hazm,Al Diriyah,0-1,OU,OVER,2,2,64,,23.07,50,LOST,-50
+2026-08-21,2. Liga,SKU Amstetten,WSPG Wels,1-1,AH,AWAY,-0.5,1.9,10,0-0,0,50,HALF_WON,22.5
+2026-08-21,2. Liga,FC Liefering,Austria Vienna (Am),2-1,AH,AWAY,-0.5,1.85,10,0-0,0,50,HALF_LOST,-25
+2026-08-21,2. Liga,Wacker Innsbruck,SKN ST. Polten,1-0,AH,AWAY,0,1.8,10,0-0,0,50,LOST,-50
+2026-08-21,2. Liga,Austria Salzburg,SV Kapfenberg,3-2,AH,AWAY,-0.5,1.825,10,0-0,0,50,HALF_LOST,-25
+2026-08-21,2. Liga,Austria Salzburg,SV Kapfenberg,3-2,AH,HOME,0.5,1.925,15,0-0,0,50,WON,46.25
+2026-08-21,Pro League (301),Al Nasr,Al Wahda FC,1-0,AH,AWAY,0,2.025,17,0-0,0,50,LOST,-50
+2026-08-21,Friendlies Clubs,Lugo,Ourense CF,1-0,AH,AWAY,-0.5,1.875,12,0-0,0,50,HALF_LOST,-25
+2026-08-21,Friendlies Clubs,Lugo,Ourense CF,1-0,AH,AWAY,0,2.675,18,0-0,0,50,LOST,-50
+2026-08-21,First League,Cherno More Varna,Dunav Ruse,3-1,AH,AWAY,-1,1.825,10,0-0,0,50,LOST,-50
+2026-08-21,Allsvenskan,Sirius,BK Hacken,0-3,AH,AWAY,-0.5,1.925,10,0-0,0,50,WON,46.25
+2026-08-21,Allsvenskan,Sirius,BK Hacken,0-3,AH,HOME,0.5,1.9,30,0-1,-2.5,50,LOST,-50
+2026-08-21,First League,Bregalnica Štip,Bashkimi Kumanovo,3-0,AH,AWAY,-1,2.025,11,0-0,0,50,LOST,-50
+2026-08-21,First League,Bregalnica Štip,Bashkimi Kumanovo,3-0,AH,AWAY,-0.5,1.95,20,0-0,0,50,LOST,-50
+2026-08-21,First League,Bregalnica Štip,Bashkimi Kumanovo,3-0,AH,AWAY,-1.5,2,24,1-0,0,50,HALF_LOST,-25
+2026-08-21,Segunda Liga,Benfica B,Portimonense,1-1,AH,HOME,0.5,1.875,10,0-0,0,50,HALF_WON,21.88
+2026-08-21,Segunda Liga,Benfica B,Portimonense,1-1,AH,HOME,0,2.75,18,0-1,0,50,WON,87.5
+2026-08-21,Premier League (233),Zamalek SC,Al Ittihad,0-0,AH,AWAY,-1,1.95,10,0-0,0,50,WON,47.5
+2026-08-21,Premier League (233),Zamalek SC,Al Ittihad,0-0,AH,AWAY,-0.5,2.15,45,0-0,6.5,50,HALF_WON,28.75
+2026-08-21,Premier League (233),Zamalek SC,Al Ittihad,0-0,OU,OVER,1,2.05,58,,24.12,50,LOST,-50
+2026-08-21,Ligue 2,PAU,Nancy,0-0,AH,AWAY,0,1.975,10,0-0,0,50,PUSH,0
+2026-08-21,Eerste Divisie,Den Bosch,FC Eindhoven,3-1,AH,HOME,0.5,1.925,10,0-1,0,50,WON,46.25
+2026-08-21,Eerste Divisie,Den Bosch,FC Eindhoven,3-1,AH,AWAY,-0.5,1.825,14,1-1,0,50,LOST,-50
+2026-08-21,Eerste Divisie,Den Bosch,FC Eindhoven,3-1,AH,AWAY,-1.5,1.8,23,2-1,0,50,HALF_WON,20
+2026-08-21,Eerste Divisie,Helmond Sport,Waalwijk,1-0,AH,HOME,0.5,2,10,0-0,0,50,WON,50
+2026-08-21,Eerste Divisie,Helmond Sport,Waalwijk,1-0,AH,AWAY,-0.5,1.8,19,1-0,0,50,HALF_WON,20
+2026-08-21,Challenger Pro League,Lokeren-Temse,AS Eupen,1-0,AH,AWAY,0,2.025,17,0-0,0,50,LOST,-50
+2026-08-21,Premier League (233),Abu Qair Semad,National Bank of Egypt,1-0,AH,HOME,0.5,1.725,28,0-0,0,50,WON,36.25
+2026-08-21,Eerste Divisie,Emmen,Jong AZ,0-0,AH,AWAY,-0.5,1.825,10,0-0,0,50,HALF_WON,20.63
+2026-08-21,Ligue 2,Sochaux,Guingamp,1-0,AH,AWAY,0,2,10,0-0,0,50,LOST,-50
+2026-08-21,Ligue 2,Sochaux,Guingamp,1-0,AH,HOME,-0.5,2.5,11,0-0,0,50,HALF_WON,37.5
+2026-08-21,Ligue 2,Sochaux,Guingamp,1-0,AH,AWAY,-1,2,14,0-0,0,50,PUSH,0
+2026-08-21,Ligue 2,Sochaux,Guingamp,1-0,AH,AWAY,-0.5,2.425,26,1-0,15.85,50,HALF_WON,35.62
+2026-08-21,Friendlies Clubs,Atlético Astorga,Cultural Leonesa,1-1,AH,HOME,1,1.975,10,0-1,0,50,WON,48.75
+2026-08-21,Friendlies Clubs,Unionistas de Salamanca,Cacereño,1-0,AH,AWAY,-0.5,1.725,17,0-0,0,50,HALF_LOST,-25
+2026-08-21,1. SNL,Olimpija Ljubljana,Nafta,1-0,AH,AWAY,-1,1.9,10,0-0,0,50,PUSH,0
+2026-08-21,Liga Profesional Argentina,Aldosivi,Union Santa Fe,1-3,AH,AWAY,0,1.875,10,0-0,0,50,WON,43.75
+2026-08-21,Liga Profesional Argentina,Aldosivi,Union Santa Fe,1-3,AH,AWAY,-1,1.9,19,1-0,0,50,WON,45
+2026-08-21,Bundesliga (218),Ried,Grazer AK,1-0,AH,AWAY,-0.5,1.8,10,0-0,0,50,HALF_LOST,-25
+2026-08-21,Bundesliga (218),Ried,Grazer AK,1-0,AH,HOME,0.5,1.95,29,0-0,0,50,WON,47.5
+2026-08-21,Bundesliga (218),Ried,Grazer AK,1-0,OU,OVER,2,2.1,61,,21.3,50,LOST,-50
+2026-08-21,Eerste Divisie,Vitesse,Almere City FC,0-3,AH,AWAY,0,2.05,10,0-0,0,50,WON,52.5
+2026-08-21,Eerste Divisie,Dordrecht,Roda,0-1,AH,AWAY,0,1.75,10,0-0,0,50,WON,37.5
+2026-08-21,Eerste Divisie,Dordrecht,Roda,0-1,AH,HOME,1,1.925,23,0-1,0,50,WON,46.25
+2026-08-21,HNL,Rudes,NK Lokomotiva Zagreb,4-1,AH,HOME,0.5,1.975,10,0-0,0,50,WON,48.75
+2026-08-21,Challenger Pro League,RSC Anderlecht II,Excelsior Virton,0-1,AH,AWAY,-0.5,1.775,18,0-0,0,50,WON,38.75
+2026-08-21,Ligue 2,Dunkerque,Montpellier,0-1,AH,AWAY,0,2.075,47,0-0,-1,50,WON,53.75
+2026-08-21,Ligue 2,Dunkerque,Montpellier,0-1,AH,HOME,1,1.7,55,0-1,-1,50,WON,35
+2026-08-21,Ligue 2,Boulogne,RED Star FC 93,1-1,AH,HOME,1,1.9,47,0-1,18.32,50,WON,45
+2026-08-21,Ligue 2,Boulogne,RED Star FC 93,1-1,AH,AWAY,0,1.925,52,1-1,16.85,50,PUSH,0
+2026-08-21,Ligue 2,Boulogne,RED Star FC 93,1-1,OU,OVER,3,2.075,54,,27,50,LOST,-50
+2026-08-21,Segunda División,Cordoba,Girona,2-0,AH,AWAY,0,1.775,10,0-0,0,50,LOST,-50
+2026-08-21,Segunda División,Cordoba,Girona,2-0,AH,AWAY,-1,1.8,12,1-0,0,50,PUSH,0
+2026-08-21,Segunda División,Cordoba,Girona,2-0,AH,AWAY,-0.5,2.075,24,1-0,0,50,HALF_LOST,-25
+2026-08-21,2. Liga,Admira Wacker,First Vienna,0-1,AH,HOME,0.5,1.84,17,0-0,0,50,HALF_LOST,-25
+2026-08-21,1. Lig,Fatih Karagümrük,Bursaspor,2-1,AH,AWAY,-0.5,1.825,10,1-0,0,50,HALF_WON,20.63
+2026-08-21,Primera División,Albion FC,Boston River,2-3,AH,HOME,0.5,2.25,28,0-1,0,50,HALF_WON,31.25
+2026-08-21,Serie B,Vicenza Virtus,Catanzaro,3-2,AH,HOME,0.5,2.025,26,0-1,0,50,WON,51.25
+2026-08-21,Serie B,Vicenza Virtus,Catanzaro,3-2,AH,AWAY,0,2.3,45,1-1,20.5,50,LOST,-50
+2026-08-21,Ekstraklasa,Cracovia Krakow,Wieczysta Kraków,3-2,AH,AWAY,0,2.3,45,1-1,-0.5,50,LOST,-50
+2026-08-21,Ekstraklasa,Cracovia Krakow,Wieczysta Kraków,3-2,AH,HOME,0.5,2.05,53,1-1,-1.1,50,WON,52.5
+2026-08-21,Premier Division,Drogheda United,St Patrick's Athl.,0-2,AH,HOME,1.5,1.925,21,0-1,0,50,HALF_WON,23.13
+2026-08-21,Pro League,Standard Liege,RAAL La Louvière,2-0,AH,AWAY,-0.5,1.875,10,0-0,0,50,LOST,-50
+2026-08-21,Premier Division,Bohemians,Derry City,5-3,AH,AWAY,-0.5,1.975,12,0-0,0,50,LOST,-50
+2026-08-21,Premier Division,Bohemians,Derry City,5-3,AH,HOME,0.5,1.975,38,0-1,1,50,WON,48.75
+2026-08-21,Premier Division,Dundalk,Galway United,1-2,AH,HOME,0.5,1.8,10,0-1,0,50,HALF_WON,20
+2026-08-21,Ligue 1,Marseille,Strasbourg,4-0,AH,AWAY,-0.5,1.9,45,0-0,17.5,100,LOST,-100
+2026-08-21,La Liga,Real Betis,Real Sociedad,1-0,AH,AWAY,-1,1.85,80,1-0,6.75,112,WON,95.2
+2026-08-21,Primera División,Alianza Atletico,Sporting Cristal,1-0,AH,AWAY,0,1.725,36,0-0,8.5,50,LOST,-50
+2026-08-21,Primera División,Alianza Atletico,Sporting Cristal,1-0,AH,AWAY,0,1.775,41,0-0,7.89,50,LOST,-50
+2026-08-21,Segunda Liga,Tondela,Academica,0-2,AH,AWAY,-0.5,1.775,11,0-0,0,50,WON,38.75
+2026-08-21,Segunda Liga,Tondela,Academica,0-2,AH,AWAY,0,2.425,29,0-0,0,50,WON,71.25
+2026-08-21,Primera A,Jaguares,Chico,1-0,AH,AWAY,-1.5,1.925,11,1-0,0,50,WON,46.25
+2026-08-21,Primera A,Jaguares,Chico,1-0,AH,AWAY,-1,1.825,83,1-0,-5.68,35,WON,28.88
+2026-08-21,Primera División,The Strongest,Universitario de Vinto,2-2,AH,AWAY,-1.5,1.975,25,1-0,0,50,WON,48.75
+2026-08-21,Primera División,Liverpool Montevideo,Cerro,4-0,AH,AWAY,-0.5,2.2,17,0-0,0,50,LOST,-50
+2026-08-22,Liga Pro,Deportivo Cuenca,Mushuc Runa SC,0-0,AH,AWAY,0,1.8,10,0-0,0,50,PUSH,0
+2026-08-22,Liga Pro,Leones del Norte,Independiente del Valle,1-0,AH,AWAY,0,1.925,10,1-0,0,50,PUSH,0
+2026-08-22,Liga Pro,Leones del Norte,Independiente del Valle,1-0,AH,AWAY,0,1.975,13,1-0,0,50,PUSH,0
+2026-08-22,Liga MX,Leon,Monterrey,1-0,AH,AWAY,-0.5,2.025,25,1-0,0,50,HALF_WON,25.62
+2026-08-22,Primera A,Alianza Valledupar,Deportivo Pereira,0-0,AH,AWAY,-0.5,2,12,0-0,0,50,HALF_WON,25
+2026-08-22,Primera A,Alianza Valledupar,Deportivo Pereira,0-0,AH,AWAY,-0.5,1.95,16,0-0,0,50,HALF_WON,23.75
+2026-08-22,Primera División,Oriente Petrolero,San Antonio Bulo Bulo,4-0,AH,AWAY,-1,1.85,10,0-0,0,50,LOST,-50
+2026-08-22,Primera División,Oriente Petrolero,San Antonio Bulo Bulo,4-0,AH,AWAY,-1,1.825,14,0-0,0,50,LOST,-50
+2026-08-22,Liga Panameña de Fútbol,CD Arabe Unido,Sporting San Miguelito,1-0,AH,AWAY,0,2.1,15,0-0,0,50,LOST,-50
+2026-08-22,Liga Panameña de Fútbol,CD Arabe Unido,Sporting San Miguelito,1-0,AH,AWAY,-1,1.925,26,1-0,0,50,WON,46.25
+2026-08-22,Liga Panameña de Fútbol,CD Arabe Unido,Sporting San Miguelito,1-0,AH,AWAY,-1,1.85,28,1-0,0,50,WON,42.5
+2026-08-22,NWSL Women,San Diego Wave W,Utah Royals W,4-2,AH,AWAY,-1,2.025,12,1-0,0,50,PUSH,0
+2026-08-22,NWSL Women,San Diego Wave W,Utah Royals W,4-2,AH,AWAY,-1,2.025,22,1-0,0,50,PUSH,0
+2026-08-22,NWSL Women,San Diego Wave W,Utah Royals W,4-2,AH,AWAY,0,2.075,30,1-1,0,50,LOST,-50
+2026-08-22,Liga MX,Club Queretaro,Toluca,0-0,AH,HOME,0.5,1.85,10,0-0,0,50,HALF_WON,21.25
+2026-08-22,Liga MX,FC Juarez,Club America,1-2,AH,HOME,1,1.775,10,0-0,0,50,PUSH,0
+2026-08-22,Friendlies Clubs,Espanyol II,Gimnastic,3-0,AH,AWAY,0,1.775,13,0-0,0,50,LOST,-50
+2026-08-22,Friendlies Clubs,Espanyol II,Gimnastic,3-0,AH,AWAY,-1,1.825,29,1-0,0,50,LOST,-50
+2026-08-22,Friendlies Clubs,Gimnástica Segoviana,Rayo Majadahonda,0-1,AH,HOME,1,2.05,10,0-1,0,50,WON,52.5
+2026-08-22,J1 League,Kashima,Avispa Fukuoka,3-2,AH,AWAY,-1,1.9,32,1-0,-20.87,82,WON,73.8
+2026-08-22,J1 League,Kashima,Avispa Fukuoka,3-2,OU,OVER,4,2.1,61,,45.46,500,WON,550
+2026-08-22,J1 League,Kyoto Sanga,Mito Hollyhock,0-2,AH,HOME,0.5,2.025,18,0-1,-15,57,HALF_LOST,-28.5
+2026-08-22,J1 League,Sanfrecce Hiroshima,Kawasaki Frontale,1-0,AH,AWAY,-1,1.975,10,0-0,0,60,PUSH,0
+2026-08-22,J1 League,Sanfrecce Hiroshima,Kawasaki Frontale,1-0,AH,AWAY,-1.5,1.875,30,1-0,1.5,82,WON,71.75
+2026-08-22,J1 League,Yokohama F. Marinos,Vissel Kobe,1-0,AH,AWAY,-1,1.925,10,1-0,0,74,WON,68.45
+2026-08-22,Friendlies Clubs,SS Reyes,Atlético Baleares,0-3,AH,HOME,0.5,2.025,12,0-1,0,50,LOST,-50
+2026-08-22,Tweede Divisie,Katwijk,Hoek,1-1,AH,AWAY,0,2.025,10,0-0,0,50,PUSH,0
+2026-08-22,J1 League,Nagoya Grampus,Gamba Osaka,3-1,AH,AWAY,-1,1.8,10,1-0,0,77,PUSH,0
+2026-08-22,Segunda Liga,Leixoes,União de Leiria,2-4,AH,HOME,0.5,1.975,23,1-1,0,50,LOST,-50
+2026-08-22,Chinese Super League,Wuhan Three Towns,Tianjin Teda,0-0,AH,AWAY,-0.5,1.85,10,0-0,0,50,HALF_WON,21.25
+2026-08-22,K League 2,Ansan Greeners,Seongnam FC,1-2,AH,HOME,0.5,2.075,22,0-0,0,50,HALF_LOST,-25
+2026-08-22,K League 1,Bucheon FC 1995,Pohang Steelers,3-0,AH,AWAY,0,1.95,10,0-0,0,50,LOST,-50
+2026-08-22,K League 1,Bucheon FC 1995,Pohang Steelers,3-0,AH,AWAY,-1,1.75,16,1-0,0,82,LOST,-82
+2026-08-22,K League 1,FC Anyang,FC Seoul,0-7,AH,HOME,1.5,1.875,10,0-1,0,88,LOST,-88
+2026-08-22,K League 2,Cheonan City,Suwon Bluewings,0-1,AH,HOME,1,1.925,10,0-0,0,50,PUSH,0
+2026-08-22,K League 2,Suwon City FC,Gimhae City,2-0,AH,AWAY,-1,1.975,10,0-0,0,50,LOST,-50
+2026-08-22,K League 2,Suwon City FC,Gimhae City,2-0,AH,AWAY,-0.5,2.025,30,0-0,0,50,LOST,-50
+2026-08-22,K League 2,Daegu FC,Busan I Park,1-1,AH,AWAY,0,2.3,27,0-0,0,50,PUSH,0
+2026-08-22,Premier League (116),Belshina,Arsenal,2-0,AH,AWAY,0,1.91,33,1-0,-4.5,50,LOST,-50
+2026-08-22,DFB Pokal,Energie Cottbus,FC Augsburg,0-2,AH,HOME,1,1.75,31,0-0,10.3,50,LOST,-50
+2026-08-22,DFB Pokal,Energie Cottbus,FC Augsburg,0-2,AH,HOME,0.5,2.2,42,0-0,8.78,50,LOST,-50
+2026-08-22,Chinese Super League,Beijing Guoan,Yunnan Yukun,1-0,AH,AWAY,-1,1.975,10,0-0,0,59,PUSH,0
+2026-08-22,Championship,Millwall,Norwich,3-0,AH,AWAY,0,1.875,10,0-0,0,50,LOST,-50
+2026-08-22,Championship,Millwall,Norwich,3-0,AH,AWAY,-1,1.825,27,1-0,31.67,50,LOST,-50
+2026-08-22,League Two,Walsall,Grimsby,0-0,AH,AWAY,0,1.775,18,0-0,0.5,50,PUSH,0
+2026-08-22,League One,Doncaster,Barnsley,0-0,AH,AWAY,-0.5,1.975,10,0-0,0,50,HALF_WON,24.38
+2026-08-22,League One,Doncaster,Barnsley,0-0,AH,AWAY,0,2.75,33,0-0,8.96,50,PUSH,0
+2026-08-22,League One,Doncaster,Barnsley,0-0,OU,OVER,1,2,64,,13.94,50,LOST,-50
+2026-08-22,Championship,Birmingham,Bristol City,2-2,AH,AWAY,-0.5,2.05,12,0-0,0,50,HALF_WON,26.25
+2026-08-22,Premier League,Hull City,Manchester United,2-0,AH,AWAY,0,1.725,37,1-0,12.23,100,LOST,-100
+2026-08-22,Championship,Lincoln,Portsmouth,1-3,AH,HOME,0.5,2,10,0-1,0,50,HALF_LOST,-25
+2026-08-22,Championship,Lincoln,Portsmouth,1-3,AH,HOME,1,1.75,69,1-2,3.61,50,PUSH,0
+2026-08-22,League Two,Salford City,Chesterfield,0-1,AH,HOME,0.5,1.85,10,0-1,0,50,HALF_WON,21.25
+2026-08-22,League Two,Bristol Rovers,Newport County,5-3,AH,HOME,0,2.05,10,0-1,0,50,WON,52.5
+2026-08-22,League Two,Bristol Rovers,Newport County,5-3,AH,HOME,0.5,1.75,44,0-1,2,50,WON,37.5
+2026-08-22,League Two,Bristol Rovers,Newport County,5-3,AH,AWAY,-0.5,2.05,45,1-1,2,50,LOST,-50
+2026-08-22,League Two,Bristol Rovers,Newport County,5-3,OU,OVER,3.25,2.025,54,,12.66,50,WON,51.25
+2026-08-22,Chinese Super League,Chengdu Better City,Shanghai Shenhua,4-5,AH,AWAY,-1,2,17,1-0,0,74,WON,74
+2026-08-22,Chinese Super League,Chengdu Better City,Shanghai Shenhua,4-5,AH,AWAY,0,2.025,22,1-1,-11.18,50,WON,51.25
+2026-08-22,Premier League (235),Fakel,FC Orenburg,0-0,AH,HOME,-0.5,2.75,11,0-0,0,50,HALF_LOST,-25
+2026-08-22,Premier League (235),Fakel,FC Orenburg,0-0,AH,AWAY,0,1.82,45,0-0,-21,50,PUSH,0
+2026-08-22,Ekstraklasa,Korona Kielce,Motor Lublin,1-1,AH,AWAY,-0.5,2,10,0-0,0,50,HALF_WON,25
+2026-08-22,Ekstraklasa,Korona Kielce,Motor Lublin,1-1,AH,AWAY,0,2.675,37,1-1,2,50,PUSH,0
+2026-08-22,Ligue 2,Metz,Laval,1-1,AH,AWAY,-0.5,2.025,10,0-0,0,50,HALF_WON,25.62
+2026-08-22,Ligue 2,Metz,Laval,1-1,AH,HOME,0.5,1.975,55,0-1,1.73,50,WON,48.75
+2026-08-22,Ligue 2,Metz,Laval,1-1,AH,AWAY,0,1.7,83,1-1,2.84,35,PUSH,0
+2026-08-22,Ligue 2,Nantes,Rodez,2-5,AH,AWAY,-1.5,1.925,11,1-0,0,50,WON,46.25
+2026-08-22,Ligue 2,Nantes,Rodez,2-5,AH,AWAY,-0.5,1.8,53,2-2,22.99,50,WON,40
+2026-08-22,Chinese Super League,Qingdao Youth Island,Shandong Luneng,2-0,AH,AWAY,-1,1.75,21,1-0,0,84,PUSH,0
+2026-08-22,Tweede Divisie,Koninklijke HFC,Barendrecht,1-2,AH,AWAY,-0.5,1.8,26,0-0,0,50,WON,40
+2026-08-22,Chinese Super League,Sichuan Jiuniu,Hangzhou Greentown,1-1,AH,AWAY,0,1.95,10,0-0,0,50,PUSH,0
+2026-08-22,Tweede Divisie,HHC,Almere City II,2-1,AH,AWAY,0,1.85,10,0-0,0,50,LOST,-50
+2026-08-22,Tweede Divisie,HHC,Almere City II,2-1,AH,HOME,0.5,1.825,12,0-0,0,50,WON,41.25
+2026-08-22,Tweede Divisie,HHC,Almere City II,2-1,AH,AWAY,-0.5,1.975,14,0-0,0,50,HALF_LOST,-25
+2026-08-22,Super League (391),Creck,Ekhaya,3-2,AH,AWAY,0,1.775,11,0-0,0,50,LOST,-50
+2026-08-22,Super League (391),Creck,Ekhaya,3-2,AH,HOME,1,2.025,21,0-1,0,50,WON,51.25
+2026-08-22,Super League (391),Masters FC,Blue Eagles,1-2,AH,HOME,1,2,13,0-1,0,50,WON,50
+2026-08-22,Super League (391),Be Forward Wanderers,Red Lions,2-1,AH,HOME,-0.5,2.25,28,0-1,0,50,WON,62.5
+2026-08-22,Tweede Divisie,RKAV Volendam,Spakenburg,2-1,AH,HOME,1,1.9,10,0-0,0,50,WON,45
+2026-08-22,Tweede Divisie,RKAV Volendam,Spakenburg,2-1,AH,AWAY,0,2.025,26,1-0,0,50,PUSH,0
+2026-08-22,Super League (391),Moyale Barracks,Kamuzu Barracks,2-2,AH,AWAY,-1,2,24,1-0,0,50,WON,50
+2026-08-22,NB I,Vasas,Puskas Academy,0-0,AH,AWAY,0,2.3,24,0-0,0,50,PUSH,0
+2026-08-22,Damallsvenskan,Djurgården W,Brommapojkarna W,2-2,AH,AWAY,-1.5,1.925,10,1-0,0,50,WON,46.25
+2026-08-22,Allsvenskan,Orgryte IS,Halmstad,1-1,AH,AWAY,-0.5,1.875,10,0-0,0,50,HALF_WON,21.88
+2026-08-22,Allsvenskan,Orgryte IS,Halmstad,1-1,AH,AWAY,0,2.75,12,0-0,0,50,PUSH,0
+2026-08-22,Allsvenskan,Orgryte IS,Halmstad,1-1,OU,OVER,3,2.05,63,,42.43,50,LOST,-50
+2026-08-22,Damallsvenskan,Kristianstad W,Rosengård W,1-1,AH,HOME,0.5,1.95,17,0-1,0,50,WON,47.5
+2026-08-22,Damallsvenskan,Kristianstad W,Rosengård W,1-1,AH,AWAY,0,2.425,29,1-1,0,50,PUSH,0
+2026-08-22,First League,Volga Ulyanovsk,Shinnik Yaroslavl,1-3,AH,AWAY,0,2.27,20,0-0,0,50,WON,63.5
+2026-08-22,Tweede Divisie,Ijsselmeervogels,Quick Boys,0-1,AH,HOME,0.5,1.825,10,0-0,0,50,HALF_LOST,-25
+2026-08-22,Premier League (116),Slavia Mozyr,FC Gomel,0-0,AH,AWAY,0,2.05,83,0-0,0,35,PUSH,0
+2026-08-22,Segunda Liga,Vizela,Amarante,0-0,AH,AWAY,-0.5,1.775,12,0-0,0,50,HALF_WON,19.37
+2026-08-22,Tweede Divisie,Kloetinge,Kozakken Boys,3-3,AH,AWAY,0,1.95,10,0-0,0,50,PUSH,0
+2026-08-22,Tweede Divisie,Kloetinge,Kozakken Boys,3-3,AH,AWAY,-1,2.025,28,1-0,0,50,WON,51.25
+2026-08-22,League Two,Swindon Town,Cheltenham,1-0,AH,AWAY,0,2.5,10,0-0,0,50,LOST,-50
+2026-08-22,Pro League,Zulte Waregem,SK Beveren,2-0,AH,AWAY,-1,2,20,0-0,-9,63,LOST,-63
+2026-08-22,Championship,West Ham,Charlton,0-1,AH,AWAY,0,2.2,27,0-1,0,50,PUSH,0
+2026-08-22,Challenger Pro League,Dender,Beerschot VA,1-0,AH,AWAY,-0.5,1.975,13,0-0,0,50,HALF_LOST,-25
+2026-08-22,Championship,QPR,Bolton,0-0,AH,AWAY,-0.5,2.05,11,0-0,0,50,HALF_WON,26.25
+2026-08-22,League One,Bromley,Cambridge United,0-0,AH,AWAY,0,1.825,10,0-0,0,50,PUSH,0
+2026-08-22,League One,Wigan,Leyton Orient,0-1,AH,HOME,0.5,1.925,20,0-1,0,50,HALF_WON,23.13
+2026-08-22,2. Liga,Rapid Wien II,Floridsdorfer AC,0-2,AH,AWAY,0,2,10,0-0,0,50,WON,50
+2026-08-22,Premier League,Nottingham Forest,Leeds,0-1,AH,AWAY,0,1.875,35,0-0,1.5,100,WON,87.5
+2026-08-22,Premier League,Nottingham Forest,Leeds,0-1,OU,OVER,1,2,52,,16.34,500,PUSH,0
+2026-08-22,League One,Milton Keynes Dons,Huddersfield,1-1,AH,HOME,1,1.9,10,0-1,0,50,WON,45
+2026-08-22,League One,Milton Keynes Dons,Huddersfield,1-1,AH,AWAY,0,2.075,54,0-1,-19.5,50,LOST,-50
+2026-08-22,League One,Milton Keynes Dons,Huddersfield,1-1,OU,OVER,3,2,62,,41.63,50,LOST,-50
+2026-08-22,Premier League,Ipswich,Sunderland,2-1,AH,AWAY,0,1.7,52,1-1,3.97,100,LOST,-100
+2026-08-22,Premier League,Ipswich,Sunderland,2-1,OU,OVER,3,2,56,,42.15,500,PUSH,0
+2026-08-22,Championship,Blackburn,Middlesbrough,2-1,AH,HOME,0.5,1.875,10,0-0,0,50,WON,43.75
+2026-08-22,Championship,Blackburn,Middlesbrough,2-1,AH,HOME,1.5,1.875,13,0-1,0,50,WON,43.75
+2026-08-22,Championship,Blackburn,Middlesbrough,2-1,AH,HOME,1,2.3,22,0-1,0,50,WON,65
+2026-08-22,Championship,Southampton,Stoke City,3-1,AH,AWAY,-1.5,1.95,10,1-0,0,50,HALF_WON,23.75
+2026-08-22,Championship,Southampton,Stoke City,3-1,AH,AWAY,-0.5,1.925,27,1-1,-26.67,50,LOST,-50
+2026-08-22,Championship,Southampton,Stoke City,3-1,OU,OVER,2.75,2.025,70,,32.71,50,WON,51.25
+2026-08-22,League Two,Fleetwood Town,Gillingham,0-0,AH,AWAY,-0.5,1.95,10,0-0,0,50,HALF_WON,23.75
+2026-08-22,Championship,Swansea,Sheffield Utd,0-0,AH,AWAY,0,1.9,10,0-0,0,50,PUSH,0
+2026-08-22,League One,Peterborough,Mansfield Town,2-1,AH,AWAY,0,1.8,13,0-0,0,50,LOST,-50
+2026-08-22,League One,Peterborough,Mansfield Town,2-1,AH,HOME,-0.5,2.75,16,0-0,0,50,HALF_WON,43.75
+2026-08-22,League One,Peterborough,Mansfield Town,2-1,AH,AWAY,-1,1.75,55,1-0,-18.36,50,WON,37.5
+2026-08-22,League One,Peterborough,Mansfield Town,2-1,OU,OVER,3,2,62,,27.52,50,PUSH,0
+2026-08-22,League Two,Rochdale,Crawley Town,1-2,AH,HOME,0.5,1.825,21,0-1,-8.57,50,HALF_WON,20.63
+2026-08-22,League Two,Rochdale,Crawley Town,1-2,AH,AWAY,0,2.35,68,1-1,3.65,50,WON,67.5
+2026-08-22,League Two,Rotherham,York,1-1,AH,AWAY,0,1.825,10,0-0,0,50,PUSH,0
+2026-08-22,League One,Leicester,Burton Albion,1-2,AH,AWAY,0,2.05,21,0-1,0,50,PUSH,0
+2026-08-22,League One,Leicester,Burton Albion,1-2,AH,HOME,1,1.9,25,0-2,0,50,WON,45
+2026-08-22,League Two,Shrewsbury,Barnet,1-3,AH,HOME,0.5,1.75,11,0-0,0,50,LOST,-50
+2026-08-22,League Two,Shrewsbury,Barnet,1-3,AH,AWAY,0,1.7,55,1-1,-1.5,50,WON,35
+2026-08-22,League Two,Shrewsbury,Barnet,1-3,AH,HOME,1,1.8,83,1-1,-1.5,35,LOST,-35
+2026-08-22,League Two,Shrewsbury,Barnet,1-3,OU,OVER,3,2,58,,26.12,50,WON,50
+2026-08-22,Stars League,Al-Duhail SC,Al-Sailiya,2-0,AH,AWAY,-1,1.95,10,0-0,0,50,LOST,-50
+2026-08-22,Stars League,Al-Duhail SC,Al-Sailiya,2-0,AH,AWAY,-0.5,2.425,13,0-0,0,50,LOST,-50
+2026-08-22,Veikkausliiga,FF Jaro,AC Oulu,0-1,AH,HOME,0.5,1.825,10,0-0,0,50,HALF_LOST,-25
+2026-08-22,Championship,Derby,Cardiff,2-2,AH,HOME,0.5,1.975,21,0-1,0,50,WON,48.75
+2026-08-22,Championship,Derby,Cardiff,2-2,AH,AWAY,0,2.15,32,1-1,16.87,50,PUSH,0
+2026-08-22,Championship,Preston,Wolves,1-3,AH,HOME,1,2.2,18,0-1,0,50,PUSH,0
+2026-08-22,Championship,Preston,Wolves,1-3,OU,OVER,2,2,57,,36.42,50,WON,50
+2026-08-22,Premier League (233),Asyut Petrol,Petrojet,1-1,AH,HOME,0.5,1.8,21,0-0,0,50,HALF_WON,20
+2026-08-22,Premier League (233),El Geish,El Mokawloon,1-0,AH,AWAY,0,2.1,10,0-0,0,50,LOST,-50
+2026-08-22,Premier League (233),El Geish,El Mokawloon,1-0,AH,AWAY,-1,1.725,71,1-0,2.53,50,WON,36.25
+2026-08-22,Premier League (233),El Geish,El Mokawloon,1-0,OU,OVER,0.75,2,50,,9.2,50,WON,50
+2026-08-22,Championship,Wrexham,Watford,1-1,AH,AWAY,-0.5,2,10,0-0,0,50,HALF_WON,25
+2026-08-22,Championship,Wrexham,Watford,1-1,AH,HOME,0.5,1.825,15,0-1,0,50,WON,41.25
+2026-08-22,Championship,Wrexham,Watford,1-1,AH,AWAY,0,2.75,41,1-1,-1,50,PUSH,0
+2026-08-22,League Two,Crewe,Northampton,1-0,AH,AWAY,0,2.05,50,0-0,-11.3,50,LOST,-50
+2026-08-22,League Two,Crewe,Northampton,1-0,AH,AWAY,-1,1.825,55,1-0,-10.32,50,WON,41.25
+2026-08-22,League Two,Crewe,Northampton,1-0,OU,OVER,1,2,53,,24.48,50,PUSH,0
+2026-08-22,Premier League,Everton,Crystal Palace,2-0,AH,AWAY,0,2.1,15,0-0,0,100,LOST,-100
+2026-08-22,Premier League,Everton,Crystal Palace,2-0,AH,AWAY,-1,1.85,44,1-0,-1.5,181,PUSH,0
+2026-08-22,League One,Stevenage,Oxford United,1-2,AH,HOME,-0.5,2.675,10,0-0,0,50,LOST,-50
+2026-08-22,League One,Stevenage,Oxford United,1-2,AH,AWAY,0,1.95,13,0-0,0,50,WON,47.5
+2026-08-22,League One,Stevenage,Oxford United,1-2,AH,HOME,1,1.7,80,0-1,12.5,35,WON,24.5
+2026-08-22,League One,Stevenage,Oxford United,1-2,OU,OVER,1,2.025,50,,29.7,50,WON,51.25
+2026-08-22,Challenger Pro League,Club Brugge II,Seraing United,3-2,AH,AWAY,-1,1.975,10,1-0,0,50,WON,48.75
+2026-08-22,Bundesliga (218),SCR Altach,TSV Hartberg,0-1,AH,AWAY,-0.5,2,10,0-0,0,50,WON,50
+2026-08-22,Bundesliga (218),SCR Altach,TSV Hartberg,0-1,AH,HOME,0.5,1.9,17,0-1,0,50,HALF_WON,22.5
+2026-08-22,League Two,Port Vale,Tranmere,1-1,AH,AWAY,-0.5,1.925,10,0-0,0,50,HALF_WON,23.13
+2026-08-22,League Two,Port Vale,Tranmere,1-1,OU,OVER,2,2.125,61,,41.05,50,PUSH,0
+2026-08-22,DFB Pokal,FC Viktoria Köln,1. FC Nürnberg,1-1,AH,HOME,0.5,1.95,10,0-0,0,50,HALF_WON,23.75
+2026-08-22,DFB Pokal,FC Viktoria Köln,1. FC Nürnberg,1-1,AH,HOME,1,1.975,29,0-0,6.21,50,WON,48.75
+2026-08-22,DFB Pokal,FC Viktoria Köln,1. FC Nürnberg,1-1,OU,UNDER,2,1.95,65,,26.62,50,PUSH,0
+2026-08-22,Eerste Divisie,NAC Breda,Jong Ajax,3-2,AH,AWAY,-0.5,1.975,66,1-1,16.64,50,HALF_LOST,-25
+2026-08-22,Eerste Divisie,NAC Breda,Jong Ajax,3-2,OU,UNDER,3,2.05,66,,31.54,50,LOST,-50
+2026-08-22,First League,Shkëndija Haraçinë,Aresimi,0-2,AH,AWAY,-0.5,1.975,15,0-0,0,50,WON,48.75
+2026-08-22,Primeira Liga,Maritimo,Academico Viseu,2-2,OU,OVER,2.75,2,69,,34.26,500,WON,500
+2026-08-22,Premier League (116),Naftan,Neman,0-2,AH,HOME,1,2.23,11,0-1,0,50,PUSH,0
+2026-08-22,NB I,MTK Budapest,Nyiregyhaza,1-1,AH,AWAY,-1,1.925,10,1-0,0,50,WON,46.25
+2026-08-22,NB I,MTK Budapest,Nyiregyhaza,1-1,AH,AWAY,0,1.95,11,1-0,0,50,WON,47.5
+2026-08-22,NB I,MTK Budapest,Nyiregyhaza,1-1,AH,AWAY,-0.5,2.5,14,1-0,0,50,WON,75
+2026-08-22,Czech Liga,Zlin,Slovan Liberec,0-1,AH,HOME,0.5,1.975,10,0-0,0,50,HALF_LOST,-25
+2026-08-22,Ligi kuu Bara,Singida Black Stars,Simba,1-2,AH,HOME,0.5,2,10,0-0,0,50,HALF_LOST,-25
+2026-08-22,Ligi kuu Bara,Singida Black Stars,Simba,1-2,AH,HOME,1.5,1.925,21,0-1,0,50,WON,46.25
+2026-08-22,Erovnuli Liga,Dila,Torpedo Kutaisi,2-2,AH,AWAY,0,2.075,13,0-0,0,50,PUSH,0
+2026-08-22,Erovnuli Liga,Dila,Torpedo Kutaisi,2-2,AH,AWAY,-1,2,24,0-0,0,50,WON,50
+2026-08-22,Erovnuli Liga,Spaeri,Samgurali,3-4,AH,HOME,1,1.775,10,0-1,0,50,WON,38.75
+2026-08-22,Erovnuli Liga,Spaeri,Samgurali,3-4,AH,AWAY,0,1.925,13,1-1,0,50,WON,46.25
+2026-08-22,Segunda División,Oviedo,Leganes,0-1,AH,AWAY,-0.5,1.775,11,0-0,0,50,WON,38.75
+2026-08-22,Segunda División,Oviedo,Leganes,0-1,AH,AWAY,0,2.5,17,0-0,0,50,WON,75
+2026-08-22,Segunda División,Oviedo,Leganes,0-1,AH,HOME,0.5,1.875,20,0-1,0,50,HALF_WON,21.88
+2026-08-22,Ligue 1,Lens,Auxerre,5-2,AH,AWAY,-1,2.05,10,0-0,0,172,LOST,-172
+2026-08-22,Ligue 1,Lens,Auxerre,5-2,AH,AWAY,-0.5,2.1,28,1-0,0,107,LOST,-107
+2026-08-22,2. Liga,Schwarz-Weiß Bregenz,Sturm Graz II,3-1,AH,AWAY,-1.5,1.975,10,1-0,0,50,HALF_WON,24.38
+2026-08-22,2. Liga,Schwarz-Weiß Bregenz,Sturm Graz II,3-1,AH,AWAY,-0.5,1.975,25,1-1,0,50,LOST,-50
+2026-08-22,Liga I,Uta Arad,Corvinul Hunedoara,0-0,AH,AWAY,0,2,10,0-0,0,50,PUSH,0
+2026-08-22,Pro League (307),Al-Fateh,Al-Ettifaq,0-1,AH,AWAY,0,2.28,15,0-0,0,50,WON,64
+2026-08-22,Süper Lig,Rizespor,Samsunspor,0-2,AH,AWAY,-0.5,1.9,17,0-0,0,50,WON,45
+2026-08-22,Süper Lig,Rizespor,Samsunspor,0-2,AH,HOME,0.5,1.9,60,0-1,13.5,68,HALF_LOST,-34
+2026-08-22,Süper Lig,Rizespor,Samsunspor,0-2,OU,OVER,3,2.1,66,,19.41,500,LOST,-500
+2026-08-22,Super Liga,Dunajska Streda,Podbrezová,5-0,AH,AWAY,-0.5,2.05,20,0-0,0,50,LOST,-50
+2026-08-22,Super League,FC Luzern,Lausanne,1-0,AH,AWAY,-1.5,1.775,12,1-0,0,79,WON,61.22
+2026-08-22,1. Lig,Ümraniyespor,Esenler Erokspor,1-1,AH,HOME,0.5,2.025,11,0-0,0,50,HALF_WON,25.62
+2026-08-22,DFB Pokal,TSV 1860 München,Holstein Kiel,0-2,AH,HOME,1,1.925,10,0-0,0,50,LOST,-50
+2026-08-22,DFB Pokal,TSV 1860 München,Holstein Kiel,0-2,AH,HOME,0.5,2.5,18,0-0,0,50,LOST,-50
+2026-08-22,Super Liga,Ružomberok,Dukla Banská Bystrica,0-1,AH,AWAY,-0.5,2.025,24,0-0,0,50,WON,51.25
+2026-08-22,1. Lig,Iğdır FK,Kayserispor,0-1,AH,AWAY,0,1.775,10,0-0,0,50,WON,38.75
+2026-08-22,First League,Ludogorets,Slavia Sofia,1-1,AH,AWAY,0,2.6,11,0-1,0,50,LOST,-50
+2026-08-22,Pro League,Charleroi,KV Mechelen,2-0,AH,AWAY,-0.5,2,18,0-0,0,50,LOST,-50
+2026-08-22,Pro League (307),Al Kholood,Al Taawon,3-2,AH,AWAY,0,1.775,10,0-0,0,50,LOST,-50
+2026-08-22,Friendlies Clubs,Laredo,Arenas Getxo,1-0,AH,HOME,0.5,1.925,10,0-0,0,50,WON,46.25
+2026-08-22,HNL,NK Slaven Belupo,HNK Gorica,2-0,AH,AWAY,0,1.9,11,0-0,0,50,LOST,-50
+2026-08-22,HNL,NK Slaven Belupo,HNK Gorica,2-0,AH,HOME,-0.5,2.5,18,0-0,0,50,WON,75
+2026-08-22,HNL,NK Slaven Belupo,HNK Gorica,2-0,AH,AWAY,-1,1.85,19,1-0,0,50,PUSH,0
+2026-08-22,Serie A,Inter,Monza,4-1,AH,AWAY,-1.5,1.825,29,1-0,0,176,HALF_LOST,-88
+2026-08-22,Super Liga,Macva,Radnicki NIS,1-0,AH,AWAY,0,1.7,30,0-0,0,50,LOST,-50
+2026-08-22,Ekstraklasa,Piast Gliwice,Legia Warszawa,1-1,AH,HOME,1,2.25,20,0-1,0,50,WON,62.5
+2026-08-22,Ekstraklasa,Piast Gliwice,Legia Warszawa,1-1,AH,AWAY,0,1.88,46,0-1,-7.91,50,LOST,-50
+2026-08-22,Serie A,Udinese,Como,1-1,AH,HOME,0.5,2,10,0-0,0,100,HALF_WON,50
+2026-08-22,Eredivisie,Sparta Rotterdam,Utrecht,3-3,AH,HOME,1,1.7,49,1-2,-8.18,68,WON,47.6
+2026-08-22,Eredivisie,Sparta Rotterdam,Utrecht,3-3,OU,UNDER,4,1.825,65,,52.27,500,LOST,-500
+2026-08-22,Premiership,Dundee Utd,Dundee,0-2,AH,AWAY,-0.5,1.875,11,0-0,0,50,WON,43.75
+2026-08-22,DFB Pokal,SG Sonnenhof Grossaspach,Arminia Bielefeld,2-2,AH,HOME,1,1.775,10,0-0,0,50,WON,38.75
+2026-08-22,DFB Pokal,SG Sonnenhof Grossaspach,Arminia Bielefeld,2-2,AH,AWAY,0,1.85,14,1-0,0,50,WON,42.5
+2026-08-22,Primeira Liga,Estoril,Rio Ave,0-2,AH,AWAY,-0.5,1.925,10,0-0,0,50,WON,46.25
+2026-08-22,Primeira Liga,Estoril,Rio Ave,0-2,OU,OVER,2.25,2.1,53,,16.19,500,LOST,-500
+2026-08-22,Ligat Ha'al,Maccabi Petah Tikva,Ironi Kiryat Shmona,2-1,AH,AWAY,0,1.775,12,0-0,0,50,LOST,-50
+2026-08-22,Ligat Ha'al,Maccabi Petah Tikva,Ironi Kiryat Shmona,2-1,AH,AWAY,-0.5,2.25,19,1-0,0,50,HALF_WON,31.25
+2026-08-22,Erovnuli Liga,Rustavi,Gagra,3-0,AH,AWAY,-0.5,1.975,10,0-0,0,50,LOST,-50
+2026-08-22,Super Liga,Radnicki 1923,IMT Novi Beograd,2-1,AH,AWAY,-1,1.875,10,1-0,0,50,WON,43.75
+2026-08-22,Super Liga,Radnicki 1923,IMT Novi Beograd,2-1,OU,OVER,2,2.05,58,,32.72,50,WON,52.5
+2026-08-22,Segunda División,AD Ceuta FC,Las Palmas,0-2,AH,AWAY,0,1.9,10,0-0,0,50,WON,45
+2026-08-22,Segunda División,AD Ceuta FC,Las Palmas,0-2,AH,HOME,1,1.75,52,0-1,-2.5,50,PUSH,0
+2026-08-22,Segunda División,AD Ceuta FC,Las Palmas,0-2,OU,OVER,2,2,61,,32.1,50,PUSH,0
+2026-08-22,Segunda División,Albacete,Real Sociedad II,1-2,AH,HOME,0.5,1.775,45,0-1,19,50,HALF_WON,19.37
+2026-08-22,Segunda División,Albacete,Real Sociedad II,1-2,AH,HOME,1.5,1.775,45,0-2,19,50,WON,38.75
+2026-08-22,Segunda División,Albacete,Real Sociedad II,1-2,OU,OVER,3,2,62,,45.53,50,PUSH,0
+2026-08-22,Segunda Liga,Lusitânia Lourosa,Torreense,2-2,AH,AWAY,0,1.825,10,0-0,0,50,PUSH,0
+2026-08-22,Ligue 1,Toulouse,Lyon,0-2,AH,HOME,1,1.75,82,0-1,,147.7,VOID,0
+2026-08-22,Serie B,Sudtirol,Virtus Entella,1-0,AH,AWAY,0,2.45,19,0-0,0,50,LOST,-50
+2026-08-22,Premier League,AL Masry,Smouha SC,1-0,AH,AWAY,0,2.25,45,0-0,,50,LOST,-50
+2026-08-22,Premier League,AL Masry,Smouha SC,1-0,AH,AWAY,-1,1.775,85,1-0,,35,WON,27.12
+2026-08-22,Premier League,AL Masry,Smouha SC,1-0,OU,OVER,0.75,2,50,,,50,HALF_WON,25
+2026-08-22,Super League 1,Kalamata,Aris Thessalonikis,2-3,AH,HOME,0.5,1.75,28,0-0,0,50,HALF_LOST,-25
+2026-08-22,Friendlies Clubs,Manresa,Atlètic Lleida,1-1,AH,AWAY,0,2.025,10,0-0,,50,VOID,0
+2026-08-22,Friendlies Clubs,Manresa,Atlètic Lleida,1-1,AH,AWAY,-1,2.05,14,1-0,,50,WON,52.5
+2026-08-22,Serie B,Carrarese,Mantova,1-2,AH,AWAY,0,1.725,21,0-0,,50,WON,36.25
+2026-08-22,Serie B,Carrarese,Mantova,1-2,AH,HOME,1,2.05,24,0-1,,50,WON,52.5
+2026-08-22,Ligi kuu Bara,Geita Gold,Kagera Sugar,6-2,AH,AWAY,0,2.3,10,0-0,,50,LOST,-50
+2026-08-22,Bundesliga,Sturm Graz,Austria Lustenau,1-1,AH,AWAY,0,2.025,45,0-1,,50,LOST,-50
+2026-08-22,Bundesliga,Sturm Graz,Austria Lustenau,1-1,AH,AWAY,-0.5,1.8,67,1-1,,50,WON,40
+2026-08-22,Bundesliga,Sturm Graz,Austria Lustenau,1-1,OU,UNDER,3,1.9,67,,,50,WON,45
+2026-08-22,Ligat Ha'al,Maccabi Haifa,Hapoel Ramat Gan,2-1,AH,AWAY,-1,2.025,19,0-0,,50,VOID,0
+2026-08-22,Canadian Premier League,HFX Wanderers FC,Vancouver FC,1-0,AH,AWAY,0,1.825,14,0-0,,50,LOST,-50
+2026-08-22,Canadian Premier League,HFX Wanderers FC,Vancouver FC,1-0,AH,AWAY,-1,1.8,18,1-0,,50,WON,40
+2026-08-22,Canadian Premier League,HFX Wanderers FC,Vancouver FC,1-0,AH,AWAY,-0.5,2.35,21,1-0,,50,WON,67.5
+2026-08-22,Primera División,Cerro Largo,Defensor Sporting,1-1,AH,HOME,1,1.95,30,0-1,,50,WON,47.5
+2026-08-22,Torneo Federal A,Circulo Deportivo,Costa Brava,0-1,AH,AWAY,0,2.425,15,0-0,,50,WON,71.25
+2026-08-22,Pro League,Al Khaleej Saihat,Al Shabab,0-0,AH,AWAY,0,1.775,40,0-0,,50,VOID,0
+2026-08-22,1. Lig,Antalyaspor,Pendikspor,2-3,AH,AWAY,-0.5,1.85,10,0-0,,50,WON,42.5
+2026-08-22,1. Lig,Antalyaspor,Pendikspor,2-3,AH,HOME,0.5,1.925,22,0-1,,50,WON,46.25
+2026-08-22,Super League,FC Zurich,FC Basel 1893,1-2,AH,AWAY,-0.5,2.25,40,1-0,,50,WON,62.5
+2026-08-22,Segunda División,Eldense,Cadiz,2-2,AH,AWAY,-0.5,1.8,10,0-0,,50,WON,40
+2026-08-22,Segunda División,Eldense,Cadiz,2-2,AH,AWAY,0,2.2,81,2-2,,35,VOID,0
+2026-08-22,Liga MX,Guadalajara Chivas,Club Tijuana,5-2,AH,AWAY,-1,1.875,10,0-0,,50,LOST,-50
+2026-08-22,Liga MX,Guadalajara Chivas,Club Tijuana,5-2,AH,AWAY,-1.5,2.025,29,1-0,,50,LOST,-50
+2026-08-22,Primera División,UTC Cajamarca,Comerciantes Unidos,1-3,AH,HOME,0.5,2.15,26,0-1,,50,LOST,-50
+2026-08-22,Primera División,UTC Cajamarca,Comerciantes Unidos,1-3,AH,AWAY,0,2.075,29,1-1,,50,WON,53.75
+2026-08-22,Serie B,Benevento,Modena,1-2,AH,AWAY,0,2.15,15,0-0,,50,WON,57.5
+2026-08-22,Serie B,Benevento,Modena,1-2,AH,AWAY,-1,1.825,28,1-0,,50,WON,41.25
+2026-08-22,Serie B,Benevento,Modena,1-2,OU,OVER,2,2.025,54,,,50,WON,51.25
+2026-08-22,Primera División,ABB,Gualberto Villarroel SJ,2-2,AH,AWAY,-0.5,1.9,12,0-0,,50,WON,45
+2026-08-22,Primera División,ABB,Gualberto Villarroel SJ,2-2,AH,AWAY,0,2.675,22,0-0,,50,VOID,0
+2026-08-22,Primera División,ABB,Gualberto Villarroel SJ,2-2,AH,AWAY,-1,2,27,0-0,,50,WON,50
+2026-08-22,Canadian Premier League,Cavalry FC,Atlético Ottawa,3-1,AH,AWAY,-1,1.8,13,0-0,,50,LOST,-50
+2026-08-22,Canadian Premier League,Cavalry FC,Atlético Ottawa,3-1,AH,AWAY,-1.5,1.95,29,2-1,,50,WON,47.5
+2026-08-22,Primera A,Águilas Doradas,Millonarios,1-1,AH,HOME,0,2.5,15,0-0,,50,VOID,0
+2026-08-22,Serie B,Cuiaba,Goias,1-1,AH,AWAY,0,2.2,11,0-0,,50,VOID,0
+2026-08-22,First League,Levski Sofia,Spartak Varna,6-0,AH,AWAY,-1.5,1.9,10,1-0,,50,LOST,-50
+2026-08-22,Super Liga,FK Košice,Slovan Bratislava,1-2,AH,HOME,0.5,1.95,10,0-1,,50,WON,47.5
+2026-08-22,Super Liga,FK Košice,Slovan Bratislava,1-2,AH,HOME,1.5,1.85,10,0-1,,50,WON,42.5
+2026-08-22,Serie A,Parma,Cagliari,0-1,AH,HOME,1,1.8,80,0-1,,90.3,WON,72.24
+2026-08-22,Serie A,Genoa,Napoli,0-2,AH,HOME,1,2.125,84,0-1,,81.2,VOID,0
+2026-08-22,Ligue 1,Estac Troyes,Paris FC,0-0,AH,HOME,0.5,1.825,10,0-0,,182,WON,150.15
+2026-08-22,Division Profesional - Clausura,Sportivo Ameliano,Deportivo Recoleta,3-1,AH,AWAY,0,2.3,26,0-0,,50,LOST,-50
+2026-08-22,Division Profesional - Clausura,Sportivo Ameliano,Deportivo Recoleta,3-1,AH,AWAY,0,2.3,26,0-0,,44,LOST,-44
+2026-08-22,Serie B,Avellino,Arezzo,1-2,AH,AWAY,0,2.425,10,0-0,,50,WON,71.25
+2026-08-22,Serie B,Avellino,Arezzo,1-2,AH,AWAY,-1,1.925,42,1-0,,50,WON,46.25
+2026-08-22,Liga Profesional Argentina,Gimnasia L.P.,Gimnasia M.,2-3,AH,AWAY,-0.5,1.875,10,0-0,,50,WON,43.75
+2026-08-22,Liga Profesional Argentina,Gimnasia L.P.,Gimnasia M.,2-3,AH,HOME,0.5,1.825,36,0-1,,50,WON,41.25
+2026-08-22,Liga Profesional Argentina,Gimnasia L.P.,Gimnasia M.,2-3,OU,OVER,4,2,61,,,50,WON,50
+2026-08-22,Super Liga,OFK Beograd,Zemun,1-0,AH,AWAY,-1,2,10,0-0,,50,VOID,0
+2026-08-22,Serie C,Ituano,Paysandu,0-1,AH,AWAY,0,2,12,0-0,,50,WON,50
+2026-08-22,Serie C,Botafogo PB,Guarani Campinas,3-1,AH,AWAY,0,2.35,22,0-0,,50,LOST,-50
+2026-08-22,Liga Profesional Argentina,Independiente,Independ. Rivadavia,0-0,AH,AWAY,0,2.25,23,0-0,,50,VOID,0
+2026-08-22,Liga Panameña de Fútbol,Independiente de La Chorrera,Union Cocle,3-0,AH,AWAY,-0.5,1.8,14,0-0,,50,LOST,-50
+2026-08-22,Liga Panameña de Fútbol,Independiente de La Chorrera,Union Cocle,3-0,AH,AWAY,-1.5,1.8,20,1-0,,50,LOST,-50
+2026-08-22,Primera División,Nacional Potosí,Independiente Petrolero,3-0,AH,AWAY,-1.5,2.025,19,1-0,,50,LOST,-50
+2026-08-22,1. Lig,Bodrum FK,Muğlaspor,0-0,AH,AWAY,-0.5,1.775,10,0-0,,50,WON,38.75
+2026-08-22,1. Lig,Bodrum FK,Muğlaspor,0-0,AH,AWAY,0,2.05,25,0-0,,50,VOID,0
+2026-08-22,Liga I,Dinamo Bucuresti,Universitatea Cluj,2-1,AH,AWAY,-0.5,1.9,10,0-0,,50,LOST,-50
+2026-08-22,Liga I,Dinamo Bucuresti,Universitatea Cluj,2-1,AH,AWAY,-1.5,1.75,36,1-0,,50,WON,37.5
+2026-08-22,Primera División,Aurora,Real Potosí,0-0,AH,AWAY,-0.5,1.9,10,0-0,,50,WON,45
+2026-08-22,USL Championship,Lexington,Las Vegas Lights,2-0,AH,AWAY,-0.5,2,14,0-0,,50,LOST,-50
+2026-08-22,USL Championship,Rhode Island,Monterey Bay,3-1,AH,AWAY,-1,1.9,17,1-1,,50,LOST,-50
+2026-08-22,USL Championship,Rhode Island,Monterey Bay,3-1,AH,AWAY,-1,1.96,17,1-1,,50,LOST,-50
+2026-08-22,USL Championship,Rhode Island,Monterey Bay,3-1,AH,AWAY,-0.5,2.5,20,1-1,,50,LOST,-50
+2026-08-22,Serie A,Cruzeiro,Flamengo,2-1,AH,HOME,0.5,1.875,10,0-0,,50,WON,43.75
+2026-08-22,Major League Soccer,Charlotte,DC United,3-1,AH,AWAY,-0.5,2,10,0-0,,50,LOST,-50
+2026-08-22,Ligue 1,Le Mans,Stade Brestois 29,2-2,AH,HOME,1,1.8,33,0-1,,232,WON,185.6
+2026-08-22,Ligue 1,Le Mans,Stade Brestois 29,2-2,AH,AWAY,-1,1.8,56,2-1,,327,WON,261.6
+2026-08-22,Ligue 1,Le Mans,Stade Brestois 29,2-2,OU,OVER,4,2.05,61,,,441,VOID,0
+2026-08-22,Serie C,Volta Redonda,Floresta,1-2,AH,HOME,0.5,1.775,19,0-1,,50,WON,38.75
+2026-08-22,Serie C,Volta Redonda,Floresta,1-2,AH,AWAY,-0.5,1.975,29,1-1,,50,WON,48.75
+2026-08-22,Liga Pro,Tecnico Universitario,Guayaquil City FC,2-3,AH,AWAY,-0.5,1.85,10,0-0,,50,WON,42.5
+2026-08-22,USL Championship,Loudoun United,New Mexico United,0-0,AH,AWAY,0,2.025,18,0-0,,50,VOID,0
+2026-08-22,Serie C,Santa Cruz,Caxias,2-0,AH,AWAY,-0.5,1.775,10,0-0,,50,LOST,-50
+2026-08-22,USL Championship,Detroit City,Tampa Bay Rowdies,1-0,AH,AWAY,0,1.775,13,0-0,,50,LOST,-50
+2026-08-22,Primera A,Santa Fe,America de Cali,0-0,AH,AWAY,0,1.775,10,0-0,,50,VOID,0
+2026-08-22,Major League Soccer,FC Cincinnati,Seattle Sounders,1-1,AH,AWAY,-1,1.8,10,0-0,,50,WON,40
+2026-08-22,HNL,Dinamo Zagreb,NK Varazdin,3-1,AH,AWAY,-1,1.925,10,0-0,,50,LOST,-50
+2026-08-22,HNL,Dinamo Zagreb,NK Varazdin,3-1,AH,AWAY,0,1.925,32,0-1,,50,LOST,-50
+2026-08-22,HNL,Dinamo Zagreb,NK Varazdin,3-1,AH,HOME,0.5,1.8,56,0-1,,50,WON,40
+2026-08-22,HNL,Dinamo Zagreb,NK Varazdin,3-1,AH,AWAY,-0.5,1.75,60,1-1,,50,LOST,-50
+2026-08-22,HNL,Dinamo Zagreb,NK Varazdin,3-1,OU,UNDER,3,1.85,65,,,50,LOST,-50
+2026-08-22,HNL,Dinamo Zagreb,NK Varazdin,3-1,OU,UNDER,2.75,2.37,65,,,43,LOST,-43
+2026-08-22,Liga Profesional Argentina,Atletico Tucuman,Instituto Cordoba,0-0,AH,AWAY,0,1.8,10,0-0,,50,VOID,0
+2026-08-22,Liga Profesional Argentina,Atletico Tucuman,Instituto Cordoba,0-0,OU,OVER,0.75,2.025,57,,,50,LOST,-50
+2026-08-22,Serie A,Fluminense,Remo,2-1,AH,AWAY,-1,1.95,10,0-0,,58,VOID,0
+2026-08-22,La Liga,Espanyol,Real Madrid,1-2,AH,HOME,1,1.85,30,1-1,,60,VOID,0
+2026-08-22,La Liga,Espanyol,Real Madrid,1-2,AH,HOME,0.5,2.1,62,1-1,,79,LOST,-79
+2026-08-22,La Liga,Espanyol,Real Madrid,1-2,OU,OVER,3,2,64,,,500,VOID,0
+2026-08-22,Primera División,Huachipato,Deportes Limache,1-3,AH,AWAY,0,1.9,10,0-0,,50,WON,45
+2026-08-22,Primera División,Huachipato,Deportes Limache,1-3,AH,HOME,1,1.85,11,0-0,,50,LOST,-50
+2026-08-22,Serie A,Internacional,Atletico-MG,0-0,AH,AWAY,-0.5,2.025,16,0-0,,50,WON,51.25
+2026-08-22,Major League Soccer,New York Red Bulls,Chicago Fire,1-1,AH,AWAY,0,2.025,10,0-0,,50,VOID,0
+2026-08-22,Major League Soccer,CF Montreal,Los Angeles Galaxy,2-2,AH,AWAY,-0.5,1.825,10,0-0,,50,WON,41.25
+2026-08-22,Major League Soccer,CF Montreal,Los Angeles Galaxy,2-2,AH,AWAY,0,2.5,28,1-1,,50,VOID,0
+2026-08-22,Eredivisie,Heerenveen,PEC Zwolle,0-2,AH,AWAY,-1,1.85,31,0-0,,74,WON,62.9
+2026-08-22,Eredivisie,Heerenveen,PEC Zwolle,0-2,AH,HOME,0.5,1.775,59,0-1,,70,LOST,-70
+2026-08-22,Eredivisie,Heerenveen,PEC Zwolle,0-2,AH,HOME,1.5,1.775,61,0-1,,106,WON,82.15
+2026-08-22,Eredivisie,Heerenveen,PEC Zwolle,0-2,OU,UNDER,3.25,1.75,65,,,500,WON,375
+2026-08-22,Serie B,Ceara,Londrina,2-1,AH,HOME,0.5,1.825,10,0-1,,65,WON,53.63
+2026-08-22,Serie B,Ceara,Londrina,2-1,AH,HOME,0,2.75,11,0-1,,50,WON,87.5
+2026-08-22,NWSL Women,Kansas City W,Seattle Reign FC W,1-1,AH,HOME,0.5,1.95,17,0-1,,50,WON,47.5
+2026-08-22,USL Championship,Brooklyn,Pittsburgh Riverhounds,0-1,AH,AWAY,0,1.8,13,0-0,,50,WON,40
+2026-08-22,Major League Soccer,Orlando City SC,Real Salt Lake,2-1,AH,AWAY,-0.5,2,27,0-0,,50,LOST,-50
+2026-08-22,Primera División,Juan Pablo II College,ADT,5-1,AH,AWAY,0,1.87,15,1-0,,50,LOST,-50
+2026-08-22,Primera División,Juan Pablo II College,ADT,5-1,AH,AWAY,0,1.87,15,1-0,,46,LOST,-46
+2026-08-22,NWSL Women,North Carolina Courage W,Boston Legacy W,2-1,AH,AWAY,-0.5,2,10,0-0,,50,LOST,-50
+2026-08-22,NWSL Women,North Carolina Courage W,Boston Legacy W,2-1,AH,AWAY,-1.5,2.025,13,1-0,,50,WON,51.25
+2026-08-23,USL Championship,Birmingham Legion,Sporting JAX,2-3,AH,AWAY,-1,1.85,10,0-0,,50,WON,42.5
+2026-08-23,Major League Soccer,Austin,Philadelphia Union,1-1,AH,HOME,0.5,2.025,13,0-0,,50,WON,51.25
+2026-08-23,Liga MX,Cruz Azul,Atlas,0-2,AH,AWAY,-1,1.8,10,0-0,,50,WON,40
+2026-08-23,Super League,SHANGHAI SIPG,Qingdao Jonoon,2-1,AH,AWAY,-1,1.9,45,1-1,,80,VOID,0
+2026-08-23,Super League,SHANGHAI SIPG,Qingdao Jonoon,2-1,AH,AWAY,-0.5,2,64,1-1,,51,LOST,-51
+2026-08-23,Super League,SHANGHAI SIPG,Qingdao Jonoon,2-1,OU,UNDER,3.25,1.925,65,,,500,HALF_WON,231.25
+2026-08-23,Super League,Chongqing Tongliang Long,Dalian Zhixing,0-1,AH,AWAY,0,2.075,28,0-0,,50,WON,53.75
+2026-08-23,Super League,Chongqing Tongliang Long,Dalian Zhixing,0-1,AH,HOME,1,1.8,64,0-1,,72,WON,57.6
+2026-08-23,Super League,Chongqing Tongliang Long,Dalian Zhixing,0-1,OU,OVER,1,2,51,,,500,VOID,0
+2026-08-23,Superliga,FC Midtjylland,Randers FC,1-0,AH,AWAY,-1.5,1.9,56,1-0,,50,WON,45
+2026-08-23,Superliga,FC Midtjylland,Randers FC,1-0,OU,UNDER,2,2.025,65,,,50,WON,51.25
+2026-08-23,Premier League,El Gouna FC,Future FC,1-1,AH,AWAY,0,1.9,10,0-0,,50,VOID,0
+2026-08-23,Premier League,El Gouna FC,Future FC,1-1,OU,OVER,1,2.025,50,,,50,WON,51.25
+2026-08-23,Challenger Pro League,KRC Genk II,Liège,2-3,AH,AWAY,0,1.85,10,0-0,,50,WON,42.5
+2026-08-23,Challenger Pro League,KRC Genk II,Liège,2-3,AH,HOME,1,1.8,12,0-0,,50,VOID,0
+2026-08-23,Major League Soccer,San Diego,Colorado Rapids,3-0,AH,AWAY,-0.5,1.825,10,0-0,,50,LOST,-50
+2026-08-23,Major League Soccer,San Jose Earthquakes,Minnesota United FC,1-5,AH,AWAY,0,2.1,17,1-1,,50,WON,55
+2026-08-23,Major League Soccer,San Jose Earthquakes,Minnesota United FC,1-5,AH,AWAY,0,2.1,17,1-1,,32,WON,35.2
+2026-08-23,Allsvenskan,IFK Goteborg,IF Elfsborg,1-1,AH,AWAY,0,1.925,10,0-0,,50,VOID,0
+2026-08-23,Allsvenskan,IFK Goteborg,IF Elfsborg,1-1,AH,AWAY,0,1.92,10,0-0,,18,VOID,0
+2026-08-23,Allsvenskan,IFK Goteborg,IF Elfsborg,1-1,OU,OVER,1,2.05,61,,,50,WON,52.5
+2026-08-23,Super League,BSC Young Boys,FC Vaduz,4-2,AH,AWAY,-1,1.925,45,2-2,,80,LOST,-80
+2026-08-23,Super League,BSC Young Boys,FC Vaduz,4-2,AH,AWAY,-1.5,1.85,67,3-2,,100,WON,85
+2026-08-23,Ligue 1,Angers,Lille,0-2,AH,HOME,0.5,2.05,10,0-0,,171,LOST,-171
+2026-08-23,Ligue 1,Angers,Lille,0-2,AH,HOME,1.5,1.875,14,0-1,,314,WON,274.75
+2026-08-23,Pro League,Baniyas SC,Dubai United,2-3,AH,HOME,0.5,1.775,20,0-1,,50,WON,38.75
+2026-08-23,Liga Profesional Argentina,Huracan,Deportivo Riestra,0-0,AH,AWAY,0,2.675,20,0-0,,50,VOID,0
+2026-08-23,Liga Pro,Barcelona SC,Orense SC,3-0,AH,AWAY,-0.5,1.975,12,0-0,,50,LOST,-50
+2026-08-23,Liga Pro,Barcelona SC,Orense SC,3-0,AH,AWAY,-1.5,1.825,30,1-0,,50,LOST,-50
+2026-08-23,Primera División,Deportivo Garcilaso,Cusco,4-1,AH,AWAY,0,1.75,10,0-0,,50,LOST,-50
+2026-08-23,Primera División,Deportivo Garcilaso,Cusco,4-1,AH,AWAY,-0.5,1.8,26,0-0,,50,LOST,-50
+2026-08-23,NWSL Women,Portland Thorns W,Denver Summit W,1-0,AH,AWAY,0,2.075,10,0-0,,50,LOST,-50
+2026-08-23,Superliga,Sonderjyske,FC Nordsjaelland,0-3,AH,HOME,0.5,1.9,10,0-0,,50,LOST,-50
+2026-08-23,Veikkausliiga,KuPS,Mariehamn,2-4,AH,AWAY,-0.5,1.875,13,1-1,,50,WON,43.75
+2026-08-23,Premier League,Dynamo,Rodina Moskva,3-1,AH,AWAY,-0.5,2.61,10,0-0,,50,LOST,-50
+2026-08-23,Premier League,Dynamo,Rodina Moskva,3-1,AH,AWAY,-0.5,2.61,10,0-0,,45,LOST,-45
+2026-08-23,USL Championship,Colorado Springs,El Paso Locomotive,0-1,AH,AWAY,-0.5,1.825,10,0-0,,50,WON,41.25
+2026-08-23,J1 League,Machida Zelvia,Urawa,3-1,AH,AWAY,-1,2.05,11,1-0,,71,VOID,0
+2026-08-23,Championship,West Brom,Burnley,3-1,AH,AWAY,0,2.35,40,1-1,,50,LOST,-50
+2026-08-23,Championship,West Brom,Burnley,3-1,AH,AWAY,-1,1.85,48,2-1,,50,VOID,0
+2026-08-23,Championship,West Brom,Burnley,3-1,OU,OVER,3.25,2.05,50,,,50,WON,52.5
+2026-08-23,Veikkausliiga,HJK Helsinki,Gnistan,2-3,AH,AWAY,-1,1.9,10,0-0,,50,WON,45
+2026-08-23,Veikkausliiga,HJK Helsinki,Gnistan,2-3,AH,AWAY,-1,1.96,10,0-0,,50,WON,48
+2026-08-23,Veikkausliiga,HJK Helsinki,Gnistan,2-3,AH,AWAY,-1.5,2.025,25,1-0,,50,WON,51.25
+2026-08-23,Veikkausliiga,Turku PS,Inter Turku,0-0,AH,HOME,0.5,1.8,10,0-0,,50,WON,40
+2026-08-23,Ligue 1,Le Havre,Monaco,0-1,AH,HOME,0.5,2,10,0-0,,173,LOST,-173
+2026-08-23,Ligue 1,Le Havre,Monaco,0-1,AH,HOME,1.5,1.825,21,0-1,,327,WON,269.78
+2026-08-23,K League 1,Daejeon Citizen,Gangwon FC,3-0,AH,AWAY,0,2.075,13,0-0,,50,LOST,-50
+2026-08-23,DFB Pokal,SpVgg Greuther Fürth,VfL Bochum,1-2,AH,AWAY,0,1.775,10,0-0,,50,WON,38.75
+2026-08-23,DFB Pokal,SpVgg Greuther Fürth,VfL Bochum,1-2,AH,HOME,1,1.95,26,0-1,,50,WON,47.5
+2026-08-23,Super League,Mitundu Baptist,Nyasa Big Bullets,0-0,AH,HOME,0.5,1.75,10,0-0,,50,WON,37.5
+2026-08-23,Super League,Mitundu Baptist,Nyasa Big Bullets,0-0,AH,HOME,0,2.625,10,0-0,,50,VOID,0
+2026-08-23,Super Liga,AS Trencin,Spartak Trnava,0-4,AH,HOME,0.5,1.85,10,0-0,,50,LOST,-50
+2026-08-23,Super League 1,OFI,Volos NFC,2-0,AH,AWAY,-1,1.875,10,1-0,,50,VOID,0
+2026-08-23,Primeira Liga,Santa Clara,Famalicao,1-0,AH,AWAY,-1,1.925,22,0-0,,66,VOID,0
+2026-08-23,Primeira Liga,Santa Clara,Famalicao,1-0,AH,AWAY,-0.5,2.3,27,1-0,,50,WON,65
+2026-08-23,Primeira Liga,Santa Clara,Famalicao,1-0,OU,OVER,2,2.125,55,,,500,LOST,-500
+2026-08-23,Torneo Federal A,Germinal de Rawson,San Martín Mendoza,0-0,AH,AWAY,0,2.425,20,0-0,,50,VOID,0
+2026-08-23,Ekstraklasa,Pogon Szczecin,Wisla Krakow,2-2,AH,AWAY,-1,2,10,1-0,,50,WON,50
+2026-08-23,Ekstraklasa,Pogon Szczecin,Wisla Krakow,2-2,AH,AWAY,0,2.2,49,2-2,,50,VOID,0
+2026-08-23,Torneo Federal A,Sarmiento de La Banda,Sportivo Belgrano,3-0,AH,AWAY,-0.5,1.8,10,0-0,,50,LOST,-50
+2026-08-23,Serie B,Ponte Preta,Avai,0-2,AH,HOME,0.5,1.8,38,0-0,,54,LOST,-54
+2026-08-23,Serie B,Ponte Preta,Avai,0-2,AH,HOME,1,2.15,67,0-1,,64,VOID,0
+2026-08-23,Serie B,Ponte Preta,Avai,0-2,OU,OVER,1.75,2,62,,,500,HALF_WON,250
+2026-08-23,USL Championship,Orange County SC,FC Tulsa,1-5,AH,HOME,1,1.8,10,0-1,,50,LOST,-50
+2026-08-23,USL Championship,Sacramento Republic,Phoenix Rising,2-2,AH,AWAY,-0.5,1.85,10,0-0,,50,WON,42.5
+2026-08-23,USL Championship,Sacramento Republic,Phoenix Rising,2-2,AH,AWAY,-1.5,1.975,19,1-0,,50,WON,48.75
+2026-08-23,K League 2,Jeonnam Dragons,Hwaseong,1-0,AH,HOME,0.5,1.85,10,0-0,,50,WON,42.5
+2026-08-23,Superliga,Aarhus,Odense,2-2,AH,AWAY,-0.5,1.8,16,0-0,,50,WON,40
+2026-08-23,Torneo Federal A,Fundacion Amigos,Sol de Mayo,2-0,AH,AWAY,-1,1.95,10,0-0,,50,LOST,-50
+2026-08-23,Primera División,D. La Serena,Cobresal,3-3,AH,AWAY,-0.5,2,41,1-1,,50,WON,50
+2026-08-23,Super League 1,PAOK,Levadiakos,4-0,AH,AWAY,-1,1.95,31,0-0,,50,LOST,-50
+2026-08-23,Primera División,Club Nacional,Progreso,1-0,AH,AWAY,-1,2.05,10,0-0,,50,VOID,0
+2026-08-23,USL Championship,San Antonio,Oakland Roots,0-1,AH,AWAY,0,2.025,26,0-0,,50,WON,51.25
+2026-08-23,Liga Panameña de Fútbol,Veraguas,San Francisco FC,3-3,AH,AWAY,0,1.9,10,0-0,,50,VOID,0
+2026-08-23,Liga Panameña de Fútbol,Veraguas,San Francisco FC,3-3,AH,HOME,1,1.9,14,0-1,,50,WON,45
+2026-08-23,K League 2,Cheongju,Gyeongnam FC,1-1,AH,HOME,1,1.775,11,0-1,,50,WON,38.75
+2026-08-23,Super League,Shenyang Urban,Henan Jianye,4-4,AH,AWAY,0,1.775,10,0-0,,50,VOID,0
+2026-08-23,Super League,Shenyang Urban,Henan Jianye,4-4,AH,HOME,-0.5,2.75,26,0-0,,50,LOST,-50
+2026-08-23,Super League,Shenyang Urban,Henan Jianye,4-4,AH,HOME,1,1.95,48,1-2,,64,WON,60.8
+2026-08-23,Ekstraklasa,Radomiak Radom,Zaglebie Lubin,0-0,AH,AWAY,0,1.875,10,0-0,,50,VOID,0
+2026-08-23,Ekstraklasa,Radomiak Radom,Zaglebie Lubin,0-0,OU,OVER,1,2.025,60,,,50,LOST,-50
+2026-08-23,Eredivisie,Cambuur,Feyenoord,2-5,AH,HOME,1.5,1.85,20,0-1,,91,LOST,-91
+2026-08-23,First League,Septemvri Sofia,CSKA 1948,1-0,AH,HOME,0.5,2,20,0-0,,50,WON,50
+2026-08-23,Segunda División,Sporting Gijon,Burgos,1-0,AH,AWAY,-1.5,1.825,13,1-0,,50,WON,41.25
+2026-08-23,Segunda División,Sporting Gijon,Burgos,1-0,OU,OVER,2,2.025,53,,,50,LOST,-50
+2026-08-23,2. Liga,FC BW Linz,Voitsberg,5-1,AH,AWAY,-1.5,1.975,14,1-0,,50,LOST,-50
+2026-08-23,K League 1,Gwangju FC,Incheon United,0-1,AH,HOME,0.5,1.9,10,0-0,,50,LOST,-50
+2026-08-23,Superettan,Oddevold,Helsingborg,3-1,AH,AWAY,-1,2.025,24,2-1,,50,VOID,0
+2026-08-23,Liga I,Sepsi OSK Sfantu Gheorghe,Farul Constanta,1-1,AH,AWAY,0,2.075,10,0-0,,50,VOID,0
+2026-08-23,Liga I,Sepsi OSK Sfantu Gheorghe,Farul Constanta,1-1,OU,OVER,3,2.025,55,,,50,LOST,-50
+2026-08-23,Frauen Bundesliga,RB Leipzig W,Bayer Leverkusen W,0-2,AH,HOME,0.5,2.05,17,0-0,,50,LOST,-50
+2026-08-23,Allsvenskan,IF Brommapojkarna,Degerfors IF,2-0,AH,AWAY,-0.5,1.8,13,0-0,,50,LOST,-50
+2026-08-23,Allsvenskan,IF Brommapojkarna,Degerfors IF,2-0,AH,AWAY,0,2.5,40,0-0,,50,LOST,-50
+2026-08-23,Allsvenskan,IF Brommapojkarna,Degerfors IF,2-0,OU,OVER,1,2.075,58,,,50,WON,53.75
+2026-08-23,Primera División,Concepción,Coquimbo Unido,1-1,AH,AWAY,0,2.15,15,0-1,,50,LOST,-50
+2026-08-23,Primera División,Concepción,Coquimbo Unido,1-1,AH,AWAY,0,2.15,15,0-1,,15,LOST,-15
+2026-08-23,Primera División,Concepción,Coquimbo Unido,1-1,OU,OVER,2.75,2,66,,,50,LOST,-50
+2026-08-23,1. Lig,Boluspor,Mardin 1969,0-3,AH,HOME,1,1.775,10,0-0,,50,LOST,-50
+2026-08-23,Serie B,Pisa,Padova,0-1,AH,AWAY,-0.5,1.975,10,0-0,,50,WON,48.75
+2026-08-23,Primera División,Sport Boys,Cienciano,5-1,AH,AWAY,-0.5,1.975,10,0-0,,50,LOST,-50
+2026-08-23,Serie A,Torino,AC Milan,1-2,AH,HOME,0.5,2.05,12,0-0,,100,LOST,-100
+2026-08-23,Primera División,Real Tomayapo,Always Ready,1-1,AH,HOME,0.5,2.15,18,0-0,,50,WON,57.5
+2026-08-23,Liga Profesional Argentina,Newells Old Boys,Banfield,2-1,AH,AWAY,-0.5,1.75,11,0-0,,50,LOST,-50
+2026-08-23,Major League Soccer,Nashville SC,Columbus Crew,3-2,AH,AWAY,-0.5,2.025,22,0-0,,50,LOST,-50
+2026-08-23,Major League Soccer,Nashville SC,Columbus Crew,3-2,AH,AWAY,-1.5,1.9,28,1-0,,50,WON,45
+2026-08-23,Premier League,Akron,Krylia Sovetov,0-3,AH,AWAY,0,2.16,48,0-1,,50,WON,58
+2026-08-23,Premier League,Akron,Krylia Sovetov,0-3,AH,AWAY,0,2.16,48,0-1,,36,WON,41.76
+2026-08-23,Allsvenskan,Vasteras SK FK,Kalmar FF,0-0,AH,AWAY,0,1.775,10,0-0,,50,VOID,0
+2026-08-23,Allsvenskan,Vasteras SK FK,Kalmar FF,0-0,AH,AWAY,0,1.85,10,0-0,,15,VOID,0
+2026-08-23,Allsvenskan,Vasteras SK FK,Kalmar FF,0-0,OU,OVER,0.75,2,66,,,50,LOST,-50
+2026-08-23,DFB Pokal,FC Carl Zeiss Jena,SV Darmstadt 98,1-2,AH,HOME,0.5,2.27,10,0-0,,50,LOST,-50
+2026-08-23,DFB Pokal,FC Carl Zeiss Jena,SV Darmstadt 98,1-2,AH,HOME,0.5,2.27,10,0-0,,50,LOST,-50
+2026-08-23,DFB Pokal,FC Carl Zeiss Jena,SV Darmstadt 98,1-2,AH,HOME,1.5,1.925,27,0-1,,50,WON,46.25
+2026-08-23,Eerste Divisie,VVV Venlo,De Graafschap,2-1,AH,AWAY,0,1.9,10,0-0,,50,LOST,-50
+2026-08-23,Eerste Divisie,VVV Venlo,De Graafschap,2-1,AH,AWAY,-1,1.925,45,2-1,,50,WON,46.25
+2026-08-23,Eerste Divisie,VVV Venlo,De Graafschap,2-1,OU,UNDER,4,2.05,66,,,50,WON,52.5
+2026-08-23,Superettan,Norrby IF,Sandviken,1-1,AH,AWAY,0,1.975,10,0-0,,50,VOID,0
+2026-08-23,Premier League,Al Ahly,Enppi,3-2,AH,AWAY,-1,2.025,14,0-0,,50,VOID,0
+2026-08-23,Süper Lig,Göztepe,Gençlerbirliği S.K.,0-1,AH,AWAY,-0.5,1.975,10,0-0,,50,WON,48.75
+2026-08-23,Torneo Federal A,San Martin Formosa,9 de Julio Rafaela,2-1,AH,AWAY,-1.5,1.825,28,2-1,,50,WON,41.25
+2026-08-23,Serie C,Maringá,Barra,2-1,AH,AWAY,-0.5,2,29,0-0,,50,LOST,-50
+2026-08-23,Canadian Premier League,York United,Supra du Quebec,1-1,AH,HOME,0.5,1.85,10,0-0,,50,WON,42.5
+2026-08-23,Canadian Premier League,York United,Supra du Quebec,1-1,AH,AWAY,-0.5,1.875,14,0-0,,50,WON,43.75
+2026-08-23,Serie C,Maranhão,AO Itabaiana,4-1,AH,AWAY,-1.5,1.75,12,1-0,,50,LOST,-50
+2026-08-23,Major League Soccer,St. Louis City,Houston Dynamo,2-1,AH,AWAY,-1,1.95,24,1-0,,50,WON,47.5
+2026-08-23,Segunda Liga,Chaves,AVS,2-2,AH,AWAY,-0.5,1.8,12,0-0,,50,WON,40
+2026-08-23,Eredivisie,GO Ahead Eagles,ADO Den Haag,3-1,AH,AWAY,-0.5,2,10,0-0,,50,LOST,-50
+2026-08-23,Frauen Bundesliga,1899 Hoffenheim W,Stuttgart W,1-2,AH,AWAY,-1,1.85,10,0-0,,50,WON,42.5
+2026-08-23,Frauen Bundesliga,1899 Hoffenheim W,Stuttgart W,1-2,AH,AWAY,-0.5,1.95,28,0-0,,50,WON,47.5
+2026-08-23,Damallsvenskan,Vittsjö W,Norrköping W,1-1,AH,AWAY,0,2,10,0-0,,50,VOID,0
+2026-08-23,Damallsvenskan,Vittsjö W,Norrköping W,1-1,AH,AWAY,-1,1.9,20,1-0,,50,WON,45
+2026-08-23,Jupiler Pro League,Lommel United,KVC Westerlo,4-0,AH,AWAY,-0.5,2.025,33,1-0,,50,LOST,-50
+2026-08-23,Ekstraklasa,GKS Katowice,Wisla Plock,5-0,AH,AWAY,-1,2.025,28,1-0,,50,LOST,-50
+2026-08-23,HNL,HNK Rijeka,Istra 1961,3-2,AH,AWAY,-1,2,10,0-0,,50,VOID,0
+2026-08-23,HNL,HNK Rijeka,Istra 1961,3-2,AH,AWAY,-0.5,2.23,31,1-0,,50,WON,61.5
+2026-08-23,HNL,HNK Rijeka,Istra 1961,3-2,AH,AWAY,-0.5,2.23,31,1-0,,50,WON,61.5
+2026-08-23,Serie B,Hellas Verona,Ascoli,1-2,AH,AWAY,-1.5,1.75,41,1-0,,50,WON,37.5
+2026-08-23,Liga I,CFR 1907 Cluj,FCSB,1-0,AH,HOME,0.5,1.95,16,0-0,,50,WON,47.5
+2026-08-23,Super League,CIVO United,MAFCO,1-0,AH,AWAY,-0.5,1.9,10,0-0,,50,LOST,-50
+2026-08-23,Ligi kuu Bara,Mbeya City,Mashujaa,2-1,AH,AWAY,0,2.1,11,0-0,,50,LOST,-50
+2026-08-23,Superettan,IK brage,United Nordic,1-2,AH,AWAY,0,1.95,10,0-0,,50,WON,47.5
+2026-08-23,Superettan,IK brage,United Nordic,1-2,AH,HOME,1,1.9,14,0-1,,50,WON,45
+2026-08-23,Segunda Liga,Penafiel,Sporting CP B,2-0,AH,AWAY,0,1.8,11,0-0,,50,LOST,-50
+2026-08-23,Primera División,Danubio,Racing Montevideo,0-0,AH,AWAY,0,1.8,25,0-0,,50,VOID,0
+2026-08-23,La Liga,Atletico Madrid,Villarreal,2-2,AH,AWAY,-0.5,2.05,16,0-0,,60,WON,63
+2026-08-23,La Liga,Atletico Madrid,Villarreal,2-2,OU,OVER,2,2,62,,,500,WON,500
+2026-08-23,Segunda División,Eibar,Valladolid,1-0,AH,AWAY,0,2.3,45,0-0,,50,LOST,-50
+2026-08-23,Segunda División,Eibar,Valladolid,1-0,OU,OVER,0.75,2,62,,,50,HALF_WON,25
+2026-08-23,NB I,Gyori ETO FC,Zalaegerszegi TE,3-0,AH,AWAY,-0.5,1.975,10,0-0,,50,LOST,-50
+2026-08-23,NB I,Gyori ETO FC,Zalaegerszegi TE,3-0,AH,AWAY,-1.5,1.775,27,1-0,,50,LOST,-50
+2026-08-23,NB I,Gyori ETO FC,Zalaegerszegi TE,3-0,AH,AWAY,-1,1.85,72,1-0,,50,LOST,-50
+2026-08-23,NB I,Gyori ETO FC,Zalaegerszegi TE,3-0,OU,OVER,2,2.025,62,,,50,WON,51.25
+2026-08-23,La Liga,Getafe,Racing Santander,1-0,AH,AWAY,-1,1.725,84,1-0,,120.4,WON,87.29
+2026-08-23,Torneo Federal A,Guillermo Brown,Santamarina,1-0,AH,AWAY,-0.5,1.975,10,0-0,,50,LOST,-50
+2026-08-23,1. Lig,Sarıyer,Batman Petrolspor,1-2,AH,AWAY,0,1.85,10,0-0,,50,WON,42.5
+2026-08-23,Serie B,Cesena,Sampdoria,1-1,AH,AWAY,0,1.925,11,0-0,,50,VOID,0
+2026-08-23,Serie B,Cesena,Sampdoria,1-1,AH,AWAY,-1,1.875,19,1-0,,50,WON,43.75
+2026-08-23,Super League,Karonga United,Chitipa United,1-1,AH,AWAY,-0.5,1.8,10,0-0,,50,WON,40
+2026-08-23,Super League,Karonga United,Chitipa United,1-1,AH,AWAY,0,2.625,21,0-0,,50,VOID,0
+2026-08-23,Superliga,AC Horsens,Lyngby,2-1,AH,AWAY,-0.5,1.95,16,1-0,,50,WON,47.5
+2026-08-23,1. Lig,Bandırmaspor,Keçiörengücü,1-1,AH,AWAY,0,2.025,10,0-0,,50,VOID,0
+2026-08-23,Premier League,Newcastle,Liverpool,2-2,AH,AWAY,0,2.05,11,1-0,,100,WON,105
+2026-08-23,Premier League,Newcastle,Liverpool,2-2,AH,AWAY,-0.5,1.8,45,1-0,,100,WON,80
+2026-08-23,Premier League,Newcastle,Liverpool,2-2,AH,HOME,0.5,1.9,55,1-1,,115,WON,103.5
+2026-08-23,NB I,Kisvarda FC,Debreceni VSC,0-0,AH,AWAY,0,1.775,16,0-0,,50,VOID,0
+2026-08-23,NB I,Kisvarda FC,Debreceni VSC,0-0,OU,OVER,1,2,63,,,50,LOST,-50
+2026-08-23,Süper Lig,Trabzonspor,Başakşehir,2-1,AH,AWAY,-0.5,2,38,1-1,,50,LOST,-50
+2026-08-23,Serie A,Frosinone,Juventus,0-1,AH,HOME,1,2.05,10,0-0,,100,VOID,0
+2026-08-23,Serie A,Frosinone,Juventus,0-1,AH,HOME,1.5,1.825,62,0-1,,204,WON,168.3
+2026-08-23,Serie A,Frosinone,Juventus,0-1,OU,OVER,2,2,64,,,500,LOST,-500
+2026-08-23,Torneo Federal A,Atletico Escobar,Gimnasia Concepción,0-2,AH,AWAY,0,2.2,10,0-0,,50,WON,60
+2026-08-23,Super League 1,Panetolikos,Asteras Tripolis,3-1,AH,AWAY,-0.5,2.375,45,1-0,,50,LOST,-50
+2026-08-23,Serie A,Atalanta,Sassuolo,2-1,AH,AWAY,-1.5,1.95,30,1-0,,166,WON,157.7
+2026-08-23,Super Liga,Vojvodina,Železničar Pančevo,1-0,AH,AWAY,-0.5,2,10,0-0,,50,LOST,-50
+2026-08-23,Serie A,Palmeiras,Vasco DA Gama,4-1,AH,AWAY,-0.5,2,11,0-0,,50,LOST,-50
+2026-08-23,Primeira Liga,FC Porto,Arouca,2-0,AH,AWAY,-1,2,47,0-0,,77,LOST,-77
+2026-08-23,Primeira Liga,FC Porto,Arouca,2-0,AH,AWAY,-1.5,1.85,70,1-0,,100,WON,85
+2026-08-23,Serie A,Santos,Mirassol,1-1,AH,AWAY,-0.5,2.025,26,0-0,,50,WON,51.25
+2026-08-23,Serie A,Santos,Mirassol,1-1,AH,HOME,0.5,1.85,37,0-1,,62,WON,52.7
+2026-08-23,Serie A,Santos,Mirassol,1-1,AH,HOME,0,2.5,45,0-1,,50,WON,75
+2026-08-23,Serie A,Santos,Mirassol,1-1,OU,OVER,2,2,60,,,500,VOID,0
+2026-08-23,DFB Pokal,Eintracht Braunschweig,Union Berlin,2-4,AH,AWAY,-0.5,1.9,13,1-0,,50,WON,45
+2026-08-23,DFB Pokal,Eintracht Braunschweig,Union Berlin,2-4,AH,AWAY,0,1.85,63,2-1,,50,WON,42.5
+2026-08-23,DFB Pokal,Eintracht Braunschweig,Union Berlin,2-4,AH,HOME,1,1.8,72,2-2,,50,LOST,-50
+2026-08-23,Primeira Liga,Vitória SC,Nacional,1-0,AH,AWAY,-1.5,2.025,27,1-0,,75,WON,76.88
+2026-08-23,DFB Pokal,Rot-Weiß Essen,FC St. Pauli,2-0,AH,AWAY,-0.5,2.15,52,1-0,,50,LOST,-50
+2026-08-23,Superliga,Viborg,FC Copenhagen,4-0,AH,AWAY,-1.5,1.975,10,2-0,,50,LOST,-50
+2026-08-23,Premier League,Ceramica Cleopatra,Olympic El Qanah,1-2,AH,AWAY,-1.5,1.85,11,1-0,,50,WON,42.5
+2026-08-23,Liga Profesional Argentina,Barracas Central,Platense,1-2,AH,AWAY,0,2.2,10,0-0,,50,WON,60
+2026-08-23,Liga Profesional Argentina,Barracas Central,Platense,1-2,AH,AWAY,-1,1.725,29,1-0,,50,WON,36.25
+2026-08-23,Liga Profesional Argentina,Barracas Central,Platense,1-2,AH,AWAY,-0.5,2.425,40,1-0,,50,WON,71.25
+2026-08-23,Liga Profesional Argentina,Barracas Central,Platense,1-2,OU,OVER,2,2,51,,,50,WON,50
+2026-08-23,Primera División,Atletico Torque,Wanderers,5-1,AH,AWAY,-0.5,1.825,12,0-0,,50,LOST,-50
+2026-08-23,1. SNL,Maribor,Bravo,3-1,AH,AWAY,-0.5,2.5,10,0-0,,50,LOST,-50
+2026-08-23,1. SNL,Maribor,Bravo,3-1,AH,AWAY,0,2,24,0-1,,50,LOST,-50
+2026-08-23,Torneo Federal A,Defensores de Vilelas,El Linqueño,0-0,AH,AWAY,-0.5,1.825,10,0-0,,50,WON,41.25
+2026-08-23,Torneo Federal A,Defensores de Vilelas,El Linqueño,0-0,AH,AWAY,0,2.425,23,0-0,,50,VOID,0
+2026-08-23,Torneo Federal A,Alvarado,Argentino Monte Maíz,1-1,AH,AWAY,-1,1.925,14,0-0,,50,WON,46.25
+2026-08-23,Serie B,São Bernardo,Nautico Recife,1-1,AH,AWAY,-0.5,1.825,20,0-0,,50,WON,41.25
+2026-08-23,Serie B,São Bernardo,Nautico Recife,1-1,AH,AWAY,0,2.75,43,0-0,,50,VOID,0
+2026-08-23,Serie B,São Bernardo,Nautico Recife,1-1,OU,OVER,1.75,2,67,,,500,HALF_WON,250
+2026-08-23,Serie A,Vitoria,Bahia,0-2,AH,AWAY,0,1.825,10,0-0,,50,WON,41.25
+2026-08-23,Serie A,Vitoria,Bahia,0-2,AH,HOME,1,1.875,80,0-1,,43.4,VOID,0
+2026-08-23,Serie C,Brusque,Amazonas,1-1,AH,AWAY,-0.5,2.025,29,1-1,,50,WON,51.25
+2026-08-23,Major League Soccer,Atlanta United FC,Sporting Kansas City,2-1,AH,AWAY,-1.5,1.8,23,1-0,,50,WON,40
+2026-08-23,DFB Pokal,Fortuna Düsseldorf,SC Freiburg,1-5,AH,HOME,1,2.025,10,0-0,,50,LOST,-50
+2026-08-23,DFB Pokal,Fortuna Düsseldorf,SC Freiburg,1-5,AH,HOME,1.5,1.825,62,0-1,,50,LOST,-50
+2026-08-23,DFB Pokal,Fortuna Düsseldorf,SC Freiburg,1-5,OU,OVER,2,2,63,,,50,WON,50
+2026-08-23,Super Liga,Radnik Surdulica,Novi Pazar,1-0,AH,AWAY,0,2.5,42,0-0,,50,LOST,-50
+2026-08-23,Super Liga,Radnik Surdulica,Novi Pazar,1-0,OU,OVER,2,2.1,65,,,50,LOST,-50
+2026-08-23,Segunda División,Castellón,Sabadell,0-0,AH,AWAY,-0.5,1.9,10,0-0,,50,WON,45
+2026-08-23,Torneo Federal A,Cipolletti,Atenas,2-2,AH,AWAY,-0.5,1.85,10,0-0,,50,WON,42.5
+2026-08-23,HNL,HNK Hajduk Split,NK Osijek,4-0,AH,AWAY,-1,2,30,1-0,,50,LOST,-50
+2026-08-23,Primera División,FBC Melgar,Alianza Lima,1-1,AH,AWAY,0,2.6,16,0-0,,50,VOID,0
+2026-08-23,Primera División,FBC Melgar,Alianza Lima,1-1,OU,OVER,3,2.025,55,,,50,LOST,-50
+2026-08-23,Serie C,Ypiranga-RS,Ferroviária,1-0,AH,AWAY,0,1.975,10,0-0,,50,LOST,-50
+2026-08-23,Liga Panameña de Fútbol,Plaza Amador,UMECIT,3-0,AH,AWAY,-0.5,1.875,10,0-0,,50,LOST,-50
+2026-08-23,Pro League,Sharjah FC,Al-Jazira,0-2,AH,HOME,0.5,1.775,10,0-0,,50,LOST,-50
+2026-08-23,Super Liga,Žilina,Komárno,2-1,AH,AWAY,-0.5,2,27,0-0,,50,LOST,-50
+2026-08-23,Challenger Pro League,Francs Borains,Sporting Hasselt,0-1,AH,AWAY,0,2.025,10,0-0,,50,WON,51.25
+2026-08-23,Ligat Ha'al,Hapoel Katamon,Maccabi Tel Aviv,2-5,AH,AWAY,0,1.775,20,1-0,,50,WON,38.75
+2026-08-23,NWSL Women,Chicago Red Stars W,Racing Louisville W,3-2,AH,HOME,0.5,2,10,0-0,,50,WON,50
+2026-08-23,NWSL Women,Chicago Red Stars W,Racing Louisville W,3-2,AH,HOME,0,2.75,17,0-0,,50,WON,87.5
+2026-08-23,Torneo Federal A,Olimpo Bahia Blanca,Kimberley Mar del Plata,1-0,AH,AWAY,-0.5,2.025,16,0-0,,50,LOST,-50
+2026-08-23,Torneo Federal A,Independiente De Chivilcoy,Tucuman Central,2-0,AH,AWAY,-1,1.775,16,0-0,,50,LOST,-50
+2026-08-23,1. Lig,Vanspor FK,İstanbulspor,3-2,AH,AWAY,0,1.825,20,0-0,,50,LOST,-50
+2026-08-23,1. Lig,Vanspor FK,İstanbulspor,3-2,AH,HOME,0.5,2.25,30,0-1,,50,WON,62.5
+2026-08-23,Torneo Federal A,Boca Unidos,Sportivo Las Parejas,1-0,AH,AWAY,0,2.25,12,0-0,,50,LOST,-50
+2026-08-23,Primera División,Universidad de Chile,Colo Colo,1-2,AH,AWAY,0,2.25,11,0-0,,50,WON,62.5
+2026-08-23,Primera División,Universidad de Chile,Colo Colo,1-2,AH,HOME,1,1.75,38,0-1,,50,WON,37.5
+2026-08-23,Segunda División,Tenerife,Almeria,1-0,AH,AWAY,0,1.9,10,0-0,,50,LOST,-50
+2026-08-23,Segunda División,Tenerife,Almeria,1-0,AH,HOME,-0.5,2.69,13,0-0,,50,WON,84.5
+2026-08-23,Segunda División,Tenerife,Almeria,1-0,AH,HOME,-0.5,2.69,13,0-0,,15,WON,25.35
+2026-08-23,Segunda División,Tenerife,Almeria,1-0,AH,AWAY,-1,1.85,48,1-0,,50,WON,42.5
+2026-08-23,Segunda División,Tenerife,Almeria,1-0,OU,OVER,2,2,53,,,50,LOST,-50
+2026-08-23,Liga Pro,Delfin SC,Aucas,0-1,AH,AWAY,0,1.8,10,0-0,,50,WON,40
+2026-08-23,Liga Pro,Delfin SC,Aucas,0-1,OU,OVER,0.5,2.05,58,,,50,WON,52.5
+2026-08-23,Primera A,Deportivo Pasto,Llaneros,0-1,AH,AWAY,0,2.3,15,0-0,,50,WON,65
+2026-08-23,NWSL Women,Bay FC W,Houston Dash W,1-0,AH,AWAY,-0.5,1.8,10,0-0,,50,LOST,-50
+2026-08-23,NWSL Women,Bay FC W,Houston Dash W,1-0,AH,AWAY,0,2.35,17,0-0,,50,LOST,-50
+2026-08-23,Czech Liga,Sigma Olomouc,Pardubice,3-1,AH,AWAY,-0.5,1.975,12,0-0,,50,LOST,-50
+2026-08-23,Super Liga,Mladost Lucani,FK Partizan,3-1,AH,HOME,0.5,2.025,12,0-0,,50,WON,51.25
+2026-08-23,Serie B,Operario-PR,Vila Nova,0-0,AH,AWAY,0,2.15,27,0-0,,50,VOID,0
+2026-08-23,Serie B,Operario-PR,Vila Nova,0-0,OU,OVER,1,2.025,50,,,500,LOST,-500
+2026-08-23,Serie B,Palermo,Juve Stabia,1-0,AH,AWAY,-1.5,2.025,18,1-0,,50,WON,51.25
+2026-08-23,Serie B,Palermo,Juve Stabia,1-0,OU,OVER,2,2.075,62,,,50,LOST,-50
+2026-08-23,Primera A,Fortaleza FC,Atletico Nacional,1-2,AH,HOME,0.5,1.9,10,0-0,,50,LOST,-50
+2026-08-23,Primera A,Fortaleza FC,Atletico Nacional,1-2,AH,AWAY,-0.5,1.85,45,1-0,,50,WON,42.5
+2026-08-23,NWSL Women,Washington Spirit W,Orlando Pride W,0-1,AH,HOME,0.5,1.8,30,0-1,,50,WON,40
+2026-08-23,Liga Profesional Argentina,Belgrano Cordoba,Defensa Y Justicia,1-2,AH,AWAY,-0.5,1.95,10,0-0,,50,WON,47.5
+2026-08-23,Liga Profesional Argentina,Belgrano Cordoba,Defensa Y Justicia,1-2,AH,HOME,0.5,1.825,13,0-1,,50,WON,41.25
+2026-08-23,Liga Profesional Argentina,Belgrano Cordoba,Defensa Y Justicia,1-2,AH,HOME,0,2.75,27,0-1,,50,VOID,0
+2026-08-23,Serie A,Coritiba,Corinthians,2-1,AH,AWAY,0,1.85,12,0-0,,50,LOST,-50
+2026-08-23,Serie A,Coritiba,Corinthians,2-1,AH,AWAY,-1,1.7,43,1-0,,96,WON,67.2
+2026-08-23,Torneo Federal A,Bartolomé Mitre,Douglas Haig,0-3,AH,AWAY,0,1.825,10,0-0,,50,WON,41.25
+2026-08-23,Torneo Federal A,Bartolomé Mitre,Douglas Haig,0-3,AH,HOME,1,1.975,20,0-1,,50,LOST,-50
+2026-08-23,Torneo Federal A,Bartolomé Mitre,Douglas Haig,0-3,AH,HOME,0,2.3,20,0-1,,50,LOST,-50
+2026-08-23,Serie A,RB Bragantino,Gremio,1-0,AH,AWAY,-1,1.8,10,0-0,,59,VOID,0
+2026-08-23,Serie A,RB Bragantino,Gremio,1-0,AH,AWAY,-0.5,2.05,45,0-0,,50,LOST,-50
+2026-08-23,Serie A,RB Bragantino,Gremio,1-0,OU,OVER,1,2,59,,,500,VOID,0
+2026-08-23,Primera A,Deportivo Cali,Internacional de Bogota,2-2,AH,AWAY,-1.5,2.025,24,1-0,,50,WON,51.25
+2026-08-23,Major League Soccer,New England Revolution,New York City FC,1-1,AH,AWAY,0,2.3,10,0-0,,50,VOID,0
+2026-08-23,Major League Soccer,New England Revolution,New York City FC,1-1,AH,AWAY,-1,1.775,27,0-0,,50,WON,38.75
+2026-08-23,Major League Soccer,New England Revolution,New York City FC,1-1,OU,OVER,3,2,63,,,50,LOST,-50
+2026-08-23,Primera División,Guabirá,Blooming,1-1,AH,AWAY,-0.5,1.85,27,0-0,,50,WON,42.5
+2026-08-23,Primera División,Universitario,Club Deportivo Los Chankas,3-0,AH,AWAY,-1,1.74,45,1-0,,50,LOST,-50
+2026-08-23,Primera División,Universitario,Club Deportivo Los Chankas,3-0,AH,AWAY,-1,1.74,45,1-0,,50,LOST,-50
+2026-08-24,Primera A,Junior,Once Caldas,1-1,AH,AWAY,0,2.425,21,0-0,,50,VOID,0
+2026-08-24,Primera A,Junior,Once Caldas,1-1,OU,OVER,0.75,2,65,,,50,WON,50
+2026-08-24,NWSL Women,Angel City W,NJ/NY Gotham FC W,0-0,AH,HOME,0.5,1.95,13,0-0,,50,WON,47.5
+2026-08-24,Liga MX,U.N.A.M. - Pumas,Necaxa,1-1,AH,AWAY,-0.5,1.8,10,0-0,,50,WON,40
+2026-08-24,Liga MX,U.N.A.M. - Pumas,Necaxa,1-1,AH,AWAY,0,2.425,19,0-0,,50,VOID,0
+2026-08-24,Liga MX,U.N.A.M. - Pumas,Necaxa,1-1,OU,OVER,1,2.025,61,,,50,WON,51.25
+2026-08-24,Liga Profesional Argentina,Racing Club,Boca Juniors,1-1,AH,AWAY,-0.5,2,10,1-0,,50,WON,50
+2026-08-24,Liga Profesional Argentina,Racing Club,Boca Juniors,1-1,AH,AWAY,0,1.7,59,1-1,,50,VOID,0
+2026-08-24,Liga Profesional Argentina,Racing Club,Boca Juniors,1-1,OU,OVER,2.75,2,62,,,50,LOST,-50

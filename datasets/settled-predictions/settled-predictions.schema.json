@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://oddsflow.ai/schemas/settled-predictions.schema.json",
   "title": "OddsFlow Settled Predictions",
-  "description": "One settled in-play bet on a finished match. Companion to signal-log.schema.json \u2014 this schema captures post-settlement outcomes with entry context.",
+  "description": "One settled bet on a finished match, with the context it was entered on. One row per model × source: the same decision taken by two engines, or placed at two brokers, appears more than once — `model_key` and `source` identify which is which. Generated from the V9 per-bet log; rows up to 2026-08-24 from the retired V8 engine are archived separately under datasets/settled-predictions-v8-archive/ and carry an extra `pressure_signal` column that V9 does not record.",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -13,6 +13,8 @@
     "market",
     "selection",
     "entry_odds",
+    "model_key",
+    "source",
     "result",
     "profit_loss"
   ],
@@ -23,7 +25,8 @@
       "description": "Match date (UTC)"
     },
     "league": {
-      "type": "string"
+      "type": "string",
+      "description": "Competition name"
     },
     "home_team": {
       "type": "string"
@@ -33,20 +36,23 @@
     },
     "final_score": {
       "type": "string",
-      "description": "Full-time score, home-away, e.g. '2-1'"
+      "description": "Full-time score, \"home-away\". Empty when the fixture carried no final score."
     },
     "market": {
       "type": "string",
       "enum": [
         "AH",
-        "OU"
-      ]
+        "OU",
+        "1X2"
+      ],
+      "description": "AH = Asian Handicap, OU = Over/Under, 1X2 = match result"
     },
     "selection": {
       "type": "string",
       "enum": [
         "HOME",
         "AWAY",
+        "DRAW",
         "OVER",
         "UNDER"
       ]
@@ -54,42 +60,42 @@
     "line": {
       "type": [
         "number",
-        "null"
-      ]
+        "string"
+      ],
+      "description": "Handicap or goals line at entry (e.g. 0.75, 2.5). Empty for 1X2."
     },
     "entry_odds": {
-      "type": "number",
-      "minimum": 1.01,
-      "description": "OddsFlow's recorded entry price"
+      "type": [
+        "number",
+        "string"
+      ],
+      "description": "The odds OddsFlow recorded when entering — our own trade record, not a resold bookmaker feed."
     },
     "entry_minute": {
       "type": [
         "integer",
-        "null"
+        "string"
       ],
-      "minimum": 0,
-      "description": "In-play minute at entry; 0 = pre-kickoff"
+      "description": "Match clock when the signal fired. 0 = before kick-off."
     },
     "score_at_entry": {
-      "type": [
-        "string",
-        "null"
-      ],
-      "description": "Scoreline when the bet was placed"
+      "type": "string",
+      "description": "Scoreline when the bet was placed, \"home-away\"."
     },
-    "pressure_signal": {
-      "type": [
-        "number",
-        "null"
-      ],
-      "description": "OddsFlow proprietary momentum/pressure metric at entry (output value, not formula)"
+    "model_key": {
+      "type": "string",
+      "description": "Which engine produced the entry, e.g. oddsflow_handicap_sniper."
+    },
+    "source": {
+      "type": "string",
+      "description": "Where the bet was recorded: APIFOOTBALL, HGA or NOVA88."
     },
     "stake": {
       "type": [
         "number",
-        "null"
+        "string"
       ],
-      "minimum": 0
+      "description": "Stake units allocated by the model"
     },
     "result": {
       "type": "string",
@@ -103,8 +109,11 @@
       ]
     },
     "profit_loss": {
-      "type": "number",
-      "description": "Settled P/L in stake units; negative = loss"
+      "type": [
+        "number",
+        "string"
+      ],
+      "description": "Settled profit or loss in stake units; negative is a loss."
     }
   }
 }

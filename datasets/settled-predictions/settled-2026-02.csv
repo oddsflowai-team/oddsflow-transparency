@@ -1,67 +1,153 @@
-match_date,league,home_team,away_team,final_score,market,selection,line,entry_odds,entry_minute,score_at_entry,pressure_signal,stake,result,profit_loss
-2026-02-01,La Liga,Real Betis,Valencia,2-1,AH,AWAY,-0.25,2,48,1-1,-22.25,139,LOST,-139
-2026-02-01,Premier League,Manchester United,Fulham,3-2,AH,HOME,-1,1.85,15,0-0,28.5,200,PUSH,0
-2026-02-01,Premier League,Nottingham Forest,Crystal Palace,1-1,AH,AWAY,-1,2.1,17,1-0,-22.67,128.89,WON,141.78
-2026-02-01,Premier League,Aston Villa,Brentford,0-1,AH,HOME,0,1.825,69,0-1,20.16,152.59,PUSH,0
-2026-02-01,Bundesliga,VfB Stuttgart,SC Freiburg,1-0,OU,OVER,1.5,1.727,75,,48.6,50,HALF_LOST,-25
-2026-02-01,La Liga,Real Madrid,Rayo Vallecano,2-1,AH,HOME,-1.25,1.825,22,1-0,20.87,158.04,LOST,-158.04
-2026-02-02,La Liga,Mallorca,Sevilla,4-1,AH,HOME,0,1.825,15,0-0,24,181.68,WON,149.89
-2026-02-03,Serie A,Bologna,AC Milan,0-3,AH,HOME,0,2.025,19,0-0,29.42,179.45,LOST,-179.45
-2026-02-06,Ligue 1,Metz,Lille,0-0,AH,AWAY,0.75,1.825,57,0-0,-21.95,166.23,LOST,-166.23
-2026-02-06,Premier League,Leeds,Nottingham Forest,3-1,AH,AWAY,-0.5,1.875,19,0-0,-24.94,178.19,LOST,-178.19
-2026-02-06,Premier League,Leeds,Nottingham Forest,3-1,OU,OVER,2.5,2.2,19,,65.84,300,WON,360
-2026-02-06,La Liga,Celta Vigo,Osasuna,1-2,AH,HOME,-0.25,1.75,18,0-0,20.5,170.9,LOST,-170.9
-2026-02-06,La Liga,Celta Vigo,Osasuna,1-2,AH,HOME,-0.5,2.05,24,0-0,40,29.1,LOST,-29.1
-2026-02-07,Bundesliga,FC St. Pauli,VfB Stuttgart,2-1,AH,HOME,-0.5,2.025,60,2-0,20,121.88,LOST,-121.88
-2026-02-07,Bundesliga,FC St. Pauli,VfB Stuttgart,2-1,OU,OVER,2.5,1.909,60,,40,70,HALF_WON,31.82
-2026-02-07,Premier League,Arsenal,Sunderland,3-0,AH,HOME,-1.25,1.875,36,0-0,21.5,153.62,WON,134.42
-2026-02-07,Bundesliga,VfL Wolfsburg,Borussia Dortmund,1-2,AH,AWAY,0.25,2.05,72,1-1,-28.5,169.75,WON,178.24
-2026-02-07,Premier League,Fulham,Everton,1-2,AH,HOME,-1,1.825,23,1-0,26.47,200,LOST,-200
-2026-02-07,Premier League,Bournemouth,Aston Villa,1-1,AH,HOME,0,2,15,0-0,25,156.25,PUSH,0
-2026-02-07,Premier League,Bournemouth,Aston Villa,1-1,AH,HOME,0.75,2.05,66,1-1,26.1,43.75,WON,45.94
-2026-02-07,Premier League,Burnley,West Ham,0-2,AH,HOME,1,2.025,55,0-2,33.18,200,WON,205
-2026-02-07,Premier League,Newcastle,Brentford,2-3,AH,HOME,-1.25,1.95,29,1-0,20.12,132.31,LOST,-132.31
-2026-02-10,Premier League,Tottenham,Newcastle,1-2,AH,AWAY,0.5,2,33,0-0,-30.32,200,HALF_WON,100
-2026-02-11,Premier League,Aston Villa,Brighton,1-0,AH,HOME,-0.5,2.025,15,0-0,25,10,HALF_WON,5.13
-2026-02-11,Premier League,Aston Villa,Brighton,1-0,AH,HOME,-0.25,1.8,25,0-0,31.8,154.83,WON,123.86
-2026-02-11,Premier League,Sunderland,Liverpool,0-1,AH,AWAY,0.75,2.05,43,0-0,-32.8,200,WON,210
-2026-02-14,Ligue 1,Paris FC,Lens,0-5,AH,AWAY,0.5,2.05,20,0-0,-26.5,200,WON,210
-2026-02-14,Serie A,Como,Fiorentina,1-2,AH,HOME,0.25,2.05,84,1-2,20.14,108.99,WON,114.44
-2026-02-14,Serie A,Como,Fiorentina,1-2,AH,HOME,0.5,1.8,85,1-2,20.44,91.01,HALF_WON,36.4
-2026-02-14,Bundesliga,Hamburger SV,Union Berlin,3-2,AH,HOME,-0.25,1.95,15,0-0,48,184.16,WON,174.95
-2026-02-14,Bundesliga,Hamburger SV,Union Berlin,3-2,AH,HOME,0.5,1.9,27,0-0,27.66,15.84,WON,14.26
-2026-02-14,Ligue 1,Lille,Stade Brestois 29,1-1,AH,HOME,-0.75,1.75,26,0-0,49.53,33.24,LOST,-33.24
-2026-02-14,Ligue 1,Lille,Stade Brestois 29,1-1,AH,HOME,-0.5,1.8,50,0-0,32.7,67.95,HALF_LOST,-33.97
-2026-02-14,Ligue 1,Lille,Stade Brestois 29,1-1,AH,HOME,0.5,1.975,63,0-1,22.65,98.81,WON,96.34
-2026-02-14,Ligue 1,Lille,Stade Brestois 29,1-1,OU,OVER,1.5,1.8,40,,79,300,HALF_WON,120
-2026-02-15,Ligue 1,Le Havre,Toulouse,2-1,AH,AWAY,0.75,1.9,53,1-1,-23.48,200,LOST,-200
-2026-02-15,Ligue 1,Lyon,Nice,2-0,AH,AWAY,-0.25,2.025,29,0-0,-21.12,55.54,LOST,-55.54
-2026-02-15,Serie A,Torino,Bologna,1-2,AH,AWAY,0.25,2.15,47,0-0,-24.15,163.88,WON,188.46
-2026-02-15,La Liga,Rayo Vallecano,Atletico Madrid,3-0,AH,HOME,-0.25,1.85,45,2-0,20.5,62.53,WON,53.15
-2026-02-15,La Liga,Rayo Vallecano,Atletico Madrid,3-0,AH,HOME,0.5,1.975,58,2-0,25.91,137.47,WON,134.03
-2026-02-15,Bundesliga,RB Leipzig,VfL Wolfsburg,2-2,AH,HOME,-0.75,1.875,48,0-0,44,28.48,LOST,-28.48
-2026-02-15,Bundesliga,RB Leipzig,VfL Wolfsburg,2-2,AH,HOME,0.25,1.775,57,0-1,39.76,171.52,WON,132.93
-2026-02-15,Bundesliga,RB Leipzig,VfL Wolfsburg,2-2,OU,OVER,2.5,1.8,78,,56.31,300,WON,240
-2026-02-15,Bundesliga,RB Leipzig,VfL Wolfsburg,2-2,OU,OVER,3.5,2.3,89,,58.36,100,HALF_WON,65
-2026-02-17,UEFA Champions League,Monaco,Paris Saint Germain,2-3,AH,AWAY,0.5,1.825,78,2-3,-21.34,176.81,HALF_LOST,-88.4
-2026-02-17,UEFA Champions League,Monaco,Paris Saint Germain,2-3,AH,AWAY,1.25,2.05,85,2-3,-25.32,23.19,LOST,-23.19
-2026-02-18,Premier League,Wolves,Arsenal,2-2,AH,AWAY,1.25,1.875,77,1-2,-22.86,200,LOST,-200
-2026-02-18,UEFA Champions League,Bodo/Glimt,Inter,3-1,AH,AWAY,0.5,1.975,37,1-1,-21.46,200,LOST,-200
-2026-02-21,Premier League,West Ham,Bournemouth,0-0,AH,HOME,0,1.925,15,0-0,50.5,200,PUSH,0
-2026-02-21,Bundesliga,1. FC Köln,1899 Hoffenheim,2-2,AH,HOME,-0.5,1.925,28,1-0,25.78,200,LOST,-200
-2026-02-21,Premier League,Brentford,Brighton,0-2,AH,AWAY,0,2.075,29,0-0,-24.12,200,WON,215
-2026-02-21,Serie A,Lecce,Inter,0-2,AH,AWAY,0.5,2.05,70,0-0,-43.93,200,WON,210
-2026-02-21,Ligue 1,Toulouse,Paris FC,1-1,AH,HOME,-0.5,2,15,0-0,26.5,200,HALF_LOST,-100
-2026-02-21,Bundesliga,VfL Wolfsburg,FC Augsburg,2-3,AH,AWAY,0,1.9,35,0-0,-22.43,200,WON,180
-2026-02-21,La Liga,Atletico Madrid,Espanyol,4-2,AH,HOME,-0.25,1.9,48,1-1,29.5,200,WON,180
-2026-02-22,Ligue 1,Strasbourg,Lyon,3-1,AH,HOME,-0.25,1.925,58,2-0,34.73,200,LOST,-200
-2026-02-22,Ligue 1,Angers,Lille,0-1,AH,AWAY,0.5,2.025,39,0-0,-27.07,200,HALF_WON,102.5
-2026-02-23,Serie A,Bologna,Udinese,1-0,AH,HOME,-0.25,1.95,58,0-0,22.42,200,WON,190
-2026-02-24,UEFA Champions League,Inter,Bodo/Glimt,1-2,AH,HOME,0,2.05,63,0-1,45.64,200,PUSH,0
-2026-02-24,UEFA Champions League,Inter,Bodo/Glimt,1-2,OU,UNDER,2.5,1.909,65,,73.12,500,HALF_LOST,-250
-2026-02-24,UEFA Champions League,Bayer Leverkusen,Olympiakos Piraeus,0-0,AH,HOME,-0.5,1.8,15,0-0,26,200,HALF_LOST,-100
-2026-02-28,Premier League,Burnley,Brentford,3-4,AH,AWAY,1.25,1.775,20,0-1,-33,200,LOST,-200
-2026-02-28,Premier League,Burnley,Brentford,3-4,OU,OVER,4.5,2,48,,48.75,500,WON,500
-2026-02-28,Ligue 1,Le Havre,Paris Saint Germain,0-1,AH,AWAY,1.25,2.05,81,0-1,-43.89,200,LOST,-200
-2026-02-28,La Liga,Rayo Vallecano,Athletic Club,1-1,AH,HOME,-0.25,2.1,15,0-0,28.5,200,LOST,-200
-2026-02-28,La Liga,Mallorca,Real Sociedad,0-1,AH,AWAY,0.25,2.1,45,0-1,-21.5,200,LOST,-200
+match_date,league,home_team,away_team,final_score,market,selection,line,entry_odds,entry_minute,score_at_entry,model_key,source,stake,result,profit_loss
+2026-02-01,La Liga,Real Madrid,Rayo Vallecano,2-1,AH,HOME,-1.25,1.825,22,1-0,oddsflow_core_strategy,APIFOOTBALL,158.04,LOST,-158.04
+2026-02-01,Premier League,Aston Villa,Brentford,0-1,AH,HOME,0,1.825,69,0-1,oddsflow_core_strategy,APIFOOTBALL,152.59,VOID,0
+2026-02-01,Premier League,Manchester United,Fulham,3-2,AH,HOME,-1,1.85,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,VOID,0
+2026-02-01,Premier League,Nottingham Forest,Crystal Palace,1-1,AH,AWAY,-1,2.1,17,1-0,oddsflow_core_strategy,APIFOOTBALL,128.89,WON,141.78
+2026-02-01,Bundesliga,VfB Stuttgart,SC Freiburg,1-0,AH,HOME,-0.75,1.825,40,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,82.5
+2026-02-01,Bundesliga,VfB Stuttgart,SC Freiburg,1-0,OU,OVER,1.5,1.727,75,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-02-01,Bundesliga,VfB Stuttgart,SC Freiburg,1-0,OU,OVER,1.5,1.727,75,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-02-01,Bundesliga,VfB Stuttgart,SC Freiburg,1-0,OU,OVER,1.5,1.727,75,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-02-01,La Liga,Real Betis,Valencia,2-1,AH,AWAY,-0.25,2,48,1-1,oddsflow_core_strategy,APIFOOTBALL,139,LOST,-139
+2026-02-01,Ligue 1,Toulouse,Auxerre,0-0,AH,AWAY,-0.25,2,26,0-0,oddsflow_core_strategy,APIFOOTBALL,148.5,HALF_WON,74.25
+2026-02-01,Ligue 1,Nice,Brest,2-2,AH,HOME,0.5,2,45,0-2,oddsflow_core_strategy,APIFOOTBALL,128.25,WON,128.25
+2026-02-01,La Liga,Getafe,Celta Vigo,0-0,AH,HOME,0,1.775,49,0-0,oddsflow_core_strategy,APIFOOTBALL,166.84,VOID,0
+2026-02-01,La Liga,Getafe,Celta Vigo,0-0,AH,HOME,0,2.125,71,0-0,oddsflow_core_strategy,APIFOOTBALL,33.16,VOID,0
+2026-02-02,La Liga,Mallorca,Sevilla,4-1,AH,HOME,0,1.825,15,0-0,oddsflow_core_strategy,APIFOOTBALL,181.68,WON,149.89
+2026-02-02,La Liga,Mallorca,Sevilla,4-1,AH,HOME,0,1.825,15,0-0,oddsflow_core_strategy,APIFOOTBALL,181.68,WON,149.89
+2026-02-03,Serie A,Bologna,AC Milan,0-3,AH,HOME,0,2.025,19,0-0,oddsflow_core_strategy,APIFOOTBALL,179.45,LOST,-179.45
+2026-02-03,Serie A,Bologna,AC Milan,0-3,AH,HOME,0,2.025,19,0-0,oddsflow_core_strategy,APIFOOTBALL,179.45,LOST,-179.45
+2026-02-06,La Liga,Celta Vigo,Osasuna,1-2,AH,HOME,-0.25,1.75,18,0-0,oddsflow_core_strategy,APIFOOTBALL,170.9,LOST,-170.9
+2026-02-06,Premier League,Leeds United,Nottingham Forest,3-1,AH,AWAY,-0.5,1.875,19,0-0,oddsflow_core_strategy,APIFOOTBALL,178.19,LOST,-178.19
+2026-02-06,Premier League,Leeds United,Nottingham Forest,3-1,OU,OVER,2.5,2.2,19,0-0,oddsflow_core_strategy,APIFOOTBALL,300,WON,360
+2026-02-06,La Liga,Celta Vigo,Osasuna,1-2,AH,HOME,-0.5,2.05,24,0-0,oddsflow_core_strategy,APIFOOTBALL,29.1,LOST,-29.1
+2026-02-06,Ligue 1,Metz,Lille,0-0,AH,AWAY,0.75,1.825,57,0-0,oddsflow_core_strategy,APIFOOTBALL,166.23,LOST,-166.23
+2026-02-07,Premier League,Manchester United,Tottenham Hotspur,2-0,AH,HOME,-1.25,1.775,81,1-0,oddsflow_core_strategy,APIFOOTBALL,122.21,HALF_LOST,-61.1
+2026-02-07,Premier League,Bournemouth,Aston Villa,1-1,AH,HOME,0,2,15,0-0,oddsflow_core_strategy,APIFOOTBALL,156.25,VOID,0
+2026-02-07,Premier League,Fulham,Everton,1-2,AH,HOME,-1,1.825,23,1-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-02-07,Premier League,Arsenal,Sunderland,3-0,AH,HOME,-1.25,1.875,36,0-0,oddsflow_core_strategy,APIFOOTBALL,153.62,WON,134.42
+2026-02-07,Bundesliga,FC St. Pauli,VfB Stuttgart,2-1,OU,OVER,2.5,1.909,60,2-0,oddsflow_core_strategy,APIFOOTBALL,70,WON,63.63
+2026-02-07,Bundesliga,VfL Wolfsburg,Borussia Dortmund,1-2,AH,AWAY,0.25,2.05,72,1-1,oddsflow_core_strategy,APIFOOTBALL,169.75,WON,178.24
+2026-02-07,Premier League,Burnley,West Ham,0-2,AH,HOME,1,2.025,55,0-2,oddsflow_core_strategy,APIFOOTBALL,200,WON,205
+2026-02-07,Premier League,Bournemouth,Aston Villa,1-1,AH,HOME,0.75,2.05,66,1-1,oddsflow_core_strategy,APIFOOTBALL,43.75,WON,45.94
+2026-02-07,Bundesliga,Borussia Mönchengladbach,Bayer Leverkusen,1-1,AH,HOME,-0.5,2,15,1-0,oddsflow_core_strategy,APIFOOTBALL,187.5,LOST,-187.5
+2026-02-07,Premier League,Newcastle United,Brentford,2-3,AH,HOME,-1.25,1.95,29,1-0,oddsflow_core_strategy,APIFOOTBALL,132.31,LOST,-132.31
+2026-02-07,Serie A,Fiorentina,Torino,2-2,OU,OVER,2.5,2,47,0-1,oddsflow_core_strategy,APIFOOTBALL,300,WON,300
+2026-02-08,Premier League,Brighton,Crystal Palace,0-1,AH,HOME,-0.25,2.025,39,0-0,oddsflow_core_strategy,APIFOOTBALL,57.74,LOST,-57.74
+2026-02-08,Bundesliga,1. FC Köln,RB Leipzig,1-2,AH,AWAY,0.5,1.9,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,180
+2026-02-08,Bundesliga,1. FC Köln,RB Leipzig,1-2,AH,AWAY,0.25,1.85,21,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,170
+2026-02-08,Ligue 1,Auxerre,Paris FC,0-0,AH,AWAY,0,1.925,23,0-0,oddsflow_core_strategy,APIFOOTBALL,185.73,VOID,0
+2026-02-08,Ligue 1,Le Havre,Strasbourg,2-1,AH,HOME,-0.5,2.1,45,1-1,oddsflow_core_strategy,APIFOOTBALL,10,WON,11
+2026-02-08,Ligue 1,Le Havre,Strasbourg,2-1,AH,HOME,-0.25,1.775,45,1-1,oddsflow_core_strategy,APIFOOTBALL,104.9,WON,81.3
+2026-02-08,Premier League,Liverpool,Manchester City,1-2,AH,AWAY,0,1.975,38,0-0,oddsflow_core_strategy,APIFOOTBALL,132.75,WON,129.43
+2026-02-08,Ligue 1,Le Havre,Strasbourg,2-1,AH,HOME,0.5,2.025,45,1-1,oddsflow_core_strategy,APIFOOTBALL,190,WON,194.75
+2026-02-08,Ligue 1,Le Havre,Strasbourg,2-1,OU,OVER,3.5,2.3,54,2-1,oddsflow_core_strategy,APIFOOTBALL,300,LOST,-300
+2026-02-08,Serie A,Juventus,Lazio,2-2,AH,HOME,0.5,1.775,65,1-2,oddsflow_core_strategy,APIFOOTBALL,200,WON,155
+2026-02-10,Premier League,Everton,Bournemouth,1-2,1X2,AWAY,,2.875,25,0-0,oddsflow_core_strategy,APIFOOTBALL,970,WON,1818.75
+2026-02-10,Premier League,Tottenham Hotspur,Newcastle United,1-2,AH,AWAY,0.25,1.8,33,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,160
+2026-02-10,Premier League,Tottenham Hotspur,Newcastle United,1-2,AH,AWAY,0.5,2,33,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,200
+2026-02-10,Premier League,Everton,Bournemouth,1-2,1X2,HOME,,2.6,33,0-0,oddsflow_core_strategy,APIFOOTBALL,814.64,LOST,-814.64
+2026-02-10,Premier League,Tottenham Hotspur,Newcastle United,1-2,1X2,AWAY,,2.625,68,1-1,oddsflow_core_strategy,APIFOOTBALL,1554.4,WON,2525.9
+2026-02-11,Premier League,Aston Villa,Brighton,1-0,AH,HOME,-0.5,2.025,15,0-0,oddsflow_core_strategy,APIFOOTBALL,10,WON,10.25
+2026-02-11,Premier League,Nottingham Forest,Wolves,0-0,AH,HOME,-0.75,1.8,22,0-0,oddsflow_core_strategy,APIFOOTBALL,31.39,LOST,-31.39
+2026-02-11,Premier League,Aston Villa,Brighton,1-0,AH,HOME,-0.25,1.8,25,0-0,oddsflow_core_strategy,APIFOOTBALL,154.83,WON,123.86
+2026-02-11,Premier League,Nottingham Forest,Wolves,0-0,1X2,HOME,,1.666,39,0-0,oddsflow_core_strategy,APIFOOTBALL,566.61,LOST,-566.61
+2026-02-11,Premier League,Aston Villa,Brighton,1-0,1X2,HOME,,2.2,41,0-0,oddsflow_core_strategy,APIFOOTBALL,544.35,WON,653.22
+2026-02-11,Premier League,Nottingham Forest,Wolves,0-0,AH,HOME,-0.5,1.825,47,0-0,oddsflow_core_strategy,APIFOOTBALL,108.35,LOST,-108.35
+2026-02-11,Premier League,Nottingham Forest,Wolves,0-0,AH,HOME,-0.25,1.75,70,0-0,oddsflow_core_strategy,APIFOOTBALL,60.26,HALF_LOST,-30.13
+2026-02-11,Premier League,Sunderland,Liverpool,0-1,AH,AWAY,0.5,1.8,41,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,160
+2026-02-11,Premier League,Sunderland,Liverpool,0-1,AH,AWAY,0.75,2.05,43,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,105
+2026-02-11,Premier League,Sunderland,Liverpool,0-1,1X2,AWAY,,2.2,56,0-0,oddsflow_core_strategy,APIFOOTBALL,521.52,WON,625.82
+2026-02-13,Ligue 1,Rennes,Paris Saint-Germain,3-1,1X2,AWAY,,2.3,37,1-0,oddsflow_core_strategy,APIFOOTBALL,660.35,LOST,-660.35
+2026-02-14,Bundesliga,Hamburger SV,Union Berlin,3-2,AH,HOME,-0.25,1.95,15,0-0,oddsflow_core_strategy,APIFOOTBALL,184.16,WON,174.95
+2026-02-14,Bundesliga,Hamburger SV,Union Berlin,3-2,AH,HOME,0.5,1.9,27,0-0,oddsflow_core_strategy,APIFOOTBALL,15.84,WON,14.26
+2026-02-14,Serie A,Como,Fiorentina,1-2,AH,HOME,0.25,2.05,84,1-2,oddsflow_core_strategy,APIFOOTBALL,108.99,HALF_WON,57.22
+2026-02-14,Bundesliga,Hoffenheim,SC Freiburg,3-0,AH,HOME,-0.5,1.825,51,1-0,oddsflow_core_strategy,APIFOOTBALL,54.71,WON,45.14
+2026-02-14,Serie A,Como,Fiorentina,1-2,AH,HOME,0.5,1.8,85,1-2,oddsflow_core_strategy,APIFOOTBALL,91.01,WON,72.81
+2026-02-14,Bundesliga,Eintracht Frankfurt,Borussia Mönchengladbach,3-0,AH,AWAY,-0.25,1.925,60,2-0,oddsflow_core_strategy,APIFOOTBALL,57.35,LOST,-57.35
+2026-02-14,La Liga,Getafe,Villarreal,2-1,1X2,HOME,,3.5,26,0-0,oddsflow_core_strategy,APIFOOTBALL,1122.16,WON,2805.4
+2026-02-14,Serie A,Lazio,Atalanta,0-2,1X2,AWAY,,2.3,25,0-0,oddsflow_core_strategy,APIFOOTBALL,604.15,WON,785.39
+2026-02-14,Ligue 1,Lille,Brest,1-1,AH,HOME,-0.75,1.75,26,0-0,oddsflow_core_strategy,APIFOOTBALL,33.24,LOST,-33.24
+2026-02-14,Ligue 1,Lille,Brest,1-1,OU,OVER,1.5,1.8,40,0-0,oddsflow_core_strategy,APIFOOTBALL,300,WON,240
+2026-02-14,Ligue 1,Lille,Brest,1-1,AH,HOME,-0.5,1.8,50,0-0,oddsflow_core_strategy,APIFOOTBALL,67.95,LOST,-67.95
+2026-02-14,Ligue 1,Lille,Brest,1-1,AH,HOME,0.5,1.975,63,0-1,oddsflow_core_strategy,APIFOOTBALL,98.81,WON,96.34
+2026-02-14,Ligue 1,Lille,Brest,1-1,1X2,HOME,,2.5,75,1-1,oddsflow_core_strategy,APIFOOTBALL,822.45,LOST,-822.45
+2026-02-14,Ligue 1,Paris FC,Lens,0-5,AH,AWAY,0.5,2.05,20,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,210
+2026-02-15,La Liga,Oviedo,Athletic Bilbao,1-2,1X2,AWAY,,2.5,25,0-0,oddsflow_core_strategy,APIFOOTBALL,715.68,WON,1073.52
+2026-02-15,Ligue 1,Le Havre,Toulouse,2-1,AH,AWAY,0.75,1.9,53,1-1,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-02-15,La Liga,Rayo Vallecano,Atletico Madrid,3-0,OU,HOME,-0.25,1.85,45,2-0,oddsflow_core_strategy,APIFOOTBALL,62.53,LOST,-62.53
+2026-02-15,Bundesliga,RB Leipzig,VfL Wolfsburg,2-2,1X2,HOME,,1.666,45,0-0,oddsflow_core_strategy,APIFOOTBALL,531.83,LOST,-531.83
+2026-02-15,Bundesliga,RB Leipzig,VfL Wolfsburg,2-2,AH,HOME,-0.75,1.875,48,0-0,oddsflow_core_strategy,APIFOOTBALL,28.48,LOST,-28.48
+2026-02-15,Serie A,Torino,Bologna,1-2,1X2,AWAY,,2.75,25,0-0,oddsflow_core_strategy,APIFOOTBALL,838.91,WON,1468.09
+2026-02-15,Bundesliga,RB Leipzig,VfL Wolfsburg,2-2,AH,HOME,0.25,1.775,57,0-1,oddsflow_core_strategy,APIFOOTBALL,171.52,WON,132.93
+2026-02-15,Serie A,Torino,Bologna,1-2,AH,AWAY,0.25,2.15,47,0-0,oddsflow_core_strategy,APIFOOTBALL,163.88,WON,188.46
+2026-02-15,La Liga,Levante,Valencia,0-2,1X2,HOME,,2.875,25,0-0,oddsflow_core_strategy,APIFOOTBALL,965.7,LOST,-965.7
+2026-02-15,Ligue 1,Lyon,Nice,2-0,AH,AWAY,-0.25,2.025,29,0-0,oddsflow_core_strategy,APIFOOTBALL,55.54,LOST,-55.54
+2026-02-16,La Liga,Girona,Barcelona,2-1,AH,AWAY,0.75,1.775,51,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-02-17,UEFA Champions League,Galatasaray,Juventus,5-2,1X2,AWAY,,2.375,25,1-1,oddsflow_core_strategy,APIFOOTBALL,680.14,LOST,-680.14
+2026-02-17,UEFA Champions League,Galatasaray,Juventus,5-2,1X2,HOME,,3.2,53,2-2,oddsflow_core_strategy,APIFOOTBALL,1011.33,WON,2224.93
+2026-02-17,UEFA Champions League,Galatasaray,Juventus,5-2,AH,HOME,0,2,55,2-2,oddsflow_core_strategy,APIFOOTBALL,200,WON,200
+2026-02-17,UEFA Champions League,Benfica,Real Madrid,0-1,1X2,AWAY,,2.25,25,0-0,oddsflow_core_strategy,APIFOOTBALL,562.72,WON,703.4
+2026-02-17,UEFA Champions League,Benfica,Real Madrid,0-1,AH,AWAY,0.25,1.9,49,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,180
+2026-02-17,UEFA Champions League,Monaco,Paris Saint-Germain,2-3,1X2,AWAY,,1.5,67,2-2,oddsflow_core_strategy,APIFOOTBALL,1702.91,WON,851.46
+2026-02-17,UEFA Champions League,Monaco,Paris Saint-Germain,2-3,AH,AWAY,0.5,1.825,78,2-3,oddsflow_core_strategy,APIFOOTBALL,176.81,LOST,-176.81
+2026-02-17,UEFA Champions League,Monaco,Paris Saint-Germain,2-3,AH,AWAY,1.25,2.05,85,2-3,oddsflow_core_strategy,APIFOOTBALL,23.19,LOST,-23.19
+2026-02-18,La Liga,Levante,Villarreal,0-1,1X2,AWAY,,2.2,35,0-0,oddsflow_core_strategy,APIFOOTBALL,547.64,WON,657.17
+2026-02-18,Serie A,AC Milan,Como,1-1,1X2,AWAY,,3.2,25,0-0,oddsflow_core_strategy,APIFOOTBALL,1056.23,LOST,-1056.23
+2026-02-18,UEFA Champions League,Bodo/Glimt,Inter Milan,3-1,AH,AWAY,0.5,1.975,37,1-1,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-02-18,UEFA Champions League,Olympiacos Piraeus,Bayer Leverkusen,0-2,1X2,AWAY,,3,45,0-0,oddsflow_core_strategy,APIFOOTBALL,916.24,WON,1832.48
+2026-02-18,Premier League,Wolves,Arsenal,2-2,AH,AWAY,1.25,1.875,77,1-2,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-02-20,La Liga,Athletic Bilbao,Elche,2-1,1X2,HOME,,2.15,59,0-0,oddsflow_core_strategy,APIFOOTBALL,537.4,WON,618.01
+2026-02-21,Bundesliga,Union Berlin,Bayer Leverkusen,1-0,1X2,HOME,,3,25,0-0,oddsflow_core_strategy,APIFOOTBALL,1011.67,WON,2023.34
+2026-02-21,Bundesliga,1. FC Köln,Hoffenheim,2-2,AH,HOME,-0.5,1.925,28,1-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-02-21,Bundesliga,VfL Wolfsburg,Augsburg,2-3,AH,AWAY,0,1.9,35,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,180
+2026-02-21,Premier League,Brentford,Brighton,0-2,AH,AWAY,0,2.075,29,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,215
+2026-02-21,La Liga,Real Betis,Rayo Vallecano,1-1,1X2,HOME,,2.4,45,1-1,oddsflow_core_strategy,APIFOOTBALL,628.15,LOST,-628.15
+2026-02-21,Premier League,West Ham,Bournemouth,0-0,AH,HOME,0,1.925,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,VOID,0
+2026-02-21,Ligue 1,Toulouse,Paris FC,1-1,AH,HOME,-0.5,2,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-02-21,Serie A,Lecce,Inter Milan,0-2,AH,AWAY,0.5,2.05,70,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,210
+2026-02-21,La Liga,Atletico Madrid,Espanyol,4-2,AH,HOME,-0.25,1.9,48,1-1,oddsflow_core_strategy,APIFOOTBALL,200,WON,180
+2026-02-22,Serie A,Genoa,Torino,3-0,AH,HOME,-0.25,1.85,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,170
+2026-02-22,Serie A,Atalanta,Napoli,2-1,AH,HOME,-0.25,2.025,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,205
+2026-02-22,Premier League,Crystal Palace,Wolves,1-0,AH,AWAY,-0.25,2.025,35,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-02-22,Premier League,Crystal Palace,Wolves,1-0,1X2,HOME,,2.4,80,0-0,oddsflow_core_strategy,APIFOOTBALL,605.62,WON,847.87
+2026-02-22,Ligue 1,Angers,Lille,0-1,AH,AWAY,0.5,2.025,39,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,205
+2026-02-22,Bundesliga,FC St. Pauli,Werder Bremen,2-1,1X2,HOME,,2.875,25,0-0,oddsflow_core_strategy,APIFOOTBALL,965.7,WON,1810.69
+2026-02-22,Bundesliga,FC St. Pauli,Werder Bremen,2-1,1X2,AWAY,,2.875,42,0-0,oddsflow_core_strategy,APIFOOTBALL,956.72,LOST,-956.72
+2026-02-22,Premier League,Tottenham Hotspur,Arsenal,1-4,AH,AWAY,0.75,1.775,43,1-1,oddsflow_core_strategy,APIFOOTBALL,200,WON,155
+2026-02-22,Bundesliga,FC St. Pauli,Werder Bremen,2-1,AH,AWAY,0,1.75,68,1-1,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-02-22,Serie A,AC Milan,Parma,0-1,1X2,HOME,,1.666,58,0-0,oddsflow_core_strategy,APIFOOTBALL,573.75,LOST,-573.75
+2026-02-22,Serie A,AC Milan,Parma,0-1,AH,HOME,-0.5,1.875,67,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-02-22,La Liga,Celta Vigo,Mallorca,2-0,1X2,HOME,,2.2,51,0-0,oddsflow_core_strategy,APIFOOTBALL,584.23,WON,701.08
+2026-02-22,Bundesliga,1. FC Heidenheim,VfB Stuttgart,3-3,1X2,AWAY,,2.875,38,2-1,oddsflow_core_strategy,APIFOOTBALL,1038.8,LOST,-1038.8
+2026-02-22,Ligue 1,Strasbourg,Lyon,3-1,OU,HOME,-0.25,1.925,58,2-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-02-23,La Liga,Alaves,Girona,2-2,AH,HOME,-0.25,2.1,16,1-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-02-23,Premier League,Everton,Manchester United,0-1,1X2,AWAY,,2.2,41,0-0,oddsflow_core_strategy,APIFOOTBALL,547.64,WON,657.17
+2026-02-23,Serie A,Bologna,Udinese,1-0,AH,HOME,-0.25,1.95,58,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,190
+2026-02-23,Serie A,Bologna,Udinese,1-0,1X2,HOME,,2.875,65,0-0,oddsflow_core_strategy,APIFOOTBALL,508.49,WON,953.42
+2026-02-24,UEFA Champions League,Bayer Leverkusen,Olympiacos Piraeus,0-0,AH,HOME,-0.5,1.8,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-02-24,UEFA Champions League,Bayer Leverkusen,Olympiacos Piraeus,0-0,1X2,HOME,,2.2,37,0-0,oddsflow_core_strategy,APIFOOTBALL,547.64,LOST,-547.64
+2026-02-24,UEFA Champions League,Inter Milan,Bodo/Glimt,1-2,1X2,HOME,,2.25,58,0-0,oddsflow_core_strategy,APIFOOTBALL,1532.88,LOST,-1532.88
+2026-02-24,UEFA Champions League,Inter Milan,Bodo/Glimt,1-2,AH,HOME,0,2.05,63,0-1,oddsflow_core_strategy,APIFOOTBALL,200,VOID,0
+2026-02-24,UEFA Champions League,Inter Milan,Bodo/Glimt,1-2,OU,UNDER,2.5,1.909,65,0-1,oddsflow_core_strategy,APIFOOTBALL,500,LOST,-500
+2026-02-25,UEFA Champions League,Paris Saint-Germain,Monaco,2-2,1X2,HOME,,2.25,59,0-1,oddsflow_core_strategy,APIFOOTBALL,1874.36,LOST,-1874.36
+2026-02-27,Bundesliga,Augsburg,1. FC Köln,2-0,AH,HOME,-0.25,1.95,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,190
+2026-02-27,Bundesliga,Augsburg,1. FC Köln,2-0,1X2,HOME,,2.2,25,0-0,oddsflow_core_strategy,APIFOOTBALL,501.07,WON,601.28
+2026-02-27,Premier League,Wolves,Aston Villa,2-0,AH,AWAY,0.5,1.8,19,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-02-27,Serie A,Parma,Cagliari,1-1,1X2,HOME,,2.5,43,0-0,oddsflow_core_strategy,APIFOOTBALL,702.88,LOST,-702.88
+2026-02-27,La Liga,Levante,Alaves,2-0,AH,AWAY,0,1.85,46,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-02-27,La Liga,Levante,Alaves,2-0,1X2,AWAY,,3,45,0-0,oddsflow_core_strategy,APIFOOTBALL,517.34,LOST,-517.34
+2026-02-27,Ligue 1,Strasbourg,Lens,1-1,AH,AWAY,-0.25,1.875,61,1-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,175
+2026-02-27,Ligue 1,Strasbourg,Lens,1-1,1X2,AWAY,,3,66,1-1,oddsflow_core_strategy,APIFOOTBALL,934.29,LOST,-934.29
+2026-02-27,Ligue 1,Strasbourg,Lens,1-1,OU,OVER,2.5,2.375,67,1-1,oddsflow_core_strategy,APIFOOTBALL,500,LOST,-500
+2026-02-27,Serie A,Parma,Cagliari,1-1,1X2,DRAW,,3.4,74,0-1,oddsflow_core_strategy,APIFOOTBALL,929.79,WON,2231.5
+2026-02-27,La Liga,Levante,Alaves,2-0,1X2,HOME,,3,76,0-0,oddsflow_core_strategy,APIFOOTBALL,1906.22,WON,3812.44
+2026-02-28,La Liga,Rayo Vallecano,Athletic Bilbao,1-1,AH,HOME,-0.25,2.1,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_LOST,-100
+2026-02-28,Bundesliga,Borussia Mönchengladbach,Union Berlin,1-0,AH,HOME,-0.25,1.975,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,195
+2026-02-28,Bundesliga,Hoffenheim,FC St. Pauli,0-1,AH,HOME,-0.75,1.8,26,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-02-28,Premier League,Burnley,Brentford,3-4,AH,AWAY,1.25,1.775,20,0-1,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-02-28,Premier League,Burnley,Brentford,3-4,OU,OVER,4.5,2,48,1-3,oddsflow_core_strategy,APIFOOTBALL,500,WON,500
+2026-02-28,Bundesliga,Hoffenheim,FC St. Pauli,0-1,OU,UNDER,2.5,1.8,65,0-1,oddsflow_core_strategy,APIFOOTBALL,500,WON,400
+2026-02-28,Bundesliga,Borussia Mönchengladbach,Union Berlin,1-0,OU,UNDER,1.5,1.727,79,0-0,oddsflow_core_strategy,APIFOOTBALL,500,WON,363.5
+2026-02-28,Premier League,Leeds United,Manchester City,0-1,AH,HOME,0.25,2.025,26,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-02-28,La Liga,Mallorca,Real Sociedad,0-1,AH,AWAY,0.25,2.1,45,0-1,oddsflow_core_strategy,APIFOOTBALL,200,HALF_LOST,-100
+2026-02-28,Ligue 1,Le Havre,Paris Saint-Germain,0-1,AH,AWAY,1.25,2.05,81,0-1,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
