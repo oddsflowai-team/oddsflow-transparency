@@ -57,4 +57,9 @@ jobs:
           gh issue create \
             --title "⚠️ Daily dataset refresh failed ($(date -u +%Y-%m-%d))" \
             --body "The scheduled settled-predictions refresh or HF mirror failed. Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
-            --label "automation" 2>/dev/null || echo "issue create skipped"
+            --label "automation"
+          # No `|| echo skipped`. The previous version swallowed every error into
+          # a green log line, and the `automation` label did not exist — so from
+          # the day it was written this alert had never once fired. A broken
+          # alarm that reports success is worse than no alarm: the 2026-09-03/04
+          # refresh failures looked, in the log, exactly like a handled case.
