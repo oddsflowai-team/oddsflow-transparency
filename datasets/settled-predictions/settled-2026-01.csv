@@ -1,161 +1,161 @@
 match_date,league,home_team,away_team,final_score,market,selection,line,entry_odds,entry_minute,score_at_entry,model_key,source,stake,result,profit_loss
-2026-01-25,Serie A,Atalanta,Parma,4-0,OU,OVER,3.5,1.727,39,2-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,72.7
-2026-01-25,Serie A,Atalanta,Parma,4-0,OU,OVER,3.5,1.909,49,2-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,90.9
-2026-01-25,Serie A,Atalanta,Parma,4-0,OU,OVER,3.5,1.909,59,2-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,90.9
-2026-01-25,Serie A,Atalanta,Parma,4-0,OU,OVER,3.5,2.2,69,2-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,120
-2026-01-25,Ligue 1,Nantes,Nice,1-4,OU,OVER,3.5,1.727,37,0-2,oddsflow_core_strategy,APIFOOTBALL,100,WON,72.7
-2026-01-25,Ligue 1,Nantes,Nice,1-4,OU,OVER,5.5,1.909,50,1-3,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-25,Ligue 1,Nantes,Nice,1-4,OU,OVER,5.5,1.909,60,1-3,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-25,Ligue 1,Nantes,Nice,1-4,OU,OVER,5.5,2,70,1-3,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-25,Premier League,Newcastle United,Aston Villa,0-2,OU,OVER,2.5,1.8,15,0-0,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-25,Premier League,Newcastle United,Aston Villa,0-2,AH,AWAY,0,2.15,18,0-0,oddsflow_core_strategy,APIFOOTBALL,133.23,WON,153.21
-2026-01-25,Premier League,Newcastle United,Aston Villa,0-2,OU,OVER,3.5,2.2,29,0-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-25,Premier League,Newcastle United,Aston Villa,0-2,OU,OVER,2.5,1.8,51,0-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-25,Premier League,Newcastle United,Aston Villa,0-2,OU,OVER,2.5,1.727,61,0-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-25,Premier League,Newcastle United,Aston Villa,0-2,OU,OVER,2.5,1.909,71,0-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-25,Premier League,Newcastle United,Aston Villa,0-2,OU,OVER,2.5,2.3,81,0-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-25,Premier League,Brentford,Nottingham Forest,0-2,OU,OVER,3.5,2.2,17,0-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-25,Premier League,Crystal Palace,Chelsea,1-3,OU,OVER,2.5,2.2,15,0-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,120
-2026-01-25,Premier League,Crystal Palace,Chelsea,1-3,OU,OVER,1.5,1.727,33,0-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,72.7
-2026-01-25,Premier League,Crystal Palace,Chelsea,1-3,OU,OVER,2.5,2.1,59,0-2,oddsflow_core_strategy,APIFOOTBALL,100,WON,110
-2026-01-25,Premier League,Crystal Palace,Chelsea,1-3,AH,AWAY,1,1.825,63,0-2,oddsflow_core_strategy,APIFOOTBALL,173.8,LOST,-173.8
-2026-01-25,La Liga,Atletico Madrid,Mallorca,3-0,OU,OVER,2.5,2.1,45,1-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,110
-2026-01-25,La Liga,Atletico Madrid,Mallorca,3-0,OU,OVER,2.5,2.1,55,1-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,110
-2026-01-25,La Liga,Atletico Madrid,Mallorca,3-0,OU,OVER,2.5,2.1,65,1-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,110
-2026-01-25,Serie A,Juventus,Napoli,3-0,AH,HOME,0.25,1.775,16,0-0,oddsflow_core_strategy,APIFOOTBALL,181.35,WON,140.55
-2026-01-25,Serie A,Juventus,Napoli,3-0,AH,HOME,0.25,1.775,16,0-0,oddsflow_core_strategy,APIFOOTBALL,181.35,WON,140.55
-2026-01-25,Bundesliga,SC Freiburg,1. FC Köln,2-1,OU,OVER,4.5,2,16,1-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-25,Bundesliga,SC Freiburg,1. FC Köln,2-1,OU,OVER,3.5,1.727,36,1-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-25,Bundesliga,SC Freiburg,1. FC Köln,2-1,OU,OVER,4.5,2,51,2-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-25,Bundesliga,SC Freiburg,1. FC Köln,2-1,OU,OVER,4.5,2,61,2-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-25,Bundesliga,SC Freiburg,1. FC Köln,2-1,OU,OVER,4.5,2.3,71,2-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-25,Bundesliga,SC Freiburg,1. FC Köln,2-1,OU,OVER,4.5,1.8,85,2-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-25,Ligue 1,Metz,Lyon,2-5,OU,OVER,4.5,2.3,21,0-2,oddsflow_core_strategy,APIFOOTBALL,100,WON,130
-2026-01-25,Ligue 1,Metz,Lyon,2-5,OU,OVER,5.5,1.8,39,1-3,oddsflow_core_strategy,APIFOOTBALL,100,WON,80
-2026-01-25,Ligue 1,Metz,Lyon,2-5,OU,OVER,6.5,2.1,69,2-4,oddsflow_core_strategy,APIFOOTBALL,100,WON,110
-2026-01-25,La Liga,Barcelona,Oviedo,3-0,OU,OVER,2.5,2,40,0-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,100
-2026-01-25,Bundesliga,Borussia Mönchengladbach,VfB Stuttgart,0-3,OU,OVER,2.5,2,20,0-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,100
-2026-01-25,La Liga,Alaves,Real Betis,2-1,OU,OVER,2.5,1.727,30,1-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,72.7
-2026-01-25,La Liga,Alaves,Real Betis,2-1,OU,OVER,2.5,1.909,40,1-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,90.9
-2026-01-25,La Liga,Alaves,Real Betis,2-1,OU,OVER,2.5,2.2,52,2-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,120
-2026-01-25,La Liga,Alaves,Real Betis,2-1,OU,OVER,2.5,2.2,62,2-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,120
-2026-01-25,Ligue 1,Lille,Strasbourg,1-4,AH,HOME,0,1.85,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
-2026-01-25,Ligue 1,Lille,Strasbourg,1-4,AH,HOME,0.25,2.1,18,0-0,oddsflow_core_strategy,APIFOOTBALL,173.2,LOST,-173.2
-2026-01-25,Ligue 1,Lille,Strasbourg,1-4,AH,HOME,0.25,2.1,19,0-0,oddsflow_core_strategy,APIFOOTBALL,164.34,LOST,-164.34
-2026-01-25,Ligue 1,Lille,Strasbourg,1-4,OU,OVER,3.5,1.727,39,0-2,oddsflow_core_strategy,APIFOOTBALL,100,WON,72.7
-2026-01-25,Ligue 1,Lille,Strasbourg,1-4,OU,OVER,3.5,1.909,49,0-2,oddsflow_core_strategy,APIFOOTBALL,100,WON,90.9
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,OU,HOME,0,1.825,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0,1.8,17,0-0,oddsflow_core_strategy,APIFOOTBALL,200,VOID,0
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.1,20,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,110
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.125,21,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.1,22,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,110
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.125,25,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.125,26,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.125,27,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.125,28,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.15,29,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,115
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.125,30,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,OU,OVER,1.5,1.727,30,0-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,72.7
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.125,31,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.125,32,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.125,33,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.1,34,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,110
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.1,35,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,110
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.05,36,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,105
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.05,37,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,105
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.15,38,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,115
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.1,39,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,110
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.15,40,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,115
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,OU,OVER,1.5,1.909,40,0-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,90.9
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.125,41,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.125,42,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.125,43,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.125,44,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.125,45,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.125,46,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.1,47,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,110
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.05,48,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,105
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.05,49,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,105
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.025,50,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,OU,OVER,1.5,2.2,50,0-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,120
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.025,51,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.025,52,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.025,53,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.025,54,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.025,55,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.025,56,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.025,57,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.025,58,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.025,59,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.025,60,0-0,oddsflow_core_strategy,APIFOOTBALL,198.23,HALF_WON,101.59
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,OU,OVER,1.5,2.2,60,0-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,120
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.025,61,0-0,oddsflow_core_strategy,APIFOOTBALL,195.79,HALF_WON,100.34
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.05,67,0-1,oddsflow_core_strategy,APIFOOTBALL,147.61,WON,154.99
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.05,68,0-1,oddsflow_core_strategy,APIFOOTBALL,149.04,WON,156.49
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.05,69,0-1,oddsflow_core_strategy,APIFOOTBALL,147.37,WON,154.74
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.1,70,0-1,oddsflow_core_strategy,APIFOOTBALL,139.11,WON,153.02
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.125,71,0-1,oddsflow_core_strategy,APIFOOTBALL,134.69,WON,151.53
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.125,72,0-1,oddsflow_core_strategy,APIFOOTBALL,133.36,WON,150.03
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.25,2.25,73,0-1,oddsflow_core_strategy,APIFOOTBALL,118.71,WON,148.39
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.75,2.3,83,1-1,oddsflow_core_strategy,APIFOOTBALL,95.47,WON,124.11
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.75,2.25,84,1-1,oddsflow_core_strategy,APIFOOTBALL,98.5,WON,123.13
-2026-01-25,Serie A,AS Roma,AC Milan,1-1,AH,HOME,0.75,2.2,85,1-1,oddsflow_core_strategy,APIFOOTBALL,101.87,WON,122.24
-2026-01-25,La Liga,Real Sociedad,Celta Vigo,3-1,OU,OVER,2.5,1.727,28,1-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,72.7
-2026-01-26,Premier League,Everton,Leeds United,1-1,AH,AWAY,0,2.025,16,0-0,oddsflow_core_strategy,APIFOOTBALL,146.28,VOID,0
-2026-01-26,Premier League,Everton,Leeds United,1-1,OU,OVER,2.5,1.8,34,0-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-26,Premier League,Everton,Leeds United,1-1,OU,OVER,2.5,2,44,0-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-28,UEFA Champions League,PSV Eindhoven,Bayern Munich,1-2,AH,HOME,0.75,1.9,15,0-0,oddsflow_core_strategy,APIFOOTBALL,184.12,HALF_LOST,-92.06
-2026-01-28,UEFA Champions League,Pafos,Slavia Praha,4-1,AH,AWAY,0.5,1.925,25,1-0,oddsflow_core_strategy,APIFOOTBALL,139.24,LOST,-139.24
-2026-01-28,UEFA Champions League,Paris Saint-Germain,Newcastle United,1-1,AH,HOME,1,1.875,69,1-1,oddsflow_core_strategy,APIFOOTBALL,200,WON,175
-2026-01-28,UEFA Champions League,Paris Saint-Germain,Newcastle United,1-1,OU,OVER,3.5,2,69,1-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-28,UEFA Champions League,Paris Saint-Germain,Newcastle United,1-1,OU,OVER,2.5,1.727,79,1-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-28,UEFA Champions League,Atletico Madrid,Bodo/Glimt,1-2,OU,OVER,3.5,1.727,97,1-2,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-28,UEFA Champions League,Benfica,Real Madrid,4-2,AH,HOME,0.5,2,15,0-0,oddsflow_core_strategy,APIFOOTBALL,153.25,WON,153.25
-2026-01-28,UEFA Champions League,Royale Union Saint-Gilloise,Atalanta,1-0,AH,HOME,0,2.05,17,0-0,oddsflow_core_strategy,APIFOOTBALL,123.08,WON,129.23
-2026-01-28,UEFA Champions League,Royale Union Saint-Gilloise,Atalanta,1-0,OU,OVER,2.5,2.1,17,0-0,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-28,UEFA Champions League,Benfica,Real Madrid,4-2,AH,HOME,0.75,1.825,45,1-1,oddsflow_core_strategy,APIFOOTBALL,46.75,WON,38.57
-2026-01-28,UEFA Champions League,Benfica,Real Madrid,4-2,OU,OVER,2.5,1.8,45,1-1,oddsflow_core_strategy,APIFOOTBALL,100,WON,80
-2026-01-30,Ligue 1,Lens,Le Havre,1-0,AH,HOME,1,1.875,15,0-0,oddsflow_core_strategy,APIFOOTBALL,189.33,WON,165.66
-2026-01-30,Serie A,Lazio,Genoa,3-2,AH,AWAY,0,2.15,31,0-0,oddsflow_core_strategy,APIFOOTBALL,139.75,LOST,-139.75
-2026-01-31,Serie A,Pisa,Sassuolo,1-3,AH,AWAY,0.75,1.8,70,1-3,oddsflow_core_strategy,APIFOOTBALL,168.58,LOST,-168.58
-2026-01-31,Serie A,Pisa,Sassuolo,1-3,AH,AWAY,0.75,1.8,70,1-3,oddsflow_core_strategy,APIFOOTBALL,168.58,LOST,-168.58
-2026-01-31,Serie A,Pisa,Sassuolo,1-3,AH,AWAY,0.75,1.8,70,1-3,oddsflow_core_strategy,APIFOOTBALL,168.58,LOST,-168.58
-2026-01-31,Bundesliga,Augsburg,FC St. Pauli,2-1,AH,AWAY,-0.25,1.8,38,0-1,oddsflow_core_strategy,APIFOOTBALL,171.39,LOST,-171.39
-2026-01-31,Bundesliga,Augsburg,FC St. Pauli,2-1,AH,AWAY,-0.25,1.8,38,0-1,oddsflow_core_strategy,APIFOOTBALL,171.39,LOST,-171.39
-2026-01-31,Bundesliga,Augsburg,FC St. Pauli,2-1,AH,AWAY,-0.25,1.8,38,0-1,oddsflow_core_strategy,APIFOOTBALL,171.39,LOST,-171.39
-2026-01-31,Premier League,Brighton,Everton,1-1,OU,HOME,-0.5,1.95,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
-2026-01-31,Premier League,Brighton,Everton,1-1,OU,OVER,2.5,2,15,0-0,oddsflow_core_strategy,APIFOOTBALL,70,LOST,-70
-2026-01-31,Premier League,Brighton,Everton,1-1,OU,HOME,-0.5,1.95,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
-2026-01-31,Premier League,Brighton,Everton,1-1,OU,HOME,-0.5,1.95,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
-2026-01-31,Premier League,Brighton,Everton,1-1,OU,OVER,2.5,2,15,0-0,oddsflow_core_strategy,APIFOOTBALL,70,LOST,-70
-2026-01-31,Premier League,Brighton,Everton,1-1,OU,OVER,2.5,2,15,0-0,oddsflow_core_strategy,APIFOOTBALL,70,LOST,-70
-2026-01-31,Bundesliga,Hoffenheim,Union Berlin,3-1,AH,AWAY,-0.25,1.975,47,2-0,oddsflow_core_strategy,APIFOOTBALL,135.57,HALF_WON,66.09
-2026-01-31,Bundesliga,Hoffenheim,Union Berlin,3-1,AH,AWAY,-0.25,1.975,47,2-0,oddsflow_core_strategy,APIFOOTBALL,135.57,HALF_WON,66.09
-2026-01-31,Bundesliga,Hoffenheim,Union Berlin,3-1,AH,AWAY,-0.25,1.975,47,2-0,oddsflow_core_strategy,APIFOOTBALL,135.57,HALF_WON,66.09
-2026-01-31,La Liga,Osasuna,Villarreal,2-2,AH,HOME,0,1.775,22,1-1,oddsflow_core_strategy,APIFOOTBALL,190.06,VOID,0
-2026-01-31,La Liga,Osasuna,Villarreal,2-2,AH,HOME,0,1.775,22,1-1,oddsflow_core_strategy,APIFOOTBALL,190.06,VOID,0
-2026-01-31,La Liga,Osasuna,Villarreal,2-2,AH,HOME,0,1.775,22,1-1,oddsflow_core_strategy,APIFOOTBALL,190.06,VOID,0
-2026-01-31,Ligue 1,Paris FC,Marseille,2-2,AH,AWAY,1.25,1.85,48,0-1,oddsflow_core_strategy,APIFOOTBALL,171.06,LOST,-171.06
-2026-01-31,Ligue 1,Paris FC,Marseille,2-2,AH,AWAY,1.25,1.85,48,0-1,oddsflow_core_strategy,APIFOOTBALL,171.06,LOST,-171.06
-2026-01-31,Ligue 1,Paris FC,Marseille,2-2,OU,OVER,2.5,1.8,48,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
-2026-01-31,Ligue 1,Paris FC,Marseille,2-2,AH,AWAY,1.25,1.85,48,0-1,oddsflow_core_strategy,APIFOOTBALL,171.06,LOST,-171.06
-2026-01-31,Ligue 1,Paris FC,Marseille,2-2,OU,OVER,2.5,1.8,48,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
-2026-01-31,Ligue 1,Paris FC,Marseille,2-2,OU,OVER,2.5,1.8,48,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
-2026-01-31,La Liga,Osasuna,Villarreal,2-2,AH,HOME,-1,2.1,75,2-2,oddsflow_core_strategy,APIFOOTBALL,9.94,LOST,-9.94
-2026-01-31,La Liga,Osasuna,Villarreal,2-2,OU,OVER,4.5,2,75,2-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-01-31,La Liga,Osasuna,Villarreal,2-2,AH,HOME,-1,2.1,75,2-2,oddsflow_core_strategy,APIFOOTBALL,9.94,LOST,-9.94
-2026-01-31,Ligue 1,Paris FC,Marseille,2-2,AH,AWAY,0.75,1.95,48,0-1,oddsflow_core_strategy,APIFOOTBALL,28.94,LOST,-28.94
-2026-01-31,La Liga,Osasuna,Villarreal,2-2,OU,OVER,4.5,2,75,2-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-01-31,La Liga,Osasuna,Villarreal,2-2,AH,HOME,-1,2.1,75,2-2,oddsflow_core_strategy,APIFOOTBALL,9.94,LOST,-9.94
-2026-01-31,Ligue 1,Paris FC,Marseille,2-2,AH,AWAY,0.75,1.95,48,0-1,oddsflow_core_strategy,APIFOOTBALL,28.94,LOST,-28.94
-2026-01-31,La Liga,Osasuna,Villarreal,2-2,OU,OVER,4.5,2,75,2-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-01-31,Ligue 1,Paris FC,Marseille,2-2,AH,AWAY,0.75,1.95,48,0-1,oddsflow_core_strategy,APIFOOTBALL,28.94,LOST,-28.94
-2026-01-31,Serie A,Napoli,Fiorentina,2-1,AH,HOME,-1.25,1.8,20,1-0,oddsflow_core_strategy,APIFOOTBALL,160.14,LOST,-160.14
-2026-01-31,Serie A,Napoli,Fiorentina,2-1,AH,HOME,-1.25,1.8,20,1-0,oddsflow_core_strategy,APIFOOTBALL,160.14,LOST,-160.14
-2026-01-31,Serie A,Napoli,Fiorentina,2-1,AH,HOME,-1.25,1.8,20,1-0,oddsflow_core_strategy,APIFOOTBALL,160.14,LOST,-160.14
-2026-01-31,Premier League,Chelsea,West Ham,3-2,OU,OVER,3.5,2.3,20,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,65
-2026-01-31,Premier League,Chelsea,West Ham,3-2,OU,OVER,3.5,2.3,20,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,65
-2026-01-31,Premier League,Chelsea,West Ham,3-2,OU,OVER,3.5,2.3,20,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,65
-2026-01-31,La Liga,Elche,Barcelona,1-3,OU,OVER,4.5,1.909,39,1-1,oddsflow_core_strategy,APIFOOTBALL,54,LOST,-54
-2026-01-31,La Liga,Elche,Barcelona,1-3,OU,OVER,4.5,1.909,39,1-1,oddsflow_core_strategy,APIFOOTBALL,54,LOST,-54
-2026-01-31,La Liga,Elche,Barcelona,1-3,OU,OVER,4.5,1.909,39,1-1,oddsflow_core_strategy,APIFOOTBALL,54,LOST,-54
+2026-01-25,Serie A,Atalanta,Parma,,OU,OVER,3.5,1.727,39,2-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,72.7
+2026-01-25,Serie A,Atalanta,Parma,,OU,OVER,3.5,1.909,49,2-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,90.9
+2026-01-25,Serie A,Atalanta,Parma,,OU,OVER,3.5,1.909,59,2-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,90.9
+2026-01-25,Serie A,Atalanta,Parma,,OU,OVER,3.5,2.2,69,2-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,120
+2026-01-25,Ligue 1,Nantes,Nice,,OU,OVER,3.5,1.727,37,0-2,oddsflow_core_strategy,APIFOOTBALL,100,WON,72.7
+2026-01-25,Ligue 1,Nantes,Nice,,OU,OVER,5.5,1.909,50,1-3,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-25,Ligue 1,Nantes,Nice,,OU,OVER,5.5,1.909,60,1-3,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-25,Ligue 1,Nantes,Nice,,OU,OVER,5.5,2,70,1-3,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-25,Premier League,Newcastle United,Aston Villa,,OU,OVER,2.5,1.8,15,0-0,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-25,Premier League,Newcastle United,Aston Villa,,AH,AWAY,0,2.15,18,0-0,oddsflow_core_strategy,APIFOOTBALL,133.23,WON,153.21
+2026-01-25,Premier League,Newcastle United,Aston Villa,,OU,OVER,3.5,2.2,29,0-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-25,Premier League,Newcastle United,Aston Villa,,OU,OVER,2.5,1.8,51,0-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-25,Premier League,Newcastle United,Aston Villa,,OU,OVER,2.5,1.727,61,0-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-25,Premier League,Newcastle United,Aston Villa,,OU,OVER,2.5,1.909,71,0-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-25,Premier League,Newcastle United,Aston Villa,,OU,OVER,2.5,2.3,81,0-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-25,Premier League,Brentford,Nottingham Forest,,OU,OVER,3.5,2.2,17,0-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-25,Premier League,Crystal Palace,Chelsea,,OU,OVER,2.5,2.2,15,0-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,120
+2026-01-25,Premier League,Crystal Palace,Chelsea,,OU,OVER,1.5,1.727,33,0-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,72.7
+2026-01-25,Premier League,Crystal Palace,Chelsea,,OU,OVER,2.5,2.1,59,0-2,oddsflow_core_strategy,APIFOOTBALL,100,WON,110
+2026-01-25,Premier League,Crystal Palace,Chelsea,,AH,AWAY,1,1.825,63,0-2,oddsflow_core_strategy,APIFOOTBALL,173.8,LOST,-173.8
+2026-01-25,La Liga,Atletico Madrid,Mallorca,,OU,OVER,2.5,2.1,45,1-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,110
+2026-01-25,La Liga,Atletico Madrid,Mallorca,,OU,OVER,2.5,2.1,55,1-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,110
+2026-01-25,La Liga,Atletico Madrid,Mallorca,,OU,OVER,2.5,2.1,65,1-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,110
+2026-01-25,Serie A,Juventus,Napoli,,AH,HOME,0.25,1.775,16,0-0,oddsflow_core_strategy,APIFOOTBALL,181.35,WON,140.55
+2026-01-25,Serie A,Juventus,Napoli,,AH,HOME,0.25,1.775,16,0-0,oddsflow_core_strategy,APIFOOTBALL,181.35,WON,140.55
+2026-01-25,Bundesliga,SC Freiburg,1. FC Köln,,OU,OVER,4.5,2,16,1-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-25,Bundesliga,SC Freiburg,1. FC Köln,,OU,OVER,3.5,1.727,36,1-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-25,Bundesliga,SC Freiburg,1. FC Köln,,OU,OVER,4.5,2,51,2-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-25,Bundesliga,SC Freiburg,1. FC Köln,,OU,OVER,4.5,2,61,2-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-25,Bundesliga,SC Freiburg,1. FC Köln,,OU,OVER,4.5,2.3,71,2-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-25,Bundesliga,SC Freiburg,1. FC Köln,,OU,OVER,4.5,1.8,85,2-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-25,Ligue 1,Metz,Lyon,,OU,OVER,4.5,2.3,21,0-2,oddsflow_core_strategy,APIFOOTBALL,100,WON,130
+2026-01-25,Ligue 1,Metz,Lyon,,OU,OVER,5.5,1.8,39,1-3,oddsflow_core_strategy,APIFOOTBALL,100,WON,80
+2026-01-25,Ligue 1,Metz,Lyon,,OU,OVER,6.5,2.1,69,2-4,oddsflow_core_strategy,APIFOOTBALL,100,WON,110
+2026-01-25,La Liga,Barcelona,Oviedo,,OU,OVER,2.5,2,40,0-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,100
+2026-01-25,Bundesliga,Borussia Mönchengladbach,VfB Stuttgart,,OU,OVER,2.5,2,20,0-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,100
+2026-01-25,La Liga,Alaves,Real Betis,,OU,OVER,2.5,1.727,30,1-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,72.7
+2026-01-25,La Liga,Alaves,Real Betis,,OU,OVER,2.5,1.909,40,1-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,90.9
+2026-01-25,La Liga,Alaves,Real Betis,,OU,OVER,2.5,2.2,52,2-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,120
+2026-01-25,La Liga,Alaves,Real Betis,,OU,OVER,2.5,2.2,62,2-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,120
+2026-01-25,Ligue 1,Lille,Strasbourg,,AH,HOME,0,1.85,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-01-25,Ligue 1,Lille,Strasbourg,,AH,HOME,0.25,2.1,18,0-0,oddsflow_core_strategy,APIFOOTBALL,173.2,LOST,-173.2
+2026-01-25,Ligue 1,Lille,Strasbourg,,AH,HOME,0.25,2.1,19,0-0,oddsflow_core_strategy,APIFOOTBALL,164.34,LOST,-164.34
+2026-01-25,Ligue 1,Lille,Strasbourg,,OU,OVER,3.5,1.727,39,0-2,oddsflow_core_strategy,APIFOOTBALL,100,WON,72.7
+2026-01-25,Ligue 1,Lille,Strasbourg,,OU,OVER,3.5,1.909,49,0-2,oddsflow_core_strategy,APIFOOTBALL,100,WON,90.9
+2026-01-25,Serie A,AS Roma,AC Milan,,OU,HOME,0,1.825,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0,1.8,17,0-0,oddsflow_core_strategy,APIFOOTBALL,200,VOID,0
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.1,20,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,110
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.125,21,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.1,22,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,110
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.125,25,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.125,26,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.125,27,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.125,28,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.15,29,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,115
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.125,30,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
+2026-01-25,Serie A,AS Roma,AC Milan,,OU,OVER,1.5,1.727,30,0-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,72.7
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.125,31,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.125,32,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.125,33,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.1,34,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,110
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.1,35,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,110
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.05,36,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,105
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.05,37,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,105
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.15,38,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,115
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.1,39,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,110
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.15,40,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,115
+2026-01-25,Serie A,AS Roma,AC Milan,,OU,OVER,1.5,1.909,40,0-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,90.9
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.125,41,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.125,42,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.125,43,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.125,44,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.125,45,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.125,46,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,112.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.1,47,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,110
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.05,48,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,105
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.05,49,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,105
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.025,50,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
+2026-01-25,Serie A,AS Roma,AC Milan,,OU,OVER,1.5,2.2,50,0-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,120
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.025,51,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.025,52,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.025,53,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.025,54,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.025,55,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.025,56,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.025,57,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.025,58,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.025,59,0-0,oddsflow_core_strategy,APIFOOTBALL,200,HALF_WON,102.5
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.025,60,0-0,oddsflow_core_strategy,APIFOOTBALL,198.23,HALF_WON,101.59
+2026-01-25,Serie A,AS Roma,AC Milan,,OU,OVER,1.5,2.2,60,0-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,120
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.025,61,0-0,oddsflow_core_strategy,APIFOOTBALL,195.79,HALF_WON,100.34
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.05,67,0-1,oddsflow_core_strategy,APIFOOTBALL,147.61,WON,154.99
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.05,68,0-1,oddsflow_core_strategy,APIFOOTBALL,149.04,WON,156.49
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.05,69,0-1,oddsflow_core_strategy,APIFOOTBALL,147.37,WON,154.74
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.1,70,0-1,oddsflow_core_strategy,APIFOOTBALL,139.11,WON,153.02
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.125,71,0-1,oddsflow_core_strategy,APIFOOTBALL,134.69,WON,151.53
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.125,72,0-1,oddsflow_core_strategy,APIFOOTBALL,133.36,WON,150.03
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.25,2.25,73,0-1,oddsflow_core_strategy,APIFOOTBALL,118.71,WON,148.39
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.75,2.3,83,1-1,oddsflow_core_strategy,APIFOOTBALL,95.47,WON,124.11
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.75,2.25,84,1-1,oddsflow_core_strategy,APIFOOTBALL,98.5,WON,123.13
+2026-01-25,Serie A,AS Roma,AC Milan,,AH,HOME,0.75,2.2,85,1-1,oddsflow_core_strategy,APIFOOTBALL,101.87,WON,122.24
+2026-01-25,La Liga,Real Sociedad,Celta Vigo,,OU,OVER,2.5,1.727,28,1-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,72.7
+2026-01-26,Premier League,Everton,Leeds United,,AH,AWAY,0,2.025,16,0-0,oddsflow_core_strategy,APIFOOTBALL,146.28,VOID,0
+2026-01-26,Premier League,Everton,Leeds United,,OU,OVER,2.5,1.8,34,0-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-26,Premier League,Everton,Leeds United,,OU,OVER,2.5,2,44,0-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-28,UEFA Champions League,PSV Eindhoven,Bayern Munich,,AH,HOME,0.75,1.9,15,0-0,oddsflow_core_strategy,APIFOOTBALL,184.12,HALF_LOST,-92.06
+2026-01-28,UEFA Champions League,Pafos,Slavia Praha,,AH,AWAY,0.5,1.925,25,1-0,oddsflow_core_strategy,APIFOOTBALL,139.24,LOST,-139.24
+2026-01-28,UEFA Champions League,Paris Saint-Germain,Newcastle United,,AH,HOME,1,1.875,69,1-1,oddsflow_core_strategy,APIFOOTBALL,200,WON,175
+2026-01-28,UEFA Champions League,Paris Saint-Germain,Newcastle United,,OU,OVER,3.5,2,69,1-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-28,UEFA Champions League,Paris Saint-Germain,Newcastle United,,OU,OVER,2.5,1.727,79,1-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-28,UEFA Champions League,Atletico Madrid,Bodo/Glimt,,OU,OVER,3.5,1.727,97,1-2,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-28,UEFA Champions League,Benfica,Real Madrid,,AH,HOME,0.5,2,15,0-0,oddsflow_core_strategy,APIFOOTBALL,153.25,WON,153.25
+2026-01-28,UEFA Champions League,Royale Union Saint-Gilloise,Atalanta,,AH,HOME,0,2.05,17,0-0,oddsflow_core_strategy,APIFOOTBALL,123.08,WON,129.23
+2026-01-28,UEFA Champions League,Royale Union Saint-Gilloise,Atalanta,,OU,OVER,2.5,2.1,17,0-0,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-28,UEFA Champions League,Benfica,Real Madrid,,AH,HOME,0.75,1.825,45,1-1,oddsflow_core_strategy,APIFOOTBALL,46.75,WON,38.57
+2026-01-28,UEFA Champions League,Benfica,Real Madrid,,OU,OVER,2.5,1.8,45,1-1,oddsflow_core_strategy,APIFOOTBALL,100,WON,80
+2026-01-30,Ligue 1,Lens,Le Havre,,AH,HOME,1,1.875,15,0-0,oddsflow_core_strategy,APIFOOTBALL,189.33,WON,165.66
+2026-01-30,Serie A,Lazio,Genoa,,AH,AWAY,0,2.15,31,0-0,oddsflow_core_strategy,APIFOOTBALL,139.75,LOST,-139.75
+2026-01-31,Serie A,Pisa,Sassuolo,,AH,AWAY,0.75,1.8,70,1-3,oddsflow_core_strategy,APIFOOTBALL,168.58,LOST,-168.58
+2026-01-31,Serie A,Pisa,Sassuolo,,AH,AWAY,0.75,1.8,70,1-3,oddsflow_core_strategy,APIFOOTBALL,168.58,LOST,-168.58
+2026-01-31,Serie A,Pisa,Sassuolo,,AH,AWAY,0.75,1.8,70,1-3,oddsflow_core_strategy,APIFOOTBALL,168.58,LOST,-168.58
+2026-01-31,Bundesliga,Augsburg,FC St. Pauli,,AH,AWAY,-0.25,1.8,38,0-1,oddsflow_core_strategy,APIFOOTBALL,171.39,LOST,-171.39
+2026-01-31,Bundesliga,Augsburg,FC St. Pauli,,AH,AWAY,-0.25,1.8,38,0-1,oddsflow_core_strategy,APIFOOTBALL,171.39,LOST,-171.39
+2026-01-31,Bundesliga,Augsburg,FC St. Pauli,,AH,AWAY,-0.25,1.8,38,0-1,oddsflow_core_strategy,APIFOOTBALL,171.39,LOST,-171.39
+2026-01-31,Premier League,Brighton,Everton,,OU,HOME,-0.5,1.95,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-01-31,Premier League,Brighton,Everton,,OU,OVER,2.5,2,15,0-0,oddsflow_core_strategy,APIFOOTBALL,70,LOST,-70
+2026-01-31,Premier League,Brighton,Everton,,OU,HOME,-0.5,1.95,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-01-31,Premier League,Brighton,Everton,,OU,HOME,-0.5,1.95,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-01-31,Premier League,Brighton,Everton,,OU,OVER,2.5,2,15,0-0,oddsflow_core_strategy,APIFOOTBALL,70,LOST,-70
+2026-01-31,Premier League,Brighton,Everton,,OU,OVER,2.5,2,15,0-0,oddsflow_core_strategy,APIFOOTBALL,70,LOST,-70
+2026-01-31,Bundesliga,Hoffenheim,Union Berlin,,AH,AWAY,-0.25,1.975,47,2-0,oddsflow_core_strategy,APIFOOTBALL,135.57,HALF_WON,66.09
+2026-01-31,Bundesliga,Hoffenheim,Union Berlin,,AH,AWAY,-0.25,1.975,47,2-0,oddsflow_core_strategy,APIFOOTBALL,135.57,HALF_WON,66.09
+2026-01-31,Bundesliga,Hoffenheim,Union Berlin,,AH,AWAY,-0.25,1.975,47,2-0,oddsflow_core_strategy,APIFOOTBALL,135.57,HALF_WON,66.09
+2026-01-31,La Liga,Osasuna,Villarreal,,AH,HOME,0,1.775,22,1-1,oddsflow_core_strategy,APIFOOTBALL,190.06,VOID,0
+2026-01-31,La Liga,Osasuna,Villarreal,,AH,HOME,0,1.775,22,1-1,oddsflow_core_strategy,APIFOOTBALL,190.06,VOID,0
+2026-01-31,La Liga,Osasuna,Villarreal,,AH,HOME,0,1.775,22,1-1,oddsflow_core_strategy,APIFOOTBALL,190.06,VOID,0
+2026-01-31,Ligue 1,Paris FC,Marseille,,AH,AWAY,1.25,1.85,48,0-1,oddsflow_core_strategy,APIFOOTBALL,171.06,LOST,-171.06
+2026-01-31,Ligue 1,Paris FC,Marseille,,AH,AWAY,1.25,1.85,48,0-1,oddsflow_core_strategy,APIFOOTBALL,171.06,LOST,-171.06
+2026-01-31,Ligue 1,Paris FC,Marseille,,OU,OVER,2.5,1.8,48,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
+2026-01-31,Ligue 1,Paris FC,Marseille,,AH,AWAY,1.25,1.85,48,0-1,oddsflow_core_strategy,APIFOOTBALL,171.06,LOST,-171.06
+2026-01-31,Ligue 1,Paris FC,Marseille,,OU,OVER,2.5,1.8,48,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
+2026-01-31,Ligue 1,Paris FC,Marseille,,OU,OVER,2.5,1.8,48,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
+2026-01-31,La Liga,Osasuna,Villarreal,,AH,HOME,-1,2.1,75,2-2,oddsflow_core_strategy,APIFOOTBALL,9.94,LOST,-9.94
+2026-01-31,La Liga,Osasuna,Villarreal,,OU,OVER,4.5,2,75,2-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-01-31,La Liga,Osasuna,Villarreal,,AH,HOME,-1,2.1,75,2-2,oddsflow_core_strategy,APIFOOTBALL,9.94,LOST,-9.94
+2026-01-31,Ligue 1,Paris FC,Marseille,,AH,AWAY,0.75,1.95,48,0-1,oddsflow_core_strategy,APIFOOTBALL,28.94,LOST,-28.94
+2026-01-31,La Liga,Osasuna,Villarreal,,OU,OVER,4.5,2,75,2-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-01-31,La Liga,Osasuna,Villarreal,,AH,HOME,-1,2.1,75,2-2,oddsflow_core_strategy,APIFOOTBALL,9.94,LOST,-9.94
+2026-01-31,Ligue 1,Paris FC,Marseille,,AH,AWAY,0.75,1.95,48,0-1,oddsflow_core_strategy,APIFOOTBALL,28.94,LOST,-28.94
+2026-01-31,La Liga,Osasuna,Villarreal,,OU,OVER,4.5,2,75,2-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-01-31,Ligue 1,Paris FC,Marseille,,AH,AWAY,0.75,1.95,48,0-1,oddsflow_core_strategy,APIFOOTBALL,28.94,LOST,-28.94
+2026-01-31,Serie A,Napoli,Fiorentina,,AH,HOME,-1.25,1.8,20,1-0,oddsflow_core_strategy,APIFOOTBALL,160.14,LOST,-160.14
+2026-01-31,Serie A,Napoli,Fiorentina,,AH,HOME,-1.25,1.8,20,1-0,oddsflow_core_strategy,APIFOOTBALL,160.14,LOST,-160.14
+2026-01-31,Serie A,Napoli,Fiorentina,,AH,HOME,-1.25,1.8,20,1-0,oddsflow_core_strategy,APIFOOTBALL,160.14,LOST,-160.14
+2026-01-31,Premier League,Chelsea,West Ham,,OU,OVER,3.5,2.3,20,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,65
+2026-01-31,Premier League,Chelsea,West Ham,,OU,OVER,3.5,2.3,20,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,65
+2026-01-31,Premier League,Chelsea,West Ham,,OU,OVER,3.5,2.3,20,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,65
+2026-01-31,La Liga,Elche,Barcelona,,OU,OVER,4.5,1.909,39,1-1,oddsflow_core_strategy,APIFOOTBALL,54,LOST,-54
+2026-01-31,La Liga,Elche,Barcelona,,OU,OVER,4.5,1.909,39,1-1,oddsflow_core_strategy,APIFOOTBALL,54,LOST,-54
+2026-01-31,La Liga,Elche,Barcelona,,OU,OVER,4.5,1.909,39,1-1,oddsflow_core_strategy,APIFOOTBALL,54,LOST,-54
