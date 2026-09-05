@@ -49,7 +49,38 @@ jobs:
           pip install --upgrade huggingface_hub
           python3 .github/scripts/push_to_hf.py
 
-      - name: Alert on failure
+      # Telegram first, because that is where the person actually is. A GitHub
+      # issue in a repo nobody watches is a log entry, not an alert — and this
+      # one had never fired at all: `--label automation` named a label that did
+      # not exist in this repo, and `2>/dev/null || echo "issue create skipped"`
+      # swallowed the failure into a green log line. The 2026-09-03/04 refresh
+      # failures therefore looked, in the log, exactly like a handled case,
+      # while the published dataset sat still for two days.
+      - name: Alert on failure (Telegram)
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          ADMIN_TELEGRAM_CHAT_ID: ${{ secrets.ADMIN_TELEGRAM_CHAT_ID }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$ADMIN_TELEGRAM_CHAT_ID" ]; then
+            echo "::error::Telegram secrets unset — the failure alert was NOT delivered"
+            exit 1
+          fi
+          curl -sS --fail --max-time 20 -X POST \
+            "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d "chat_id=${ADMIN_TELEGRAM_CHAT_ID}" \
+            -d "disable_web_page_preview=true" \
+            --data-urlencode "text=$(printf '%s\n' \
+              '📉 公开战绩数据集日更失败' '' \
+              'datasets/settled-predictions 今天没有更新,而 README 与 llms.txt' \
+              '都对外宣称它每天更新。此前它曾连续两天静默失败没人发现。' '' \
+              "日志：${RUN_URL}")" \
+            > /dev/null
+
+      # Issue as the durable record, after the alert. Never swallow its error:
+      # a broken alarm that reports success is worse than no alarm.
+      - name: Record failure as an issue
         if: failure()
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -58,8 +89,3 @@ jobs:
             --title "⚠️ Daily dataset refresh failed ($(date -u +%Y-%m-%d))" \
             --body "The scheduled settled-predictions refresh or HF mirror failed. Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
             --label "automation"
-          # No `|| echo skipped`. The previous version swallowed every error into
-          # a green log line, and the `automation` label did not exist — so from
-          # the day it was written this alert had never once fired. A broken
-          # alarm that reports success is worse than no alarm: the 2026-09-03/04
-          # refresh failures looked, in the log, exactly like a handled case.
