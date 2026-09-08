@@ -1,0 +1,153 @@
+match_date,league,home_team,away_team,final_score,market,selection,line,entry_odds,entry_minute,score_at_entry,model_key,source,stake,result,profit_loss
+2026-09-01,NWSL Women,Boston Legacy W,Angel City W,,AH,AWAY,0,2,12,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-09-01,NWSL Women,Boston Legacy W,Angel City W,,AH,HOME,1,1.85,14,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Liga Profesional Argentina,Instituto de Cordoba,San Lorenzo,,AH,AWAY,-0.5,1.925,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Liga Profesional Argentina,Tigre,Barracas Central,,AH,AWAY,-0.5,1.825,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
+2026-09-01,NWSL Women,Boston Legacy W,Angel City W,,AH,HOME,1.5,2.675,40,1-3,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,83.75
+2026-09-01,NWSL Women,Boston Legacy W,Angel City W,,AH,HOME,1.5,2.675,40,1-3,oddsflow_active_trader,APIFOOTBALL,50,WON,83.75
+2026-09-01,Liga Profesional Argentina,Instituto de Cordoba,San Lorenzo,,AH,AWAY,-0.5,1.8,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-01,Liga Profesional Argentina,Instituto de Cordoba,San Lorenzo,,AH,AWAY,-0.5,1.8,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-01,Liga Profesional Argentina,Instituto de Cordoba,San Lorenzo,,AH,AWAY,-0.5,1.8,35,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-09-01,Liga Profesional Argentina,Instituto de Cordoba,San Lorenzo,,OU,OVER,1,1.7,36,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-09-01,Liga Profesional Argentina,Instituto de Cordoba,San Lorenzo,,OU,OVER,1,1.7,36,0-0,oddsflow_beta,APIFOOTBALL,50,VOID,0
+2026-09-01,Liga Profesional Argentina,Instituto de Cordoba,San Lorenzo,,OU,OVER,1,1.7,36,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,AH,HOME,0,2.15,23,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,57.5
+2026-09-01,Liga Panameña de Fútbol,UMECIT,Veraguas,,AH,HOME,-0.5,2.4,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,NWSL Women,Boston Legacy W,Angel City W,,OU,UNDER,5.5,2.025,47,1-3,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-01,NWSL Women,Boston Legacy W,Angel City W,,OU,UNDER,5.5,2.025,47,1-3,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-01,NWSL Women,Boston Legacy W,Angel City W,,OU,UNDER,5.5,2.025,47,1-3,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-09-01,Liga Panameña de Fútbol,UMECIT,Veraguas,,AH,AWAY,0,2.025,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-01,Colombian Primera A,Deportes Tolima,Cucuta,,AH,AWAY,-1,2.025,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,AH,AWAY,-0.5,2.025,34,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,AH,AWAY,-0.5,2.025,35,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,AH,AWAY,-0.5,2.025,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,1X2,DRAW,0,3.25,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,OU,OVER,4,2,36,1-2,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,OU,OVER,4,2,36,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-09-01,Liga Panameña de Fútbol,UMECIT,Veraguas,,AH,AWAY,-1,2.025,22,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-09-01,Liga Profesional Argentina,Instituto de Cordoba,San Lorenzo,,OU,OVER,0.75,1.7,48,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,17.5
+2026-09-01,Liga Profesional Argentina,Instituto de Cordoba,San Lorenzo,,OU,OVER,0.75,1.7,48,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,17.5
+2026-09-01,Liga Profesional Argentina,Instituto de Cordoba,San Lorenzo,,OU,OVER,0.75,1.7,48,0-0,oddsflow_beta,APIFOOTBALL,50,HALF_WON,17.5
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,AH,AWAY,-1.5,1.8,40,2-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,AH,AWAY,-1.5,1.8,40,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,40
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,AH,AWAY,-1.5,1.8,40,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,40
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,OU,UNDER,4.5,2.025,45,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,OU,UNDER,4.5,2.025,45,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-01,Liga Profesional Argentina,Tigre,Barracas Central,,OU,OVER,0.5,1.75,58,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-01,Liga Profesional Argentina,Tigre,Barracas Central,,OU,OVER,0.5,1.75,58,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-01,Liga Profesional Argentina,Instituto de Cordoba,San Lorenzo,,OU,OVER,1.5,1.775,60,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-01,Liga Profesional Argentina,Instituto de Cordoba,San Lorenzo,,OU,OVER,1.5,1.775,60,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-01,Liga Profesional Argentina,Instituto de Cordoba,San Lorenzo,,OU,OVER,1.5,1.775,60,1-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-09-01,Liga Profesional Argentina,Tigre,Barracas Central,,AH,AWAY,0,2.5,64,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-09-01,Liga Profesional Argentina,Tigre,Barracas Central,,AH,AWAY,0,2.5,64,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-09-01,Liga Profesional Argentina,Tigre,Barracas Central,,AH,AWAY,0,2.425,65,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-01,Colombian Primera A,Deportes Tolima,Cucuta,,1X2,DRAW,0,3.4,35,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-09-01,Colombian Primera A,Deportes Tolima,Cucuta,,1X2,DRAW,0,3.4,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-01,Liga Profesional Argentina,Tigre,Barracas Central,,OU,OVER,0.5,2,66,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Liga Profesional Argentina,Instituto de Cordoba,San Lorenzo,,AH,AWAY,-1,2.425,67,1-0,oddsflow_beta,APIFOOTBALL,50,WON,71.25
+2026-09-01,Liga Profesional Argentina,Instituto de Cordoba,San Lorenzo,,AH,AWAY,-1,2.425,67,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,71.25
+2026-09-01,Liga Profesional Argentina,Tigre,Barracas Central,,1X2,DRAW,0,1.666,66,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,33.3
+2026-09-01,Liga Profesional Argentina,Instituto de Cordoba,San Lorenzo,,AH,AWAY,-1,2.425,67,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,71.25
+2026-09-01,Liga Profesional Argentina,Tigre,Barracas Central,,1X2,DRAW,0,1.666,67,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,33.3
+2026-09-01,Liga Profesional Argentina,Instituto de Cordoba,San Lorenzo,,OU,OVER,1.5,2.05,68,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,AH,AWAY,-1,2.3,61,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,65
+2026-09-01,Colombian Primera A,Deportes Tolima,Cucuta,,AH,AWAY,-0.5,2.25,46,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Colombian Primera A,Deportes Tolima,Cucuta,,AH,AWAY,-0.5,2.25,46,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-09-01,Colombian Primera A,Deportes Tolima,Cucuta,,AH,AWAY,-0.5,2.25,46,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-01,Colombian Primera A,Deportes Tolima,Cucuta,,AH,AWAY,-0.5,2.25,46,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,OU,OVER,4,2.075,66,2-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,53.75
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,AH,AWAY,-1,2.3,66,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,65
+2026-09-01,Colombian Primera A,Deportes Tolima,Cucuta,,AH,AWAY,-1.5,1.95,50,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,47.5
+2026-09-01,Colombian Primera A,Deportes Tolima,Cucuta,,AH,AWAY,-1.5,1.95,50,1-0,oddsflow_beta,APIFOOTBALL,50,WON,47.5
+2026-09-01,Colombian Primera A,Deportes Tolima,Cucuta,,AH,AWAY,-1.5,1.95,50,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
+2026-09-01,Colombian Primera A,Deportes Tolima,Cucuta,,AH,AWAY,-1.5,1.925,51,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,AH,AWAY,0,2.25,70,2-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,1X2,DRAW,0,1.952,70,2-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,AH,AWAY,0,2.25,70,2-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Chilean Primera División,U. Catolica,O'Higgins,,AH,AWAY,0,2.25,70,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-01,Colombian Primera A,Deportes Tolima,Cucuta,,OU,OVER,2,2.05,61,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-09-01,Turkish 1. Lig,Bandırmaspor,Antalyaspor,,AH,HOME,0.5,2,10,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-09-01,Polish Cup,Podhale Nowy Targ,Pogoń Grod. Mazowiecki,,AH,HOME,0.5,2.025,12,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-09-01,Polish Cup,Siarka Tarnobrzeg,Zaglebie Lubin,,AH,AWAY,0,1.95,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-01,Polish Cup,Kluczevia Stargard,Pogoń Siedlce,,AH,AWAY,0,1.8,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-01,Turkish 1. Lig,Ümraniyespor,Muğlaspor,,AH,AWAY,0,1.975,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
+2026-09-01,Egyptian Premier League,Ghazl El Mehalla,Enppi,,AH,HOME,-0.5,2.6,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Egyptian Premier League,Ghazl El Mehalla,Enppi,,AH,AWAY,0,2.1,14,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-01,Polish Cup,Wisła Płock II,Puszcza Niepołomice,,AH,HOME,0.5,2.025,30,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Greek Cup,Volos NFC,Kalamata,,AH,AWAY,-0.5,1.825,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
+2026-09-01,Greek Cup,Volos NFC,Kalamata,,AH,HOME,0.5,1.825,26,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
+2026-09-01,Polish Cup,Odra Opole,Wisla Krakow,,AH,HOME,0.5,1.8,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
+2026-09-01,Polish Cup,Odra Opole,Wisla Krakow,,AH,HOME,1.5,1.775,25,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,38.75
+2026-09-01,UEFA Champions League Women,Austria Wien W,Brann W,,AH,HOME,0.5,1.975,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
+2026-09-01,Ligi kuu Bara,Singida Black Stars,Namungo,,AH,AWAY,-0.5,2,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,UEFA Champions League Women,Austria Wien W,Brann W,,AH,AWAY,-0.5,2,19,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Ligi kuu Bara,Singida Black Stars,Namungo,,AH,AWAY,-1.5,1.95,22,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
+2026-09-01,Coppa Italia,Parma,Cremonese,,AH,HOME,1,1.75,23,0-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-01,Ligi kuu Bara,Singida Black Stars,Namungo,,AH,HOME,0.5,1.95,24,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
+2026-09-01,Turkish 1. Lig,Boluspor,Keçiörengücü,,AH,HOME,1,1.925,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Turkish 1. Lig,Sarıyer,Pendikspor,,AH,AWAY,0,1.825,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Polish Cup,Kluczbork,Lechia Gdansk,,AH,AWAY,0,1.85,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
+2026-09-01,Polish Cup,Polonia Środa,Sandecja Nowy Sącz,,AH,AWAY,0,1.95,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Polish Cup,Polonia Środa,Sandecja Nowy Sącz,,AH,AWAY,0,1.96,10,0-0,oddsflow_core_strategy,NOVA88,22,LOST,-22
+2026-09-01,Polish Cup,Polonia Środa,Sandecja Nowy Sącz,,AH,AWAY,-1,2.025,12,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-09-01,Egyptian Premier League,Wadi Degla,Olympic El Qanah,,AH,AWAY,-0.5,1.775,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,38.75
+2026-09-01,Polish Cup,Stal Rzeszów,Podbeskidzie,,AH,AWAY,0,2.3,18,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Polish Cup,Stal Rzeszów,Podbeskidzie,,AH,AWAY,-0.5,1.7,26,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,South African Premier Soccer League,Durban City,Stellenbosch,,AH,AWAY,0,2.375,16,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-01,Polish Cup,Wigry Suwałki,Nieciecza,,AH,HOME,0.5,1.975,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,KNVB Beker,SC Genemuiden,FC Lisse,,AH,AWAY,0,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,KNVB Beker,Sportlust '46,Blauw Geel,,AH,HOME,0.5,1.85,10,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
+2026-09-01,Saudi Pro League,Al-Hilal Saudi FC,Al-Ahli Jeddah,,AH,AWAY,-1.5,2.025,12,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,KNVB Beker,Achilles Veen,Poortugaal,,AH,AWAY,-0.5,1.775,14,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,KNVB Beker,Sportlust '46,Blauw Geel,,AH,AWAY,-0.5,1.9,17,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,KNVB Beker,Sportlust '46,Blauw Geel,,AH,AWAY,0,2.75,21,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,KNVB Beker,ADO '20,Excelsior Maassluis,,AH,AWAY,-0.5,1.85,22,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
+2026-09-01,Swiss Super League,FC Zurich,Young Boys,,AH,HOME,1,1.8,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Swiss Super League,FC Zurich,Young Boys,,AH,AWAY,0,2.025,11,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-09-01,Polish Cup,Motor Lublin,Legia Warszawa,,AH,AWAY,-0.5,1.8,22,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,League Two,Chesterfield,Gillingham,,AH,AWAY,-1,1.875,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,43.75
+2026-09-01,League One,Wycombe,Sheffield Wednesday,,AH,AWAY,-1,1.925,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
+2026-09-01,Championship,Swansea,Watford,,AH,AWAY,-0.5,1.975,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,League Two,Swindon Town,Port Vale,,AH,HOME,1,1.975,10,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
+2026-09-01,League One,Bromley,Leyton Orient,,AH,AWAY,0,2.25,11,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,62.5
+2026-09-01,Championship,Portsmouth,Derby,,AH,AWAY,0,2.6,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,80
+2026-09-01,Championship,Swansea,Watford,,AH,AWAY,-1.5,1.825,11,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
+2026-09-01,League Two,Bristol Rovers,Colchester,,AH,AWAY,-0.5,1.95,11,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,League One,Bradford,Cambridge United,,AH,AWAY,-0.5,1.8,11,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
+2026-09-01,League One,Wycombe,Sheffield Wednesday,,AH,AWAY,0,1.925,12,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
+2026-09-01,League Two,Cheltenham,York,,AH,HOME,0.5,1.925,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
+2026-09-01,Championship,Portsmouth,Derby,,AH,AWAY,-0.5,1.8,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
+2026-09-01,League Two,Cheltenham,York,,AH,HOME,1.5,1.9,12,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
+2026-09-01,League Two,Swindon Town,Port Vale,,AH,AWAY,0,1.775,15,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,League Two,Tranmere,Rotherham,,AH,AWAY,-1,1.95,17,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
+2026-09-01,League Two,Exeter City,Barnet,,AH,AWAY,0,1.725,18,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-01,League Two,Northampton,Crawley Town,,AH,AWAY,-0.5,2.025,19,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-09-01,League One,Doncaster,Notts County,,AH,AWAY,0,2.2,20,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-01,League One,Leicester,Plymouth,,AH,AWAY,-0.5,1.725,20,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Championship,West Ham,Wolves,,AH,AWAY,0,2.15,19,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Championship,Portsmouth,Derby,,AH,HOME,0.5,1.875,19,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,League One,Huddersfield,Oxford United,,AH,AWAY,-0.5,2,22,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,League Two,Rochdale,Shrewsbury,,AH,AWAY,0,2.2,22,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,League Two,Fleetwood Town,Oldham,,AH,AWAY,0,1.75,23,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-01,League One,Peterborough,Stevenage,,AH,AWAY,0,2.6,23,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-01,Championship,Sheffield Utd,Bolton,,AH,AWAY,-0.5,2.05,23,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Championship,Birmingham,Southampton,,AH,AWAY,0,2.05,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-01,Coppa Italia,Torino,Monza,,AH,AWAY,-0.5,1.95,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
+2026-09-01,League Two,Swindon Town,Port Vale,,AH,AWAY,-1,1.85,25,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,League One,Bradford,Cambridge United,,AH,AWAY,0,2.5,26,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,75
+2026-09-01,League Two,Crewe,Walsall,,AH,AWAY,0,2.2,27,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-01,League Two,Cheltenham,York,,AH,HOME,0,2.75,26,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,87.5
+2026-09-01,League Two,Bristol Rovers,Colchester,,AH,AWAY,-1.5,1.9,29,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
+2026-09-01,Championship,Lincoln,Blackburn,,AH,AWAY,0,2.1,30,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-01,Championship,Stoke City,Norwich,,AH,AWAY,-0.5,2,15,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-09-01,Peruvian Primera División,Atletico Grau,FBC Melgar,,1X2,HOME,0,4.5,54,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,175
+2026-09-01,Peruvian Primera División,Atletico Grau,FBC Melgar,,1X2,HOME,0,3.95,54,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,44.25
+2026-09-01,Peruvian Primera División,Atletico Grau,FBC Melgar,,1X2,HOME,0,4.5,54,0-0,oddsflow_beta,APIFOOTBALL,50,WON,175
+2026-09-01,Peruvian Primera División,Atletico Grau,FBC Melgar,,1X2,HOME,0,3.95,54,0-0,oddsflow_beta,NOVA88,15,WON,44.25
+2026-09-01,Peruvian Primera División,Atletico Grau,FBC Melgar,,1X2,DRAW,0,2.25,56,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-09-01,Peruvian Primera División,Atletico Grau,FBC Melgar,,1X2,DRAW,0,2.25,56,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-01,Peruvian Primera División,Atletico Grau,FBC Melgar,,1X2,DRAW,0,2.25,56,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-01,Peruvian Primera División,Atletico Grau,FBC Melgar,,AH,AWAY,-0.5,2.675,73,1-0,oddsflow_beta,APIFOOTBALL,50,WON,83.75
+2026-09-01,Paraguayan División Profesional - Clausura,2 de Mayo,Sportivo Luqueno,,AH,HOME,0.5,2,19,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-09-01,Ecuadorian Liga Pro,Delfin SC,Tecnico Universitario,,AH,AWAY,0,2.59,19,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-01,Ecuadorian Liga Pro,Delfin SC,Tecnico Universitario,,AH,AWAY,0,2.59,19,0-0,oddsflow_core_strategy,NOVA88,50,LOST,-50
