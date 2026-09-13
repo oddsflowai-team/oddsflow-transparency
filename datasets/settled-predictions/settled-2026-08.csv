@@ -6973,8 +6973,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-23,Serie B,Pisa,Padova,,AH,AWAY,-0.5,1.85,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,42.5
 2026-08-23,Serie B,Pisa,Padova,,AH,AWAY,-0.5,1.85,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,42.5
 2026-08-23,Serbian SuperLiga,Radnik Surdulica,Novi Pazar,,OU,UNDER,1.5,2,41,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
-2026-08-23,Serie B,Hellas Verona,Ascoli,,AH,AWAY,-1.5,1.75,41,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,37.5
 2026-08-23,Serie B,Hellas Verona,Ascoli,,AH,AWAY,-1.5,1.75,41,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,37.5
+2026-08-23,Serie B,Hellas Verona,Ascoli,,AH,AWAY,-1.5,1.75,41,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,37.5
 2026-08-23,Serie B,Hellas Verona,Ascoli,,AH,AWAY,-1.5,1.75,41,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,37.5
 2026-08-23,Serie B,Hellas Verona,Ascoli,,AH,AWAY,-1.5,1.75,41,1-0,oddsflow_beta,APIFOOTBALL,50,WON,37.5
 2026-08-23,Serbian SuperLiga,Radnik Surdulica,Novi Pazar,,AH,AWAY,0,2.5,42,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
@@ -7196,8 +7196,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-23,Serbian SuperLiga,Vojvodina,Železničar Pančevo,,1X2,DRAW,0,2.5,48,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-23,Liga I,CFR Cluj,FCSB,,OU,OVER,1.25,1.875,79,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
 2026-08-23,Liga I,CFR Cluj,FCSB,,OU,OVER,1.25,1.875,79,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
-2026-08-23,Serie A,Atalanta,Sassuolo,,AH,AWAY,-1,2.6,71,2-1,oddsflow_handicap_sniper,APIFOOTBALL,100,WON,160
 2026-08-23,Serie A,Atalanta,Sassuolo,,AH,AWAY,-1,2.6,71,2-1,oddsflow_active_trader,APIFOOTBALL,100,WON,160
+2026-08-23,Serie A,Atalanta,Sassuolo,,AH,AWAY,-1,2.6,71,2-1,oddsflow_handicap_sniper,APIFOOTBALL,100,WON,160
 2026-08-23,Brasileirão Série A,Vitoria,Bahia,,1X2,DRAW,0,2.375,51,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
 2026-08-23,Brasileirão Série A,Vitoria,Bahia,,1X2,DRAW,0,2.375,51,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-23,Chilean Primera División,Universidad de Chile,Colo Colo,,1X2,DRAW,0,2.625,49,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
