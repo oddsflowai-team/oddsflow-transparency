@@ -1609,7 +1609,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-05-10,Ligue 1,Auxerre,Nice,,1X2,HOME,0,2.45,0,0-0,oddsflow_prematch_edge,APIFOOTBALL,289,WON,419.05
 2026-05-10,Ligue 1,Le Havre,Marseille,,1X2,HOME,0,3.54,0,0-0,oddsflow_prematch_edge,APIFOOTBALL,481,LOST,-481
 2026-05-10,Ligue 1,Metz,Lorient,,1X2,AWAY,0,2.27,0,0-0,oddsflow_prematch_edge,APIFOOTBALL,498,WON,632.46
-2026-05-10,Brasileirão Série A,Clube do Remo,Palmeiras,,OU,UNDER,2.5,1.84,0,0-0,oddsflow_prematch_edge,APIFOOTBALL,871,WON,731.64
 2026-05-10,Ligue 1,Angers,Strasbourg,,1X2,AWAY,0,2.59,0,0-0,oddsflow_prematch_edge,APIFOOTBALL,456,LOST,-456
 2026-05-10,Ligue 1,Paris Saint-Germain,Brest,,OU,OVER,3.5,1.85,0,0-0,oddsflow_prematch_edge,APIFOOTBALL,200,LOST,-200
 2026-05-10,Ligue 1,Monaco,Lille,,OU,UNDER,3,1.85,0,0-0,oddsflow_prematch_edge,APIFOOTBALL,228,WON,193.8
@@ -1714,6 +1713,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-05-10,Ligue 1,Monaco,Lille,,AH,HOME,1,1.775,73,0-1,oddsflow_handicap_sniper,APIFOOTBALL,501,WON,388.28
 2026-05-10,Ligue 1,Toulouse,Lyon,,OU,UNDER,3.5,2,78,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,500
 2026-05-10,Primeira Liga,Alverca,Estoril,,OU,UNDER,2.75,1.93,0,0-0,oddsflow_prematch_edge,APIFOOTBALL,1202,WON,1117.86
+2026-05-10,Brasileirão Série A,Clube do Remo,Palmeiras,,OU,UNDER,2.5,1.84,0,0-0,oddsflow_prematch_edge,APIFOOTBALL,871,WON,731.64
 2026-05-10,Primeira Liga,Alverca,Estoril,,AH,AWAY,-0.5,2.25,27,1-0,oddsflow_handicap_sniper,APIFOOTBALL,523,WON,653.75
 2026-05-10,Primeira Liga,Alverca,Estoril,,OU,UNDER,2.5,2.5,27,1-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,750
 2026-05-10,Primeira Liga,Alverca,Estoril,,1X2,HOME,0,1.666,27,1-0,oddsflow_handicap_sniper,APIFOOTBALL,644,LOST,-644
