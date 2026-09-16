@@ -6539,6 +6539,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,USL Championship,Rhode Island,Monterey Bay,,AH,AWAY,-0.5,2.5,20,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-22,Major League Soccer,Orlando City SC,Real Salt Lake,,AH,AWAY,-0.5,2,27,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-22,Major League Soccer,CF Montreal,Los Angeles Galaxy,,AH,AWAY,0,2.5,28,1-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-08-22,Liga MX,Guadalajara Chivas,Club Tijuana,,AH,AWAY,-1,1.875,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-22,Liga MX,Guadalajara Chivas,Club Tijuana,,AH,AWAY,-1.5,2.025,29,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,Peruvian Primera División,Deportivo Garcilaso,Cusco,,AH,AWAY,0,1.75,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,Liga Profesional Argentina,Newell's Old Boys,Banfield,,AH,AWAY,-0.5,1.75,11,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,Ecuadorian Liga Pro,Barcelona SC,Orense SC,,AH,AWAY,-0.5,1.975,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
@@ -6552,10 +6554,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-23,Major League Soccer,Nashville SC,Columbus Crew,,AH,AWAY,-1.5,1.9,28,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
 2026-08-23,Major League Soccer,Austin,Philadelphia Union,,AH,HOME,0.5,2.025,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
 2026-08-23,USL Championship,San Antonio,Oakland Roots,,AH,AWAY,0,2.025,26,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
-2026-08-23,Liga MX,Guadalajara Chivas,Club Tijuana,,AH,AWAY,-1,1.875,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,Liga Panameña de Fútbol,Veraguas,San Francisco FC,,AH,AWAY,0,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-23,Liga Panameña de Fútbol,Veraguas,San Francisco FC,,AH,HOME,1,1.9,14,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
-2026-08-23,Liga MX,Guadalajara Chivas,Club Tijuana,,AH,AWAY,-1.5,2.025,29,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,USL Championship,Orange County SC,FC Tulsa,,AH,HOME,1,1.8,10,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,Major League Soccer,San Diego,Colorado Rapids,,AH,AWAY,-0.5,1.825,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,Major League Soccer,San Jose Earthquakes,Minnesota United FC,,AH,AWAY,0,2.1,17,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,55
