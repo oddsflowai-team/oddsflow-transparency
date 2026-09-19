@@ -104,22 +104,19 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-01-26,Premier League,Everton,Leeds United,,AH,AWAY,0,2.025,16,0-0,oddsflow_core_strategy,APIFOOTBALL,146.28,VOID,0
 2026-01-26,Premier League,Everton,Leeds United,,OU,OVER,2.5,1.8,34,0-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
 2026-01-26,Premier League,Everton,Leeds United,,OU,OVER,2.5,2,44,0-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-28,UEFA Champions League,PSV Eindhoven,Bayern Munich,,AH,HOME,0.75,1.9,15,0-0,oddsflow_core_strategy,APIFOOTBALL,184.12,HALF_LOST,-92.06
-2026-01-28,UEFA Champions League,Pafos,Slavia Praha,,AH,AWAY,0.5,1.925,25,1-0,oddsflow_core_strategy,APIFOOTBALL,139.24,LOST,-139.24
 2026-01-28,UEFA Champions League,Paris Saint-Germain,Newcastle United,,AH,HOME,1,1.875,69,1-1,oddsflow_core_strategy,APIFOOTBALL,200,WON,175
 2026-01-28,UEFA Champions League,Paris Saint-Germain,Newcastle United,,OU,OVER,3.5,2,69,1-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
 2026-01-28,UEFA Champions League,Paris Saint-Germain,Newcastle United,,OU,OVER,2.5,1.727,79,1-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
-2026-01-28,UEFA Champions League,Atletico Madrid,Bodo/Glimt,,OU,OVER,3.5,1.727,97,1-2,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-28,UEFA Champions League,PSV Eindhoven,Bayern Munich,,AH,HOME,0.75,1.9,15,0-0,oddsflow_core_strategy,APIFOOTBALL,184.12,HALF_LOST,-92.06
 2026-01-28,UEFA Champions League,Benfica,Real Madrid,,AH,HOME,0.5,2,15,0-0,oddsflow_core_strategy,APIFOOTBALL,153.25,WON,153.25
 2026-01-28,UEFA Champions League,Royale Union Saint-Gilloise,Atalanta,,AH,HOME,0,2.05,17,0-0,oddsflow_core_strategy,APIFOOTBALL,123.08,WON,129.23
 2026-01-28,UEFA Champions League,Royale Union Saint-Gilloise,Atalanta,,OU,OVER,2.5,2.1,17,0-0,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
+2026-01-28,UEFA Champions League,Pafos,Slavia Praha,,AH,AWAY,0.5,1.925,25,1-0,oddsflow_core_strategy,APIFOOTBALL,139.24,LOST,-139.24
 2026-01-28,UEFA Champions League,Benfica,Real Madrid,,AH,HOME,0.75,1.825,45,1-1,oddsflow_core_strategy,APIFOOTBALL,46.75,WON,38.57
 2026-01-28,UEFA Champions League,Benfica,Real Madrid,,OU,OVER,2.5,1.8,45,1-1,oddsflow_core_strategy,APIFOOTBALL,100,WON,80
+2026-01-28,UEFA Champions League,Atletico Madrid,Bodo/Glimt,,OU,OVER,3.5,1.727,97,1-2,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
 2026-01-30,Ligue 1,Lens,Le Havre,,AH,HOME,1,1.875,15,0-0,oddsflow_core_strategy,APIFOOTBALL,189.33,WON,165.66
 2026-01-30,Serie A,Lazio,Genoa,,AH,AWAY,0,2.15,31,0-0,oddsflow_core_strategy,APIFOOTBALL,139.75,LOST,-139.75
-2026-01-31,Serie A,Pisa,Sassuolo,,AH,AWAY,0.75,1.8,70,1-3,oddsflow_core_strategy,APIFOOTBALL,168.58,LOST,-168.58
-2026-01-31,Serie A,Pisa,Sassuolo,,AH,AWAY,0.75,1.8,70,1-3,oddsflow_core_strategy,APIFOOTBALL,168.58,LOST,-168.58
-2026-01-31,Serie A,Pisa,Sassuolo,,AH,AWAY,0.75,1.8,70,1-3,oddsflow_core_strategy,APIFOOTBALL,168.58,LOST,-168.58
 2026-01-31,Bundesliga,Augsburg,FC St. Pauli,,AH,AWAY,-0.25,1.8,38,0-1,oddsflow_core_strategy,APIFOOTBALL,171.39,LOST,-171.39
 2026-01-31,Bundesliga,Augsburg,FC St. Pauli,,AH,AWAY,-0.25,1.8,38,0-1,oddsflow_core_strategy,APIFOOTBALL,171.39,LOST,-171.39
 2026-01-31,Bundesliga,Augsburg,FC St. Pauli,,AH,AWAY,-0.25,1.8,38,0-1,oddsflow_core_strategy,APIFOOTBALL,171.39,LOST,-171.39
@@ -132,6 +129,9 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-01-31,Bundesliga,Hoffenheim,Union Berlin,,AH,AWAY,-0.25,1.975,47,2-0,oddsflow_core_strategy,APIFOOTBALL,135.57,HALF_WON,66.09
 2026-01-31,Bundesliga,Hoffenheim,Union Berlin,,AH,AWAY,-0.25,1.975,47,2-0,oddsflow_core_strategy,APIFOOTBALL,135.57,HALF_WON,66.09
 2026-01-31,Bundesliga,Hoffenheim,Union Berlin,,AH,AWAY,-0.25,1.975,47,2-0,oddsflow_core_strategy,APIFOOTBALL,135.57,HALF_WON,66.09
+2026-01-31,Serie A,Pisa,Sassuolo,,AH,AWAY,0.75,1.8,70,1-3,oddsflow_core_strategy,APIFOOTBALL,168.58,LOST,-168.58
+2026-01-31,Serie A,Pisa,Sassuolo,,AH,AWAY,0.75,1.8,70,1-3,oddsflow_core_strategy,APIFOOTBALL,168.58,LOST,-168.58
+2026-01-31,Serie A,Pisa,Sassuolo,,AH,AWAY,0.75,1.8,70,1-3,oddsflow_core_strategy,APIFOOTBALL,168.58,LOST,-168.58
 2026-01-31,La Liga,Osasuna,Villarreal,,AH,HOME,0,1.775,22,1-1,oddsflow_core_strategy,APIFOOTBALL,190.06,VOID,0
 2026-01-31,La Liga,Osasuna,Villarreal,,AH,HOME,0,1.775,22,1-1,oddsflow_core_strategy,APIFOOTBALL,190.06,VOID,0
 2026-01-31,La Liga,Osasuna,Villarreal,,AH,HOME,0,1.775,22,1-1,oddsflow_core_strategy,APIFOOTBALL,190.06,VOID,0

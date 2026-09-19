@@ -118,12 +118,12 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-04,FIFA World Cup,Colombia,Ghana,,AH,AWAY,-0.5,1.87,58,1-0,oddsflow_worldcup_hybrid,HGA,2579,WON,2243.73
 2026-07-04,FIFA World Cup,Colombia,Ghana,,AH,AWAY,-0.5,1.84,58,1-0,oddsflow_worldcup_sniper,NOVA88,2548,WON,2140.32
 2026-07-04,FIFA World Cup,Colombia,Ghana,,AH,AWAY,-0.5,1.87,58,1-0,oddsflow_worldcup_sniper,HGA,2585,WON,2248.95
-2026-07-04,K League 1,FC Anyang,Pohang Steelers,,AH,AWAY,0,1.875,10,0-1,oddsflow_core_strategy,APIFOOTBALL,200,VOID,0
-2026-07-04,K League 1,FC Anyang,Pohang Steelers,,AH,AWAY,0,1.96,10,0-1,oddsflow_core_strategy,NOVA88,25,VOID,0
-2026-07-04,K League 1,FC Anyang,Pohang Steelers,,AH,AWAY,0,1.93,10,0-1,oddsflow_core_strategy,HGA,50,VOID,0
 2026-07-04,K League 1,Jeonbuk Motors,Gangwon FC,,AH,AWAY,0,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,180
 2026-07-04,K League 1,Jeonbuk Motors,Gangwon FC,,AH,AWAY,0,2,10,0-0,oddsflow_core_strategy,NOVA88,50,WON,50
 2026-07-04,K League 1,Jeonbuk Motors,Gangwon FC,,AH,AWAY,0,1.9,10,0-0,oddsflow_core_strategy,HGA,100,WON,90
+2026-07-04,K League 1,FC Anyang,Pohang Steelers,,AH,AWAY,0,1.875,10,0-1,oddsflow_core_strategy,APIFOOTBALL,200,VOID,0
+2026-07-04,K League 1,FC Anyang,Pohang Steelers,,AH,AWAY,0,1.96,10,0-1,oddsflow_core_strategy,NOVA88,25,VOID,0
+2026-07-04,K League 1,FC Anyang,Pohang Steelers,,AH,AWAY,0,1.93,10,0-1,oddsflow_core_strategy,HGA,50,VOID,0
 2026-07-04,K League 1,Daejeon Citizen,Bucheon FC 1995,,AH,AWAY,-0.5,2.15,16,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,230
 2026-07-04,FIFA World Cup,Canada,Morocco,,AH,HOME,0.5,1.85,10,0-0,oddsflow_worldcup_full,APIFOOTBALL,200,LOST,-200
 2026-07-04,FIFA World Cup,Canada,Morocco,,AH,HOME,0.5,1.86,10,0-0,oddsflow_worldcup_full,NOVA88,2846,LOST,-2846
@@ -468,6 +468,9 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-17,Brasileirão Série B,Juventude,Cuiaba,,OU,UNDER,2,2.11,35,1-0,oddsflow_handicap_sniper,HGA,100,VOID,0
 2026-07-17,Brasileirão Série B,São Bernardo,Avai,,AH,AWAY,0,2.35,38,1-0,oddsflow_active_trader,APIFOOTBALL,4,WON,5.4
 2026-07-17,Brasileirão Série B,São Bernardo,Avai,,AH,AWAY,0,2.35,38,1-0,oddsflow_handicap_sniper,APIFOOTBALL,4,WON,5.4
+2026-07-17,Brasileirão Série A,Mirassol,Gremio,,AH,AWAY,-0.5,1.825,13,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
+2026-07-17,Brasileirão Série A,Mirassol,Gremio,,AH,AWAY,-0.5,1.84,13,0-0,oddsflow_core_strategy,NOVA88,48,LOST,-48
+2026-07-17,Brasileirão Série A,Mirassol,Gremio,,AH,AWAY,-0.5,1.85,13,0-0,oddsflow_core_strategy,HGA,97,LOST,-97
 2026-07-17,Brasileirão Série B,São Bernardo,Avai,,OU,OVER,1.5,1.533,57,1-0,oddsflow_active_trader,APIFOOTBALL,4,WON,2.13
 2026-07-17,Brasileirão Série B,São Bernardo,Avai,,OU,OVER,1.5,1.533,57,1-0,oddsflow_handicap_sniper,APIFOOTBALL,4,WON,2.13
 2026-07-17,Brasileirão Série B,São Bernardo,Avai,,OU,OVER,2.5,1.615,62,1-1,oddsflow_active_trader,APIFOOTBALL,4,LOST,-4
@@ -481,18 +484,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-17,Brasileirão Série B,São Bernardo,Avai,,1X2,DRAW,0,4.45,62,1-1,oddsflow_handicap_sniper,NOVA88,50,WON,172.5
 2026-07-17,Brasileirão Série B,São Bernardo,Avai,,OU,OVER,2.75,2.05,62,1-1,oddsflow_handicap_sniper,HGA,99,LOST,-99
 2026-07-17,Brasileirão Série B,Juventude,Cuiaba,,OU,OVER,1.5,2,69,1-0,oddsflow_core_strategy,APIFOOTBALL,500,WON,500
-2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.975,80,1-0,oddsflow_active_trader,APIFOOTBALL,4,WON,3.9
-2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.975,80,1-0,oddsflow_handicap_sniper,APIFOOTBALL,4,WON,3.9
-2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.98,80,1-0,oddsflow_active_trader,NOVA88,50,WON,49
-2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.94,80,1-0,oddsflow_active_trader,HGA,100,WON,94
-2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.98,80,1-0,oddsflow_handicap_sniper,NOVA88,50,WON,49
-2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.94,80,1-0,oddsflow_handicap_sniper,HGA,100,WON,94
-2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.975,80,1-0,oddsflow_core_strategy,APIFOOTBALL,3.5,WON,3.41
-2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.98,80,1-0,oddsflow_core_strategy,NOVA88,50,WON,49
-2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.94,80,1-0,oddsflow_core_strategy,HGA,100,WON,94
-2026-07-17,Brasileirão Série A,Mirassol,Gremio,,AH,AWAY,-0.5,1.825,13,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
-2026-07-17,Brasileirão Série A,Mirassol,Gremio,,AH,AWAY,-0.5,1.84,13,0-0,oddsflow_core_strategy,NOVA88,48,LOST,-48
-2026-07-17,Brasileirão Série A,Mirassol,Gremio,,AH,AWAY,-0.5,1.85,13,0-0,oddsflow_core_strategy,HGA,97,LOST,-97
 2026-07-17,Brasileirão Série A,Fluminense,RB Bragantino,,OU,UNDER,2.5,2.1,35,0-1,oddsflow_active_trader,APIFOOTBALL,500,WON,550
 2026-07-17,Brasileirão Série A,Fluminense,RB Bragantino,,1X2,AWAY,0,1.909,35,0-1,oddsflow_active_trader,APIFOOTBALL,563,LOST,-563
 2026-07-17,Brasileirão Série A,Fluminense,RB Bragantino,,OU,UNDER,2.5,2.1,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,550
@@ -513,6 +504,15 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-17,Brasileirão Série A,Mirassol,Gremio,,AH,AWAY,0,2.15,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,726,VOID,0
 2026-07-17,Brasileirão Série A,Mirassol,Gremio,,OU,UNDER,2.5,2.2,36,1-0,oddsflow_active_trader,APIFOOTBALL,571,LOST,-571
 2026-07-17,Brasileirão Série A,Mirassol,Gremio,,OU,UNDER,2.5,2.2,36,1-0,oddsflow_handicap_sniper,APIFOOTBALL,567,LOST,-567
+2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.975,80,1-0,oddsflow_active_trader,APIFOOTBALL,4,WON,3.9
+2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.975,80,1-0,oddsflow_handicap_sniper,APIFOOTBALL,4,WON,3.9
+2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.98,80,1-0,oddsflow_active_trader,NOVA88,50,WON,49
+2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.94,80,1-0,oddsflow_active_trader,HGA,100,WON,94
+2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.98,80,1-0,oddsflow_handicap_sniper,NOVA88,50,WON,49
+2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.94,80,1-0,oddsflow_handicap_sniper,HGA,100,WON,94
+2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.975,80,1-0,oddsflow_core_strategy,APIFOOTBALL,3.5,WON,3.41
+2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.98,80,1-0,oddsflow_core_strategy,NOVA88,50,WON,49
+2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.94,80,1-0,oddsflow_core_strategy,HGA,100,WON,94
 2026-07-18,Brasileirão Série B,Londrina,Botafogo SP,,AH,HOME,0,2.3,10,0-0,oddsflow_core_strategy,APIFOOTBALL,4,VOID,0
 2026-07-18,Brasileirão Série B,Fortaleza EC,Novorizontino,,AH,AWAY,0,2,18,1-0,oddsflow_core_strategy,APIFOOTBALL,6,VOID,0
 2026-07-18,Brasileirão Série B,Fortaleza EC,Novorizontino,,AH,AWAY,0,2.05,18,1-0,oddsflow_core_strategy,HGA,100,VOID,0
@@ -736,8 +736,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-21,Brasileirão Série B,Novorizontino,Criciuma,,OU,UNDER,1.5,1.571,37,0-0,oddsflow_handicap_sniper,APIFOOTBALL,5,WON,2.85
 2026-07-21,Brasileirão Série B,Novorizontino,Criciuma,,1X2,DRAW,0,2.4,37,0-0,oddsflow_handicap_sniper,APIFOOTBALL,4,LOST,-4
 2026-07-21,Brasileirão Série B,Novorizontino,Criciuma,,OU,UNDER,1.25,1.89,37,0-0,oddsflow_handicap_sniper,NOVA88,50,HALF_WON,22.25
-2026-07-21,Brasileirão Série B,Novorizontino,Criciuma,,OU,UNDER,1.25,1.82,37,0-0,oddsflow_handicap_sniper,HGA,100,HALF_WON,41
 2026-07-21,Brasileirão Série B,Novorizontino,Criciuma,,1X2,DRAW,0,2.37,37,0-0,oddsflow_handicap_sniper,NOVA88,24,LOST,-24
+2026-07-21,Brasileirão Série B,Novorizontino,Criciuma,,OU,UNDER,1.25,1.82,37,0-0,oddsflow_handicap_sniper,HGA,100,HALF_WON,41
 2026-07-21,Brasileirão Série B,Novorizontino,Criciuma,,1X2,DRAW,0,2.39,37,0-0,oddsflow_handicap_sniper,HGA,50,LOST,-50
 2026-07-21,Brasileirão Série B,Novorizontino,Criciuma,,AH,AWAY,0,2.6,37,0-0,oddsflow_active_trader,APIFOOTBALL,5,WON,8
 2026-07-21,Brasileirão Série B,Novorizontino,Criciuma,,OU,UNDER,1.5,1.571,37,0-0,oddsflow_active_trader,APIFOOTBALL,5,WON,2.85

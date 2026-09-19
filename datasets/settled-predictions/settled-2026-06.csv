@@ -129,6 +129,12 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-06-14,FIFA World Cup,Australia,Türkiye,,1X2,AWAY,0,1.71,0,0-0,oddsflow_worldcup_prematch,HGA,3000,LOST,-3000
 2026-06-14,Brasileirão Série B,São Bernardo,Sport Recife,,AH,HOME,-0.5,2.425,10,0-0,oddsflow_core_strategy,APIFOOTBALL,4,LOST,-4
 2026-06-14,Brasileirão Série B,Juventude,Ponte Preta,,AH,AWAY,-1,2.15,10,0-0,oddsflow_core_strategy,APIFOOTBALL,4,LOST,-4
+2026-06-14,FIFA World Cup,Germany,Curaçao,,AH,HOME,-3.5,1.9,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,3000,WON,2700
+2026-06-14,FIFA World Cup,Germany,Curaçao,,OU,OVER,4.5,2.1,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,3000,WON,3300
+2026-06-14,FIFA World Cup,Germany,Curaçao,,AH,HOME,-3.75,2.05,0,0-0,oddsflow_worldcup_prematch,NOVA88,3000,WON,3150
+2026-06-14,FIFA World Cup,Germany,Curaçao,,OU,OVER,4.5,1.94,0,0-0,oddsflow_worldcup_prematch,NOVA88,3000,WON,2820
+2026-06-14,FIFA World Cup,Germany,Curaçao,,AH,HOME,-3.75,2,0,0-0,oddsflow_worldcup_prematch,HGA,3000,WON,3000
+2026-06-14,FIFA World Cup,Germany,Curaçao,,OU,OVER,4.25,1.93,0,0-0,oddsflow_worldcup_prematch,HGA,3000,WON,2790
 2026-06-14,FIFA World Cup,Netherlands,Japan,,AH,AWAY,-0.5,1.8,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,3000,WON,2400
 2026-06-14,FIFA World Cup,Netherlands,Japan,,OU,UNDER,2.5,1.8,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,3000,LOST,-3000
 2026-06-14,FIFA World Cup,Netherlands,Japan,,1X2,AWAY,0,3.7,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,3000,LOST,-3000
@@ -138,18 +144,12 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-06-14,FIFA World Cup,Netherlands,Japan,,AH,AWAY,-0.5,1.82,0,0-0,oddsflow_worldcup_prematch,HGA,3000,WON,2460
 2026-06-14,FIFA World Cup,Netherlands,Japan,,OU,UNDER,2.5,1.8,0,0-0,oddsflow_worldcup_prematch,HGA,3000,LOST,-3000
 2026-06-14,FIFA World Cup,Netherlands,Japan,,1X2,AWAY,0,3.75,0,0-0,oddsflow_worldcup_prematch,HGA,3000,LOST,-3000
-2026-06-14,FIFA World Cup,Germany,Curaçao,,AH,HOME,-3.5,1.9,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,3000,WON,2700
-2026-06-14,FIFA World Cup,Germany,Curaçao,,OU,OVER,4.5,2.1,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,3000,WON,3300
-2026-06-14,FIFA World Cup,Germany,Curaçao,,AH,HOME,-3.75,2.05,0,0-0,oddsflow_worldcup_prematch,NOVA88,3000,WON,3150
-2026-06-14,FIFA World Cup,Germany,Curaçao,,OU,OVER,4.5,1.94,0,0-0,oddsflow_worldcup_prematch,NOVA88,3000,WON,2820
 2026-06-14,FIFA World Cup,Ivory Coast,Ecuador,,AH,AWAY,0.25,2.12,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,3000,LOST,-3000
 2026-06-14,FIFA World Cup,Ivory Coast,Ecuador,,OU,UNDER,1.5,2.3,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,3000,WON,3900
 2026-06-14,FIFA World Cup,Ivory Coast,Ecuador,,AH,AWAY,0.5,2.14,0,0-0,oddsflow_worldcup_prematch,HGA,3000,LOST,-3000
 2026-06-14,FIFA World Cup,Ivory Coast,Ecuador,,OU,UNDER,1.75,2.02,0,0-0,oddsflow_worldcup_prematch,HGA,3000,WON,3060
 2026-06-14,FIFA World Cup,Ivory Coast,Ecuador,,AH,AWAY,0.25,2.2,0,0-0,oddsflow_worldcup_prematch,NOVA88,3000,LOST,-3000
 2026-06-14,FIFA World Cup,Ivory Coast,Ecuador,,OU,UNDER,1.75,2.04,0,0-0,oddsflow_worldcup_prematch,NOVA88,3000,WON,3120
-2026-06-14,FIFA World Cup,Germany,Curaçao,,AH,HOME,-3.75,2,0,0-0,oddsflow_worldcup_prematch,HGA,3000,WON,3000
-2026-06-14,FIFA World Cup,Germany,Curaçao,,OU,OVER,4.25,1.93,0,0-0,oddsflow_worldcup_prematch,HGA,3000,WON,2790
 2026-06-14,Brasileirão Série B,Athletic Club,Goias,,AH,AWAY,0,2.5,10,0-0,oddsflow_core_strategy,APIFOOTBALL,4,VOID,0
 2026-06-14,Brasileirão Série B,Cuiaba,Vila Nova,,AH,AWAY,-0.5,1.79,10,0-0,oddsflow_core_strategy,APIFOOTBALL,4,LOST,-4
 2026-06-14,Brasileirão Série B,Cuiaba,Vila Nova,,AH,AWAY,-0.5,1.79,10,0-0,oddsflow_core_strategy,NOVA88,50,LOST,-50
@@ -165,6 +165,18 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-06-15,FIFA World Cup,Sweden,Tunisia,,1X2,DRAW,0,3.35,0,0-0,oddsflow_worldcup_prematch,HGA,3000,LOST,-3000
 2026-06-15,FIFA World Cup,Sweden,Tunisia,,1X2,DRAW,0,3.4,0,0-0,oddsflow_worldcup_prematch,NOVA88,3000,LOST,-3000
 2026-06-15,FIFA World Cup,Sweden,Tunisia,,OU,UNDER,2.25,1.98,0,0-0,oddsflow_worldcup_prematch,NOVA88,3000,LOST,-3000
+2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,AH,AWAY,-2.75,2.02,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1300,WON,1326
+2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,AH,AWAY,-2.75,2.05,0,0-0,oddsflow_worldcup_prematch,NOVA88,1300,WON,1365
+2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,AH,AWAY,-2.75,1.9,0,0-0,oddsflow_worldcup_prematch,HGA,1300,WON,1170
+2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,OU,OVER,3.5,1.91,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
+2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,OU,OVER,3.75,2.03,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
+2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,OU,OVER,3.75,2.03,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
+2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,OU,UNDER,2.5,1.727,35,0-0,oddsflow_worldcup_blend,APIFOOTBALL,2793,WON,2030.51
+2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,OU,UNDER,2.25,2.01,35,0-0,oddsflow_worldcup_blend,NOVA88,4500,WON,4545
+2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,OU,UNDER,2.25,1.96,35,0-0,oddsflow_worldcup_blend,HGA,4500,WON,4320
+2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,OU,UNDER,2.5,1.727,35,0-0,oddsflow_worldcup_sniper,APIFOOTBALL,2793,WON,2030.51
+2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,OU,UNDER,2.25,1.99,35,0-0,oddsflow_worldcup_sniper,NOVA88,4500,WON,4455
+2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,OU,UNDER,2.25,1.96,35,0-0,oddsflow_worldcup_sniper,HGA,4500,WON,4320
 2026-06-15,FIFA World Cup,Saudi Arabia,Uruguay,,1X2,DRAW,0,4.25,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,3250
 2026-06-15,FIFA World Cup,Saudi Arabia,Uruguay,,1X2,HOME,0,7.8,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
 2026-06-15,FIFA World Cup,Saudi Arabia,Uruguay,,AH,HOME,1.25,1.82,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,2000,WON,1640
@@ -176,27 +188,15 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-06-15,FIFA World Cup,Belgium,Egypt,,OU,UNDER,2.5,1.89,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,890
 2026-06-15,FIFA World Cup,Belgium,Egypt,,OU,UNDER,2.5,1.93,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,WON,930
 2026-06-15,FIFA World Cup,Belgium,Egypt,,OU,UNDER,2.5,1.8,0,0-0,oddsflow_worldcup_prematch,HGA,1000,WON,800
-2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,AH,AWAY,-2.75,2.02,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1300,WON,1326
-2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,AH,AWAY,-2.75,2.05,0,0-0,oddsflow_worldcup_prematch,NOVA88,1300,WON,1365
-2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,AH,AWAY,-2.75,1.9,0,0-0,oddsflow_worldcup_prematch,HGA,1300,WON,1170
 2026-06-15,FIFA World Cup,Belgium,Egypt,,AH,HOME,-1,2.02,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
 2026-06-15,FIFA World Cup,Belgium,Egypt,,1X2,HOME,0,1.57,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
 2026-06-15,FIFA World Cup,Belgium,Egypt,,AH,HOME,-1,2.08,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
 2026-06-15,FIFA World Cup,Belgium,Egypt,,1X2,HOME,0,1.59,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
 2026-06-15,FIFA World Cup,Belgium,Egypt,,AH,HOME,-1,2.06,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
 2026-06-15,FIFA World Cup,Belgium,Egypt,,1X2,HOME,0,1.6,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
-2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,OU,OVER,3.5,1.91,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
-2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,OU,OVER,3.75,2.03,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
-2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,OU,OVER,3.75,2.03,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
 2026-06-15,FIFA World Cup,Saudi Arabia,Uruguay,,OU,UNDER,2.25,2.02,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,HALF_WON,510
 2026-06-15,FIFA World Cup,Saudi Arabia,Uruguay,,OU,UNDER,2.25,2.02,0,0-0,oddsflow_worldcup_prematch,HGA,1000,HALF_WON,510
 2026-06-15,FIFA World Cup,Saudi Arabia,Uruguay,,AH,HOME,1.25,1.72,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,2500,WON,1800
-2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,OU,UNDER,2.5,1.727,35,0-0,oddsflow_worldcup_blend,APIFOOTBALL,2793,WON,2030.51
-2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,OU,UNDER,2.25,2.01,35,0-0,oddsflow_worldcup_blend,NOVA88,4500,WON,4545
-2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,OU,UNDER,2.25,1.96,35,0-0,oddsflow_worldcup_blend,HGA,4500,WON,4320
-2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,OU,UNDER,2.5,1.727,35,0-0,oddsflow_worldcup_sniper,APIFOOTBALL,2793,WON,2030.51
-2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,OU,UNDER,2.25,1.99,35,0-0,oddsflow_worldcup_sniper,NOVA88,4500,WON,4455
-2026-06-15,FIFA World Cup,Spain,Cape Verde Islands,,OU,UNDER,2.25,1.96,35,0-0,oddsflow_worldcup_sniper,HGA,4500,WON,4320
 2026-06-15,FIFA World Cup,Belgium,Egypt,,AH,AWAY,-1,1.925,11,0-0,oddsflow_worldcup_full,APIFOOTBALL,200,WON,185
 2026-06-15,FIFA World Cup,Belgium,Egypt,,AH,AWAY,-1,1.99,11,0-0,oddsflow_worldcup_full,NOVA88,2079,WON,2058.21
 2026-06-15,FIFA World Cup,Belgium,Egypt,,AH,AWAY,-1,1.93,11,0-0,oddsflow_worldcup_full,HGA,2000,WON,1860
@@ -578,12 +578,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-06-20,FIFA World Cup,Netherlands,Sweden,,OU,UNDER,3,1.82,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
 2026-06-20,FIFA World Cup,Netherlands,Sweden,,AH,HOME,-0.75,1.87,0,0-0,oddsflow_worldcup_prematch,HGA,1000,WON,870
 2026-06-20,FIFA World Cup,Netherlands,Sweden,,OU,UNDER,3,1.82,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
-2026-06-20,FIFA World Cup,Germany,Ivory Coast,,AH,HOME,-1,1.8,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,VOID,0
-2026-06-20,FIFA World Cup,Germany,Ivory Coast,,OU,UNDER,2.5,2.38,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
-2026-06-20,FIFA World Cup,Germany,Ivory Coast,,AH,HOME,-1.25,2.07,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,HALF_LOST,-500
-2026-06-20,FIFA World Cup,Germany,Ivory Coast,,OU,UNDER,3,1.9,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,VOID,0
-2026-06-20,FIFA World Cup,Germany,Ivory Coast,,AH,HOME,-1.25,2.07,0,0-0,oddsflow_worldcup_prematch,HGA,1000,HALF_LOST,-500
-2026-06-20,FIFA World Cup,Germany,Ivory Coast,,OU,UNDER,3,1.9,0,0-0,oddsflow_worldcup_prematch,HGA,1000,VOID,0
 2026-06-20,FIFA World Cup,Netherlands,Sweden,,AH,AWAY,0,2.75,35,2-0,oddsflow_worldcup_blend,APIFOOTBALL,1524,LOST,-1524
 2026-06-20,FIFA World Cup,Netherlands,Sweden,,OU,OVER,4.5,2.375,35,2-0,oddsflow_worldcup_blend,APIFOOTBALL,1022,WON,1405.25
 2026-06-20,FIFA World Cup,Netherlands,Sweden,,AH,AWAY,0,2.75,35,2-0,oddsflow_worldcup_sniper,APIFOOTBALL,1524,LOST,-1524
@@ -594,6 +588,12 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-06-20,FIFA World Cup,Netherlands,Sweden,,OU,OVER,3.5,1.5,39,2-0,oddsflow_worldcup_sniper,APIFOOTBALL,1480,WON,740
 2026-06-20,FIFA World Cup,Netherlands,Sweden,,OU,OVER,4,1.94,39,2-0,oddsflow_worldcup_sniper,NOVA88,3159,WON,2969.46
 2026-06-20,FIFA World Cup,Netherlands,Sweden,,OU,OVER,4,1.94,39,2-0,oddsflow_worldcup_sniper,HGA,3159,WON,2969.46
+2026-06-20,FIFA World Cup,Germany,Ivory Coast,,AH,HOME,-1,1.8,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,VOID,0
+2026-06-20,FIFA World Cup,Germany,Ivory Coast,,OU,UNDER,2.5,2.38,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
+2026-06-20,FIFA World Cup,Germany,Ivory Coast,,AH,HOME,-1.25,2.07,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,HALF_LOST,-500
+2026-06-20,FIFA World Cup,Germany,Ivory Coast,,OU,UNDER,3,1.9,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,VOID,0
+2026-06-20,FIFA World Cup,Germany,Ivory Coast,,AH,HOME,-1.25,2.07,0,0-0,oddsflow_worldcup_prematch,HGA,1000,HALF_LOST,-500
+2026-06-20,FIFA World Cup,Germany,Ivory Coast,,OU,UNDER,3,1.9,0,0-0,oddsflow_worldcup_prematch,HGA,1000,VOID,0
 2026-06-20,FIFA World Cup,Germany,Ivory Coast,,AH,AWAY,-1,1.925,10,0-0,oddsflow_worldcup_full,APIFOOTBALL,200,VOID,0
 2026-06-20,FIFA World Cup,Germany,Ivory Coast,,AH,AWAY,-1,1.99,10,0-0,oddsflow_worldcup_full,NOVA88,3622,VOID,0
 2026-06-20,FIFA World Cup,Germany,Ivory Coast,,AH,AWAY,-1,1.94,10,0-0,oddsflow_worldcup_full,HGA,3598,VOID,0
@@ -665,6 +665,9 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-06-21,FIFA World Cup,Belgium,Iran,,OU,UNDER,2.75,1.85,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,WON,850
 2026-06-21,FIFA World Cup,Belgium,Iran,,AH,AWAY,-1.25,1.94,0,0-0,oddsflow_worldcup_prematch,HGA,1000,WON,940
 2026-06-21,FIFA World Cup,Belgium,Iran,,OU,UNDER,2.75,1.83,0,0-0,oddsflow_worldcup_prematch,HGA,1000,WON,830
+2026-06-21,Brasileirão Série B,CRB,Fortaleza EC,,AH,AWAY,0,1.85,11,1-0,oddsflow_core_strategy,APIFOOTBALL,8,WON,6.8
+2026-06-21,Brasileirão Série B,CRB,Fortaleza EC,,AH,AWAY,0,1.94,11,1-0,oddsflow_core_strategy,NOVA88,50,WON,47
+2026-06-21,Brasileirão Série B,CRB,Fortaleza EC,,AH,AWAY,0,1.84,11,1-0,oddsflow_core_strategy,HGA,100,WON,84
 2026-06-21,FIFA World Cup,Uruguay,Cape Verde Islands,,AH,AWAY,-1,2.05,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,1050
 2026-06-21,FIFA World Cup,Uruguay,Cape Verde Islands,,OU,OVER,2.5,2.2,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,1200
 2026-06-21,FIFA World Cup,Uruguay,Cape Verde Islands,,1X2,DRAW,0,4.33,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,3330
@@ -674,9 +677,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-06-21,FIFA World Cup,Uruguay,Cape Verde Islands,,AH,AWAY,-1.25,1.8,0,0-0,oddsflow_worldcup_prematch,HGA,1200,WON,960
 2026-06-21,FIFA World Cup,Uruguay,Cape Verde Islands,,OU,OVER,2.25,2.03,0,0-0,oddsflow_worldcup_prematch,HGA,1000,WON,1030
 2026-06-21,FIFA World Cup,Uruguay,Cape Verde Islands,,1X2,DRAW,0,4.3,0,0-0,oddsflow_worldcup_prematch,HGA,1000,WON,3300
-2026-06-21,Brasileirão Série B,CRB,Fortaleza EC,,AH,AWAY,0,1.85,11,1-0,oddsflow_core_strategy,APIFOOTBALL,8,WON,6.8
-2026-06-21,Brasileirão Série B,CRB,Fortaleza EC,,AH,AWAY,0,1.94,11,1-0,oddsflow_core_strategy,NOVA88,50,WON,47
-2026-06-21,Brasileirão Série B,CRB,Fortaleza EC,,AH,AWAY,0,1.84,11,1-0,oddsflow_core_strategy,HGA,100,WON,84
 2026-06-21,Brasileirão Série B,São Bernardo,Juventude,,AH,AWAY,0,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,4,WON,3.6
 2026-06-21,Brasileirão Série B,São Bernardo,Juventude,,AH,AWAY,0,1.97,10,0-0,oddsflow_core_strategy,NOVA88,48,WON,46.56
 2026-06-21,Brasileirão Série B,São Bernardo,Juventude,,AH,AWAY,0,1.87,10,0-0,oddsflow_core_strategy,HGA,83,WON,72.21
@@ -865,55 +865,56 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-06-24,FIFA World Cup,Colombia,Congo DR,,AH,AWAY,-0.5,2.2,47,0-0,oddsflow_worldcup_hybrid,APIFOOTBALL,1000,LOST,-1000
 2026-06-24,FIFA World Cup,Colombia,Congo DR,,AH,AWAY,-0.5,2.2,47,0-0,oddsflow_worldcup_blend,APIFOOTBALL,1000,LOST,-1000
 2026-06-24,FIFA World Cup,Colombia,Congo DR,,AH,AWAY,-0.5,2.2,49,0-0,oddsflow_worldcup_sniper,APIFOOTBALL,1000,LOST,-1000
-2026-06-24,FIFA World Cup,Bosnia & Herzegovina,Qatar,,OU,OVER,3.5,2.38,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,1380
-2026-06-24,FIFA World Cup,Bosnia & Herzegovina,Qatar,,AH,HOME,-1.5,2.02,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,1020
 2026-06-24,FIFA World Cup,Switzerland,Canada,,1X2,DRAW,0,3,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
-2026-06-24,FIFA World Cup,Switzerland,Canada,,OU,UNDER,2.25,1.9,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
 2026-06-24,FIFA World Cup,Switzerland,Canada,,1X2,DRAW,0,2.92,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
-2026-06-24,FIFA World Cup,Switzerland,Canada,,OU,UNDER,2.25,1.88,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
-2026-06-24,FIFA World Cup,Switzerland,Canada,,1X2,DRAW,0,2.96,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
-2026-06-24,FIFA World Cup,Switzerland,Canada,,OU,UNDER,2.5,1.67,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
-2026-06-24,FIFA World Cup,Bosnia & Herzegovina,Qatar,,OU,OVER,2.75,1.93,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,WON,930
+2026-06-24,FIFA World Cup,Switzerland,Canada,,OU,UNDER,2.25,1.9,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
 2026-06-24,FIFA World Cup,Bosnia & Herzegovina,Qatar,,OU,OVER,2.75,1.89,0,0-0,oddsflow_worldcup_prematch,HGA,1000,WON,890
 2026-06-24,FIFA World Cup,Bosnia & Herzegovina,Qatar,,AH,HOME,-1.25,1.93,0,0-0,oddsflow_worldcup_prematch,HGA,1200,WON,1116
 2026-06-24,FIFA World Cup,Bosnia & Herzegovina,Qatar,,AH,HOME,-1.25,1.95,0,0-0,oddsflow_worldcup_prematch,NOVA88,1200,WON,1140
+2026-06-24,FIFA World Cup,Bosnia & Herzegovina,Qatar,,OU,OVER,3.5,2.38,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,1380
+2026-06-24,FIFA World Cup,Bosnia & Herzegovina,Qatar,,AH,HOME,-1.5,2.02,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,1020
+2026-06-24,FIFA World Cup,Bosnia & Herzegovina,Qatar,,OU,OVER,2.75,1.93,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,WON,930
+2026-06-24,FIFA World Cup,Switzerland,Canada,,OU,UNDER,2.5,1.67,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
+2026-06-24,FIFA World Cup,Switzerland,Canada,,1X2,DRAW,0,2.96,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
+2026-06-24,FIFA World Cup,Switzerland,Canada,,OU,UNDER,2.25,1.88,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
 2026-06-24,FIFA World Cup,Bosnia & Herzegovina,Qatar,,AH,AWAY,-1,1.9,10,0-0,oddsflow_worldcup_full,APIFOOTBALL,200,LOST,-200
 2026-06-24,FIFA World Cup,Bosnia & Herzegovina,Qatar,,AH,AWAY,-1,1.88,10,0-0,oddsflow_worldcup_full,NOVA88,1020,LOST,-1020
 2026-06-24,FIFA World Cup,Bosnia & Herzegovina,Qatar,,AH,AWAY,-1,1.85,10,0-0,oddsflow_worldcup_full,HGA,1000,LOST,-1000
 2026-06-24,FIFA World Cup,Switzerland,Canada,,AH,AWAY,0,1.725,77,2-1,oddsflow_worldcup_full,APIFOOTBALL,200,VOID,0
 2026-06-24,FIFA World Cup,Switzerland,Canada,,AH,AWAY,0,2.08,77,2-1,oddsflow_worldcup_full,NOVA88,2849,VOID,0
 2026-06-24,FIFA World Cup,Switzerland,Canada,,AH,AWAY,0,1.82,77,2-1,oddsflow_worldcup_full,HGA,2597,VOID,0
-2026-06-24,FIFA World Cup,Morocco,Haiti,,AH,HOME,-2,1.88,0,0-0,oddsflow_worldcup_prematch,HGA,2100,VOID,0
-2026-06-24,FIFA World Cup,Morocco,Haiti,,OU,OVER,3,1.9,0,0-0,oddsflow_worldcup_prematch,HGA,1300,WON,1170
-2026-06-24,FIFA World Cup,Morocco,Haiti,,OU,OVER,3.5,2.38,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,1380
-2026-06-24,FIFA World Cup,Morocco,Haiti,,AH,HOME,-2,1.92,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1900,VOID,0
-2026-06-24,FIFA World Cup,Morocco,Haiti,,AH,HOME,-2,1.91,0,0-0,oddsflow_worldcup_prematch,NOVA88,2000,VOID,0
-2026-06-24,FIFA World Cup,Morocco,Haiti,,OU,OVER,3,1.92,0,0-0,oddsflow_worldcup_prematch,NOVA88,1200,WON,1104
-2026-06-24,FIFA World Cup,Scotland,Brazil,,AH,AWAY,1.5,1.91,0,0-0,oddsflow_worldcup_prematch,HGA,1200,WON,1092
-2026-06-24,FIFA World Cup,Scotland,Brazil,,OU,OVER,2.75,2.03,0,0-0,oddsflow_worldcup_prematch,HGA,1000,HALF_WON,515
-2026-06-24,FIFA World Cup,Scotland,Brazil,,OU,OVER,2.75,2.07,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,HALF_WON,535
 2026-06-24,FIFA World Cup,Scotland,Brazil,,AH,AWAY,1.5,1.92,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1100,WON,1012
-2026-06-24,FIFA World Cup,Scotland,Brazil,,OU,OVER,2.5,1.8,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,800
+2026-06-24,FIFA World Cup,Scotland,Brazil,,OU,OVER,2.75,2.07,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,HALF_WON,535
+2026-06-24,FIFA World Cup,Scotland,Brazil,,OU,OVER,2.75,2.03,0,0-0,oddsflow_worldcup_prematch,HGA,1000,HALF_WON,515
+2026-06-24,FIFA World Cup,Scotland,Brazil,,AH,AWAY,1.5,1.91,0,0-0,oddsflow_worldcup_prematch,HGA,1200,WON,1092
+2026-06-24,FIFA World Cup,Morocco,Haiti,,OU,OVER,3,1.92,0,0-0,oddsflow_worldcup_prematch,NOVA88,1200,WON,1104
+2026-06-24,FIFA World Cup,Morocco,Haiti,,AH,HOME,-2,1.91,0,0-0,oddsflow_worldcup_prematch,NOVA88,2000,VOID,0
+2026-06-24,FIFA World Cup,Morocco,Haiti,,AH,HOME,-2,1.92,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1900,VOID,0
+2026-06-24,FIFA World Cup,Morocco,Haiti,,OU,OVER,3.5,2.38,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,1380
+2026-06-24,FIFA World Cup,Morocco,Haiti,,OU,OVER,3,1.9,0,0-0,oddsflow_worldcup_prematch,HGA,1300,WON,1170
+2026-06-24,FIFA World Cup,Morocco,Haiti,,AH,HOME,-2,1.88,0,0-0,oddsflow_worldcup_prematch,HGA,2100,VOID,0
 2026-06-24,FIFA World Cup,Scotland,Brazil,,AH,AWAY,1.5,1.93,0,0-0,oddsflow_worldcup_prematch,NOVA88,1200,WON,1116
+2026-06-24,FIFA World Cup,Scotland,Brazil,,OU,OVER,2.5,1.8,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,800
 2026-06-24,FIFA World Cup,Scotland,Brazil,,AH,HOME,0.5,2.6,10,0-1,oddsflow_worldcup_full,APIFOOTBALL,200,LOST,-200
 2026-06-25,FIFA World Cup,South Africa,South Korea,,OU,OVER,2.5,2,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
-2026-06-25,FIFA World Cup,South Africa,South Korea,,AH,AWAY,1,1.83,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
-2026-06-25,FIFA World Cup,South Africa,South Korea,,AH,AWAY,0.75,1.82,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
-2026-06-25,FIFA World Cup,South Africa,South Korea,,OU,OVER,2.25,1.82,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
-2026-06-25,FIFA World Cup,South Africa,South Korea,,AH,AWAY,1,2.08,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
-2026-06-25,FIFA World Cup,South Africa,South Korea,,OU,OVER,2.5,2.06,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
-2026-06-25,FIFA World Cup,Czechia,Mexico,,OU,OVER,2.5,2.05,0,0-0,oddsflow_worldcup_prematch,HGA,1000,WON,1050
-2026-06-25,FIFA World Cup,Czechia,Mexico,,AH,AWAY,0.5,1.94,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,WON,940
 2026-06-25,FIFA World Cup,Czechia,Mexico,,AH,AWAY,0.5,1.98,0,0-0,oddsflow_worldcup_prematch,HGA,1000,WON,980
-2026-06-25,FIFA World Cup,Czechia,Mexico,,1X2,AWAY,0,2,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,WON,1000
+2026-06-25,FIFA World Cup,Czechia,Mexico,,AH,AWAY,0.5,1.94,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,WON,940
+2026-06-25,FIFA World Cup,Czechia,Mexico,,OU,OVER,2.5,2.05,0,0-0,oddsflow_worldcup_prematch,HGA,1000,WON,1050
 2026-06-25,FIFA World Cup,Czechia,Mexico,,1X2,AWAY,0,1.98,0,0-0,oddsflow_worldcup_prematch,HGA,1000,WON,980
 2026-06-25,FIFA World Cup,Czechia,Mexico,,OU,OVER,2.5,2,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,1000
 2026-06-25,FIFA World Cup,Czechia,Mexico,,1X2,AWAY,0,1.91,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,910
 2026-06-25,FIFA World Cup,Czechia,Mexico,,AH,AWAY,0.5,1.92,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,920
 2026-06-25,FIFA World Cup,Czechia,Mexico,,OU,OVER,2.5,2.08,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,WON,1080
+2026-06-25,FIFA World Cup,South Africa,South Korea,,OU,OVER,2.25,1.82,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
+2026-06-25,FIFA World Cup,South Africa,South Korea,,AH,AWAY,0.75,1.82,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
+2026-06-25,FIFA World Cup,South Africa,South Korea,,AH,AWAY,1,1.83,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
+2026-06-25,FIFA World Cup,South Africa,South Korea,,OU,OVER,2.5,2.06,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
+2026-06-25,FIFA World Cup,South Africa,South Korea,,AH,AWAY,1,2.08,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
+2026-06-25,FIFA World Cup,Czechia,Mexico,,1X2,AWAY,0,2,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,WON,1000
 2026-06-25,FIFA World Cup,Czechia,Mexico,,AH,HOME,0.5,2,10,0-0,oddsflow_worldcup_full,APIFOOTBALL,200,LOST,-200
 2026-06-25,FIFA World Cup,South Africa,South Korea,,AH,AWAY,1,2.75,10,0-0,oddsflow_worldcup_full,APIFOOTBALL,200,LOST,-200
 2026-06-25,FIFA World Cup,Czechia,Mexico,,AH,HOME,0.5,2.07,10,0-0,oddsflow_worldcup_full,HGA,1000,LOST,-1000
+2026-06-25,FIFA World Cup,Ecuador,Germany,,OU,OVER,2.5,1.67,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,670
 2026-06-25,FIFA World Cup,Curaçao,Ivory Coast,,OU,OVER,3.25,1.92,0,0-0,oddsflow_worldcup_prematch,HGA,1600,LOST,-1600
 2026-06-25,FIFA World Cup,Curaçao,Ivory Coast,,OU,OVER,3.5,2.2,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
 2026-06-25,FIFA World Cup,Curaçao,Ivory Coast,,AH,AWAY,2.25,2.04,0,0-0,oddsflow_worldcup_prematch,NOVA88,2000,HALF_LOST,-1000
@@ -921,7 +922,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-06-25,FIFA World Cup,Curaçao,Ivory Coast,,AH,AWAY,2.25,2.02,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,2000,HALF_LOST,-1000
 2026-06-25,FIFA World Cup,Curaçao,Ivory Coast,,AH,AWAY,2.25,2.02,0,0-0,oddsflow_worldcup_prematch,HGA,2000,HALF_LOST,-1000
 2026-06-25,FIFA World Cup,Ecuador,Germany,,AH,AWAY,1,1.92,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
-2026-06-25,FIFA World Cup,Ecuador,Germany,,OU,OVER,2.5,1.67,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,670
 2026-06-25,FIFA World Cup,Ecuador,Germany,,OU,OVER,3,2.07,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,VOID,0
 2026-06-25,FIFA World Cup,Ecuador,Germany,,AH,AWAY,1,2.03,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
 2026-06-25,FIFA World Cup,Ecuador,Germany,,AH,AWAY,1,2.07,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
@@ -939,19 +939,19 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-06-25,FIFA World Cup,Ecuador,Germany,,AH,AWAY,0,1.7,77,1-1,oddsflow_worldcup_sniper,APIFOOTBALL,1000,LOST,-1000
 2026-06-25,FIFA World Cup,Ecuador,Germany,,AH,AWAY,0,2.21,77,1-1,oddsflow_worldcup_sniper,NOVA88,2813,LOST,-2813
 2026-06-25,FIFA World Cup,Ecuador,Germany,,AH,AWAY,0,1.77,77,1-1,oddsflow_worldcup_sniper,HGA,2376,LOST,-2376
+2026-06-25,FIFA World Cup,Japan,Sweden,,OU,UNDER,2.5,2,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,WON,1000
+2026-06-25,FIFA World Cup,Japan,Sweden,,AH,HOME,-0.5,1.99,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
 2026-06-25,FIFA World Cup,Japan,Sweden,,OU,UNDER,2.5,1.99,0,0-0,oddsflow_worldcup_prematch,HGA,1000,WON,990
-2026-06-25,FIFA World Cup,Tunisia,Netherlands,,OU,OVER,3.5,2,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1100,WON,1100
+2026-06-25,FIFA World Cup,Japan,Sweden,,OU,UNDER,2.5,1.91,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,910
 2026-06-25,FIFA World Cup,Tunisia,Netherlands,,OU,OVER,3.25,1.86,0,0-0,oddsflow_worldcup_prematch,NOVA88,1500,WON,1290
 2026-06-25,FIFA World Cup,Tunisia,Netherlands,,OU,OVER,3.25,1.85,0,0-0,oddsflow_worldcup_prematch,HGA,1500,WON,1275
 2026-06-25,FIFA World Cup,Tunisia,Netherlands,,AH,AWAY,2.75,1.98,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1700,LOST,-1700
-2026-06-25,FIFA World Cup,Japan,Sweden,,1X2,HOME,0,1.91,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
-2026-06-25,FIFA World Cup,Japan,Sweden,,AH,HOME,-0.5,1.92,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
-2026-06-25,FIFA World Cup,Japan,Sweden,,OU,UNDER,2.5,1.91,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,910
-2026-06-25,FIFA World Cup,Japan,Sweden,,1X2,HOME,0,1.99,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
-2026-06-25,FIFA World Cup,Japan,Sweden,,OU,UNDER,2.5,2,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,WON,1000
-2026-06-25,FIFA World Cup,Japan,Sweden,,AH,HOME,-0.5,1.99,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
 2026-06-25,FIFA World Cup,Japan,Sweden,,AH,HOME,-0.5,1.95,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
 2026-06-25,FIFA World Cup,Japan,Sweden,,1X2,HOME,0,1.95,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
+2026-06-25,FIFA World Cup,Tunisia,Netherlands,,OU,OVER,3.5,2,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1100,WON,1100
+2026-06-25,FIFA World Cup,Japan,Sweden,,AH,HOME,-0.5,1.92,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
+2026-06-25,FIFA World Cup,Japan,Sweden,,1X2,HOME,0,1.91,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
+2026-06-25,FIFA World Cup,Japan,Sweden,,1X2,HOME,0,1.99,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
 2026-06-25,FIFA World Cup,Tunisia,Netherlands,,AH,HOME,1.5,2.075,19,0-2,oddsflow_worldcup_full,APIFOOTBALL,200,WON,215
 2026-06-25,FIFA World Cup,Japan,Sweden,,AH,HOME,-0.5,2.425,23,0-0,oddsflow_worldcup_full,APIFOOTBALL,200,LOST,-200
 2026-06-25,FIFA World Cup,Japan,Sweden,,AH,HOME,-0.5,2.425,35,0-0,oddsflow_worldcup_sniper,APIFOOTBALL,1000,LOST,-1000
@@ -965,36 +965,36 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-06-25,FIFA World Cup,Japan,Sweden,,AH,AWAY,0,2.1,62,1-0,oddsflow_worldcup_sniper,APIFOOTBALL,1000,WON,1100
 2026-06-25,FIFA World Cup,Japan,Sweden,,AH,AWAY,0,2.13,62,1-0,oddsflow_worldcup_sniper,HGA,1000,WON,1130
 2026-06-25,FIFA World Cup,Japan,Sweden,,OU,OVER,2.5,1.571,63,1-1,oddsflow_worldcup_sniper,APIFOOTBALL,1000,LOST,-1000
-2026-06-26,FIFA World Cup,Türkiye,USA,,OU,OVER,2.5,1.67,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,670
-2026-06-26,FIFA World Cup,Türkiye,USA,,OU,OVER,3,2.03,0,0-0,oddsflow_worldcup_prematch,HGA,1000,WON,1030
-2026-06-26,FIFA World Cup,Türkiye,USA,,AH,AWAY,0.5,1.88,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
+2026-06-26,FIFA World Cup,Paraguay,Australia,,AH,AWAY,-0.25,1.85,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,HALF_WON,425
+2026-06-26,FIFA World Cup,Paraguay,Australia,,AH,AWAY,-0.25,1.65,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,HALF_WON,325
+2026-06-26,FIFA World Cup,Paraguay,Australia,,OU,UNDER,1.75,1.92,0,0-0,oddsflow_worldcup_prematch,HGA,1000,WON,920
+2026-06-26,FIFA World Cup,Paraguay,Australia,,1X2,HOME,0,2.62,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
+2026-06-26,FIFA World Cup,Paraguay,Australia,,OU,UNDER,1.75,1.92,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,WON,920
 2026-06-26,FIFA World Cup,Paraguay,Australia,,1X2,HOME,0,2.63,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
+2026-06-26,FIFA World Cup,Paraguay,Australia,,1X2,HOME,0,2.61,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
+2026-06-26,FIFA World Cup,Paraguay,Australia,,AH,AWAY,-0.25,1.83,0,0-0,oddsflow_worldcup_prematch,HGA,1000,HALF_WON,415
+2026-06-26,FIFA World Cup,Paraguay,Australia,,OU,UNDER,1.5,2.2,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,1200
+2026-06-26,FIFA World Cup,Paraguay,Australia,,AH,AWAY,0,2.25,16,0-0,oddsflow_worldcup_full,APIFOOTBALL,200,VOID,0
+2026-06-26,FIFA World Cup,Paraguay,Australia,,AH,AWAY,0,2.4,35,0-0,oddsflow_worldcup_sniper,APIFOOTBALL,1000,VOID,0
+2026-06-26,FIFA World Cup,Paraguay,Australia,,OU,OVER,0.5,1.8,35,0-0,oddsflow_worldcup_sniper,APIFOOTBALL,1000,LOST,-1000
+2026-06-26,FIFA World Cup,Paraguay,Australia,,AH,AWAY,0,2.38,35,0-0,oddsflow_worldcup_sniper,NOVA88,1742,VOID,0
+2026-06-26,FIFA World Cup,Paraguay,Australia,,OU,OVER,0.75,2.08,35,0-0,oddsflow_worldcup_sniper,NOVA88,1900,LOST,-1900
+2026-06-26,FIFA World Cup,Paraguay,Australia,,OU,OVER,0.75,2.07,35,0-0,oddsflow_worldcup_sniper,HGA,1888,LOST,-1888
+2026-06-26,FIFA World Cup,Paraguay,Australia,,OU,OVER,0.5,2,50,0-0,oddsflow_worldcup_full,APIFOOTBALL,500,LOST,-500
 2026-06-26,FIFA World Cup,Türkiye,USA,,OU,OVER,3,2.04,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,WON,1040
 2026-06-26,FIFA World Cup,Türkiye,USA,,AH,AWAY,0.5,1.84,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
 2026-06-26,FIFA World Cup,Türkiye,USA,,1X2,AWAY,0,1.84,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
 2026-06-26,FIFA World Cup,Türkiye,USA,,AH,AWAY,0.5,1.92,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
 2026-06-26,FIFA World Cup,Türkiye,USA,,1X2,AWAY,0,1.91,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
 2026-06-26,FIFA World Cup,Türkiye,USA,,1X2,AWAY,0,1.88,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
-2026-06-26,FIFA World Cup,Paraguay,Australia,,OU,UNDER,1.75,1.92,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,WON,920
-2026-06-26,FIFA World Cup,Paraguay,Australia,,1X2,HOME,0,2.62,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,LOST,-1000
-2026-06-26,FIFA World Cup,Paraguay,Australia,,OU,UNDER,1.75,1.92,0,0-0,oddsflow_worldcup_prematch,HGA,1000,WON,920
-2026-06-26,FIFA World Cup,Paraguay,Australia,,AH,AWAY,-0.25,1.65,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,HALF_WON,325
-2026-06-26,FIFA World Cup,Paraguay,Australia,,AH,AWAY,-0.25,1.85,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,HALF_WON,425
-2026-06-26,FIFA World Cup,Paraguay,Australia,,1X2,HOME,0,2.61,0,0-0,oddsflow_worldcup_prematch,HGA,1000,LOST,-1000
-2026-06-26,FIFA World Cup,Paraguay,Australia,,AH,AWAY,-0.25,1.83,0,0-0,oddsflow_worldcup_prematch,HGA,1000,HALF_WON,415
-2026-06-26,FIFA World Cup,Paraguay,Australia,,OU,UNDER,1.5,2.2,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,1200
+2026-06-26,FIFA World Cup,Türkiye,USA,,OU,OVER,2.5,1.67,0,0-0,oddsflow_worldcup_prematch,APIFOOTBALL,1000,WON,670
+2026-06-26,FIFA World Cup,Türkiye,USA,,OU,OVER,3,2.03,0,0-0,oddsflow_worldcup_prematch,HGA,1000,WON,1030
+2026-06-26,FIFA World Cup,Türkiye,USA,,AH,AWAY,0.5,1.88,0,0-0,oddsflow_worldcup_prematch,NOVA88,1000,LOST,-1000
 2026-06-26,FIFA World Cup,Türkiye,USA,,AH,AWAY,0.5,2.15,10,0-1,oddsflow_worldcup_full,APIFOOTBALL,200,LOST,-200
-2026-06-26,FIFA World Cup,Paraguay,Australia,,AH,AWAY,0,2.25,16,0-0,oddsflow_worldcup_full,APIFOOTBALL,200,VOID,0
-2026-06-26,FIFA World Cup,Paraguay,Australia,,AH,AWAY,0,2.4,35,0-0,oddsflow_worldcup_sniper,APIFOOTBALL,1000,VOID,0
 2026-06-26,FIFA World Cup,Türkiye,USA,,1X2,AWAY,0,4.333,35,2-1,oddsflow_worldcup_sniper,APIFOOTBALL,1000,LOST,-1000
-2026-06-26,FIFA World Cup,Paraguay,Australia,,OU,OVER,0.5,1.8,35,0-0,oddsflow_worldcup_sniper,APIFOOTBALL,1000,LOST,-1000
-2026-06-26,FIFA World Cup,Paraguay,Australia,,AH,AWAY,0,2.38,35,0-0,oddsflow_worldcup_sniper,NOVA88,1742,VOID,0
 2026-06-26,FIFA World Cup,Türkiye,USA,,1X2,AWAY,0,4.5,35,2-1,oddsflow_worldcup_sniper,HGA,1000,LOST,-1000
-2026-06-26,FIFA World Cup,Paraguay,Australia,,OU,OVER,0.75,2.08,35,0-0,oddsflow_worldcup_sniper,NOVA88,1900,LOST,-1900
-2026-06-26,FIFA World Cup,Paraguay,Australia,,OU,OVER,0.75,2.07,35,0-0,oddsflow_worldcup_sniper,HGA,1888,LOST,-1888
 2026-06-26,FIFA World Cup,Türkiye,USA,,OU,UNDER,4.5,2.3,42,2-1,oddsflow_worldcup_sniper,APIFOOTBALL,1000,LOST,-1000
 2026-06-26,FIFA World Cup,Türkiye,USA,,AH,AWAY,0.5,2.15,44,2-1,oddsflow_worldcup_sniper,APIFOOTBALL,1000,LOST,-1000
-2026-06-26,FIFA World Cup,Paraguay,Australia,,OU,OVER,0.5,2,50,0-0,oddsflow_worldcup_full,APIFOOTBALL,500,LOST,-500
 2026-06-26,FIFA World Cup,Türkiye,USA,,1X2,DRAW,0,2.75,52,2-2,oddsflow_worldcup_sniper,APIFOOTBALL,1000,LOST,-1000
 2026-06-26,FIFA World Cup,Türkiye,USA,,1X2,DRAW,0,2.62,52,2-2,oddsflow_worldcup_sniper,NOVA88,1000,LOST,-1000
 2026-06-26,FIFA World Cup,Türkiye,USA,,1X2,DRAW,0,2.83,52,2-2,oddsflow_worldcup_sniper,HGA,1000,LOST,-1000
