@@ -675,11 +675,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-03-21,Bundesliga,1. FC Köln,Borussia Mönchengladbach,,OU,OVER,5.5,2.1,60,2-3,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,550
 2026-03-21,Bundesliga,1. FC Heidenheim,Bayer Leverkusen,,1X2,DRAW,0,4.333,73,2-2,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,1666.5
 2026-03-21,Bundesliga,1. FC Heidenheim,Bayer Leverkusen,,1X2,DRAW,0,4,74,2-2,oddsflow_active_trader,APIFOOTBALL,500,WON,1500
-2026-03-21,La Liga,Espanyol,Getafe,,AH,AWAY,0,2.6,48,0-1,oddsflow_active_trader,APIFOOTBALL,642,VOID,0
-2026-03-21,La Liga,Espanyol,Getafe,,OU,OVER,1.5,2.2,48,0-1,oddsflow_active_trader,APIFOOTBALL,561,WON,673.2
-2026-03-21,La Liga,Espanyol,Getafe,,AH,AWAY,0,2.3,48,0-1,oddsflow_handicap_sniper,APIFOOTBALL,715,VOID,0
-2026-03-21,La Liga,Espanyol,Getafe,,AH,HOME,0.5,2.375,48,0-1,oddsflow_active_trader,APIFOOTBALL,500,WON,687.5
-2026-03-21,La Liga,Espanyol,Getafe,,AH,HOME,0.5,2.375,49,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,687.5
 2026-03-21,Premier League,Fulham,Burnley,,OU,OVER,1.5,2.5,60,0-1,oddsflow_active_trader,APIFOOTBALL,500,WON,750
 2026-03-21,Premier League,Fulham,Burnley,,AH,HOME,0.5,1.725,60,0-1,oddsflow_handicap_sniper,APIFOOTBALL,740,WON,536.5
 2026-03-21,Premier League,Fulham,Burnley,,1X2,AWAY,0,2.1,60,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
@@ -688,6 +683,11 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-03-21,Premier League,Fulham,Burnley,,1X2,HOME,0,2.3,74,2-1,oddsflow_active_trader,APIFOOTBALL,500,WON,650
 2026-03-21,Premier League,Fulham,Burnley,,1X2,HOME,0,2.3,74,2-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,650
 2026-03-21,Premier League,Fulham,Burnley,,1X2,HOME,0,2.4,74,2-1,oddsflow_beta,APIFOOTBALL,500,WON,700
+2026-03-21,La Liga,Espanyol,Getafe,,AH,AWAY,0,2.6,48,0-1,oddsflow_active_trader,APIFOOTBALL,642,VOID,0
+2026-03-21,La Liga,Espanyol,Getafe,,OU,OVER,1.5,2.2,48,0-1,oddsflow_active_trader,APIFOOTBALL,561,WON,673.2
+2026-03-21,La Liga,Espanyol,Getafe,,AH,AWAY,0,2.3,48,0-1,oddsflow_handicap_sniper,APIFOOTBALL,715,VOID,0
+2026-03-21,La Liga,Espanyol,Getafe,,AH,HOME,0.5,2.375,48,0-1,oddsflow_active_trader,APIFOOTBALL,500,WON,687.5
+2026-03-21,La Liga,Espanyol,Getafe,,AH,HOME,0.5,2.375,49,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,687.5
 2026-03-21,Ligue 1,Toulouse,Lorient,,AH,AWAY,-0.5,1.95,25,0-0,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
 2026-03-21,Ligue 1,Toulouse,Lorient,,AH,AWAY,-0.5,1.925,25,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
 2026-03-21,Ligue 1,Toulouse,Lorient,,1X2,DRAW,0,3.1,29,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
@@ -778,11 +778,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-03-22,La Liga,Barcelona,Rayo Vallecano,,AH,AWAY,-1.5,2.1,25,1-0,oddsflow_active_trader,APIFOOTBALL,723,WON,795.3
 2026-03-22,La Liga,Barcelona,Rayo Vallecano,,AH,AWAY,-1.5,2.1,25,1-0,oddsflow_handicap_sniper,APIFOOTBALL,706,WON,776.6
 2026-03-22,La Liga,Barcelona,Rayo Vallecano,,AH,AWAY,-1.5,2.1,25,1-0,oddsflow_beta,APIFOOTBALL,709,WON,779.9
-2026-03-22,Ligue 1,Lyon,Monaco,,AH,AWAY,0,1.975,25,0-0,oddsflow_active_trader,APIFOOTBALL,500,WON,487.5
 2026-03-22,Serie A,Atalanta,Hellas Verona,,AH,AWAY,-1,2.3,25,0-0,oddsflow_beta,APIFOOTBALL,937,VOID,0
 2026-03-22,Serie A,Atalanta,Hellas Verona,,1X2,DRAW,0,4,25,0-0,oddsflow_beta,APIFOOTBALL,500,LOST,-500
-2026-03-22,Ligue 1,Lyon,Monaco,,AH,AWAY,0,2,25,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,500
-2026-03-22,Ligue 1,Lyon,Monaco,,1X2,HOME,0,2.6,25,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
 2026-03-22,Serie A,Atalanta,Hellas Verona,,AH,AWAY,-1,2.3,25,0-0,oddsflow_handicap_sniper,APIFOOTBALL,934,VOID,0
 2026-03-22,Serie A,Atalanta,Hellas Verona,,1X2,DRAW,0,4,25,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
 2026-03-22,Serie A,Atalanta,Hellas Verona,,AH,AWAY,-1,2.3,25,0-0,oddsflow_active_trader,APIFOOTBALL,946,VOID,0
@@ -793,17 +790,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-03-22,Serie A,Bologna,Lazio,,1X2,HOME,0,2.375,25,0-0,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
 2026-03-22,Serie A,Bologna,Lazio,,1X2,DRAW,0,2.875,27,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
 2026-03-22,Serie A,Bologna,Lazio,,1X2,DRAW,0,2.875,33,0-0,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
-2026-03-22,Ligue 1,Lyon,Monaco,,1X2,DRAW,0,3.1,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
-2026-03-22,Ligue 1,Lyon,Monaco,,AH,AWAY,0,1.825,37,0-0,oddsflow_beta,APIFOOTBALL,500,WON,412.5
-2026-03-22,Ligue 1,Lyon,Monaco,,1X2,DRAW,0,3.1,37,0-0,oddsflow_beta,APIFOOTBALL,500,LOST,-500
-2026-03-22,Ligue 1,Lyon,Monaco,,AH,AWAY,-0.5,2.35,41,0-0,oddsflow_beta,APIFOOTBALL,500,WON,675
-2026-03-22,Ligue 1,Lyon,Monaco,,AH,AWAY,-0.5,2.35,41,0-0,oddsflow_active_trader,APIFOOTBALL,500,WON,675
-2026-03-22,Ligue 1,Lyon,Monaco,,AH,AWAY,-0.5,2.35,41,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,675
-2026-03-22,Ligue 1,Lyon,Monaco,,1X2,HOME,0,1.571,42,1-0,oddsflow_beta,APIFOOTBALL,500,LOST,-500
-2026-03-22,Ligue 1,Lyon,Monaco,,1X2,HOME,0,1.571,42,1-0,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
-2026-03-22,Ligue 1,Lyon,Monaco,,AH,AWAY,-1,1.7,42,1-0,oddsflow_active_trader,APIFOOTBALL,948,WON,663.6
-2026-03-22,Ligue 1,Lyon,Monaco,,AH,AWAY,-1,1.7,42,1-0,oddsflow_handicap_sniper,APIFOOTBALL,932,WON,652.4
-2026-03-22,Ligue 1,Lyon,Monaco,,AH,AWAY,-1,1.7,42,1-0,oddsflow_beta,APIFOOTBALL,958,WON,670.6
 2026-03-22,Serie A,Atalanta,Hellas Verona,,AH,AWAY,-1.5,1.925,47,1-0,oddsflow_active_trader,APIFOOTBALL,929,WON,859.33
 2026-03-22,Serie A,Atalanta,Hellas Verona,,AH,AWAY,-1.5,1.925,47,1-0,oddsflow_beta,APIFOOTBALL,926,WON,856.55
 2026-03-22,Serie A,Atalanta,Hellas Verona,,AH,AWAY,-1.5,1.925,47,1-0,oddsflow_handicap_sniper,APIFOOTBALL,923,WON,853.78
@@ -814,15 +800,26 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-03-22,Serie A,Atalanta,Hellas Verona,,OU,OVER,1.5,1.666,52,1-0,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
 2026-03-22,Serie A,Atalanta,Hellas Verona,,1X2,HOME,0,1.571,52,1-0,oddsflow_active_trader,APIFOOTBALL,500,WON,285.5
 2026-03-22,Serie A,Bologna,Lazio,,AH,AWAY,-1,1.7,53,0-0,oddsflow_active_trader,APIFOOTBALL,959,WON,671.3
-2026-03-22,Ligue 1,Lyon,Monaco,,OU,OVER,2.5,2.375,62,1-1,oddsflow_active_trader,APIFOOTBALL,500,WON,687.5
-2026-03-22,Ligue 1,Lyon,Monaco,,1X2,DRAW,0,3.1,62,1-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
-2026-03-22,Ligue 1,Lyon,Monaco,,OU,OVER,2.5,1.909,63,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,454.5
 2026-03-22,Serie A,Bologna,Lazio,,AH,AWAY,-1,1.7,62,0-0,oddsflow_handicap_sniper,APIFOOTBALL,1049,WON,734.3
 2026-03-22,Serie A,Bologna,Lazio,,AH,AWAY,-0.5,2.6,68,0-0,oddsflow_active_trader,APIFOOTBALL,505,WON,808
+2026-03-22,Ligue 1,Lyon,Monaco,,AH,AWAY,0,1.975,25,0-0,oddsflow_active_trader,APIFOOTBALL,500,WON,487.5
+2026-03-22,Ligue 1,Lyon,Monaco,,AH,AWAY,0,2,25,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,500
+2026-03-22,Ligue 1,Lyon,Monaco,,1X2,HOME,0,2.6,25,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
+2026-03-22,Ligue 1,Lyon,Monaco,,1X2,DRAW,0,3.1,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
+2026-03-22,Ligue 1,Lyon,Monaco,,AH,AWAY,0,1.825,37,0-0,oddsflow_beta,APIFOOTBALL,500,WON,412.5
+2026-03-22,Ligue 1,Lyon,Monaco,,1X2,DRAW,0,3.1,37,0-0,oddsflow_beta,APIFOOTBALL,500,LOST,-500
 2026-03-22,Premier League,Aston Villa,West Ham,,AH,AWAY,-1,2.75,25,1-0,oddsflow_active_trader,APIFOOTBALL,694,VOID,0
 2026-03-22,Premier League,Aston Villa,West Ham,,AH,AWAY,-1,2.75,25,1-0,oddsflow_handicap_sniper,APIFOOTBALL,678,VOID,0
+2026-03-22,Ligue 1,Lyon,Monaco,,AH,AWAY,-0.5,2.35,41,0-0,oddsflow_beta,APIFOOTBALL,500,WON,675
+2026-03-22,Ligue 1,Lyon,Monaco,,AH,AWAY,-0.5,2.35,41,0-0,oddsflow_active_trader,APIFOOTBALL,500,WON,675
+2026-03-22,Ligue 1,Lyon,Monaco,,AH,AWAY,-0.5,2.35,41,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,675
 2026-03-22,Premier League,Tottenham Hotspur,Nottingham Forest,,AH,AWAY,0,2.2,25,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,600
+2026-03-22,Ligue 1,Lyon,Monaco,,1X2,HOME,0,1.571,42,1-0,oddsflow_beta,APIFOOTBALL,500,LOST,-500
+2026-03-22,Ligue 1,Lyon,Monaco,,1X2,HOME,0,1.571,42,1-0,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
 2026-03-22,Premier League,Tottenham Hotspur,Nottingham Forest,,AH,AWAY,0,2.2,25,0-0,oddsflow_active_trader,APIFOOTBALL,500,WON,600
+2026-03-22,Ligue 1,Lyon,Monaco,,AH,AWAY,-1,1.7,42,1-0,oddsflow_active_trader,APIFOOTBALL,948,WON,663.6
+2026-03-22,Ligue 1,Lyon,Monaco,,AH,AWAY,-1,1.7,42,1-0,oddsflow_handicap_sniper,APIFOOTBALL,932,WON,652.4
+2026-03-22,Ligue 1,Lyon,Monaco,,AH,AWAY,-1,1.7,42,1-0,oddsflow_beta,APIFOOTBALL,958,WON,670.6
 2026-03-22,Premier League,Aston Villa,West Ham,,AH,AWAY,-1,2.75,27,1-0,oddsflow_beta,APIFOOTBALL,688,VOID,0
 2026-03-22,Premier League,Aston Villa,West Ham,,AH,AWAY,-0.5,2,29,1-0,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
 2026-03-22,Premier League,Aston Villa,West Ham,,1X2,HOME,0,1.833,29,1-0,oddsflow_handicap_sniper,APIFOOTBALL,824,WON,686.39
@@ -848,6 +845,9 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-03-22,Premier League,Tottenham Hotspur,Nottingham Forest,,1X2,AWAY,0,1.666,46,0-1,oddsflow_active_trader,APIFOOTBALL,500,WON,333
 2026-03-22,Premier League,Tottenham Hotspur,Nottingham Forest,,OU,OVER,1.5,1.666,48,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,333
 2026-03-22,Premier League,Tottenham Hotspur,Nottingham Forest,,OU,OVER,1.5,1.666,49,0-1,oddsflow_active_trader,APIFOOTBALL,500,WON,333
+2026-03-22,Ligue 1,Lyon,Monaco,,OU,OVER,2.5,2.375,62,1-1,oddsflow_active_trader,APIFOOTBALL,500,WON,687.5
+2026-03-22,Ligue 1,Lyon,Monaco,,1X2,DRAW,0,3.1,62,1-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
+2026-03-22,Ligue 1,Lyon,Monaco,,OU,OVER,2.5,1.909,63,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,454.5
 2026-03-22,La Liga,Celta Vigo,Alaves,,AH,AWAY,-1,2.25,25,1-0,oddsflow_active_trader,APIFOOTBALL,724,WON,905
 2026-03-22,La Liga,Celta Vigo,Alaves,,AH,AWAY,-1,2.2,25,1-0,oddsflow_handicap_sniper,APIFOOTBALL,734,WON,880.8
 2026-03-22,La Liga,Celta Vigo,Alaves,,OU,OVER,2.5,2.1,27,1-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,550

@@ -1000,7 +1000,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-24,Brasileirão Série B,Botafogo SP,Juventude,,AH,AWAY,0,2,16,1-0,oddsflow_core_strategy,APIFOOTBALL,6,LOST,-6
 2026-07-24,Brasileirão Série B,Botafogo SP,Juventude,,AH,AWAY,0,2,16,1-0,oddsflow_core_strategy,NOVA88,50,LOST,-50
 2026-07-24,Brasileirão Série B,Botafogo SP,Juventude,,AH,AWAY,0,1.94,16,1-0,oddsflow_core_strategy,HGA,100,LOST,-100
-2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,AH,AWAY,0.5,2.35,26,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,270
 2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,AH,AWAY,0,1.9,26,0-1,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
 2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,AH,AWAY,0,1.96,26,0-1,oddsflow_core_strategy,NOVA88,50,LOST,-50
 2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,AH,AWAY,0,1.725,35,1-1,oddsflow_active_trader,APIFOOTBALL,803,LOST,-803
@@ -1010,6 +1009,22 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,DRAW,0,2.81,35,1-1,oddsflow_active_trader,NOVA88,15,LOST,-15
 2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,3.75,2,35,1-1,oddsflow_active_trader,HGA,100,LOST,-100
 2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,DRAW,0,3,35,1-1,oddsflow_active_trader,HGA,50,LOST,-50
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,AH,AWAY,0,1.7,36,1-1,oddsflow_handicap_sniper,APIFOOTBALL,821,LOST,-821
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,3.5,2.1,36,1-1,oddsflow_handicap_sniper,APIFOOTBALL,664,LOST,-664
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,DRAW,0,2.875,36,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,3.75,1.87,36,1-1,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,3.75,1.88,36,1-1,oddsflow_handicap_sniper,HGA,100,LOST,-100
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,DRAW,0,2.76,36,1-1,oddsflow_handicap_sniper,NOVA88,29,LOST,-29
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,DRAW,0,3,36,1-1,oddsflow_handicap_sniper,HGA,68,LOST,-68
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.571,44,2-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,285.5
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.571,44,2-1,oddsflow_active_trader,APIFOOTBALL,500,WON,285.5
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.63,44,2-1,oddsflow_handicap_sniper,NOVA88,23,WON,14.49
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.63,44,2-1,oddsflow_active_trader,NOVA88,15,WON,9.45
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.64,44,2-1,oddsflow_handicap_sniper,HGA,50,WON,32
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.64,44,2-1,oddsflow_active_trader,HGA,50,WON,32
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,4.5,1.727,47,2-1,oddsflow_active_trader,APIFOOTBALL,543,LOST,-543
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,4.5,1.727,47,2-1,oddsflow_handicap_sniper,APIFOOTBALL,533,LOST,-533
+2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,AH,AWAY,0.5,2.35,26,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,270
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,OU,UNDER,1.5,2,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,590,LOST,-590
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,1X2,DRAW,0,2.75,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,OU,UNDER,1.5,2.01,35,0-0,oddsflow_handicap_sniper,NOVA88,48,LOST,-48
@@ -1022,25 +1037,10 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,OU,UNDER,1.5,2.02,35,0-0,oddsflow_active_trader,HGA,98,LOST,-98
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,1X2,DRAW,0,2.66,35,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,1X2,DRAW,0,2.66,35,0-0,oddsflow_active_trader,HGA,50,LOST,-50
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,AH,AWAY,0,1.7,36,1-1,oddsflow_handicap_sniper,APIFOOTBALL,821,LOST,-821
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,3.5,2.1,36,1-1,oddsflow_handicap_sniper,APIFOOTBALL,664,LOST,-664
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,DRAW,0,2.875,36,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,3.75,1.87,36,1-1,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,3.75,1.88,36,1-1,oddsflow_handicap_sniper,HGA,100,LOST,-100
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,DRAW,0,2.76,36,1-1,oddsflow_handicap_sniper,NOVA88,29,LOST,-29
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,DRAW,0,3,36,1-1,oddsflow_handicap_sniper,HGA,68,LOST,-68
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,AH,AWAY,0,1.7,37,0-0,oddsflow_handicap_sniper,APIFOOTBALL,785,WON,549.5
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,AH,AWAY,0,1.7,37,0-0,oddsflow_active_trader,APIFOOTBALL,784,WON,548.8
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.571,44,2-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,285.5
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.571,44,2-1,oddsflow_active_trader,APIFOOTBALL,500,WON,285.5
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.63,44,2-1,oddsflow_handicap_sniper,NOVA88,23,WON,14.49
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.63,44,2-1,oddsflow_active_trader,NOVA88,15,WON,9.45
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.64,44,2-1,oddsflow_handicap_sniper,HGA,50,WON,32
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.64,44,2-1,oddsflow_active_trader,HGA,50,WON,32
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,OU,UNDER,2.5,1.666,43,0-1,oddsflow_handicap_sniper,APIFOOTBALL,508,WON,338.33
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,OU,UNDER,2.5,1.666,43,0-1,oddsflow_active_trader,APIFOOTBALL,500,WON,333
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,4.5,1.727,47,2-1,oddsflow_active_trader,APIFOOTBALL,543,LOST,-543
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,4.5,1.727,47,2-1,oddsflow_handicap_sniper,APIFOOTBALL,533,LOST,-533
 2026-07-25,Brasileirão Série A,Atletico Paranaense,Internacional,,AH,HOME,-0.5,2.08,10,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,216
 2026-07-25,Brasileirão Série A,Atletico Paranaense,Internacional,,AH,HOME,-0.5,2.08,10,0-0,oddsflow_core_strategy,NOVA88,50,WON,54
 2026-07-25,Brasileirão Série A,Atletico Paranaense,Internacional,,AH,HOME,-0.5,2.04,10,0-0,oddsflow_core_strategy,HGA,100,WON,104
@@ -1130,8 +1130,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-26,Brasileirão Série A,Cruzeiro,Botafogo,,1X2,AWAY,0,4,52,0-1,oddsflow_handicap_sniper,NOVA88,50,WON,150
 2026-07-26,Brasileirão Série A,Bahia,Corinthians,,OU,OVER,3.5,2.375,46,1-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
 2026-07-26,Brasileirão Série A,Bahia,Corinthians,,OU,OVER,3.5,2.375,46,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
-2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,OU,UNDER,3.5,2.375,59,1-1,oddsflow_handicap_sniper,APIFOOTBALL,4,LOST,-4
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,OU,UNDER,3.5,2.375,59,1-1,oddsflow_active_trader,APIFOOTBALL,4,LOST,-4
+2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,OU,UNDER,3.5,2.375,59,1-1,oddsflow_handicap_sniper,APIFOOTBALL,4,LOST,-4
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,OU,UNDER,2,1.94,59,1-1,oddsflow_active_trader,NOVA88,50,LOST,-50
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,OU,UNDER,2,1.94,59,1-1,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,OU,UNDER,4.5,2,62,2-1,oddsflow_handicap_sniper,APIFOOTBALL,4,LOST,-4
