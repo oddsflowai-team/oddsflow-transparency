@@ -3033,7 +3033,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-15,Championship,Charlton,Derby,,AH,AWAY,0,2.3,62,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-15,Championship,Charlton,Derby,,1X2,DRAW,0,2,62,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-15,Championship,Charlton,Derby,,OU,OVER,2.75,2,66,1-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,25
-2026-08-15,Club Friendlies,Tottenham Hotspur,Hoffenheim,,AH,AWAY,-0.5,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-15,League One,Huddersfield,AFC Wimbledon,,AH,AWAY,-1.5,2.025,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-15,League One,Burton Albion,Stevenage,,AH,AWAY,0,1.8,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-15,Club Friendlies,Brighton,Bologna,,AH,AWAY,-1,1.825,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
@@ -3098,6 +3097,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-15,Primeira Liga,Alverca,Estrela,,AH,AWAY,-1,2.425,67,2-1,oddsflow_handicap_sniper,APIFOOTBALL,76,WON,108.3
 2026-08-15,Primeira Liga,Alverca,Estrela,,AH,AWAY,-1,2.425,67,2-1,oddsflow_active_trader,APIFOOTBALL,76,WON,108.3
 2026-08-15,Primeira Liga,Alverca,Estrela,,OU,OVER,3.75,2.025,67,2-1,oddsflow_core_strategy,APIFOOTBALL,500,HALF_WON,256.25
+2026-08-15,Club Friendlies,Tottenham Hotspur,Hoffenheim,,AH,AWAY,0,2,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-08-15,Club Friendlies,Tottenham Hotspur,Hoffenheim,,AH,HOME,1,1.9,16,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
 2026-08-15,Club Friendlies,Fulham,VfB Stuttgart,,AH,AWAY,0,1.925,15,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-15,Czech Liga,Pardubice,Mlada Boleslav,,AH,AWAY,-1,2.025,17,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
 2026-08-15,Czech Liga,Sparta Prague,Teplice,,AH,AWAY,-1,1.9,26,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
@@ -3456,6 +3457,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-16,Brasileirão Série A,Sao Paulo,Coritiba,,AH,AWAY,-0.5,2.025,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
 2026-08-16,Chilean Primera División,Everton de Vina,A. Italiano,,AH,HOME,0.5,1.8,18,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
 2026-08-16,Ecuadorian Liga Pro,Mushuc Runa SC,Barcelona SC,,AH,AWAY,0,2.05,23,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-08-16,Club Friendlies,Tottenham Hotspur,Hoffenheim,,AH,AWAY,-0.5,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-16,Major League Soccer,Nashville SC,Inter Miami,,AH,AWAY,0,1.975,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-16,Major League Soccer,Nashville SC,Inter Miami,,AH,AWAY,-1,2,17,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-16,Major League Soccer,Houston Dynamo,Los Angeles Galaxy,,AH,AWAY,-1.5,1.8,22,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
@@ -3493,8 +3495,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-16,K League 1,Incheon United,Gimcheon Sangmu FC,,AH,AWAY,0,2.3,21,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-16,K League 2,Gimpo Citizen,Cheonan City,,AH,AWAY,-1.5,2,30,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
 2026-08-16,Superettan,IFK Varnamo,Ostersunds FK,,AH,AWAY,0,1.925,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
-2026-08-16,Club Friendlies,Tottenham Hotspur,Hoffenheim,,AH,AWAY,0,2,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
-2026-08-16,Club Friendlies,Tottenham Hotspur,Hoffenheim,,AH,HOME,1,1.9,16,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
 2026-08-16,Superettan,IFK Varnamo,Ostersunds FK,,AH,AWAY,-0.5,2.025,28,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
 2026-08-16,Club Friendlies,Liverpool,Como,,AH,AWAY,-1,1.89,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,44.5
 2026-08-16,Club Friendlies,Liverpool,Como,,AH,AWAY,-1,1.89,10,0-0,oddsflow_core_strategy,NOVA88,50,WON,44.5
@@ -9477,7 +9477,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-29,NB I,Nyiregyhaza,Paks,,AH,AWAY,0,2.025,42,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-08-29,Damallsvenskan,AIK W,Kristianstad W,,OU,OVER,1.5,1.725,53,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-29,Damallsvenskan,AIK W,Kristianstad W,,OU,OVER,1.5,1.725,54,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-29,Ukrainian Premier League,Livyi Bereh,Karpaty,,AH,HOME,0.5,1.9,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
 2026-08-29,NB I,Nyiregyhaza,Paks,,OU,UNDER,1.5,2.15,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-29,NB I,Nyiregyhaza,Paks,,OU,UNDER,1.5,2.15,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-29,NB I,Nyiregyhaza,Paks,,OU,UNDER,1.5,2,49,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
@@ -9520,6 +9519,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-29,Allsvenskan,BK Hacken,Vasteras SK FK,,AH,AWAY,0,1.925,35,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
 2026-08-29,Allsvenskan,BK Hacken,Vasteras SK FK,,AH,AWAY,0,1.925,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,46.25
 2026-08-29,Allsvenskan,BK Hacken,Vasteras SK FK,,AH,AWAY,0,1.925,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,46.25
+2026-08-29,Ukrainian Premier League,Livyi Bereh,Karpaty,,AH,HOME,0.5,1.9,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
 2026-08-29,Liga I,Csikszereda,CFR Cluj,,1X2,HOME,0,3.6,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-29,Allsvenskan,BK Hacken,Vasteras SK FK,,AH,HOME,1,1.85,38,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,42.5
 2026-08-29,Allsvenskan,BK Hacken,Vasteras SK FK,,AH,HOME,1,1.95,38,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
