@@ -33,12 +33,12 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-05,Club Friendlies,Cultural Leonesa,Real Avilés,,AH,AWAY,0,1.775,17,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-05,Club Friendlies,Cultural Leonesa,Real Avilés,,AH,HOME,1,2,21,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
 2026-08-05,Polish Cup,Unia Skierniewice,Sokół Kleczew,,AH,AWAY,-1,2.075,11,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,53.75
+2026-08-05,Russian Cup,FC Krasnodar,Akhmat,,AH,AWAY,-0.5,1.85,11,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
 2026-08-05,UEFA Champions League,Aarhus,Sabah FA,,AH,AWAY,-1,2.25,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,6,WON,7.5
+2026-08-05,Russian Cup,Zenit,Baltika,,AH,AWAY,-1,2,12,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
 2026-08-05,UEFA Champions League,Aarhus,Sabah FA,,OU,OVER,2,2.05,59,1-0,oddsflow_core_strategy,APIFOOTBALL,500,WON,525
 2026-08-05,UEFA Champions League,Aarhus,Sabah FA,,AH,AWAY,-1,2.25,59,1-0,oddsflow_handicap_sniper,APIFOOTBALL,6,WON,7.5
 2026-08-05,UEFA Champions League,Aarhus,Sabah FA,,AH,AWAY,-1,1.825,75,2-1,oddsflow_core_strategy,APIFOOTBALL,8,WON,6.6
-2026-08-05,Russian Cup,FC Krasnodar,Akhmat,,AH,AWAY,-0.5,1.85,11,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
-2026-08-05,Russian Cup,Zenit,Baltika,,AH,AWAY,-1,2,12,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
 2026-08-05,Club Friendlies,Sassuolo,Celta Vigo,,AH,HOME,1,1.975,24,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-05,Club Friendlies,Cieza,Real Murcia,,AH,HOME,1.5,1.9,10,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-05,UEFA Champions League Women,Vllaznia W,Spartak Myjava W,,AH,AWAY,-0.5,1.825,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
@@ -234,10 +234,10 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-07,NB I,MTK Budapest,Puskas Academy,,1X2,DRAW,0,1.727,78,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-07,Belarusian Premier League,Slavia Mozyr,FC Dnepr Mogilev,,1X2,DRAW,0,2.64,36,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-07,Belarusian Premier League,Slavia Mozyr,FC Dnepr Mogilev,,AH,AWAY,0,2.12,44,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-08-07,Belarusian Premier League,Slavia Mozyr,FC Dnepr Mogilev,,OU,OVER,1.5,1.57,61,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,28.5
 2026-08-07,Czech Liga,Zbrojovka Brno,Slovan Liberec,,AH,AWAY,0,1.9,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45
 2026-08-07,Czech Liga,Zbrojovka Brno,Slovan Liberec,,1X2,DRAW,0,2.69,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-07,Superliga,Sonderjyske,Viborg,,1X2,HOME,0,4.5,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-08-07,Belarusian Premier League,Slavia Mozyr,FC Dnepr Mogilev,,OU,OVER,1.5,1.57,61,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,28.5
 2026-08-07,Austrian Bundesliga,SCR Altach,WSG Wattens,,1X2,DRAW,0,3.2,37,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-07,Austrian Bundesliga,SCR Altach,WSG Wattens,,AH,AWAY,-0.5,2.025,39,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-07,Czech Liga,Zbrojovka Brno,Slovan Liberec,,1X2,HOME,0,3.55,47,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
@@ -468,6 +468,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-08,2. Bundesliga,1. FC Heidenheim,VfL Osnabrück,,OU,OVER,5.75,1.875,45,3-2,oddsflow_active_trader,APIFOOTBALL,50,WON,43.75
 2026-08-08,2. Bundesliga,Karlsruher SC,Arminia Bielefeld,,OU,UNDER,2.5,2.025,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-08,2. Bundesliga,Karlsruher SC,Arminia Bielefeld,,OU,UNDER,2.5,2.025,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,,AH,AWAY,-1.5,2,32,1-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,200
 2026-08-08,2. Bundesliga,1. FC Heidenheim,VfL Osnabrück,,OU,UNDER,6.5,2,47,3-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-08,2. Bundesliga,1. FC Heidenheim,VfL Osnabrück,,OU,UNDER,6.5,2,47,3-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-08,Chinese Super League,Qingdao Jonoon,Shanghai Shenhua,,OU,UNDER,1.5,2,50,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,500
@@ -475,7 +476,9 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-08,2. Bundesliga,SV Darmstadt 98,Holstein Kiel,,OU,UNDER,3.5,2.025,48,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-08,2. Bundesliga,SV Darmstadt 98,Holstein Kiel,,OU,UNDER,3.5,2.025,50,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-08,2. Bundesliga,1. FC Heidenheim,VfL Osnabrück,,AH,AWAY,-1,2.75,49,3-2,oddsflow_active_trader,APIFOOTBALL,50,WON,87.5
+2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,,AH,AWAY,-1.5,2.025,36,1-0,oddsflow_active_trader,APIFOOTBALL,1047,WON,1073.18
 2026-08-08,2. Bundesliga,1. FC Heidenheim,VfL Osnabrück,,AH,AWAY,-1,2.75,49,3-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,87.5
+2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,,AH,AWAY,-1.5,2.025,36,1-0,oddsflow_handicap_sniper,APIFOOTBALL,1044,WON,1070.1
 2026-08-08,Chinese Super League,Qingdao Jonoon,Shanghai Shenhua,,OU,OVER,1.5,1.975,56,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
 2026-08-08,Chinese Super League,Qingdao Jonoon,Shanghai Shenhua,,OU,OVER,1.5,1.975,56,0-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
 2026-08-08,Chinese Super League,Qingdao Jonoon,Shanghai Shenhua,,OU,UNDER,2.5,1.775,56,0-1,oddsflow_active_trader,APIFOOTBALL,500,WON,387.5
@@ -483,13 +486,16 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-08,2. Bundesliga,Karlsruher SC,Arminia Bielefeld,,AH,AWAY,-1,1.7,56,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,35
 2026-08-08,2. Bundesliga,Karlsruher SC,Arminia Bielefeld,,AH,AWAY,-1,1.7,56,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,35
 2026-08-08,2. Bundesliga,Karlsruher SC,Arminia Bielefeld,,AH,AWAY,-1,1.7,56,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,35
+2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,,OU,UNDER,2.5,2.025,45,1-0,oddsflow_active_trader,APIFOOTBALL,500,WON,512.5
+2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,,OU,UNDER,2.5,2.025,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,512.5
 2026-08-08,Chinese Super League,Qingdao Jonoon,Shanghai Shenhua,,AH,HOME,1,2.5,72,0-1,oddsflow_active_trader,APIFOOTBALL,500,WON,750
 2026-08-08,Chinese Super League,Qingdao Jonoon,Shanghai Shenhua,,AH,HOME,1,2.5,72,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,750
-2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,,AH,AWAY,-1.5,2,32,1-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,200
+2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,,AH,AWAY,-0.5,1.95,54,1-0,oddsflow_active_trader,APIFOOTBALL,506,WON,480.7
+2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,,1X2,HOME,0,1.909,54,1-0,oddsflow_active_trader,APIFOOTBALL,500,WON,454.5
+2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,,AH,AWAY,-0.5,1.95,54,1-0,oddsflow_handicap_sniper,APIFOOTBALL,503,WON,477.85
+2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,,1X2,HOME,0,1.909,54,1-0,oddsflow_handicap_sniper,APIFOOTBALL,525,WON,477.23
 2026-08-08,Chinese Super League,Yunnan Yukun,Chengdu Better City,,AH,HOME,0,2.6,10,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,320
 2026-08-08,3. Liga,FC Viktoria Köln,SSV Jahn Regensburg,,AH,AWAY,-0.5,1.8,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
-2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,,AH,AWAY,-1.5,2.025,36,1-0,oddsflow_active_trader,APIFOOTBALL,1047,WON,1073.18
-2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,,AH,AWAY,-1.5,2.025,36,1-0,oddsflow_handicap_sniper,APIFOOTBALL,1044,WON,1070.1
 2026-08-08,Kazakhstan Premier League,Altay,Kyzyl-Zhar,,AH,AWAY,0,1.825,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-08,3. Liga,Havelse,Stuttgart II,,AH,AWAY,-0.5,1.875,12,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,43.75
 2026-08-08,Club Friendlies,Chelsea,AC Milan,,AH,AWAY,-0.5,1.975,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
@@ -497,8 +503,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-08,3. Liga,MSV Duisburg,SV Meppen,,AH,AWAY,-1.5,1.95,16,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-08,3. Liga,FC Ingolstadt 04,Würzburger Kickers,,AH,AWAY,-1.5,1.925,16,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
 2026-08-08,3. Liga,SV Wehen,Preußen Münster,,AH,AWAY,0,2.2,20,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,60
-2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,,OU,UNDER,2.5,2.025,45,1-0,oddsflow_active_trader,APIFOOTBALL,500,WON,512.5
-2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,,OU,UNDER,2.5,2.025,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,512.5
 2026-08-08,Chinese Super League,Yunnan Yukun,Chengdu Better City,,OU,UNDER,2.5,1.775,38,0-0,oddsflow_handicap_sniper,APIFOOTBALL,821,WON,636.28
 2026-08-08,Chinese Super League,Yunnan Yukun,Chengdu Better City,,OU,UNDER,2.5,1.775,38,0-0,oddsflow_active_trader,APIFOOTBALL,817,WON,633.18
 2026-08-08,Chinese Super League,Yunnan Yukun,Chengdu Better City,,OU,UNDER,2.5,1.775,38,0-0,oddsflow_beta,APIFOOTBALL,816,WON,632.4
@@ -508,10 +512,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-08,Chinese Super League,Yunnan Yukun,Chengdu Better City,,1X2,DRAW,0,3.25,42,0-0,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
 2026-08-08,EFL Cup,Cambridge United,Barnet,,AH,AWAY,0,2.675,44,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-08,EFL Cup,Cambridge United,Barnet,,AH,AWAY,0,2.675,44,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,,AH,AWAY,-0.5,1.95,54,1-0,oddsflow_active_trader,APIFOOTBALL,506,WON,480.7
-2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,,1X2,HOME,0,1.909,54,1-0,oddsflow_active_trader,APIFOOTBALL,500,WON,454.5
-2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,,AH,AWAY,-0.5,1.95,54,1-0,oddsflow_handicap_sniper,APIFOOTBALL,503,WON,477.85
-2026-08-08,Chinese Super League,Dalian Zhixing,Shenyang Urban,,1X2,HOME,0,1.909,54,1-0,oddsflow_handicap_sniper,APIFOOTBALL,525,WON,477.23
 2026-08-08,Chinese Super League,Yunnan Yukun,Chengdu Better City,,1X2,HOME,0,1.571,49,1-0,oddsflow_beta,APIFOOTBALL,533,WON,304.34
 2026-08-08,Chinese Super League,Yunnan Yukun,Chengdu Better City,,1X2,HOME,0,1.571,49,1-0,oddsflow_handicap_sniper,APIFOOTBALL,533,WON,304.34
 2026-08-08,EFL Cup,Cambridge United,Barnet,,1X2,AWAY,0,1.615,49,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
