@@ -67,18 +67,18 @@ is why the two reconcile; expect this file to sit slightly below it, because of
 the 7-day publication delay.
 
 <!--SNAPSHOT:START-->
-**Settled-predictions dataset (latest settled match: 2026-09-22):**
+**Settled-predictions dataset (latest settled match: 2026-09-23):**
 
 | Metric | Value |
 |--------|-------|
-| Settled bets | 53,277 |
-| Won / Lost | 22957 / 21173 |
-| Half-won / Half-lost | 2624 / 1461 |
-| Push / Void | 0 / 5062 |
-| Total staked | 7,948,757.07 units |
-| **Net profit/loss** | **+777,437 units** |
-| **ROI** | **+9.8%** |
-| Matches / Competitions | 5895 / 190 |
+| Settled bets | 53,721 |
+| Won / Lost | 23095 / 21370 |
+| Half-won / Half-lost | 2670 / 1485 |
+| Push / Void | 0 / 5101 |
+| Total staked | 7,969,005.07 units |
+| **Net profit/loss** | **+775,150 units** |
+| **ROI** | **+9.7%** |
+| Matches / Competitions | 5925 / 192 |
 
 *One row per model × source: the same decision taken by two engines, or placed
 at two brokers, is more than one row — `model_key` and `source` are published so
