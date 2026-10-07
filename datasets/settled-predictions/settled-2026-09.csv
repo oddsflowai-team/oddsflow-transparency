@@ -37101,3 +37101,598 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-09-29,Colombian Primera B,Union Magdalena,Real Cartagena,,AH,AWAY,0,2.25,61,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-09-29,Colombian Primera B,Union Magdalena,Real Cartagena,,AH,AWAY,0,2.25,61,1-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-09-29,Colombian Primera B,Union Magdalena,Real Cartagena,,OU,OVER,2.75,2,65,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Mexico,Peru,,AH,AWAY,-1.25,1.85,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
+2026-09-30,Friendlies,Mexico,Peru,,AH,AWAY,-1.25,1.91,10,0-0,oddsflow_core_strategy,NOVA88,32,WON,29.12
+2026-09-30,Friendlies,Mexico,Peru,,AH,AWAY,-1,2.05,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-09-30,Friendlies,Mexico,Peru,,AH,AWAY,-0.75,2.05,21,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-09-30,Friendlies,Mexico,Peru,,AH,AWAY,-0.75,2.1,21,0-0,oddsflow_core_strategy,NOVA88,20,WON,22
+2026-09-30,Friendlies,Mexico,Peru,,AH,AWAY,-0.75,2.025,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,Friendlies,Mexico,Peru,,AH,AWAY,-0.75,2.12,35,0-1,oddsflow_active_trader,NOVA88,15,HALF_LOST,-7.5
+2026-09-30,Friendlies,Mexico,Peru,,AH,AWAY,-0.75,2.025,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,Friendlies,Mexico,Peru,,AH,AWAY,-0.75,2.11,35,0-1,oddsflow_handicap_sniper,NOVA88,15,HALF_LOST,-7.5
+2026-09-30,Friendlies,Mexico,Peru,,1X2,AWAY,0,2.4,40,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Mexico,Peru,,1X2,AWAY,0,2.4,40,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Mexico,Peru,,1X2,AWAY,0,2.51,40,0-1,oddsflow_handicap_sniper,NOVA88,21,LOST,-21
+2026-09-30,Friendlies,Mexico,Peru,,1X2,AWAY,0,2.51,40,0-1,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-09-30,Colombian Primera A,Independiente Medellin,Millonarios,,1X2,DRAW,0,2.6,41,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,80
+2026-09-30,Colombian Primera A,Independiente Medellin,Millonarios,,AH,AWAY,0,2.1,41,1-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-30,Colombian Primera A,Independiente Medellin,Millonarios,,AH,AWAY,0,2.1,41,1-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-09-30,Friendlies,Mexico,Peru,,AH,AWAY,-1,1.75,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-09-30,Friendlies,Mexico,Peru,,AH,AWAY,-1,1.79,45,0-1,oddsflow_handicap_sniper,NOVA88,29,VOID,0
+2026-09-30,Friendlies,Mexico,Peru,,AH,AWAY,-1,1.75,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-09-30,Friendlies,Mexico,Peru,,AH,AWAY,-1,1.79,45,0-1,oddsflow_active_trader,NOVA88,32,VOID,0
+2026-09-30,Colombian Primera A,Independiente Medellin,Millonarios,,AH,HOME,0,1.775,45,1-2,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-09-30,Colombian Primera A,Independiente Medellin,Millonarios,,AH,HOME,0,1.775,45,1-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,38.75
+2026-09-30,Colombian Primera A,Independiente Medellin,Millonarios,,1X2,AWAY,0,1.533,45,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Colombian Primera A,Independiente Medellin,Millonarios,,1X2,AWAY,0,1.533,45,1-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,CONCACAF Nations League,Belize,St. Vincent / Grenadines,,AH,HOME,0.25,1.825,14,0-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,20.63
+2026-09-30,Colombian Primera A,Independiente Medellin,Millonarios,,1X2,DRAW,0,2.1,57,2-2,oddsflow_active_trader,APIFOOTBALL,50,WON,55
+2026-09-30,CONCACAF Nations League,Belize,St. Vincent / Grenadines,,AH,HOME,0,2.425,28,0-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-30,Colombian Primera A,Independiente Medellin,Millonarios,,AH,AWAY,0,2.1,69,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-09-30,CONCACAF Nations League,Belize,St. Vincent / Grenadines,,AH,HOME,0,1.95,36,0-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-09-30,CONCACAF Nations League,Belize,St. Vincent / Grenadines,,AH,HOME,0,1.95,36,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-09-30,Friendlies,Mexico,Peru,,AH,AWAY,-0.25,1.85,77,1-1,oddsflow_core_strategy,APIFOOTBALL,35,HALF_WON,14.88
+2026-09-30,Friendlies,Mexico,Peru,,AH,AWAY,-0.25,1.85,77,1-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,21.25
+2026-09-30,Friendlies,Mexico,Peru,,AH,AWAY,-0.25,1.84,77,1-1,oddsflow_core_strategy,NOVA88,36,HALF_WON,15.12
+2026-09-30,Friendlies,Mexico,Peru,,AH,AWAY,-0.25,1.85,77,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,21.25
+2026-09-30,Friendlies,Mexico,Peru,,AH,AWAY,-0.25,1.84,77,1-1,oddsflow_handicap_sniper,NOVA88,35,HALF_WON,14.7
+2026-09-30,Friendlies,Mexico,Peru,,1X2,DRAW,0,1.666,78,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,33.3
+2026-09-30,Friendlies,Mexico,Peru,,1X2,DRAW,0,1.666,78,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,33.3
+2026-09-30,CONCACAF Nations League,Belize,St. Vincent / Grenadines,,AH,HOME,0,2,40,0-1,oddsflow_beta,APIFOOTBALL,50,VOID,0
+2026-09-30,CONCACAF Nations League,Belize,St. Vincent / Grenadines,,AH,HOME,0.25,1.725,43,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,18.13
+2026-09-30,CONCACAF Nations League,Belize,St. Vincent / Grenadines,,AH,HOME,0.25,1.725,43,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,18.13
+2026-09-30,CONCACAF Nations League,Belize,St. Vincent / Grenadines,,AH,HOME,0.25,1.75,43,0-1,oddsflow_beta,APIFOOTBALL,50,HALF_WON,18.75
+2026-09-30,CONCACAF Nations League,Belize,St. Vincent / Grenadines,,OU,UNDER,2.5,1.775,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-09-30,CONCACAF Nations League,Belize,St. Vincent / Grenadines,,OU,UNDER,2.5,1.75,45,0-1,oddsflow_beta,APIFOOTBALL,50,WON,37.5
+2026-09-30,CONCACAF Nations League,Belize,St. Vincent / Grenadines,,OU,UNDER,2.5,1.775,46,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-09-30,CONCACAF Nations League,Belize,St. Vincent / Grenadines,,OU,OVER,1.75,2,70,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Papua New Guinea,Solomon Islands,,AH,HOME,-0.25,2.15,18,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,57.5
+2026-09-30,Friendlies,Papua New Guinea,Solomon Islands,,AH,HOME,0,1.775,22,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,38.75
+2026-09-30,Friendlies,Papua New Guinea,Solomon Islands,,1X2,AWAY,0,1.5,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Papua New Guinea,Solomon Islands,,1X2,AWAY,0,1.5,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Papua New Guinea,Solomon Islands,,1X2,DRAW,0,1.952,61,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,47.6
+2026-09-30,Friendlies,Papua New Guinea,Solomon Islands,,1X2,DRAW,0,1.952,61,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,47.6
+2026-09-30,Friendlies,Fiji,New Caledonia,,AH,AWAY,-0.75,2.025,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,Friendlies,Finland U19,Germany U19,,AH,HOME,0.75,1.875,45,1-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,Friendlies,Finland U19,Germany U19,,AH,HOME,0.75,1.875,45,1-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,Friendlies,Finland U19,Germany U19,,AH,HOME,0.75,1.875,45,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,Friendlies,Finland U19,Germany U19,,1X2,DRAW,0,3.2,50,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Finland U19,Germany U19,,OU,UNDER,3.5,2,53,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-09-30,Friendlies,Finland U19,Germany U19,,OU,UNDER,3.5,2,53,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-09-30,Friendlies,Finland U19,Germany U19,,AH,HOME,0.5,1.85,57,1-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
+2026-09-30,Friendlies,Finland U19,Germany U19,,AH,HOME,0.5,1.85,57,1-2,oddsflow_active_trader,APIFOOTBALL,50,WON,42.5
+2026-09-30,Friendlies,Finland U19,Germany U19,,AH,HOME,0.5,1.85,57,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,42.5
+2026-09-30,Friendlies,Finland U19,Germany U19,,OU,UNDER,4.5,1.775,58,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-09-30,Friendlies,Finland U19,Germany U19,,OU,UNDER,4.5,1.775,58,1-2,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-09-30,Friendlies,Finland U19,Germany U19,,AH,HOME,0.25,2.3,63,1-2,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,32.5
+2026-09-30,Friendlies,Finland U19,Germany U19,,AH,HOME,0.25,2.3,63,1-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,32.5
+2026-09-30,Friendlies,Finland U19,Germany U19,,AH,HOME,0.25,2.3,64,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,32.5
+2026-09-30,Asian Games,Uzbekistan U23,Japan U23,,AH,HOME,1,1.95,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-30,Friendlies,Finland U19,Germany U19,,OU,UNDER,4,2.025,65,1-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-09-30,Asian Games,Uzbekistan U23,Japan U23,,AH,HOME,0.75,2.3,14,1-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,Asian Games,Uzbekistan U23,Japan U23,,AH,HOME,0.75,1.85,37,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,Asian Games,Uzbekistan U23,Japan U23,,AH,HOME,0.75,1.85,37,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,Asian Games,Uzbekistan U23,Japan U23,,1X2,HOME,0,2.2,40,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Asian Games,Uzbekistan U23,Japan U23,,1X2,HOME,0,2.2,40,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Asian Games,Uzbekistan U23,Japan U23,,AH,HOME,0.5,2.025,45,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Asian Games,Uzbekistan U23,Japan U23,,AH,HOME,0.5,2.025,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Asian Games,Uzbekistan U23,Japan U23,,AH,HOME,0.5,2.025,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Asian Games,Uzbekistan U23,Japan U23,,OU,OVER,2,2,58,1-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-30,Asian Games,Uzbekistan U23,Japan U23,,AH,HOME,0.25,2.15,75,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Asian Games,Uzbekistan U23,Japan U23,,AH,HOME,0.25,2.15,75,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Asian Games,Uzbekistan U23,Japan U23,,AH,HOME,0.25,2.15,75,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Austria U19,Denmark U19,,AH,HOME,0.25,1.925,20,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
+2026-09-30,Friendlies,Albania U19,Lithuania U19,,AH,AWAY,-0.25,1.975,19,1-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,24.38
+2026-09-30,Friendlies,Albania U19,Lithuania U19,,AH,AWAY,0,2.6,29,1-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-30,Friendlies,Albania U19,Lithuania U19,,AH,AWAY,-0.25,1.925,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,23.13
+2026-09-30,Friendlies,Albania U19,Lithuania U19,,AH,AWAY,-0.25,1.925,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,23.13
+2026-09-30,Friendlies,Albania U19,Lithuania U19,,AH,AWAY,0,2.35,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-09-30,Friendlies,Albania U19,Lithuania U19,,AH,AWAY,0,2.35,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,1.25,1.975,30,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,1.25,1.99,30,0-1,oddsflow_core_strategy,NOVA88,46,LOST,-46
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,1.25,1.9,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,1.25,1.91,35,0-1,oddsflow_handicap_sniper,NOVA88,47,LOST,-47
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,1.25,1.9,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,1.25,1.91,35,0-1,oddsflow_active_trader,NOVA88,47,LOST,-47
+2026-09-30,Friendlies,Albania U19,Lithuania U19,,OU,OVER,1.75,1.7,51,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,35
+2026-09-30,Friendlies,Albania U19,Lithuania U19,,OU,OVER,1.75,1.7,52,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,35
+2026-09-30,Friendlies,Albania U19,Lithuania U19,,OU,OVER,1.5,1.725,63,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.25
+2026-09-30,Friendlies,Albania U19,Lithuania U19,,OU,OVER,1.5,1.725,63,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,36.25
+2026-09-30,Friendlies,Albania U19,Lithuania U19,,1X2,DRAW,0,1.8,66,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Albania U19,Lithuania U19,,OU,OVER,2.5,1.8,66,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,40
+2026-09-30,Friendlies,Albania U19,Lithuania U19,,1X2,DRAW,0,1.8,66,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Albania U19,Lithuania U19,,OU,OVER,2.5,1.85,66,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,42.5
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,1,2.2,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,1,2.2,45,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,1,2.2,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,0.75,2.05,58,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,0.75,2.03,58,0-2,oddsflow_active_trader,NOVA88,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,0.75,2.05,58,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,0.75,2.05,58,0-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,0.75,2.03,58,0-2,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,0.75,2.03,58,0-2,oddsflow_core_strategy,NOVA88,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,0.5,2,64,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,0.5,1.98,64,0-2,oddsflow_active_trader,NOVA88,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,0.5,2,64,0-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,0.5,1.98,64,0-2,oddsflow_core_strategy,NOVA88,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,0.5,2,64,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,AH,HOME,0.5,1.98,64,0-2,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Farul Constanţa W,Sparta Praha W,,OU,UNDER,3.25,1.725,65,0-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Lithuania,Andorra,,AH,AWAY,-0.5,2.35,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,AH,AWAY,-0.75,1.725,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,Friendlies,Lithuania,Andorra,,AH,AWAY,-0.75,2,11,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,AH,AWAY,-0.5,2,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Fortuna Hjørring W,PSV/Eindhoven W,,AH,AWAY,0.25,1.8,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,Friendlies,Lithuania,Andorra,,AH,AWAY,-1,1.75,15,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Spartak Myjava W,PAOK W,,AH,HOME,0.5,1.925,19,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
+2026-09-30,Africa Cup of Nations - Qualification,Eritrea,South Africa,,AH,AWAY,1.25,1.8,19,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
+2026-09-30,Africa Cup of Nations - Qualification,Eritrea,South Africa,,AH,AWAY,1,1.75,25,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,37.5
+2026-09-30,Africa Cup of Nations - Qualification,Eritrea,South Africa,,AH,AWAY,1,1.82,25,0-1,oddsflow_core_strategy,NOVA88,21,WON,17.22
+2026-09-30,UEFA Europa Cup - Women,Spartak Myjava W,PAOK W,,AH,AWAY,-0.5,1.825,32,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
+2026-09-30,UEFA Europa Cup - Women,Spartak Myjava W,PAOK W,,AH,AWAY,0.5,1.95,34,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
+2026-09-30,Friendlies,Lithuania,Andorra,,AH,AWAY,-0.75,1.94,35,2-0,oddsflow_active_trader,NOVA88,50,HALF_LOST,-25
+2026-09-30,Friendlies,Lithuania,Andorra,,AH,AWAY,-0.75,1.94,35,2-0,oddsflow_handicap_sniper,NOVA88,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,AH,AWAY,-0.75,1.8,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,AH,AWAY,-0.75,1.83,35,0-0,oddsflow_active_trader,NOVA88,24,HALF_LOST,-12
+2026-09-30,Friendlies,Lithuania,Andorra,,AH,AWAY,-0.5,2.27,35,2-0,oddsflow_active_trader,NOVA88,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,AH,AWAY,-0.75,1.8,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,Friendlies,Lithuania,Andorra,,AH,AWAY,-0.5,2.27,35,2-0,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
+2026-09-30,Friendlies,Lithuania,Andorra,,AH,AWAY,-0.75,1.875,36,2-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,Friendlies,Lithuania,Andorra,,AH,AWAY,-0.75,1.875,36,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,AH,AWAY,-0.5,1.95,36,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,AH,AWAY,-0.5,2.01,36,0-0,oddsflow_active_trader,NOVA88,18,LOST,-18
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,AH,AWAY,-0.5,1.95,36,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,AH,AWAY,-0.5,2.01,36,0-0,oddsflow_handicap_sniper,NOVA88,20,LOST,-20
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,1X2,AWAY,0,4.5,36,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,1X2,AWAY,0,3.85,36,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-09-30,UEFA Europa Cup - Women,Brann W,HJK W,,OU,UNDER,3.5,1.75,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Brann W,HJK W,,OU,UNDER,3.5,1.75,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Portugal U19,Netherlands U19,,AH,AWAY,-0.25,1.95,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Portugal U19,Netherlands U19,,AH,AWAY,-0.5,1.825,11,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Spartak Myjava W,PAOK W,,1X2,HOME,0,1.833,42,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Spartak Myjava W,PAOK W,,1X2,HOME,0,1.833,43,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,OU,OVER,1.5,1.8,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,40
+2026-09-30,Friendlies,Lithuania,Andorra,,AH,AWAY,-0.5,2.025,45,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Lithuania,Andorra,,AH,AWAY,-0.5,2.025,45,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,OU,OVER,1.5,1.875,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,43.75
+2026-09-30,UEFA Europa Cup - Women,Brann W,HJK W,,AH,AWAY,-1.25,2,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Brann W,HJK W,,AH,AWAY,-1.25,2,45,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Brann W,HJK W,,AH,AWAY,-1.25,2,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,AH,AWAY,-0.25,2.3,46,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,AH,AWAY,-0.25,2.3,46,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,AH,AWAY,-0.25,2.3,46,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Portugal U19,Netherlands U19,,1X2,DRAW,0,3.4,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Portugal U19,Netherlands U19,,AH,AWAY,-0.5,1.8,35,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Portugal U19,Netherlands U19,,AH,AWAY,-0.5,1.8,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,1X2,DRAW,0,2.875,49,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Portugal U19,Netherlands U19,,AH,AWAY,0,2.5,39,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Portugal U19,Netherlands U19,,AH,AWAY,0,2.5,39,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Portugal U19,Netherlands U19,,AH,AWAY,0,2.5,39,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-1.25,1.775,52,3-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,19.37
+2026-09-30,UEFA Europa Cup - Women,Brann W,HJK W,,AH,AWAY,-1,1.975,50,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-1.25,1.775,52,3-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,19.37
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-1.25,1.76,52,3-1,oddsflow_active_trader,NOVA88,50,HALF_WON,19
+2026-09-30,UEFA Europa Cup - Women,Brann W,HJK W,,AH,AWAY,-1,1.975,50,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-1.25,1.775,52,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,19.37
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-1.25,1.76,52,3-1,oddsflow_handicap_sniper,NOVA88,50,HALF_WON,19
+2026-09-30,UEFA Europa Cup - Women,Brann W,HJK W,,AH,AWAY,-1,1.975,50,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-1,2.025,53,3-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-1,2.025,53,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-1,2.025,53,3-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-30,Friendlies,Portugal U19,Netherlands U19,,AH,AWAY,-0.25,2.025,41,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Brann W,HJK W,,OU,UNDER,2.5,2.025,51,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Brann W,HJK W,,OU,UNDER,2.5,2.025,51,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Lithuania,Andorra,,AH,AWAY,-0.25,2.425,55,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Lithuania,Andorra,,AH,AWAY,-0.25,2.425,55,2-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Portugal U19,Netherlands U19,,AH,AWAY,-0.25,2.025,43,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Friendlies,Lithuania,Andorra,,AH,AWAY,-0.25,2.425,55,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Club Friendlies,Kalsdorf,Grazer AK,,AH,HOME,1.25,1.95,54,1-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Club Friendlies,Kalsdorf,Grazer AK,,AH,HOME,1.25,1.95,54,1-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Club Friendlies,Kalsdorf,Grazer AK,,AH,HOME,1.25,1.95,54,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-0.75,2,57,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-0.75,2.06,57,3-1,oddsflow_handicap_sniper,NOVA88,42,HALF_LOST,-21
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-0.75,2,57,3-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-0.75,2.06,57,3-1,oddsflow_core_strategy,NOVA88,41,HALF_LOST,-20.5
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-0.75,2,57,3-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-0.75,2.06,57,3-1,oddsflow_active_trader,NOVA88,40,HALF_LOST,-20
+2026-09-30,UEFA Europa Cup - Women,Spartak Myjava W,PAOK W,,AH,HOME,0.5,1.8,58,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Spartak Myjava W,PAOK W,,AH,HOME,0.5,1.8,58,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Spartak Myjava W,PAOK W,,OU,UNDER,2.5,1.75,58,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,37.5
+2026-09-30,UEFA Europa Cup - Women,Brann W,HJK W,,AH,AWAY,-0.75,2.05,56,2-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Brann W,HJK W,,AH,AWAY,-0.75,2.05,56,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Brann W,HJK W,,AH,AWAY,-0.75,2.05,56,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Spartak Myjava W,PAOK W,,AH,HOME,0.25,2.05,60,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,26.25
+2026-09-30,UEFA Europa Cup - Women,Spartak Myjava W,PAOK W,,1X2,DRAW,0,2.625,60,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,81.25
+2026-09-30,UEFA Europa Cup - Women,Spartak Myjava W,PAOK W,,AH,HOME,0.25,2.05,60,1-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,26.25
+2026-09-30,UEFA Europa Cup - Women,Spartak Myjava W,PAOK W,,1X2,DRAW,0,2.625,60,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,81.25
+2026-09-30,UEFA Europa Cup - Women,Spartak Myjava W,PAOK W,,AH,HOME,0.25,2.05,60,1-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,26.25
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,OU,OVER,1,2.025,63,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,OU,UNDER,5.5,1.775,63,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,OU,UNDER,5.5,1.775,63,3-1,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-09-30,UEFA Europa Cup - Women,Spartak Myjava W,PAOK W,,OU,UNDER,3,2.025,65,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-0.5,1.975,65,3-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-0.5,1.975,65,3-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-0.5,1.975,65,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Brann W,HJK W,,OU,UNDER,3,2.05,65,2-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Brann W,HJK W,,AH,AWAY,-0.5,2.025,65,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Brann W,HJK W,,AH,AWAY,-0.5,2.025,65,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Brann W,HJK W,,AH,AWAY,-0.5,2.025,65,2-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Vålerenga W,Feyenoord W,,1X2,DRAW,0,2,68,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-0.25,2.1,77,3-1,oddsflow_core_strategy,APIFOOTBALL,35,LOST,-35
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-0.25,2.1,77,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Rosenborg W,Slovan Liberec W,,AH,AWAY,-0.25,2.1,77,3-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Spartak Myjava W,PAOK W,,AH,HOME,0,2.5,85,1-1,oddsflow_core_strategy,APIFOOTBALL,35,VOID,0
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-1.25,1.95,59,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-1.25,1.96,59,2-1,oddsflow_active_trader,NOVA88,47,LOST,-47
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-1.25,1.95,59,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-1.25,1.96,59,2-1,oddsflow_handicap_sniper,NOVA88,49,LOST,-49
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-1.25,1.95,59,2-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-1.25,1.96,59,2-1,oddsflow_core_strategy,NOVA88,46,LOST,-46
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,OU,UNDER,5.5,2,64,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,OU,UNDER,5.5,2,64,3-1,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-1,2.05,64,3-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-1,2.03,64,3-1,oddsflow_core_strategy,NOVA88,50,VOID,0
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-1,2.05,64,3-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-1,2.03,64,3-1,oddsflow_active_trader,NOVA88,50,VOID,0
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-1,2.05,64,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-1,2.03,64,3-1,oddsflow_handicap_sniper,NOVA88,50,VOID,0
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-0.75,2.05,72,3-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-0.75,2.05,72,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-0.75,2.01,72,3-1,oddsflow_handicap_sniper,NOVA88,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-0.75,2.05,72,3-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-0.75,2.01,72,3-1,oddsflow_active_trader,NOVA88,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-0.75,2.025,74,3-1,oddsflow_beta,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-0.5,2.025,78,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-0.5,2.025,78,3-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-0.5,2,78,3-1,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-0.5,2,78,3-1,oddsflow_active_trader,NOVA88,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-0.5,2.025,78,3-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-0.5,2.025,78,3-1,oddsflow_core_strategy,APIFOOTBALL,35,LOST,-35
+2026-09-30,UEFA Europa Cup - Women,Eintracht Frankfurt W,FH W,,AH,AWAY,-0.5,1.97,78,3-1,oddsflow_core_strategy,NOVA88,50,LOST,-50
+2026-09-30,UEFA Champions League Women,Häcken W,Juventus W,,AH,AWAY,-0.25,1.85,20,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
+2026-09-30,UEFA Europa Cup - Women,Malmö FF W,St. Pölten W,,AH,AWAY,-1,2,12,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Malmö FF W,St. Pölten W,,AH,AWAY,-1,2.02,12,1-0,oddsflow_core_strategy,NOVA88,43,LOST,-43
+2026-09-30,UEFA Europa Cup - Women,Malmö FF W,St. Pölten W,,AH,AWAY,-1.25,1.75,13,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,Häcken W,Juventus W,,AH,AWAY,0,2.3,28,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,65
+2026-09-30,UEFA Champions League Women,Häcken W,Juventus W,,AH,AWAY,0.25,2.75,30,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,87.5
+2026-09-30,UEFA Champions League Women,Häcken W,Juventus W,,AH,AWAY,0,2.35,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,67.5
+2026-09-30,UEFA Champions League Women,Häcken W,Juventus W,,AH,AWAY,0,2.35,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,67.5
+2026-09-30,UEFA Champions League Women,Häcken W,Juventus W,,AH,AWAY,-0.25,1.875,36,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,43.75
+2026-09-30,UEFA Champions League Women,Häcken W,Juventus W,,AH,AWAY,-0.25,1.875,36,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,43.75
+2026-09-30,UEFA Champions League Women,Häcken W,Juventus W,,1X2,DRAW,0,2.78,38,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-09-30,UEFA Champions League Women,Häcken W,Juventus W,,1X2,DRAW,0,2.875,38,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Malmö FF W,St. Pölten W,,AH,AWAY,-0.75,1.925,29,2-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Malmö FF W,St. Pölten W,,AH,AWAY,-0.75,1.94,29,2-0,oddsflow_core_strategy,NOVA88,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Malmö FF W,St. Pölten W,,AH,AWAY,-0.75,1.8,35,2-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Malmö FF W,St. Pölten W,,AH,AWAY,-0.75,1.81,35,2-0,oddsflow_active_trader,NOVA88,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Malmö FF W,St. Pölten W,,AH,AWAY,-0.75,1.8,35,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Malmö FF W,St. Pölten W,,AH,AWAY,-0.75,1.81,35,2-0,oddsflow_handicap_sniper,NOVA88,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Malmö FF W,St. Pölten W,,AH,AWAY,-0.5,2,37,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Malmö FF W,St. Pölten W,,AH,AWAY,-0.5,2.01,37,2-0,oddsflow_active_trader,NOVA88,47,LOST,-47
+2026-09-30,UEFA Europa Cup - Women,Malmö FF W,St. Pölten W,,AH,AWAY,-0.5,2,37,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Malmö FF W,St. Pölten W,,AH,AWAY,-0.5,2.01,37,2-0,oddsflow_handicap_sniper,NOVA88,47,LOST,-47
+2026-09-30,UEFA Europa Cup - Women,Malmö FF W,St. Pölten W,,AH,AWAY,-0.5,2,37,2-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Malmö FF W,St. Pölten W,,AH,AWAY,-0.5,2.01,37,2-0,oddsflow_core_strategy,NOVA88,46,LOST,-46
+2026-09-30,UEFA Europa Cup - Women,Fenerbahce W,Minsk W,,AH,AWAY,-1.25,2,43,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-09-30,UEFA Europa Cup - Women,Fenerbahce W,Minsk W,,AH,AWAY,-1.25,2,43,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-09-30,UEFA Europa Cup - Women,Fenerbahce W,Minsk W,,AH,AWAY,-1.25,2,43,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-09-30,UEFA Champions League Women,Häcken W,Juventus W,,1X2,AWAY,0,1.5,59,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,25
+2026-09-30,UEFA Champions League Women,Häcken W,Juventus W,,1X2,AWAY,0,1.5,59,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,25
+2026-09-30,UEFA Europa Cup - Women,Malmö FF W,St. Pölten W,,OU,UNDER,3.5,2,48,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-09-30,UEFA Europa Cup - Women,Malmö FF W,St. Pölten W,,OU,UNDER,3.5,2,48,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-09-30,UEFA Europa Cup - Women,Fenerbahce W,Minsk W,,OU,UNDER,2.5,2.025,50,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-09-30,UEFA Europa Cup - Women,Fenerbahce W,Minsk W,,OU,UNDER,2.5,2.025,50,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-09-30,UEFA Europa Cup - Women,Fenerbahce W,Minsk W,,AH,AWAY,-1,2.05,52,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-09-30,UEFA Europa Cup - Women,Fenerbahce W,Minsk W,,AH,AWAY,-1,2.05,52,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-09-30,UEFA Europa Cup - Women,Fenerbahce W,Minsk W,,AH,AWAY,-1,2.05,52,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-09-30,Belgian First Amateur Division,Zelzate,Knokke,,AH,AWAY,0.25,1.95,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,Belgian First Amateur Division,Roeselare Daisel,Thes Sport,,AH,HOME,-0.25,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Houtvenne,Mandel United,,AH,HOME,-0.5,1.975,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
+2026-09-30,Belgian First Amateur Division,Spouwen-Mopertingen,Heist,,AH,AWAY,0.25,1.9,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,AH,HOME,0.75,1.85,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,AH,HOME,0.75,1.91,13,0-0,oddsflow_core_strategy,NOVA88,25,LOST,-25
+2026-09-30,Belgian First Amateur Division,Flénu,Olympic Charleroi,,AH,AWAY,0.5,1.85,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,AH,HOME,0.5,1.975,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,RWDM,Rochefort,,AH,AWAY,-0.5,1.875,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,43.75
+2026-09-30,Belgian First Amateur Division,Sporting Charleroi II,Habay-la-Neuve,,AH,AWAY,-0.25,1.925,14,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,23.13
+2026-09-30,UEFA Europa Cup - Women,Fenerbahce W,Minsk W,,AH,AWAY,-0.75,2,59,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-09-30,UEFA Europa Cup - Women,Fenerbahce W,Minsk W,,AH,AWAY,-0.75,2,59,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-09-30,UEFA Europa Cup - Women,Fenerbahce W,Minsk W,,AH,AWAY,-0.75,2,59,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-09-30,Belgian First Amateur Division,Zelzate,Knokke,,AH,AWAY,0,1.825,14,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-30,Belgian First Amateur Division,Spouwen-Mopertingen,Heist,,AH,AWAY,1,2.725,14,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Roeselare Daisel,Thes Sport,,AH,HOME,0,1.775,18,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Sporting Charleroi II,Habay-la-Neuve,,AH,AWAY,0,2.55,19,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-30,UEFA Europa Cup - Women,Fenerbahce W,Minsk W,,OU,UNDER,2,1.975,65,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
+2026-09-30,Belgian First Amateur Division,Sporting Charleroi II,Habay-la-Neuve,,AH,AWAY,-0.5,1.8,20,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
+2026-09-30,Belgian First Amateur Division,Flénu,Olympic Charleroi,,AH,HOME,0.5,1.9,18,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
+2026-09-30,Belgian First Amateur Division,Zelzate,Knokke,,AH,AWAY,-0.25,1.775,24,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,19.37
+2026-09-30,UEFA Europa Cup - Women,Fenerbahce W,Minsk W,,AH,AWAY,-0.5,2,70,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-09-30,UEFA Europa Cup - Women,Fenerbahce W,Minsk W,,AH,AWAY,-0.5,2,70,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-09-30,UEFA Europa Cup - Women,Fenerbahce W,Minsk W,,AH,AWAY,-0.5,2,70,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-09-30,Belgian First Amateur Division,Flénu,Olympic Charleroi,,AH,HOME,0.25,1.975,23,0-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
+2026-09-30,Belgian First Amateur Division,Houtvenne,Mandel United,,AH,AWAY,-0.25,1.925,29,1-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,23.13
+2026-09-30,Belgian First Amateur Division,Spouwen-Mopertingen,Heist,,AH,HOME,0.25,1.85,25,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
+2026-09-30,Belgian First Amateur Division,Roeselare Daisel,Thes Sport,,AH,HOME,-0.5,2.35,29,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Merelbeke,Dessel Sport,,AH,HOME,0,1.875,29,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-30,Belgian First Amateur Division,RWDM,Rochefort,,AH,HOME,-0.5,1.95,26,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
+2026-09-30,UEFA Europa Cup - Women,Fenerbahce W,Minsk W,,AH,AWAY,-0.25,2.15,77,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,28.75
+2026-09-30,UEFA Europa Cup - Women,Fenerbahce W,Minsk W,,AH,AWAY,-0.25,2.15,77,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,28.75
+2026-09-30,Belgian First Amateur Division,RWDM,Rochefort,,AH,HOME,-0.25,1.8,28,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
+2026-09-30,UEFA Europa Cup - Women,Fenerbahce W,Minsk W,,AH,AWAY,-0.25,2.15,77,1-0,oddsflow_core_strategy,APIFOOTBALL,35,HALF_WON,20.13
+2026-09-30,Belgian First Amateur Division,Houtvenne,Mandel United,,AH,AWAY,-0.25,1.95,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,23.75
+2026-09-30,Belgian First Amateur Division,Houtvenne,Mandel United,,AH,AWAY,-0.25,1.95,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,23.75
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,AH,HOME,0.5,1.95,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,AH,HOME,0.5,1.95,35,0-1,oddsflow_active_trader,NOVA88,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,AH,HOME,0.5,1.95,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,AH,HOME,0.5,1.95,35,0-1,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Zelzate,Knokke,,AH,AWAY,0,1.975,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-09-30,Belgian First Amateur Division,Roeselare Daisel,Thes Sport,,AH,HOME,-0.25,2.025,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Roeselare Daisel,Thes Sport,,AH,HOME,-0.25,2.025,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Zelzate,Knokke,,AH,AWAY,0,1.975,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-09-30,Belgian First Amateur Division,Flénu,Olympic Charleroi,,AH,HOME,0.25,1.925,35,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,46.25
+2026-09-30,Belgian First Amateur Division,Flénu,Olympic Charleroi,,AH,HOME,0.25,1.925,35,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,46.25
+2026-09-30,Belgian First Amateur Division,Merelbeke,Dessel Sport,,AH,HOME,0,1.925,38,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-09-30,Belgian First Amateur Division,Merelbeke,Dessel Sport,,AH,HOME,0,1.925,38,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-09-30,Belgian First Amateur Division,RWDM,Rochefort,,AH,HOME,-0.25,1.825,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,41.25
+2026-09-30,Belgian First Amateur Division,RWDM,Rochefort,,AH,HOME,-0.25,1.825,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,41.25
+2026-09-30,Belgian First Amateur Division,Zelzate,Knokke,,1X2,AWAY,0,2.6,38,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Merelbeke,Dessel Sport,,AH,HOME,-0.25,2.25,41,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,Belgian First Amateur Division,Merelbeke,Dessel Sport,,AH,HOME,-0.25,2.25,41,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,Belgian First Amateur Division,Merelbeke,Dessel Sport,,AH,HOME,-0.25,2.25,41,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,Belgian First Amateur Division,Houtvenne,Mandel United,,1X2,DRAW,0,3,44,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Harelbeke,Hoogstraten,,AH,HOME,0.25,1.8,13,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,OU,UNDER,2.5,2.025,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Sporting Charleroi II,Habay-la-Neuve,,1X2,DRAW,0,2.4,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,70
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,OU,UNDER,2.5,2.025,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,RWDM,Rochefort,,OU,OVER,3.5,1.8,41,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Flénu,Olympic Charleroi,,AH,HOME,0,2.15,42,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,57.5
+2026-09-30,Belgian First Amateur Division,Flénu,Olympic Charleroi,,AH,HOME,0,2.15,42,0-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,57.5
+2026-09-30,Belgian First Amateur Division,Flénu,Olympic Charleroi,,AH,HOME,0,2.15,42,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,57.5
+2026-09-30,Belgian First Amateur Division,RWDM,Rochefort,,OU,OVER,3.5,1.875,43,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Harelbeke,Hoogstraten,,AH,HOME,0,1.95,19,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
+2026-09-30,Belgian First Amateur Division,Sporting Charleroi II,Habay-la-Neuve,,AH,HOME,0,1.95,45,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,AH,HOME,0.25,2.18,45,0-1,oddsflow_handicap_sniper,NOVA88,38,LOST,-38
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,AH,HOME,0.25,2.18,45,0-1,oddsflow_active_trader,NOVA88,40,LOST,-40
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,AH,HOME,0.25,2.1,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,AH,HOME,0.25,2.1,45,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,AH,HOME,0.25,2.18,45,0-1,oddsflow_core_strategy,NOVA88,39,LOST,-39
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,AH,HOME,0.25,2.1,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Harelbeke,Hoogstraten,,AH,HOME,-0.25,2.2,26,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,60
+2026-09-30,Belgian First Amateur Division,Harelbeke,Hoogstraten,,AH,AWAY,-0.75,1.975,27,0-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,Belgian First Amateur Division,Sporting Charleroi II,Habay-la-Neuve,,AH,HOME,0,2.025,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-09-30,Belgian First Amateur Division,Sporting Charleroi II,Habay-la-Neuve,,AH,HOME,0,2.025,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-09-30,Belgian First Amateur Division,Harelbeke,Hoogstraten,,AH,HOME,0,1.975,35,1-2,oddsflow_active_trader,APIFOOTBALL,50,WON,48.75
+2026-09-30,Belgian First Amateur Division,Harelbeke,Hoogstraten,,AH,HOME,0,1.975,35,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,48.75
+2026-09-30,Belgian First Amateur Division,Merelbeke,Dessel Sport,,1X2,DRAW,0,2.6,52,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,80
+2026-09-30,Belgian First Amateur Division,Harelbeke,Hoogstraten,,AH,HOME,-0.25,2.25,39,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,62.5
+2026-09-30,Belgian First Amateur Division,Harelbeke,Hoogstraten,,AH,HOME,-0.25,2.25,39,1-2,oddsflow_active_trader,APIFOOTBALL,50,WON,62.5
+2026-09-30,UEFA Europa Cup - Women,Torreense W,Metalist 1925 W,,AH,HOME,-1,1.95,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
+2026-09-30,UEFA Europa Cup - Women,Torreense W,Metalist 1925 W,,AH,HOME,-1,1.92,10,0-0,oddsflow_core_strategy,NOVA88,40,WON,36.8
+2026-09-30,Belgian First Amateur Division,Roeselare Daisel,Thes Sport,,1X2,DRAW,0,2.375,52,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Sporting Charleroi II,Habay-la-Neuve,,1X2,DRAW,0,2.1,55,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,55
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,AH,AWAY,-1,2.025,11,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-09-30,Belgian First Amateur Division,Harelbeke,Hoogstraten,,AH,HOME,-0.5,2.625,43,1-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,81.25
+2026-09-30,Belgian First Amateur Division,Harelbeke,Hoogstraten,,AH,HOME,-0.5,2.625,43,1-2,oddsflow_active_trader,APIFOOTBALL,50,WON,81.25
+2026-09-30,Belgian First Amateur Division,Harelbeke,Hoogstraten,,AH,HOME,-0.5,2.625,44,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,81.25
+2026-09-30,UEFA Europa Cup - Women,Sporting CP W,Brøndby W,,AH,AWAY,-0.5,1.775,31,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,38.75
+2026-09-30,Belgian First Amateur Division,Harelbeke,Hoogstraten,,1X2,DRAW,0,3,45,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,100
+2026-09-30,Belgian First Amateur Division,Roeselare Daisel,Thes Sport,,1X2,DRAW,0,2.2,58,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Merelbeke,Dessel Sport,,1X2,DRAW,0,2.25,61,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,62.5
+2026-09-30,UEFA Europa Cup - Women,Sporting CP W,Brøndby W,,AH,AWAY,-0.25,1.975,33,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
+2026-09-30,National League,Eastleigh,Southend,,AH,HOME,0.25,2.02,35,0-1,oddsflow_handicap_sniper,NOVA88,18,WON,18.36
+2026-09-30,National League,Eastleigh,Southend,,AH,HOME,0.25,2.02,35,0-1,oddsflow_active_trader,NOVA88,16,WON,16.32
+2026-09-30,Belgian First Amateur Division,Zelzate,Knokke,,1X2,DRAW,0,2.375,63,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,68.75
+2026-09-30,Belgian First Amateur Division,Sporting Charleroi II,Habay-la-Neuve,,OU,OVER,0.5,1.75,64,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,National League,Tamworth,Sutton Utd,,AH,HOME,0,2.1,35,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,16.5
+2026-09-30,Belgian First Amateur Division,Sporting Charleroi II,Habay-la-Neuve,,OU,OVER,0.5,1.75,64,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Zelzate,Knokke,,1X2,DRAW,0,2.375,63,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,68.75
+2026-09-30,National League,Tamworth,Sutton Utd,,AH,HOME,0,2.1,35,0-0,oddsflow_active_trader,NOVA88,15,WON,16.5
+2026-09-30,National League,Tamworth,Sutton Utd,,AH,HOME,0.25,1.76,35,0-0,oddsflow_active_trader,NOVA88,15,WON,11.4
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,1,2.5,20,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Merelbeke,Dessel Sport,,OU,OVER,1,2.025,64,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,OU,UNDER,3,1.85,65,0-2,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,AH,HOME,-0.75,1.975,20,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,AH,HOME,-0.5,1.875,20,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,AH,HOME,-0.5,1.86,20,0-0,oddsflow_core_strategy,NOVA88,16,LOST,-16
+2026-09-30,National League,Eastleigh,Southend,,AH,HOME,0.5,1.79,37,0-1,oddsflow_handicap_sniper,NOVA88,27,WON,21.33
+2026-09-30,UEFA Europa Cup - Women,Torreense W,Metalist 1925 W,,AH,HOME,-1.25,2.05,22,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-09-30,Belgian First Amateur Division,Houtvenne,Mandel United,,AH,AWAY,0,2.2,66,2-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-09-30,Belgian First Amateur Division,Houtvenne,Mandel United,,AH,AWAY,0,2.2,66,2-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-30,Belgian First Amateur Division,Houtvenne,Mandel United,,AH,AWAY,0,2.2,66,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-09-30,National League,Eastleigh,Southend,,AH,HOME,0.5,1.78,39,0-1,oddsflow_active_trader,NOVA88,24,WON,18.72
+2026-09-30,UEFA Europa Cup - Women,Sporting CP W,Brøndby W,,OU,OVER,2.5,1.75,39,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,37.5
+2026-09-30,UEFA Europa Cup - Women,Sporting CP W,Brøndby W,,OU,OVER,2.5,1.75,39,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,37.5
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,1.25,1.95,23,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,1.25,1.98,23,0-0,oddsflow_core_strategy,NOVA88,15,LOST,-15
+2026-09-30,UEFA Europa Cup - Women,Sporting CP W,Brøndby W,,AH,AWAY,0,2.3,39,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,65
+2026-09-30,UEFA Europa Cup - Women,Sporting CP W,Brøndby W,,AH,AWAY,0,2.3,39,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,65
+2026-09-30,Belgian First Amateur Division,RWDM,Rochefort,,1X2,DRAW,0,2.2,61,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,60
+2026-09-30,UEFA Europa Cup - Women,Sporting CP W,Brøndby W,,AH,AWAY,0,2.3,40,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,65
+2026-09-30,Belgian First Amateur Division,Spouwen-Mopertingen,Heist,,1X2,HOME,0,1.5,66,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,25
+2026-09-30,Belgian First Amateur Division,Spouwen-Mopertingen,Heist,,1X2,HOME,0,1.5,66,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,25
+2026-09-30,Belgian First Amateur Division,Flénu,Olympic Charleroi,,AH,AWAY,0,1.975,66,1-2,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-09-30,Belgian First Amateur Division,Flénu,Olympic Charleroi,,AH,AWAY,0,1.975,66,1-2,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-30,Belgian First Amateur Division,Flénu,Olympic Charleroi,,OU,UNDER,4,1.825,66,1-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,RWDM,Rochefort,,1X2,DRAW,0,2.1,63,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,55
+2026-09-30,UEFA Europa Cup - Women,Sporting CP W,Brøndby W,,AH,HOME,-0.25,1.925,43,1-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Sporting CP W,Brøndby W,,OU,OVER,3.5,1.85,43,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,42.5
+2026-09-30,UEFA Europa Cup - Women,Sporting CP W,Brøndby W,,1X2,HOME,0,2.25,43,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Sporting CP W,Brøndby W,,AH,HOME,-0.25,1.925,43,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Sporting CP W,Brøndby W,,AH,HOME,-0.25,1.925,43,1-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Sporting CP W,Brøndby W,,OU,OVER,3.5,1.85,43,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,42.5
+2026-09-30,UEFA Europa Cup - Women,Sporting CP W,Brøndby W,,1X2,HOME,0,2.25,43,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Flénu,Olympic Charleroi,,AH,AWAY,0,1.9,68,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45
+2026-09-30,Belgian First Amateur Division,Flénu,Olympic Charleroi,,1X2,DRAW,0,2.1,68,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Flénu,Olympic Charleroi,,1X2,DRAW,0,2.1,68,2-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Roeselare Daisel,Thes Sport,,AH,AWAY,0,2.35,70,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,67.5
+2026-09-30,Belgian First Amateur Division,Roeselare Daisel,Thes Sport,,AH,AWAY,0,2.35,70,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,67.5
+2026-09-30,Belgian First Amateur Division,Roeselare Daisel,Thes Sport,,AH,AWAY,0,2.35,70,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,67.5
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,AH,HOME,0,2.625,73,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,AH,HOME,0,2.625,73,0-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,,AH,HOME,0,2.625,73,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Spouwen-Mopertingen,Heist,,AH,HOME,0.25,1.7,73,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,17.5
+2026-09-30,Belgian First Amateur Division,Spouwen-Mopertingen,Heist,,AH,HOME,0.25,1.75,74,3-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,18.75
+2026-09-30,Belgian First Amateur Division,RWDM,Rochefort,,OU,OVER,2.5,1.75,71,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,1.25,1.85,35,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,1.25,1.82,35,0-0,oddsflow_beta,NOVA88,18,LOST,-18
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,1.25,1.85,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,1.25,1.82,35,0-0,oddsflow_active_trader,NOVA88,16,LOST,-16
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,1.25,1.85,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,1.25,1.82,35,0-0,oddsflow_handicap_sniper,NOVA88,17,LOST,-17
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,1,2.025,39,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,1,2.09,39,0-0,oddsflow_active_trader,NOVA88,25,LOST,-25
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,1,2.025,40,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,1,2.025,40,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Spouwen-Mopertingen,Heist,,AH,HOME,0,2.25,82,3-1,oddsflow_core_strategy,APIFOOTBALL,35,VOID,0
+2026-09-30,Belgian First Amateur Division,Harelbeke,Hoogstraten,,1X2,DRAW,0,2.625,56,2-2,oddsflow_active_trader,APIFOOTBALL,50,WON,81.25
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,1X2,HOME,0,1.909,42,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,0.5,2.75,43,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,0.5,2.75,44,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,0.5,2.75,44,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,0.5,2.75,44,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Belgian First Amateur Division,Harelbeke,Hoogstraten,,OU,UNDER,6.5,1.75,58,2-3,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,37.5
+2026-09-30,Belgian First Amateur Division,Harelbeke,Hoogstraten,,OU,UNDER,6.5,1.75,58,2-3,oddsflow_active_trader,APIFOOTBALL,50,WON,37.5
+2026-09-30,UEFA Europa Cup - Women,Torreense W,Metalist 1925 W,,AH,HOME,-0.5,1.925,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,46.25
+2026-09-30,UEFA Europa Cup - Women,Torreense W,Metalist 1925 W,,AH,HOME,-0.5,1.925,45,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
+2026-09-30,UEFA Europa Cup - Women,Torreense W,Metalist 1925 W,,AH,HOME,-0.5,1.925,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,46.25
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,1X2,HOME,0,2,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,National League,Tamworth,Sutton Utd,,AH,AWAY,0,1.82,54,2-0,oddsflow_active_trader,NOVA88,15,VOID,0
+2026-09-30,National League,Tamworth,Sutton Utd,,AH,AWAY,0,1.82,54,2-0,oddsflow_handicap_sniper,NOVA88,15,VOID,0
+2026-09-30,National League,Tamworth,Sutton Utd,,OU,OVER,3,1.95,59,2-0,oddsflow_active_trader,NOVA88,46,LOST,-46
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,1X2,DRAW,0,3.4,47,0-0,oddsflow_beta,NOVA88,15,LOST,-15
+2026-09-30,UEFA Europa Cup - Women,Torreense W,Metalist 1925 W,,AH,AWAY,-0.5,1.9,50,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Torreense W,Metalist 1925 W,,AH,AWAY,-0.5,1.9,50,2-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Torreense W,Metalist 1925 W,,AH,AWAY,-0.5,1.9,50,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,1X2,DRAW,0,3.5,49,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,1X2,DRAW,0,3.2,49,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-09-30,UEFA Europa Cup - Women,Sporting CP W,Brøndby W,,OU,OVER,4,2.075,65,2-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,OU,UNDER,1.5,2,51,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,OU,UNDER,1.5,2,52,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,AH,HOME,-0.25,1.89,52,0-0,oddsflow_active_trader,NOVA88,15,HALF_LOST,-7.5
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,AH,HOME,-0.25,1.89,52,0-0,oddsflow_handicap_sniper,NOVA88,15,HALF_LOST,-7.5
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,HOME,-1.25,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,OU,UNDER,1.5,1.775,58,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,1X2,DRAW,0,3.1,58,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,0.75,2.075,58,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,0.75,2.1,58,0-0,oddsflow_handicap_sniper,NOVA88,38,LOST,-38
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,0.75,2.075,59,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,0.75,2.1,59,0-0,oddsflow_core_strategy,NOVA88,38,LOST,-38
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,0.75,2.075,59,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,0.75,2.075,59,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,0.75,2.1,59,0-0,oddsflow_active_trader,NOVA88,38,LOST,-38
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,0.75,2.1,59,0-0,oddsflow_beta,NOVA88,35,LOST,-35
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,1X2,DRAW,0,2.25,62,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,62.5
+2026-09-30,National League,Eastleigh,Southend,,AH,HOME,0,2.37,78,0-1,oddsflow_handicap_sniper,NOVA88,21,WON,28.77
+2026-09-30,National League,Eastleigh,Southend,,AH,HOME,0,2.37,78,0-1,oddsflow_active_trader,NOVA88,20,WON,27.4
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,1X2,DRAW,0,2.75,63,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,1X2,DRAW,0,2.25,63,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,62.5
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,OU,UNDER,1.25,1.75,65,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,AH,AWAY,-0.25,1.8,71,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,20
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,AH,AWAY,-0.25,1.775,72,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,19.37
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,AH,AWAY,-0.25,1.77,73,0-0,oddsflow_handicap_sniper,NOVA88,15,HALF_WON,5.78
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,AH,AWAY,-0.25,1.775,73,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,19.37
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,AH,HOME,0.5,2.05,74,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,AH,HOME,0.5,2.05,74,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,OU,UNDER,1.5,2,74,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,OU,UNDER,1.5,2,74,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,OU,UNDER,0.75,1.78,74,0-0,oddsflow_active_trader,NOVA88,50,WON,39
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,AH,HOME,0.5,2.05,75,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,OU,UNDER,1.5,2,75,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,,OU,UNDER,0.75,1.78,75,0-0,oddsflow_handicap_sniper,NOVA88,50,WON,39
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,0.25,2.1,76,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,0.25,2.1,76,0-1,oddsflow_core_strategy,APIFOOTBALL,35,LOST,-35
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,0.25,2.1,76,0-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,0.25,2.1,76,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich W,,AH,HOME,0.25,2.06,76,0-1,oddsflow_active_trader,NOVA88,46,LOST,-46
+2026-09-30,UEFA Europa Cup - Women,Torreense W,Metalist 1925 W,,AH,AWAY,-0.25,1.725,79,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Torreense W,Metalist 1925 W,,AH,AWAY,-0.25,1.71,79,3-1,oddsflow_handicap_sniper,NOVA88,25,LOST,-25
+2026-09-30,UEFA Europa Cup - Women,Torreense W,Metalist 1925 W,,AH,AWAY,-0.25,1.725,79,3-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,UEFA Europa Cup - Women,Torreense W,Metalist 1925 W,,AH,AWAY,-0.25,1.71,79,3-1,oddsflow_active_trader,NOVA88,26,LOST,-26
+2026-09-30,UEFA Europa Cup - Women,Torreense W,Metalist 1925 W,,AH,AWAY,-0.25,1.725,79,3-1,oddsflow_core_strategy,APIFOOTBALL,35,LOST,-35
+2026-09-30,UEFA Europa Cup - Women,Torreense W,Metalist 1925 W,,AH,AWAY,-0.25,1.68,79,3-1,oddsflow_core_strategy,NOVA88,21,LOST,-21
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,1X2,HOME,0,1.533,38,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,1X2,HOME,0,1.533,44,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-1,1.775,45,0-0,oddsflow_beta,APIFOOTBALL,50,WON,38.75
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.75,2.05,45,0-0,oddsflow_beta,APIFOOTBALL,50,WON,52.5
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.75,2.08,45,0-0,oddsflow_beta,NOVA88,15,WON,16.2
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.75,2.05,45,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.75,2.08,45,0-0,oddsflow_core_strategy,NOVA88,15,WON,16.2
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.75,2.05,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.75,2.08,45,0-0,oddsflow_active_trader,NOVA88,15,WON,16.2
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,OU,OVER,1.5,1.85,45,0-0,oddsflow_beta,APIFOOTBALL,50,WON,42.5
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.75,2.08,48,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,16.2
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-1,1.7,50,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,35
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-1,1.7,51,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,35
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.75,2.025,51,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,OU,UNDER,2.5,1.775,55,1-0,oddsflow_beta,APIFOOTBALL,50,WON,38.75
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,OU,UNDER,2.5,1.775,55,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.5,2,60,1-0,oddsflow_beta,APIFOOTBALL,50,WON,50
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.5,1.98,60,1-0,oddsflow_beta,NOVA88,28,WON,27.44
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.5,2,60,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.5,1.98,60,1-0,oddsflow_handicap_sniper,NOVA88,27,WON,26.46
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.5,2,60,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.5,1.98,60,1-0,oddsflow_active_trader,NOVA88,27,WON,26.46
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.5,1.925,64,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.5,1.98,64,1-0,oddsflow_core_strategy,NOVA88,34,WON,33.32
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,OU,UNDER,2,1.95,65,1-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.25,2.1,70,1-0,oddsflow_beta,APIFOOTBALL,50,WON,55
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.25,2.16,70,1-0,oddsflow_beta,NOVA88,27,WON,31.32
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.25,2.1,70,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,55
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.25,2.1,70,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,55
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.25,2.16,70,1-0,oddsflow_active_trader,NOVA88,26,WON,30.16
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.25,2.16,70,1-0,oddsflow_handicap_sniper,NOVA88,24,WON,27.84
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.25,2.1,72,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,55
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,AH,AWAY,-0.25,2.1,72,1-0,oddsflow_core_strategy,NOVA88,30,WON,33
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,1X2,DRAW,0,1.909,75,1-1,oddsflow_beta,APIFOOTBALL,50,WON,45.45
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,1X2,DRAW,0,1.833,75,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,41.65
+2026-09-30,Peruvian Primera División,Cienciano,Club Deportivo Los Chankas,,1X2,DRAW,0,1.833,75,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,41.65
+2026-09-30,Major League Soccer,New York Red Bulls,St. Louis City,,AH,HOME,0.25,1.95,22,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Major League Soccer,New York Red Bulls,St. Louis City,,AH,HOME,0.25,1.99,22,0-1,oddsflow_core_strategy,NOVA88,47,LOST,-47
+2026-09-30,Canadian Premier League,Atlético Ottawa,Cavalry FC,,AH,HOME,0.25,1.975,45,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
+2026-09-30,USL Championship,Brooklyn,Detroit City,,AH,HOME,0.5,1.775,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,USL Championship,Brooklyn,Detroit City,,AH,HOME,0.5,1.775,45,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Canadian Premier League,Atlético Ottawa,Cavalry FC,,AH,HOME,0.25,1.975,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,48.75
+2026-09-30,Canadian Premier League,Atlético Ottawa,Cavalry FC,,AH,HOME,0.25,1.975,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,48.75
+2026-09-30,USL Championship,Brooklyn,Detroit City,,AH,HOME,0.5,1.775,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Uruguayan Primera División - Apertura,Atletico Torque,Penarol,,AH,HOME,0,2.28,45,1-1,oddsflow_active_trader,NOVA88,15,VOID,0
+2026-09-30,Major League Soccer,New York Red Bulls,St. Louis City,,AH,HOME,0,2.35,28,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,USL Championship,Brooklyn,Detroit City,,AH,HOME,0.25,2.1,46,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-09-30,USL Championship,Brooklyn,Detroit City,,AH,HOME,0.25,2.1,46,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-09-30,USL Championship,Brooklyn,Detroit City,,AH,HOME,0.25,2.05,46,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,USL Championship,Brooklyn,Detroit City,,AH,HOME,0.25,2.05,46,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,USL Championship,Brooklyn,Detroit City,,AH,HOME,0.25,2.05,47,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Major League Soccer,New York Red Bulls,St. Louis City,,AH,HOME,0.25,1.9,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Club Friendlies,DC United,Paderborn 07,,AH,HOME,0.25,2.01,35,0-0,oddsflow_active_trader,NOVA88,18,LOST,-18
+2026-09-30,Major League Soccer,New York Red Bulls,St. Louis City,,AH,HOME,0.25,1.96,35,0-1,oddsflow_active_trader,NOVA88,44,LOST,-44
+2026-09-30,Club Friendlies,DC United,Paderborn 07,,AH,HOME,0.25,2.01,35,0-0,oddsflow_handicap_sniper,NOVA88,16,LOST,-16
+2026-09-30,Major League Soccer,New York Red Bulls,St. Louis City,,AH,HOME,0.25,1.85,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,USL Championship,Brooklyn,Detroit City,,1X2,DRAW,0,2.375,51,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Major League Soccer,New York Red Bulls,St. Louis City,,AH,HOME,0.25,1.92,35,0-1,oddsflow_handicap_sniper,NOVA88,42,LOST,-42
+2026-09-30,Uruguayan Primera División - Apertura,Atletico Torque,Penarol,,AH,HOME,0,2.32,58,1-1,oddsflow_handicap_sniper,NOVA88,15,VOID,0
+2026-09-30,Canadian Premier League,Atlético Ottawa,Cavalry FC,,OU,UNDER,2.5,2.025,49,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Canadian Premier League,Atlético Ottawa,Cavalry FC,,OU,UNDER,2.5,2.025,49,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,USL Championship,Brooklyn,Detroit City,,OU,OVER,2,2,55,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-09-30,USL Championship,Rhode Island,Indy Eleven,,OU,UNDER,2.5,2,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-09-30,Major League Soccer,New York Red Bulls,St. Louis City,,AH,HOME,0,2.075,43,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Major League Soccer,New York Red Bulls,St. Louis City,,AH,HOME,0,2.075,43,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Club Friendlies,DC United,Paderborn 07,,AH,HOME,0,2.18,45,0-1,oddsflow_active_trader,NOVA88,30,VOID,0
+2026-09-30,Club Friendlies,DC United,Paderborn 07,,AH,HOME,0,2.18,45,0-1,oddsflow_handicap_sniper,NOVA88,31,VOID,0
+2026-09-30,Canadian Premier League,Atlético Ottawa,Cavalry FC,,1X2,DRAW,0,2.4,62,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Canadian Premier League,Atlético Ottawa,Cavalry FC,,1X2,DRAW,0,2.4,62,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,USL Championship,Brooklyn,Detroit City,,AH,AWAY,-0.75,1.775,68,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-09-30,USL Championship,Brooklyn,Detroit City,,1X2,AWAY,0,2.25,68,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,62.5
+2026-09-30,USL Championship,Brooklyn,Detroit City,,AH,AWAY,-0.75,1.775,68,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-09-30,USL Championship,Brooklyn,Detroit City,,1X2,AWAY,0,2.25,68,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,62.5
+2026-09-30,USL Championship,Brooklyn,Detroit City,,AH,AWAY,-0.75,1.775,68,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,38.75
+2026-09-30,USL Championship,Brooklyn,Detroit City,,1X2,DRAW,0,1.8,71,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,Canadian Premier League,Atlético Ottawa,Cavalry FC,,AH,HOME,0,2.35,67,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,67.5
+2026-09-30,Canadian Premier League,Atlético Ottawa,Cavalry FC,,OU,UNDER,3,1.85,67,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,USL Championship,Brooklyn,Detroit City,,AH,HOME,0,2.35,74,1-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,USL Championship,Brooklyn,Detroit City,,AH,HOME,0,2.35,74,1-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-09-30,USL Championship,Brooklyn,Detroit City,,AH,HOME,0,2.35,74,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-09-30,Canadian Premier League,Atlético Ottawa,Cavalry FC,,AH,HOME,0,2.25,72,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,62.5
+2026-09-30,Canadian Premier League,Atlético Ottawa,Cavalry FC,,AH,HOME,0,2.27,72,1-1,oddsflow_active_trader,NOVA88,15,WON,19.05
+2026-09-30,Major League Soccer,New York Red Bulls,St. Louis City,,AH,HOME,-0.25,2.6,48,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-09-30,Canadian Premier League,Atlético Ottawa,Cavalry FC,,AH,HOME,0,2.475,78,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-09-30,Canadian Premier League,Atlético Ottawa,Cavalry FC,,AH,AWAY,0,2.25,80,2-1,oddsflow_core_strategy,APIFOOTBALL,35,VOID,0
+2026-09-30,Major League Soccer,New York Red Bulls,St. Louis City,,OU,UNDER,2,1.975,65,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
