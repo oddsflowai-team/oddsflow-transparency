@@ -5497,7 +5497,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-21,Austrian 2. Liga,Admira Wacker,First Vienna,,AH,HOME,0.5,1.84,17,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-21,Austrian 2. Liga,Admira Wacker,First Vienna,,AH,HOME,0.5,1.84,17,0-0,oddsflow_core_strategy,NOVA88,50,LOST,-50
 2026-08-21,Austrian Bundesliga,SV Ried,Grazer AK,,OU,OVER,2,2.1,61,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-08-21,Irish Premier Division,Dundalk,Galway United,,AH,HOME,0.5,1.8,10,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
 2026-08-21,Liga Profesional Argentina,Aldosivi,Union Santa Fe,,OU,OVER,4.5,1.75,67,1-3,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-21,Liga Profesional Argentina,Aldosivi,Union Santa Fe,,OU,OVER,4.5,1.75,67,1-3,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-21,Uruguayan Primera División - Apertura,Albion FC,Boston River,,AH,HOME,0.5,2.25,28,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,62.5
@@ -5564,6 +5563,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-21,Irish Premier Division,Bohemians,Derry City,,1X2,DRAW,0,2.75,48,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-21,Irish Premier Division,Bohemians,Derry City,,OU,OVER,4.25,1.95,53,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,47.5
 2026-08-21,Irish Premier Division,Bohemians,Derry City,,OU,OVER,4.25,1.95,53,3-1,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
+2026-08-21,Irish Premier Division,Dundalk,Galway United,,AH,HOME,0.5,1.8,10,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
 2026-08-21,Belgian Pro League,Standard Liege,RAAL La Louvière,,AH,AWAY,-0.5,1.875,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-21,Segunda División,Cordoba,Girona,,AH,AWAY,0,1.775,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-21,Segunda División,Cordoba,Girona,,AH,AWAY,-1,1.8,12,1-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
@@ -5767,8 +5767,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,Malawian Super League,Masters FC,Blue Eagles,,AH,HOME,1,2,13,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
 2026-08-22,Tweede Divisie,HHC,Almere City II,,AH,AWAY,-0.5,1.975,14,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-22,Tweede Divisie,RKAV Volendam,Spakenburg,,AH,HOME,1,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
-2026-08-22,Chinese Super League,Chengdu Better City,Shanghai Shenhua,,AH,AWAY,0,1.95,52,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
 2026-08-22,Chinese Super League,Chengdu Better City,Shanghai Shenhua,,AH,AWAY,0,1.95,52,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,47.5
+2026-08-22,Chinese Super League,Chengdu Better City,Shanghai Shenhua,,AH,AWAY,0,1.95,52,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
 2026-08-22,Chinese Super League,Chengdu Better City,Shanghai Shenhua,,OU,OVER,4.5,1.95,52,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,47.5
 2026-08-22,Chinese Super League,Chengdu Better City,Shanghai Shenhua,,OU,OVER,4.5,1.95,52,2-2,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
 2026-08-22,Chinese Super League,Chengdu Better City,Shanghai Shenhua,,1X2,AWAY,0,1.727,54,2-3,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.35
@@ -5792,7 +5792,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,Championship,Birmingham,Bristol City,,1X2,DRAW,0,1.666,75,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,33.3
 2026-08-22,Championship,Birmingham,Bristol City,,AH,AWAY,0,2.55,75,1-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-08-22,Championship,Birmingham,Bristol City,,1X2,DRAW,0,1.666,75,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,33.3
-2026-08-22,Tweede Divisie,Kloetinge,Kozakken Boys,,AH,AWAY,0,1.95,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-22,Damallsvenskan,Djurgården W,Brommapojkarna W,,AH,AWAY,-1.5,1.925,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
 2026-08-22,Allsvenskan,Orgryte IS,Halmstad,,AH,AWAY,-0.5,1.875,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,43.75
 2026-08-22,Tweede Divisie,Ijsselmeervogels,Quick Boys,,AH,HOME,0.5,1.825,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
@@ -5809,7 +5808,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,Ligue 2,Nantes,Rodez,,AH,AWAY,-0.5,1.8,53,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,40
 2026-08-22,Ligue 2,Metz,Laval,,AH,HOME,0.5,1.975,55,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,48.75
 2026-08-22,Ligue 2,Metz,Laval,,1X2,AWAY,0,1.833,55,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-08-22,Tweede Divisie,Katwijk,Hoek,,AH,AWAY,0,2.025,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-22,Ligue 2,Nantes,Rodez,,1X2,DRAW,0,2.4,55,2-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-22,Ligue 2,Nantes,Rodez,,1X2,DRAW,0,2.4,55,2-2,oddsflow_beta,APIFOOTBALL,50,LOST,-50
 2026-08-22,Ligue 2,Nantes,Rodez,,1X2,DRAW,0,2.4,55,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
@@ -5822,7 +5820,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,Ekstraklasa,Korona Kielce,Motor Lublin,,AH,AWAY,0,2.675,37,1-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-22,Ekstraklasa,Korona Kielce,Motor Lublin,,AH,AWAY,0,2.675,37,1-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-08-22,Ekstraklasa,Korona Kielce,Motor Lublin,,AH,AWAY,0,2.675,37,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
-2026-08-22,Tweede Divisie,Kloetinge,Kozakken Boys,,AH,AWAY,-1,2.025,28,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
 2026-08-22,Damallsvenskan,Kristianstad W,Rosengård W,,AH,AWAY,0,2.425,29,1-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-22,Chinese Super League,Sichuan Jiuniu,Hangzhou Greentown,,1X2,HOME,0,1.5,60,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-22,Chinese Super League,Sichuan Jiuniu,Hangzhou Greentown,,1X2,HOME,0,1.5,60,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
@@ -5862,11 +5859,13 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,Allsvenskan,Orgryte IS,Halmstad,,OU,OVER,3,2.05,63,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-22,Belarusian Premier League,Slavia Mozyr,FC Gomel,,AH,AWAY,0,2.05,83,0-0,oddsflow_core_strategy,APIFOOTBALL,35,VOID,0
 2026-08-22,Belarusian Premier League,Slavia Mozyr,FC Gomel,,AH,AWAY,0,2.05,83,0-0,oddsflow_core_strategy,NOVA88,50,VOID,0
+2026-08-22,Tweede Divisie,Kloetinge,Kozakken Boys,,AH,AWAY,0,1.95,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-08-22,Tweede Divisie,Katwijk,Hoek,,AH,AWAY,0,2.025,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-08-22,Tweede Divisie,Kloetinge,Kozakken Boys,,AH,AWAY,-1,2.025,28,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
 2026-08-22,DFB-Pokal,FC Viktoria Köln,1. FC Nürnberg,,AH,HOME,0.5,1.95,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
 2026-08-22,Austrian 2. Liga,Rapid Wien II,Floridsdorfer AC,,AH,AWAY,0,2,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
 2026-08-22,NB I,Vasas,Puskas Academy,,AH,AWAY,0,2.3,24,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-22,DFB-Pokal,FC Viktoria Köln,1. FC Nürnberg,,AH,HOME,1,1.975,29,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
-2026-08-22,League Two,Port Vale,Tranmere,,AH,AWAY,-0.5,1.925,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
 2026-08-22,League Two,Fleetwood Town,Gillingham,,AH,AWAY,-0.5,1.95,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
 2026-08-22,Championship,Blackburn,Middlesbrough,,AH,HOME,0.5,1.875,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,43.75
 2026-08-22,Championship,Wrexham,Watford,,AH,AWAY,-0.5,2,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
@@ -5884,7 +5883,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,DFB-Pokal,FC Viktoria Köln,1. FC Nürnberg,,1X2,HOME,0,3.25,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-22,Championship,Preston,Wolves,,AH,HOME,1,2.2,18,0-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-22,Belgian Pro League,Zulte Waregem,Beveren,,AH,AWAY,-1,2,20,0-0,oddsflow_core_strategy,APIFOOTBALL,63,LOST,-63
-2026-08-22,League Two,Rochdale,Crawley Town,,AH,HOME,0.5,1.825,21,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
 2026-08-22,Championship,Derby,Cardiff,,AH,HOME,0.5,1.975,21,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
 2026-08-22,Championship,Blackburn,Middlesbrough,,AH,HOME,1,2.3,22,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,65
 2026-08-22,Championship,West Ham,Charlton,,AH,AWAY,0,2.2,27,0-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
@@ -5941,12 +5939,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,DFB-Pokal,FC Viktoria Köln,1. FC Nürnberg,,OU,OVER,1.25,1.9,57,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45
 2026-08-22,Championship,Wrexham,Watford,,1X2,DRAW,0,2.75,45,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,87.5
 2026-08-22,League Two,Exeter City,Accrington ST,,OU,UNDER,3.5,1.775,45,2-0,oddsflow_beta,APIFOOTBALL,50,WON,38.75
-2026-08-22,League Two,Rochdale,Crawley Town,,1X2,AWAY,0,1.666,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,33.3
-2026-08-22,League Two,Rochdale,Crawley Town,,1X2,AWAY,0,1.666,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,33.3
 2026-08-22,League Two,Exeter City,Accrington ST,,OU,UNDER,3.5,1.775,45,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
 2026-08-22,League Two,Exeter City,Accrington ST,,OU,UNDER,3.5,1.775,45,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
-2026-08-22,League Two,Rochdale,Crawley Town,,AH,HOME,0.5,2.1,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,55
-2026-08-22,League Two,Rochdale,Crawley Town,,AH,HOME,0.5,2.1,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,55
 2026-08-22,Premier League,Everton,Crystal Palace,,1X2,HOME,0,1.5,45,1-0,oddsflow_active_trader,APIFOOTBALL,100,WON,50
 2026-08-22,Premier League,Everton,Crystal Palace,,1X2,HOME,0,1.5,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,100,WON,50
 2026-08-22,DFB-Pokal,FC Viktoria Köln,1. FC Nürnberg,,OU,UNDER,2,1.95,65,0-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
@@ -5955,8 +5949,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,League Two,Fleetwood Town,Gillingham,,AH,AWAY,-0.5,1.75,47,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,37.5
 2026-08-22,League Two,Fleetwood Town,Gillingham,,AH,AWAY,-0.5,1.75,47,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,37.5
 2026-08-22,League Two,Fleetwood Town,Gillingham,,1X2,DRAW,0,2.5,47,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,75
-2026-08-22,League Two,Rochdale,Crawley Town,,OU,UNDER,2.5,1.775,48,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-22,League Two,Rochdale,Crawley Town,,OU,UNDER,2.5,1.775,49,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-22,Premier League,Ipswich Town,Sunderland,,AH,AWAY,0,1.7,52,1-1,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
 2026-08-22,Premier League,Nottingham Forest,Leeds United,,OU,OVER,1,2,52,0-0,oddsflow_core_strategy,APIFOOTBALL,500,VOID,0
 2026-08-22,League Two,Crewe,Northampton,,AH,AWAY,0,2.05,50,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
@@ -5968,11 +5960,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,Premier League,Ipswich Town,Sunderland,,AH,AWAY,0,1.7,54,1-1,oddsflow_active_trader,APIFOOTBALL,100,LOST,-100
 2026-08-22,Premier League,Ipswich Town,Sunderland,,AH,AWAY,0,1.7,54,1-1,oddsflow_handicap_sniper,APIFOOTBALL,100,LOST,-100
 2026-08-22,Premier League,Ipswich Town,Sunderland,,1X2,DRAW,0,2.2,54,1-1,oddsflow_handicap_sniper,APIFOOTBALL,100,LOST,-100
-2026-08-22,League Two,Rochdale,Crawley Town,,1X2,DRAW,0,2.375,56,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-22,League Two,Rochdale,Crawley Town,,1X2,DRAW,0,2.375,56,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-22,Premier League,Ipswich Town,Sunderland,,1X2,DRAW,0,2.2,55,1-1,oddsflow_active_trader,APIFOOTBALL,100,LOST,-100
-2026-08-22,League Two,Port Vale,Tranmere,,AH,AWAY,-1,2.2,55,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,60
-2026-08-22,League Two,Port Vale,Tranmere,,AH,AWAY,-1,2.2,55,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,60
 2026-08-22,League Two,Crewe,Northampton,,1X2,DRAW,0,2.2,53,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-22,League Two,Crewe,Northampton,,OU,OVER,1,2,53,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-22,Premier League,Ipswich Town,Sunderland,,OU,OVER,3,2,56,1-1,oddsflow_core_strategy,APIFOOTBALL,500,VOID,0
@@ -5985,24 +5973,13 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,Championship,Southampton,Stoke City,,AH,AWAY,0,2.6,58,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-22,Championship,Southampton,Stoke City,,AH,AWAY,0,2.6,58,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-22,Championship,Preston,Wolves,,OU,OVER,2,2,57,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
-2026-08-22,League Two,Port Vale,Tranmere,,OU,OVER,2,2.125,61,1-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-22,Premier League,Nottingham Forest,Leeds United,,OU,OVER,0.5,1.775,66,0-0,oddsflow_handicap_sniper,APIFOOTBALL,100,WON,77.5
 2026-08-22,Premier League,Nottingham Forest,Leeds United,,OU,OVER,0.5,1.775,66,0-0,oddsflow_active_trader,APIFOOTBALL,100,WON,77.5
-2026-08-22,League Two,Rochdale,Crawley Town,,AH,AWAY,0,2.35,68,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,67.5
-2026-08-22,League Two,Rochdale,Crawley Town,,AH,AWAY,0,2.35,68,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,67.5
-2026-08-22,League Two,Rochdale,Crawley Town,,AH,AWAY,0,2.35,68,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,67.5
 2026-08-22,Championship,Southampton,Stoke City,,OU,OVER,2.75,2.025,70,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
-2026-08-22,League Two,Rochdale,Crawley Town,,OU,UNDER,3.5,1.775,71,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
-2026-08-22,League Two,Rochdale,Crawley Town,,OU,UNDER,3.5,1.775,71,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
-2026-08-22,League Two,Port Vale,Tranmere,,AH,AWAY,0,2.3,73,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,65
 2026-08-22,Championship,Preston,Wolves,,OU,UNDER,2.5,2,71,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-22,League Two,Port Vale,Tranmere,,OU,UNDER,2.5,2.05,73,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
-2026-08-22,League Two,Port Vale,Tranmere,,AH,AWAY,0,2.3,73,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,65
 2026-08-22,Championship,Preston,Wolves,,OU,UNDER,2.5,2,71,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-08-22,League Two,Port Vale,Tranmere,,OU,UNDER,2.5,2.05,73,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
-2026-08-22,League Two,Port Vale,Tranmere,,1X2,DRAW,0,1.727,74,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,36.35
-2026-08-22,League Two,Port Vale,Tranmere,,1X2,DRAW,0,1.727,74,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.35
 2026-08-22,Egyptian Premier League,El Geish,El Mokawloon,,AH,AWAY,0,2.1,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-22,League Two,Port Vale,Tranmere,,AH,AWAY,-0.5,1.925,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
 2026-08-22,League One,Stevenage,Oxford United,,AH,HOME,-0.5,2.675,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-22,League Two,Rotherham,York,,AH,AWAY,0,1.825,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-22,League Two,Swindon Town,Cheltenham,,AH,AWAY,0,2.5,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
@@ -6013,6 +5990,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,League One,Stevenage,Oxford United,,AH,AWAY,0,1.95,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
 2026-08-22,League One,Peterborough,Mansfield Town,,AH,HOME,-0.5,2.75,16,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,87.5
 2026-08-22,League One,Wigan,Leyton Orient,,AH,HOME,0.5,1.925,20,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
+2026-08-22,League Two,Rochdale,Crawley Town,,AH,HOME,0.5,1.825,21,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
 2026-08-22,Egyptian Premier League,Asyut Petrol,Petrojet,,AH,HOME,0.5,1.8,21,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
 2026-08-22,League One,Leicester,Burton Albion,,AH,AWAY,0,2.05,21,0-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-22,League One,Leicester,Burton Albion,,AH,HOME,1,1.9,25,0-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
@@ -6040,9 +6018,13 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,Macedonian First League,Shkëndija Haraçinë,Aresimi,,AH,AWAY,-0.5,1.975,15,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
 2026-08-22,League One,Wycombe,Plymouth,,1X2,AWAY,0,1.571,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,28.55
 2026-08-22,League One,Milton Keynes Dons,Huddersfield,,AH,HOME,1,1.75,45,0-1,oddsflow_beta,APIFOOTBALL,50,WON,37.5
+2026-08-22,League Two,Rochdale,Crawley Town,,1X2,AWAY,0,1.666,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,33.3
 2026-08-22,League One,Milton Keynes Dons,Huddersfield,,AH,HOME,1,1.75,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,37.5
+2026-08-22,League Two,Rochdale,Crawley Town,,1X2,AWAY,0,1.666,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,33.3
 2026-08-22,League One,Milton Keynes Dons,Huddersfield,,AH,HOME,1,1.75,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,37.5
+2026-08-22,League Two,Rochdale,Crawley Town,,AH,HOME,0.5,2.1,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,55
 2026-08-22,League One,Wigan,Leyton Orient,,AH,HOME,0.5,2.05,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-08-22,League Two,Rochdale,Crawley Town,,AH,HOME,0.5,2.1,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,55
 2026-08-22,League One,Wigan,Leyton Orient,,AH,HOME,0.5,2.05,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
 2026-08-22,League Two,Rotherham,York,,1X2,DRAW,0,2.6,45,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,80
 2026-08-22,League One,Wigan,Leyton Orient,,1X2,AWAY,0,1.727,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,36.35
@@ -6053,7 +6035,9 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,League One,Peterborough,Mansfield Town,,OU,UNDER,1.5,1.775,48,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-22,League One,Peterborough,Mansfield Town,,OU,UNDER,1.5,1.775,48,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-22,League One,Peterborough,Mansfield Town,,OU,UNDER,1.5,1.775,49,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-08-22,League Two,Rochdale,Crawley Town,,OU,UNDER,2.5,1.775,48,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-22,League One,Peterborough,Mansfield Town,,1X2,DRAW,0,2.625,49,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-08-22,League Two,Rochdale,Crawley Town,,OU,UNDER,2.5,1.775,49,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-22,Czech Liga,Zlin,Slovan Liberec,,AH,HOME,0.5,1.975,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-22,Austrian Bundesliga,SCR Altach,TSV Hartberg,,AH,AWAY,-0.5,2,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
 2026-08-22,Egyptian Premier League,El Geish,El Mokawloon,,OU,OVER,0.75,2,50,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,25
@@ -6068,7 +6052,9 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,Erovnuli Liga,Spaeri,Samgurali,,AH,HOME,1,1.775,10,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,38.75
 2026-08-22,League One,Stevenage,Oxford United,,OU,OVER,1,2.025,50,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
 2026-08-22,Erovnuli Liga,Dila,Torpedo Kutaisi,,AH,AWAY,0,2.075,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-08-22,League Two,Rochdale,Crawley Town,,1X2,DRAW,0,2.375,56,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-22,League One,Peterborough,Mansfield Town,,AH,AWAY,-1,1.775,56,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-08-22,League Two,Rochdale,Crawley Town,,1X2,DRAW,0,2.375,56,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-22,League One,Peterborough,Mansfield Town,,AH,AWAY,-1,1.775,56,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
 2026-08-22,League One,Milton Keynes Dons,Huddersfield,,AH,AWAY,0,2.075,54,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-22,League One,Milton Keynes Dons,Huddersfield,,AH,AWAY,0,2.075,54,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
@@ -6076,6 +6062,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,League Two,Shrewsbury,Barnet,,AH,AWAY,0,1.7,55,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,35
 2026-08-22,League Two,Shrewsbury,Barnet,,AH,AWAY,0,1.7,56,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,35
 2026-08-22,League Two,Shrewsbury,Barnet,,AH,AWAY,0,1.7,56,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,35
+2026-08-22,League Two,Port Vale,Tranmere,,AH,AWAY,-1,2.2,55,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,60
+2026-08-22,League Two,Port Vale,Tranmere,,AH,AWAY,-1,2.2,55,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,60
 2026-08-22,League One,Milton Keynes Dons,Huddersfield,,1X2,DRAW,0,2.375,56,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,68.75
 2026-08-22,League One,Milton Keynes Dons,Huddersfield,,1X2,DRAW,0,2.375,56,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,68.75
 2026-08-22,Erovnuli Liga,Spaeri,Samgurali,,AH,AWAY,0,1.925,13,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
@@ -6089,6 +6077,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,Austrian Bundesliga,SCR Altach,TSV Hartberg,,AH,HOME,0.5,1.9,17,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
 2026-08-22,League One,Peterborough,Mansfield Town,,OU,OVER,3,2,62,1-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-22,Segunda División,Oviedo,Leganes,,AH,HOME,0.5,1.875,20,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,43.75
+2026-08-22,League Two,Port Vale,Tranmere,,OU,OVER,2,2.125,61,1-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-22,League One,Milton Keynes Dons,Huddersfield,,OU,OVER,3,2,62,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-22,Ligi kuu Bara,Singida Black Stars,Simba,,AH,HOME,1.5,1.925,21,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
 2026-08-22,Erovnuli Liga,Dila,Torpedo Kutaisi,,AH,AWAY,-1,2,24,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
@@ -6097,10 +6086,15 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,League One,Stevenage,Oxford United,,OU,OVER,0.5,1.775,62,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
 2026-08-22,League One,Stevenage,Oxford United,,1X2,DRAW,0,1.8,63,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-22,Ligue 1,Lens,Auxerre,,AH,AWAY,-1,2.05,10,0-0,oddsflow_core_strategy,APIFOOTBALL,172,LOST,-172
+2026-08-22,League Two,Rochdale,Crawley Town,,AH,AWAY,0,2.35,68,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,67.5
+2026-08-22,League Two,Rochdale,Crawley Town,,AH,AWAY,0,2.35,68,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,67.5
+2026-08-22,League Two,Rochdale,Crawley Town,,AH,AWAY,0,2.35,68,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,67.5
 2026-08-22,Belarusian Premier League,Naftan,Neman,,AH,HOME,0.5,2.25,41,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,62.5
 2026-08-22,Belarusian Premier League,Naftan,Neman,,AH,HOME,0.5,2.25,41,0-2,oddsflow_active_trader,NOVA88,50,WON,62.5
 2026-08-22,Belarusian Premier League,Naftan,Neman,,AH,HOME,0.5,2.25,41,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,62.5
 2026-08-22,Belarusian Premier League,Naftan,Neman,,AH,HOME,0.5,2.25,41,0-2,oddsflow_handicap_sniper,NOVA88,50,WON,62.5
+2026-08-22,League Two,Rochdale,Crawley Town,,OU,UNDER,3.5,1.775,71,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-08-22,League Two,Rochdale,Crawley Town,,OU,UNDER,3.5,1.775,71,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
 2026-08-22,Egyptian Premier League,El Geish,El Mokawloon,,1X2,DRAW,0,1.533,69,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-22,Egyptian Premier League,El Geish,El Mokawloon,,AH,AWAY,-1,1.875,69,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-08-22,Egyptian Premier League,El Geish,El Mokawloon,,AH,AWAY,-1,1.875,69,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
@@ -6108,7 +6102,13 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,Egyptian Premier League,El Geish,El Mokawloon,,1X2,DRAW,0,4.75,70,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-22,Egyptian Premier League,El Geish,El Mokawloon,,OU,UNDER,1.5,1.575,70,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,28.75
 2026-08-22,League One,AFC Wimbledon,Reading,,1X2,DRAW,0,1.666,72,0-0,oddsflow_beta,APIFOOTBALL,50,WON,33.3
+2026-08-22,League Two,Port Vale,Tranmere,,AH,AWAY,0,2.3,73,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,65
 2026-08-22,Egyptian Premier League,El Geish,El Mokawloon,,AH,AWAY,-1,1.725,71,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,36.25
+2026-08-22,League Two,Port Vale,Tranmere,,OU,UNDER,2.5,2.05,73,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-08-22,League Two,Port Vale,Tranmere,,AH,AWAY,0,2.3,73,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,65
+2026-08-22,League Two,Port Vale,Tranmere,,OU,UNDER,2.5,2.05,73,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-08-22,League Two,Port Vale,Tranmere,,1X2,DRAW,0,1.727,74,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,36.35
+2026-08-22,League Two,Port Vale,Tranmere,,1X2,DRAW,0,1.727,74,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.35
 2026-08-22,Austrian Bundesliga,SCR Altach,TSV Hartberg,,AH,HOME,0.5,1.825,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,41.25
 2026-08-22,Austrian Bundesliga,SCR Altach,TSV Hartberg,,1X2,AWAY,0,1.952,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,47.6
 2026-08-22,Austrian Bundesliga,SCR Altach,TSV Hartberg,,AH,HOME,0.5,1.825,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,41.25
@@ -6154,7 +6154,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,Bulgarian First League,Ludogorets,Slavia Sofia,,AH,AWAY,0,2.6,11,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-22,DFB-Pokal,SG Sonnenhof Grossaspach,Arminia Bielefeld,,AH,AWAY,0,1.85,14,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
 2026-08-22,DFB-Pokal,TSV 1860 München,Holstein Kiel,,AH,HOME,0.5,2.5,18,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-08-22,Slovak Super Liga,DAC Dunajska Streda,Podbrezová,,AH,AWAY,-0.5,2.05,20,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-22,Austrian Bundesliga,SCR Altach,TSV Hartberg,,1X2,DRAW,0,1.666,78,1-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
 2026-08-22,DFB-Pokal,SG Sonnenhof Grossaspach,Arminia Bielefeld,,1X2,DRAW,0,1.727,77,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.35
 2026-08-22,DFB-Pokal,SG Sonnenhof Grossaspach,Arminia Bielefeld,,1X2,DRAW,0,1.666,77,2-2,oddsflow_active_trader,APIFOOTBALL,50,WON,33.3
@@ -6173,6 +6172,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,Swiss Super League,FC Luzern,Lausanne-Sport,,AH,AWAY,-1.5,1.775,12,1-0,oddsflow_core_strategy,APIFOOTBALL,79,WON,61.22
 2026-08-22,Süper Lig,Rizespor,Samsunspor,,AH,AWAY,-0.5,1.9,17,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
 2026-08-22,Saudi Pro League,Al Kholood,Al Taawon,,AH,AWAY,0,1.775,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-22,Slovak Super Liga,DAC Dunajska Streda,Podbrezová,,AH,AWAY,-0.5,2.05,20,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-22,Slovak Super Liga,Ružomberok,Dukla Banská Bystrica,,AH,AWAY,-0.5,2.025,24,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
 2026-08-22,Belgian Pro League,Charleroi,Mechelen,,AH,AWAY,-0.5,2,18,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-22,HNL,NK Slaven Belupo,HNK Gorica,,AH,AWAY,0,1.9,11,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
@@ -6275,9 +6275,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,Segunda División,Albacete,Real Sociedad II,,OU,OVER,3,2,62,0-2,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-22,Egyptian Premier League,Ghazl El Mehalla,Pyramids FC,,OU,OVER,1.5,1.725,60,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,36.25
 2026-08-22,Egyptian Premier League,Ghazl El Mehalla,Pyramids FC,,OU,OVER,1.5,1.725,60,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.25
-2026-08-22,Canadian Premier League,HFX Wanderers FC,Vancouver FC,,AH,AWAY,0,1.825,14,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-08-22,Canadian Premier League,HFX Wanderers FC,Vancouver FC,,AH,AWAY,-1,1.8,18,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
-2026-08-22,Canadian Premier League,HFX Wanderers FC,Vancouver FC,,AH,AWAY,-0.5,2.35,21,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,67.5
 2026-08-22,Austrian Bundesliga,Sturm Graz,Austria Lustenau,,1X2,AWAY,0,2.5,51,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-22,Austrian Bundesliga,Sturm Graz,Austria Lustenau,,1X2,AWAY,0,2.5,51,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-22,Egyptian Premier League,Ghazl El Mehalla,Pyramids FC,,OU,UNDER,3.5,1.725,76,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.25
@@ -6296,8 +6293,11 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-22,Austrian Bundesliga,Sturm Graz,Austria Lustenau,,AH,AWAY,-0.5,1.775,68,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
 2026-08-22,Austrian Bundesliga,Sturm Graz,Austria Lustenau,,1X2,DRAW,0,2.3,68,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,65
 2026-08-22,Torneo Federal A,Circulo Deportivo,Costa Brava,,AH,AWAY,0,2.425,15,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,71.25
+2026-08-22,Canadian Premier League,HFX Wanderers FC,Vancouver FC,,AH,AWAY,0,1.825,14,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-22,Bulgarian First League,Levski Sofia,Spartak Varna,,AH,AWAY,-1.5,1.9,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-22,Canadian Premier League,HFX Wanderers FC,Vancouver FC,,AH,AWAY,-1,1.8,18,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
 2026-08-22,Uruguayan Primera División - Apertura,Cerro Largo,Defensor Sporting,,AH,HOME,1,1.95,30,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
+2026-08-22,Canadian Premier League,HFX Wanderers FC,Vancouver FC,,AH,AWAY,-0.5,2.35,21,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,67.5
 2026-08-22,Turkish 1. Lig,Antalyaspor,Pendikspor,,AH,AWAY,-0.5,1.85,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
 2026-08-22,Slovak Super Liga,FK Košice,Slovan Bratislava,,AH,HOME,0.5,1.95,10,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
 2026-08-22,Turkish 1. Lig,Bodrum FK,Muğlaspor,,AH,AWAY,-0.5,1.775,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,38.75
@@ -6615,8 +6615,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-23,Championship,West Brom,Burnley,,OU,OVER,3.25,2.05,50,2-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
 2026-08-23,Allsvenskan,IFK Goteborg,IF Elfsborg,,AH,AWAY,0,1.925,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-23,Allsvenskan,IFK Goteborg,IF Elfsborg,,AH,AWAY,0,1.92,10,0-0,oddsflow_core_strategy,NOVA88,18,VOID,0
-2026-08-23,Veikkausliiga,HJK Helsinki,Gnistan,,AH,AWAY,-1,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
-2026-08-23,Veikkausliiga,HJK Helsinki,Gnistan,,AH,AWAY,-1,1.96,10,0-0,oddsflow_core_strategy,NOVA88,50,WON,48
 2026-08-23,Allsvenskan,Vasteras SK FK,Kalmar FF,,AH,AWAY,0,1.775,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-23,Allsvenskan,Vasteras SK FK,Kalmar FF,,AH,AWAY,0,1.85,10,0-0,oddsflow_core_strategy,NOVA88,15,VOID,0
 2026-08-23,Chinese Super League,Shenyang Urban,Henan Jianye,,AH,HOME,1,1.95,48,1-2,oddsflow_core_strategy,APIFOOTBALL,64,WON,60.8
@@ -6640,16 +6638,12 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-23,Chinese Super League,Shenyang Urban,Henan Jianye,,OU,OVER,4.25,2.075,59,1-3,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,53.75
 2026-08-23,Championship,West Brom,Burnley,,OU,UNDER,4.5,2,65,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,50
 2026-08-23,Championship,West Brom,Burnley,,OU,UNDER,4.5,2,65,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
-2026-08-23,Veikkausliiga,HJK Helsinki,Gnistan,,AH,AWAY,-1.5,2.025,25,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
-2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,AH,AWAY,0,2.075,28,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,53.75
 2026-08-23,Allsvenskan,IFK Goteborg,IF Elfsborg,,AH,AWAY,0,1.975,39,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-08-23,Allsvenskan,Vasteras SK FK,Kalmar FF,,AH,AWAY,0,1.725,39,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-08-23,Allsvenskan,IFK Goteborg,IF Elfsborg,,1X2,DRAW,0,2.875,39,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,93.75
 2026-08-23,Allsvenskan,IFK Goteborg,IF Elfsborg,,AH,AWAY,0,1.975,39,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-08-23,Allsvenskan,Vasteras SK FK,Kalmar FF,,1X2,HOME,0,3.25,39,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-23,Allsvenskan,Vasteras SK FK,Kalmar FF,,AH,AWAY,0,1.725,39,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
-2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,AH,AWAY,0,2.025,39,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
-2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,AH,AWAY,0,2.025,39,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
 2026-08-23,Allsvenskan,IFK Goteborg,IF Elfsborg,,OU,UNDER,1.5,2.025,43,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-23,Allsvenskan,IFK Goteborg,IF Elfsborg,,OU,UNDER,1.5,2.025,43,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-23,Allsvenskan,IFK Goteborg,IF Elfsborg,,1X2,DRAW,0,2.75,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,87.5
@@ -6660,25 +6654,23 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-23,Chinese Super League,Shanghai SIPG,Qingdao Jonoon,,AH,AWAY,-0.5,2,64,1-1,oddsflow_core_strategy,APIFOOTBALL,51,LOST,-51
 2026-08-23,Chinese Super League,Shanghai SIPG,Qingdao Jonoon,,OU,UNDER,3.25,1.925,65,1-1,oddsflow_core_strategy,APIFOOTBALL,500,HALF_WON,231.25
 2026-08-23,Allsvenskan,Vasteras SK FK,Kalmar FF,,1X2,DRAW,0,2.2,52,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,60
-2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,OU,OVER,1,2,51,0-0,oddsflow_core_strategy,APIFOOTBALL,500,VOID,0
-2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,OU,OVER,0.75,1.7,51,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,17.5
-2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,OU,OVER,0.75,1.7,51,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,17.5
 2026-08-23,Allsvenskan,Vasteras SK FK,Kalmar FF,,1X2,DRAW,0,2.2,57,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,60
 2026-08-23,Allsvenskan,IFK Goteborg,IF Elfsborg,,OU,OVER,1,2.05,61,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
-2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,OU,OVER,0.5,1.725,62,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.25
-2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,OU,OVER,0.5,1.725,62,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,36.25
 2026-08-23,Allsvenskan,IFK Goteborg,IF Elfsborg,,AH,AWAY,-1,2,64,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
 2026-08-23,Allsvenskan,IFK Goteborg,IF Elfsborg,,AH,AWAY,-1,2,64,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
 2026-08-23,Allsvenskan,Vasteras SK FK,Kalmar FF,,OU,OVER,0.75,2,66,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,AH,HOME,1,1.8,64,0-1,oddsflow_active_trader,APIFOOTBALL,56,WON,44.8
-2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,AH,HOME,1,1.8,64,0-1,oddsflow_core_strategy,APIFOOTBALL,72,WON,57.6
-2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,AH,HOME,1,1.8,64,0-1,oddsflow_handicap_sniper,APIFOOTBALL,56,WON,44.8
+2026-08-23,Veikkausliiga,HJK Helsinki,Gnistan,,AH,AWAY,-1,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
+2026-08-23,Veikkausliiga,HJK Helsinki,Gnistan,,AH,AWAY,-1,1.96,10,0-0,oddsflow_core_strategy,NOVA88,50,WON,48
 2026-08-23,Frauen Bundesliga,1899 Hoffenheim W,Stuttgart W,,AH,AWAY,-1,1.85,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
 2026-08-23,Superliga,Aarhus,Odense,,AH,AWAY,-0.5,1.8,16,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
+2026-08-23,Veikkausliiga,HJK Helsinki,Gnistan,,AH,AWAY,-1.5,2.025,25,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
 2026-08-23,Russian Premier League,Dynamo,Rodina Moskva,,AH,AWAY,-0.5,2.61,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,AH,AWAY,0,2.075,28,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,53.75
 2026-08-23,Russian Premier League,Dynamo,Rodina Moskva,,AH,AWAY,-0.5,2.61,10,0-0,oddsflow_core_strategy,NOVA88,45,LOST,-45
 2026-08-23,Frauen Bundesliga,1899 Hoffenheim W,Stuttgart W,,AH,AWAY,-0.5,1.95,28,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
 2026-08-23,Malawian Super League,CIVO United,MAFCO,,AH,AWAY,-0.5,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,AH,AWAY,0,2.025,39,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,AH,AWAY,0,2.025,39,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
 2026-08-23,Malawian Super League,Mitundu Baptist,Nyasa Big Bullets,,AH,HOME,0.5,1.75,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,37.5
 2026-08-23,Malawian Super League,Karonga United,Chitipa United,,AH,AWAY,-0.5,1.8,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
 2026-08-23,Malawian Super League,Mitundu Baptist,Nyasa Big Bullets,,AH,HOME,0,2.625,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
@@ -6693,12 +6685,15 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-23,Ekstraklasa,Radomiak Radom,Zaglebie Lubin,,AH,AWAY,0,1.875,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-23,Swiss Super League,Young Boys,FC Vaduz,,OU,UNDER,6.5,1.6,47,2-2,oddsflow_active_trader,APIFOOTBALL,62,WON,37.2
 2026-08-23,Swiss Super League,Young Boys,FC Vaduz,,OU,UNDER,6.5,1.6,47,2-2,oddsflow_handicap_sniper,APIFOOTBALL,62,WON,37.2
+2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,OU,OVER,1,2,51,0-0,oddsflow_core_strategy,APIFOOTBALL,500,VOID,0
 2026-08-23,Liga I,Sepsi OSK Sfantu Gheorghe,Farul Constanta,,AH,AWAY,0,2.075,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-23,Ligue 1,Angers,Lille,,AH,HOME,0.5,2.05,10,0-0,oddsflow_core_strategy,APIFOOTBALL,171,LOST,-171
 2026-08-23,Superettan,IK brage,United Nordic,,AH,AWAY,0,1.95,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
 2026-08-23,Damallsvenskan,Vittsjö W,Norrköping W,,AH,AWAY,0,2,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-23,Superliga,FC Midtjylland,Randers FC,,AH,AWAY,-1.5,2.025,47,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
 2026-08-23,Superliga,FC Midtjylland,Randers FC,,AH,AWAY,-1.5,2.025,47,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,OU,OVER,0.75,1.7,51,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,17.5
+2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,OU,OVER,0.75,1.7,51,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,17.5
 2026-08-23,Superliga,FC Midtjylland,Randers FC,,OU,UNDER,2.5,2,47,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
 2026-08-23,Superliga,FC Midtjylland,Randers FC,,OU,UNDER,2.5,2,47,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
 2026-08-23,Ligi kuu Bara,Mbeya City,Mashujaa,,AH,AWAY,0,2.1,11,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
@@ -6710,11 +6705,16 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-23,Superliga,FC Midtjylland,Randers FC,,OU,UNDER,2,3,56,1-0,oddsflow_beta,NOVA88,50,WON,100
 2026-08-23,Superliga,FC Midtjylland,Randers FC,,AH,AWAY,-1.5,1.9,56,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
 2026-08-23,Damallsvenskan,Vittsjö W,Norrköping W,,AH,AWAY,-1,1.9,20,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
+2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,OU,OVER,0.5,1.725,62,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.25
+2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,OU,OVER,0.5,1.725,62,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,36.25
 2026-08-23,Ekstraklasa,Radomiak Radom,Zaglebie Lubin,,AH,AWAY,0,1.95,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-08-23,Ekstraklasa,Radomiak Radom,Zaglebie Lubin,,AH,AWAY,0,1.95,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-08-23,Swiss Super League,Young Boys,FC Vaduz,,AH,AWAY,-1.5,2.025,64,3-2,oddsflow_handicap_sniper,APIFOOTBALL,55,WON,56.37
 2026-08-23,Swiss Super League,Young Boys,FC Vaduz,,AH,AWAY,-1.5,2.025,64,3-2,oddsflow_active_trader,APIFOOTBALL,55,WON,56.37
 2026-08-23,Ekstraklasa,Radomiak Radom,Zaglebie Lubin,,1X2,DRAW,0,2.875,36,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,93.75
+2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,AH,HOME,1,1.8,64,0-1,oddsflow_active_trader,APIFOOTBALL,56,WON,44.8
+2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,AH,HOME,1,1.8,64,0-1,oddsflow_core_strategy,APIFOOTBALL,72,WON,57.6
+2026-08-23,Chinese Super League,Chongqing Tongliang Long,Dalian Zhixing,,AH,HOME,1,1.8,64,0-1,oddsflow_handicap_sniper,APIFOOTBALL,56,WON,44.8
 2026-08-23,Swiss Super League,Young Boys,FC Vaduz,,AH,AWAY,-1.5,1.85,67,3-2,oddsflow_core_strategy,APIFOOTBALL,100,WON,85
 2026-08-23,Superliga,FC Midtjylland,Randers FC,,OU,UNDER,2,2.025,65,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
 2026-08-23,Ekstraklasa,Radomiak Radom,Zaglebie Lubin,,AH,AWAY,0,2.1,45,0-0,oddsflow_beta,APIFOOTBALL,50,VOID,0
@@ -6776,7 +6776,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-23,DFB-Pokal,FC Carl Zeiss Jena,SV Darmstadt 98,,OU,UNDER,4.25,2.49,50,1-2,oddsflow_beta,NOVA88,47,WON,70.03
 2026-08-23,DFB-Pokal,FC Carl Zeiss Jena,SV Darmstadt 98,,AH,HOME,1.5,2.025,53,1-2,oddsflow_beta,APIFOOTBALL,50,WON,51.25
 2026-08-23,DFB-Pokal,Eintracht Braunschweig,Union Berlin,,1X2,DRAW,0,2.3,53,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-23,Allsvenskan,IF Brommapojkarna,Degerfors IF,,AH,AWAY,-0.5,1.8,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,Superliga,AC Horsens,Lyngby,,OU,UNDER,2.5,2,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-23,Superliga,AC Horsens,Lyngby,,OU,UNDER,2.5,2,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-23,DFB-Pokal,Eintracht Braunschweig,Union Berlin,,AH,AWAY,0,1.85,63,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,42.5
@@ -6785,10 +6784,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-23,DFB-Pokal,Eintracht Braunschweig,Union Berlin,,AH,HOME,1,1.8,72,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-23,DFB-Pokal,Eintracht Braunschweig,Union Berlin,,AH,HOME,1,1.8,72,2-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-23,DFB-Pokal,Eintracht Braunschweig,Union Berlin,,AH,HOME,1,1.8,72,2-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-08-23,Allsvenskan,IF Brommapojkarna,Degerfors IF,,1X2,DRAW,0,2.875,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-08-23,Allsvenskan,IF Brommapojkarna,Degerfors IF,,AH,AWAY,0,2.5,40,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-08-23,Allsvenskan,IF Brommapojkarna,Degerfors IF,,AH,AWAY,0,2.5,40,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-23,Allsvenskan,IF Brommapojkarna,Degerfors IF,,AH,AWAY,0,2.5,40,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,Egyptian Premier League,El Gouna FC,Future FC,,OU,OVER,1,2.025,50,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
 2026-08-23,Egyptian Premier League,El Gouna FC,Future FC,,OU,OVER,0.75,1.7,51,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,35
 2026-08-23,Egyptian Premier League,El Gouna FC,Future FC,,OU,OVER,0.75,1.7,51,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,35
@@ -6798,15 +6793,18 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-23,Egyptian Premier League,El Gouna FC,Future FC,,1X2,DRAW,0,1.8,63,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,40
 2026-08-23,Superliga,AC Horsens,Lyngby,,1X2,DRAW,0,1.952,68,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-23,Superliga,AC Horsens,Lyngby,,1X2,DRAW,0,1.952,68,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-08-23,Allsvenskan,IF Brommapojkarna,Degerfors IF,,1X2,DRAW,0,2.2,56,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-23,Allsvenskan,IF Brommapojkarna,Degerfors IF,,OU,OVER,1,2.075,58,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,53.75
+2026-08-23,Allsvenskan,IF Brommapojkarna,Degerfors IF,,AH,AWAY,-0.5,1.8,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,Torneo Federal A,Fundacion Amigos,Sol de Mayo,,AH,AWAY,-1,1.95,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,Eerste Divisie,VVV Venlo,De Graafschap,,AH,AWAY,0,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,Primeira Liga,Guimaraes,Nacional Madeira,,AH,AWAY,-1.5,2.025,27,1-0,oddsflow_core_strategy,APIFOOTBALL,75,WON,76.88
+2026-08-23,Allsvenskan,IF Brommapojkarna,Degerfors IF,,1X2,DRAW,0,2.875,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-23,Primeira Liga,Guimaraes,Nacional Madeira,,AH,AWAY,-1.5,1.975,35,1-0,oddsflow_active_trader,APIFOOTBALL,79,WON,77.03
 2026-08-23,Primeira Liga,Guimaraes,Nacional Madeira,,AH,AWAY,-1.5,1.975,35,1-0,oddsflow_beta,APIFOOTBALL,79,WON,77.03
 2026-08-23,Primeira Liga,Guimaraes,Nacional Madeira,,AH,AWAY,-1.5,1.975,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,79,WON,77.03
 2026-08-23,Superettan,Norrby IF,Sandviken,,AH,AWAY,0,1.975,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-08-23,Allsvenskan,IF Brommapojkarna,Degerfors IF,,AH,AWAY,0,2.5,40,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-08-23,Allsvenskan,IF Brommapojkarna,Degerfors IF,,AH,AWAY,0,2.5,40,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-08-23,Allsvenskan,IF Brommapojkarna,Degerfors IF,,AH,AWAY,0,2.5,40,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,Slovak Super Liga,AS Trencin,Spartak Trnava,,AH,HOME,0.5,1.85,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,Veikkausliiga,Turku PS,Inter Turku,,AH,HOME,0.5,1.8,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
 2026-08-23,La Liga,Atletico Madrid,Villarreal,,AH,AWAY,-0.5,2.05,16,0-0,oddsflow_core_strategy,APIFOOTBALL,60,WON,63
@@ -6826,6 +6824,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-23,Eerste Divisie,VVV Venlo,De Graafschap,,AH,AWAY,-1,1.925,45,2-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
 2026-08-23,NB I,Győri ETO FC,Zalaegerszegi TE,,AH,AWAY,-0.5,1.975,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,Premier League,Newcastle United,Liverpool,,AH,AWAY,0,2.05,11,1-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,105
+2026-08-23,Allsvenskan,IF Brommapojkarna,Degerfors IF,,1X2,DRAW,0,2.2,56,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-08-23,Allsvenskan,IF Brommapojkarna,Degerfors IF,,OU,OVER,1,2.075,58,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,53.75
 2026-08-23,NB I,Kisvarda FC,Debreceni VSC,,AH,AWAY,0,1.775,16,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-23,Segunda División,Eibar,Valladolid,,1X2,DRAW,0,2.5,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-23,Segunda División,Eibar,Valladolid,,AH,AWAY,0,2.3,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
@@ -6973,8 +6973,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-23,Serie B,Pisa,Padova,,AH,AWAY,-0.5,1.85,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,42.5
 2026-08-23,Serie B,Pisa,Padova,,AH,AWAY,-0.5,1.85,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,42.5
 2026-08-23,Serbian SuperLiga,Radnik Surdulica,Novi Pazar,,OU,UNDER,1.5,2,41,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
-2026-08-23,Serie B,Hellas Verona,Ascoli,,AH,AWAY,-1.5,1.75,41,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,37.5
 2026-08-23,Serie B,Hellas Verona,Ascoli,,AH,AWAY,-1.5,1.75,41,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,37.5
+2026-08-23,Serie B,Hellas Verona,Ascoli,,AH,AWAY,-1.5,1.75,41,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,37.5
 2026-08-23,Serie B,Hellas Verona,Ascoli,,AH,AWAY,-1.5,1.75,41,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,37.5
 2026-08-23,Serie B,Hellas Verona,Ascoli,,AH,AWAY,-1.5,1.75,41,1-0,oddsflow_beta,APIFOOTBALL,50,WON,37.5
 2026-08-23,Serbian SuperLiga,Radnik Surdulica,Novi Pazar,,AH,AWAY,0,2.5,42,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
@@ -7103,7 +7103,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-23,Serie A,Atalanta,Sassuolo,,AH,AWAY,-1.5,1.85,35,1-0,oddsflow_active_trader,APIFOOTBALL,178,WON,151.3
 2026-08-23,Serie A,Atalanta,Sassuolo,,AH,AWAY,-1.5,1.85,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,179,WON,152.15
 2026-08-23,Brasileirão Série B,São Bernardo,Nautico Recife,,AH,AWAY,-0.5,1.825,20,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
-2026-08-23,Brazilian Serie C,Maringá,Barra,,AH,AWAY,-0.5,2,29,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,Ekstraklasa,Pogon Szczecin,Wisla Krakow,,AH,AWAY,0,2.2,49,2-2,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-23,Ekstraklasa,Pogon Szczecin,Wisla Krakow,,AH,AWAY,0,2.2,49,2-2,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-08-23,Ekstraklasa,Pogon Szczecin,Wisla Krakow,,AH,AWAY,0,2.2,49,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
@@ -7168,8 +7167,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-23,Brasileirão Série A,RB Bragantino,Gremio,,OU,UNDER,1.5,1.725,48,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.25
 2026-08-23,Liga I,CFR Cluj,FCSB,,OU,OVER,1.25,1.875,79,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
 2026-08-23,Liga I,CFR Cluj,FCSB,,OU,OVER,1.25,1.875,79,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
-2026-08-23,Serie A,Atalanta,Sassuolo,,AH,AWAY,-1,2.6,71,2-1,oddsflow_active_trader,APIFOOTBALL,100,WON,160
 2026-08-23,Serie A,Atalanta,Sassuolo,,AH,AWAY,-1,2.6,71,2-1,oddsflow_handicap_sniper,APIFOOTBALL,100,WON,160
+2026-08-23,Serie A,Atalanta,Sassuolo,,AH,AWAY,-1,2.6,71,2-1,oddsflow_active_trader,APIFOOTBALL,100,WON,160
 2026-08-23,Brasileirão Série A,Vitoria,Bahia,,1X2,DRAW,0,2.375,51,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
 2026-08-23,Brasileirão Série A,Vitoria,Bahia,,1X2,DRAW,0,2.375,51,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-23,Chilean Primera División,Universidad de Chile,Colo Colo,,1X2,DRAW,0,2.625,49,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
@@ -7208,6 +7207,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-23,Serie B,Cesena,Sampdoria,,AH,AWAY,-1,1.875,19,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,43.75
 2026-08-23,Torneo Federal A,Bartolomé Mitre,Douglas Haig,,AH,HOME,1,1.975,20,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,Torneo Federal A,Bartolomé Mitre,Douglas Haig,,AH,HOME,0,2.3,20,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-23,Brazilian Serie C,Maringá,Barra,,AH,AWAY,-0.5,2,29,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,HNL,Hajduk Split,NK Osijek,,AH,AWAY,-1,2,30,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-23,Torneo Federal A,San Martin Formosa,9 de Julio Rafaela,,AH,AWAY,-1.5,1.825,28,2-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
 2026-08-23,Colombian Primera A,Fortaleza FC,Atletico Nacional,,AH,HOME,0.5,1.9,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
@@ -7428,7 +7428,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-24,Liga MX,Pumas UNAM,Necaxa,,AH,AWAY,-0.5,1.8,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
 2026-08-24,Liga Profesional Argentina,Racing Club,Boca Juniors,,1X2,HOME,0,4,43,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-24,Liga MX,Pumas UNAM,Necaxa,,AH,AWAY,0,2.425,19,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
-2026-08-24,Colombian Primera A,Junior,Once Caldas,,AH,AWAY,0,2.425,21,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-24,Liga MX,Pumas UNAM,Necaxa,,1X2,DRAW,0,2.875,37,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,93.75
 2026-08-24,Liga MX,Pumas UNAM,Necaxa,,AH,AWAY,0,2.3,37,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-08-24,Liga Profesional Argentina,Racing Club,Boca Juniors,,1X2,DRAW,0,2.1,55,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,55
@@ -7437,14 +7436,15 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-24,Liga Profesional Argentina,Racing Club,Boca Juniors,,AH,AWAY,0,1.7,59,1-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-24,Liga Profesional Argentina,Racing Club,Boca Juniors,,AH,AWAY,0,1.7,59,1-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-08-24,Liga Profesional Argentina,Racing Club,Boca Juniors,,1X2,DRAW,0,1.952,59,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,47.6
-2026-08-24,Colombian Primera A,Junior,Once Caldas,,AH,AWAY,0,2.375,36,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
-2026-08-24,Colombian Primera A,Junior,Once Caldas,,AH,AWAY,0,2.375,36,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
-2026-08-24,Colombian Primera A,Junior,Once Caldas,,1X2,DRAW,0,2.625,39,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,81.25
 2026-08-24,Liga Profesional Argentina,Racing Club,Boca Juniors,,OU,OVER,2.75,2,62,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-24,Liga Profesional Argentina,Racing Club,Boca Juniors,,OU,OVER,2.5,1.725,63,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-24,Liga Profesional Argentina,Racing Club,Boca Juniors,,OU,OVER,2.5,1.725,63,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-24,Liga MX,Pumas UNAM,Necaxa,,1X2,DRAW,0,2.2,59,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,60
 2026-08-24,Liga MX,Pumas UNAM,Necaxa,,OU,OVER,1,2.025,61,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-08-24,Colombian Primera A,Junior,Once Caldas,,AH,AWAY,0,2.425,21,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-08-24,Colombian Primera A,Junior,Once Caldas,,AH,AWAY,0,2.375,36,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-08-24,Colombian Primera A,Junior,Once Caldas,,AH,AWAY,0,2.375,36,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-08-24,Colombian Primera A,Junior,Once Caldas,,1X2,DRAW,0,2.625,39,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,81.25
 2026-08-24,Colombian Primera A,Junior,Once Caldas,,1X2,DRAW,0,2.27,52,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,63.5
 2026-08-24,Colombian Primera A,Junior,Once Caldas,,OU,OVER,0.75,2,65,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
 2026-08-24,Colombian Primera A,Junior,Once Caldas,,OU,UNDER,1.5,1.5,79,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
@@ -7703,14 +7703,10 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-25,Saudi Pro League,Abha,Al Khaleej Saihat,,AH,AWAY,0,2.05,71,1-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-08-25,Saudi Pro League,Abha,Al Khaleej Saihat,,1X2,DRAW,0,1.73,71,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,36.5
 2026-08-25,Saudi Pro League,Abha,Al Khaleej Saihat,,AH,AWAY,0,2.05,71,1-1,oddsflow_active_trader,NOVA88,50,VOID,0
-2026-08-25,Ligi kuu Bara,Dodoma Jiji,Polisi Tanzania,,AH,AWAY,0,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
 2026-08-25,South African Premier Soccer League,Orlando Pirates,Sekhukhune United,,AH,AWAY,-1,2.05,11,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-25,South African Premier Soccer League,Kruger United,Durban City,,AH,HOME,1,1.95,10,0-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
-2026-08-25,Ligi kuu Bara,Dodoma Jiji,Polisi Tanzania,,AH,HOME,-0.5,2.625,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,AH,AWAY,-0.5,1.75,18,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,37.5
 2026-08-25,South African Premier Soccer League,Marumo Gallants,TS Galaxy,,AH,AWAY,0,1.9,24,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
 2026-08-25,UEFA Champions League,Sabah FA,Hapoel Beer Sheva,,1X2,DRAW,0,3,51,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-25,Ligi kuu Bara,Dodoma Jiji,Polisi Tanzania,,AH,HOME,1,1.8,28,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-25,South African Premier Soccer League,Marumo Gallants,TS Galaxy,,1X2,HOME,0,3.2,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-25,South African Premier Soccer League,Marumo Gallants,TS Galaxy,,AH,AWAY,0,1.8,36,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,40
 2026-08-25,South African Premier Soccer League,Marumo Gallants,TS Galaxy,,AH,AWAY,0,1.8,36,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,40
@@ -7736,27 +7732,20 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-25,South African Premier Soccer League,Kruger United,Durban City,,AH,AWAY,0,1.97,50,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,48.5
 2026-08-25,South African Premier Soccer League,Kruger United,Durban City,,AH,AWAY,0,1.97,50,0-1,oddsflow_core_strategy,NOVA88,31,WON,30.07
 2026-08-25,South African Premier Soccer League,Kruger United,Durban City,,AH,AWAY,0,1.97,50,0-1,oddsflow_active_trader,NOVA88,30,WON,29.1
-2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,OU,OVER,0.75,1.7,50,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,35
-2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,OU,OVER,0.75,1.7,50,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,35
-2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,AH,AWAY,0,2.6,52,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
-2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,AH,AWAY,0,2.6,52,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
-2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,AH,AWAY,0,2.6,52,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
-2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,OU,OVER,1.75,1.825,53,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,20.63
-2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,OU,OVER,1.75,1.825,53,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,20.63
 2026-08-25,South African Premier Soccer League,Marumo Gallants,TS Galaxy,,AH,HOME,1,1.9,49,1-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
-2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,1X2,AWAY,0,1.571,54,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-25,South African Premier Soccer League,Marumo Gallants,TS Galaxy,,AH,HOME,1,1.925,50,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,46.25
 2026-08-25,South African Premier Soccer League,Marumo Gallants,TS Galaxy,,AH,HOME,1,1.925,50,1-2,oddsflow_active_trader,APIFOOTBALL,50,WON,46.25
-2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,1X2,AWAY,0,1.571,54,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-25,South African Premier Soccer League,Marumo Gallants,TS Galaxy,,OU,OVER,4,2.1,51,1-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,55
 2026-08-25,South African Premier Soccer League,Marumo Gallants,TS Galaxy,,OU,OVER,3.75,1.7,51,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,35
 2026-08-25,South African Premier Soccer League,Marumo Gallants,TS Galaxy,,OU,OVER,3.75,1.7,51,1-2,oddsflow_active_trader,APIFOOTBALL,50,WON,35
 2026-08-25,South African Premier Soccer League,Kruger United,Durban City,,OU,OVER,2.5,1.55,61,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-25,South African Premier Soccer League,Kruger United,Durban City,,OU,OVER,2.5,1.55,61,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,OU,OVER,1.5,1.725,65,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.25
-2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,OU,OVER,1.5,1.725,65,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,36.25
 2026-08-25,South African Premier Soccer League,Marumo Gallants,TS Galaxy,,OU,OVER,4.5,1.775,64,1-3,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
 2026-08-25,South African Premier Soccer League,Marumo Gallants,TS Galaxy,,OU,OVER,4.5,1.775,64,1-3,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-08-25,Ligi kuu Bara,Dodoma Jiji,Polisi Tanzania,,AH,AWAY,0,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
+2026-08-25,Ligi kuu Bara,Dodoma Jiji,Polisi Tanzania,,AH,HOME,-0.5,2.625,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,AH,AWAY,-0.5,1.75,18,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,37.5
+2026-08-25,Ligi kuu Bara,Dodoma Jiji,Polisi Tanzania,,AH,HOME,1,1.8,28,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-25,EFL Trophy,Bristol Rovers,Chelsea U21,,AH,AWAY,-1,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
 2026-08-25,EFL Cup,Cardiff,Norwich,,AH,AWAY,0,1.875,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,43.75
 2026-08-25,Saudi Pro League,Al Shabab,Al Riyadh,,AH,AWAY,-0.5,2.075,17,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,53.75
@@ -7775,15 +7764,24 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-25,Saudi Pro League,Al Shabab,Al Riyadh,,1X2,DRAW,0,3.4,38,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,120
 2026-08-25,Saudi Pro League,Al Shabab,Al Riyadh,,1X2,DRAW,0,3.4,38,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,120
 2026-08-25,Saudi Pro League,Al Shabab,Al Riyadh,,1X2,DRAW,0,3.4,38,1-1,oddsflow_beta,APIFOOTBALL,50,WON,120
+2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,OU,OVER,0.75,1.7,50,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,35
 2026-08-25,Saudi Pro League,Al Shabab,Al Riyadh,,AH,AWAY,-0.5,2,39,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,OU,OVER,0.75,1.7,50,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,35
 2026-08-25,Saudi Pro League,Al Shabab,Al Riyadh,,AH,AWAY,-0.5,2,39,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,50
 2026-08-25,Saudi Pro League,Al Shabab,Al Riyadh,,AH,AWAY,-0.5,2,39,1-1,oddsflow_beta,APIFOOTBALL,50,WON,50
+2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,AH,AWAY,0,2.6,52,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,AH,AWAY,0,2.6,52,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,AH,AWAY,0,2.6,52,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,OU,OVER,1.75,1.825,53,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,20.63
+2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,OU,OVER,1.75,1.825,53,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,20.63
 2026-08-25,Saudi Pro League,Al Shabab,Al Riyadh,,AH,HOME,0.5,1.8,43,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,40
 2026-08-25,Saudi Pro League,Al Shabab,Al Riyadh,,AH,HOME,0.5,1.8,43,1-2,oddsflow_active_trader,APIFOOTBALL,50,WON,40
 2026-08-25,Saudi Pro League,Al Shabab,Al Riyadh,,AH,HOME,0.5,1.8,43,1-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
 2026-08-25,Saudi Pro League,Al Shabab,Al Riyadh,,AH,HOME,0.5,1.8,43,1-2,oddsflow_beta,APIFOOTBALL,50,WON,40
+2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,1X2,AWAY,0,1.571,54,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-25,Saudi Pro League,Al Shabab,Al Riyadh,,OU,OVER,3.75,1.775,43,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
 2026-08-25,Saudi Pro League,Al Shabab,Al Riyadh,,OU,OVER,3.75,1.775,43,1-2,oddsflow_beta,APIFOOTBALL,50,WON,38.75
+2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,1X2,AWAY,0,1.571,54,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-25,Saudi Pro League,Al Shabab,Al Riyadh,,OU,OVER,3.75,1.775,43,1-2,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
 2026-08-25,EFL Cup,Doncaster,Middlesbrough,,AH,HOME,1,1.95,15,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-25,Saudi Pro League,Al Shabab,Al Riyadh,,OU,OVER,4.75,1.825,45,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,41.25
@@ -7797,6 +7795,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-25,Saudi Pro League,Al Shabab,Al Riyadh,,OU,UNDER,5.5,2,45,2-2,oddsflow_beta,APIFOOTBALL,50,LOST,-50
 2026-08-25,Saudi Pro League,Al Shabab,Al Riyadh,,OU,UNDER,5.25,2.56,45,2-2,oddsflow_active_trader,NOVA88,38,LOST,-38
 2026-08-25,Saudi Pro League,Al Shabab,Al Riyadh,,OU,UNDER,5.25,2.56,45,2-2,oddsflow_beta,NOVA88,40,LOST,-40
+2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,OU,OVER,1.5,1.725,65,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.25
+2026-08-25,South African Premier Soccer League,Siwelele,Chippa United,,OU,OVER,1.5,1.725,65,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,36.25
 2026-08-25,EFL Cup,Blackburn,Sheffield Utd,,AH,AWAY,0,1.85,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
 2026-08-25,EFL Cup,Walsall,Leyton Orient,,AH,AWAY,0,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-25,EFL Cup,Blackpool,Lincoln,,AH,AWAY,0,2,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
@@ -8079,6 +8079,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-26,K League 1,Gangwon FC,Gwangju FC,,AH,AWAY,0,2.2,11,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-26,K League 1,FC Anyang,Incheon United,,AH,HOME,0,2.6,14,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,80
 2026-08-26,K League 1,Daejeon Citizen,Ulsan Hyundai FC,,AH,AWAY,0,2.5,28,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-26,Croatian Cup,Cuba U20,Uljanik,,AH,AWAY,-0.5,1.825,11,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-26,Croatian Cup,Vrbovec,Daruvar,,AH,AWAY,0,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-26,Egyptian Premier League,Smouha SC,Asyut Petrol,,AH,AWAY,-0.5,2.05,44,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
 2026-08-26,Egyptian Premier League,Smouha SC,Asyut Petrol,,AH,AWAY,-0.5,2.05,44,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
 2026-08-26,Egyptian Premier League,Smouha SC,Asyut Petrol,,AH,AWAY,-0.5,2.05,44,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
@@ -8090,8 +8092,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-26,Egyptian Premier League,Smouha SC,Asyut Petrol,,1X2,DRAW,0,1.909,63,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,45.45
 2026-08-26,Egyptian Premier League,Smouha SC,Asyut Petrol,,OU,OVER,0.5,1.725,63,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-26,Egyptian Premier League,Smouha SC,Asyut Petrol,,OU,OVER,0.5,1.725,63,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-08-26,Croatian Cup,Cuba U20,Uljanik,,AH,AWAY,-0.5,1.825,11,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-08-26,Croatian Cup,Vrbovec,Daruvar,,AH,AWAY,0,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-26,Croatian Cup,Orijent 1919,Križevci,,AH,AWAY,-1.5,2,23,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
 2026-08-26,UEFA Champions League Women,VfL Wolfsburg W,Inter Milano W,,AH,AWAY,-1,1.85,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-26,Belgian First Amateur Division,Habay-la-Neuve,RWDM,,AH,AWAY,0,1.8,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
@@ -8137,7 +8137,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-26,Egyptian Premier League,National Bank of Egypt,Zamalek SC,,OU,OVER,0.75,1.55,47,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,27.5
 2026-08-26,Egyptian Premier League,National Bank of Egypt,Zamalek SC,,AH,AWAY,0,1.875,47,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,43.75
 2026-08-26,Egyptian Premier League,National Bank of Egypt,Zamalek SC,,AH,AWAY,0,1.875,47,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,43.75
-2026-08-26,Belgian First Amateur Division,Union Saint-Gilloise II,Rochefort,,AH,HOME,0.5,1.85,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-26,Egyptian Premier League,National Bank of Egypt,Zamalek SC,,OU,OVER,1,2,50,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
 2026-08-26,Egyptian Premier League,National Bank of Egypt,Zamalek SC,,1X2,DRAW,0,4.333,51,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-26,Egyptian Premier League,National Bank of Egypt,Zamalek SC,,1X2,DRAW,0,4.333,51,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
@@ -8169,6 +8168,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-26,Copa Rio,Nova Iguaçu,Sampaio Corrêa RJ,,AH,AWAY,0,2.12,65,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-26,Copa Rio,Nova Iguaçu,Sampaio Corrêa RJ,,AH,AWAY,0,2.12,65,0-0,oddsflow_core_strategy,NOVA88,50,LOST,-50
 2026-08-26,Copa Rio,Nova Iguaçu,Sampaio Corrêa RJ,,OU,OVER,0.5,2.11,65,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,55.5
+2026-08-26,Belgian First Amateur Division,Union Saint-Gilloise II,Rochefort,,AH,HOME,0.5,1.85,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-26,Belgian First Amateur Division,Tubize,Sporting Charleroi II,,AH,AWAY,-1,2,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-26,Belgian First Amateur Division,Albert Quévy-Mons,Meux,,AH,AWAY,-1,1.8,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
 2026-08-26,Belgian First Amateur Division,Albert Quévy-Mons,Meux,,AH,AWAY,-0.5,2.2,16,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,60
@@ -8357,12 +8357,10 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-27,UEFA Conference League,Maccabi Tel Aviv,FC Lugano,,AH,AWAY,0,2,36,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-08-27,UEFA Europa League,Saburtalo,Jagiellonia Bialystok,,OU,OVER,2.75,1.875,36,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,21.88
 2026-08-27,UEFA Europa League,Saburtalo,Jagiellonia Bialystok,,OU,OVER,2.75,1.875,36,1-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,21.88
-2026-08-27,Qatar Stars League,Al Wakrah,Al-Rayyan SC,,AH,HOME,0.5,1.8,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-27,UEFA Conference League,Maccabi Tel Aviv,FC Lugano,,OU,UNDER,1.5,2,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-27,UEFA Conference League,Maccabi Tel Aviv,FC Lugano,,OU,UNDER,1.5,2,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-27,UEFA Conference League,Qarabag,FC Twente,,AH,HOME,0.5,2,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-27,UEFA Conference League,Qarabag,FC Twente,,AH,HOME,0.5,2,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-08-27,Qatar Stars League,Al Wakrah,Al-Rayyan SC,,AH,AWAY,0,1.75,30,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,37.5
 2026-08-27,UEFA Conference League,Qarabag,FC Twente,,OU,UNDER,1.5,2,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-27,UEFA Conference League,Qarabag,FC Twente,,OU,UNDER,1.25,2.52,45,0-0,oddsflow_handicap_sniper,NOVA88,39,LOST,-39
 2026-08-27,UEFA Conference League,Qarabag,FC Twente,,OU,UNDER,1.5,2,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
@@ -8377,6 +8375,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-27,UEFA Conference League,Qarabag,FC Twente,,AH,AWAY,-0.5,2.025,62,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
 2026-08-27,UEFA Conference League,Qarabag,FC Twente,,AH,AWAY,-0.5,1.95,62,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
 2026-08-27,UEFA Conference League,Qarabag,FC Twente,,OU,UNDER,2,1.975,65,1-0,oddsflow_core_strategy,APIFOOTBALL,500,LOST,-500
+2026-08-27,Qatar Stars League,Al Wakrah,Al-Rayyan SC,,AH,HOME,0.5,1.8,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-27,Qatar Stars League,Al Wakrah,Al-Rayyan SC,,AH,AWAY,0,1.75,30,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,37.5
 2026-08-27,UEFA Conference League,SC Freiburg,Motherwell,,OU,UNDER,4.5,1.675,37,1-1,oddsflow_handicap_sniper,APIFOOTBALL,58,LOST,-58
 2026-08-27,UEFA Conference League,SC Freiburg,Motherwell,,OU,UNDER,4.5,1.675,37,1-1,oddsflow_active_trader,APIFOOTBALL,60,LOST,-60
 2026-08-27,UEFA Conference League,Raków Częstochowa,Hajduk Split,,AH,HOME,0.5,1.85,24,0-1,oddsflow_core_strategy,APIFOOTBALL,60,WON,51
@@ -8609,6 +8609,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-28,Chinese Super League,Sichuan Jiuniu,Shanghai SIPG,,AH,AWAY,0,1.85,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,42.5
 2026-08-28,Chinese Super League,Sichuan Jiuniu,Shanghai SIPG,,1X2,DRAW,0,3,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-28,Chinese Super League,Sichuan Jiuniu,Shanghai SIPG,,1X2,DRAW,0,3,43,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-08-28,Ukrainian Premier League,Kolos Kovalivka,Obolon'-Brovar,,AH,AWAY,-0.5,1.95,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
 2026-08-28,Chinese Super League,Sichuan Jiuniu,Shanghai SIPG,,OU,UNDER,1.5,2,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
 2026-08-28,Chinese Super League,Sichuan Jiuniu,Shanghai SIPG,,OU,UNDER,1.5,2,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
 2026-08-28,Chinese Super League,Dalian Zhixing,Beijing Guoan,,OU,UNDER,3.5,1.775,52,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
@@ -8619,7 +8620,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-28,Chinese Super League,Dalian Zhixing,Beijing Guoan,,OU,OVER,3,2,63,1-1,oddsflow_core_strategy,APIFOOTBALL,500,LOST,-500
 2026-08-28,Chinese Super League,Sichuan Jiuniu,Shanghai SIPG,,OU,OVER,1,2.075,64,0-0,oddsflow_core_strategy,APIFOOTBALL,500,VOID,0
 2026-08-28,Chinese Super League,Sichuan Jiuniu,Shanghai SIPG,,AH,HOME,1,2.05,83,0-1,oddsflow_core_strategy,APIFOOTBALL,42.7,WON,44.83
-2026-08-28,Ukrainian Premier League,Kolos Kovalivka,Obolon'-Brovar,,AH,AWAY,-0.5,1.95,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
 2026-08-28,Egyptian Premier League,Olympic El Qanah,El Gouna FC,,AH,AWAY,-1,2.025,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
 2026-08-28,Macedonian First League,Sileks,Shkendija,,AH,AWAY,0,1.875,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,43.75
 2026-08-28,Egyptian Premier League,Enppi,Wadi Degla,,AH,HOME,1,1.85,10,0-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
@@ -8814,7 +8814,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-28,Superliga,AC Horsens,Viborg,,OU,UNDER,4.5,1.75,50,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-28,Superliga,AC Horsens,Viborg,,OU,UNDER,4.5,1.75,50,1-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-28,Superliga,AC Horsens,Viborg,,OU,UNDER,4.5,1.75,50,1-2,oddsflow_beta,APIFOOTBALL,50,LOST,-50
-2026-08-28,Eerste Divisie,FC OSS,Jong Utrecht,,AH,AWAY,-0.5,1.825,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-28,Austrian Bundesliga,Austria Lustenau,WSG Wattens,,AH,HOME,1,1.75,42,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-28,Austrian Bundesliga,Austria Lustenau,WSG Wattens,,1X2,DRAW,0,4,42,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-28,Austrian Bundesliga,Austria Lustenau,WSG Wattens,,AH,HOME,1,1.75,42,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
@@ -8832,18 +8831,52 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-28,Austrian Bundesliga,Austria Lustenau,WSG Wattens,,OU,UNDER,2.25,2.56,45,0-1,oddsflow_active_trader,NOVA88,38,LOST,-38
 2026-08-28,Austrian Bundesliga,Austria Lustenau,WSG Wattens,,OU,UNDER,2.5,2,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-28,Austrian Bundesliga,Austria Lustenau,WSG Wattens,,OU,UNDER,2.25,2.56,45,0-1,oddsflow_handicap_sniper,NOVA88,39,LOST,-39
-2026-08-28,Eerste Divisie,Jong AZ,MVV,,AH,AWAY,-0.5,1.775,20,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,38.75
 2026-08-28,Superliga,AC Horsens,Viborg,,AH,HOME,1,2.2,70,1-3,oddsflow_core_strategy,APIFOOTBALL,50,WON,60
 2026-08-28,Superliga,AC Horsens,Viborg,,AH,HOME,1,2.2,70,1-3,oddsflow_beta,APIFOOTBALL,50,WON,60
 2026-08-28,Superliga,AC Horsens,Viborg,,AH,HOME,1,2.2,70,1-3,oddsflow_active_trader,APIFOOTBALL,50,WON,60
 2026-08-28,Superliga,AC Horsens,Viborg,,AH,HOME,1,2.2,70,1-3,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,60
 2026-08-28,Egyptian Premier League,Masr,Al Ahly,,OU,OVER,2.5,1.725,66,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,AH,AWAY,-1,1.975,35,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,48.75
-2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,AH,AWAY,-1,1.975,35,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,48.75
-2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,AH,AWAY,-1,1.975,35,2-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
 2026-08-28,Eerste Divisie,FC Volendam,Dordrecht,,AH,AWAY,-1.5,1.825,35,2-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
 2026-08-28,Eerste Divisie,FC Volendam,Dordrecht,,AH,AWAY,-1.5,1.825,35,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-28,Eerste Divisie,FC Volendam,Dordrecht,,AH,AWAY,-1.5,1.85,35,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-08-28,Austrian Bundesliga,Austria Lustenau,WSG Wattens,,OU,OVER,2.5,1.975,52,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,48.75
+2026-08-28,Austrian Bundesliga,Austria Lustenau,WSG Wattens,,OU,OVER,2.5,1.975,52,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,48.75
+2026-08-28,La Liga,Racing Santander,Elche,,OU,UNDER,5.5,1.725,79,3-1,oddsflow_active_trader,APIFOOTBALL,71,WON,51.48
+2026-08-28,La Liga,Racing Santander,Elche,,OU,UNDER,5.5,1.725,79,3-1,oddsflow_beta,APIFOOTBALL,93,WON,67.43
+2026-08-28,La Liga,Racing Santander,Elche,,OU,UNDER,5.5,1.725,79,3-1,oddsflow_handicap_sniper,APIFOOTBALL,70,WON,50.75
+2026-08-28,La Liga,Racing Santander,Elche,,AH,AWAY,-1,2.125,80,3-2,oddsflow_active_trader,APIFOOTBALL,73,WON,82.13
+2026-08-28,La Liga,Racing Santander,Elche,,AH,AWAY,-1,2.125,80,3-2,oddsflow_handicap_sniper,APIFOOTBALL,73,WON,82.13
+2026-08-28,Austrian Bundesliga,Austria Lustenau,WSG Wattens,,OU,UNDER,3.5,1.775,54,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-08-28,Austrian Bundesliga,Austria Lustenau,WSG Wattens,,OU,UNDER,3.5,1.775,54,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-08-28,Egyptian Premier League,Al Ittihad,Ceramica Cleopatra,,AH,HOME,1,2.025,78,1-2,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-08-28,Egyptian Premier League,Al Ittihad,Ceramica Cleopatra,,AH,HOME,1,2.025,78,1-2,oddsflow_core_strategy,APIFOOTBALL,35,VOID,0
+2026-08-28,Egyptian Premier League,Al Ittihad,Ceramica Cleopatra,,AH,HOME,1,2.025,78,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-08-28,Eerste Divisie,FC Volendam,Dordrecht,,OU,UNDER,5.5,2.025,49,3-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-08-28,Eerste Divisie,FC Volendam,Dordrecht,,OU,UNDER,5.5,2.025,49,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-08-28,Eerste Divisie,FC Volendam,Dordrecht,,OU,UNDER,5.5,2.025,49,3-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-08-28,NB I,Debreceni VSC,MTK Budapest,,AH,AWAY,0,1.95,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-08-28,Ligue 2,Clermont Foot,Sochaux,,AH,AWAY,0,1.975,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-08-28,Ligue 2,Laval,Grenoble,,AH,AWAY,0,2.6,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,80
+2026-08-28,Eerste Divisie,FC OSS,Jong Utrecht,,AH,AWAY,-0.5,1.825,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-28,Ligue 2,Montpellier,Boulogne,,AH,AWAY,-0.5,2.025,11,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-08-28,Ligue 2,Clermont Foot,Sochaux,,AH,HOME,-0.5,2.675,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-28,Ligue 2,Rodez,PAU,,AH,HOME,0.5,1.8,13,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
+2026-08-28,Eredivisie,Groningen,Fortuna Sittard,,AH,AWAY,-1,1.875,11,0-0,oddsflow_core_strategy,APIFOOTBALL,61,WON,53.38
+2026-08-28,Challenger Pro League,Sporting Hasselt,KAA Gent II,,AH,AWAY,-0.5,2,16,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-08-28,Ligue 2,Laval,Grenoble,,AH,HOME,0.5,1.9,20,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-28,Eerste Divisie,Jong AZ,MVV,,AH,AWAY,-0.5,1.775,20,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,38.75
+2026-08-28,Ligue 2,Nancy,Dunkerque,,AH,AWAY,0,2.075,21,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-28,Challenger Pro League,Lokeren-Temse,KRC Genk II,,AH,HOME,1,1.925,26,0-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
+2026-08-28,NB I,Debreceni VSC,MTK Budapest,,AH,HOME,0.5,2,26,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-08-28,Ligue 2,Rodez,PAU,,AH,AWAY,-0.5,1.975,30,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
+2026-08-28,NB I,Debreceni VSC,MTK Budapest,,1X2,AWAY,0,1.727,35,1-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-08-28,NB I,Debreceni VSC,MTK Budapest,,1X2,AWAY,0,1.727,35,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-08-28,Ligue 2,Rodez,PAU,,AH,AWAY,-0.5,1.775,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-08-28,Ligue 2,Rodez,PAU,,AH,AWAY,-0.5,1.775,35,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,AH,AWAY,-1,1.975,35,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,48.75
+2026-08-28,Ligue 2,Rodez,PAU,,1X2,DRAW,0,2.875,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,93.75
+2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,AH,AWAY,-1,1.975,35,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,48.75
+2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,AH,AWAY,-1,1.975,35,2-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
 2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,AH,AWAY,-0.5,2.675,37,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,83.75
 2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,AH,AWAY,-0.5,2.675,37,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,83.75
 2026-08-28,Eerste Divisie,Jong AZ,MVV,,1X2,HOME,0,5,36,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
@@ -8854,68 +8887,9 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-28,Eerste Divisie,Roda,NAC Breda,,1X2,HOME,0,1.833,36,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-28,Eerste Divisie,Roda,NAC Breda,,AH,AWAY,-0.5,1.975,36,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
 2026-08-28,Eerste Divisie,FC OSS,Jong Utrecht,,AH,AWAY,-1,2.075,36,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,53.75
-2026-08-28,Eerste Divisie,FC OSS,Jong Utrecht,,AH,AWAY,-1,2.075,36,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,53.75
-2026-08-28,Austrian Bundesliga,Austria Lustenau,WSG Wattens,,OU,OVER,2.5,1.975,52,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,48.75
-2026-08-28,Austrian Bundesliga,Austria Lustenau,WSG Wattens,,OU,OVER,2.5,1.975,52,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,48.75
-2026-08-28,Eerste Divisie,Jong AZ,MVV,,1X2,AWAY,0,1.727,38,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,36.35
-2026-08-28,La Liga,Racing Santander,Elche,,OU,UNDER,5.5,1.725,79,3-1,oddsflow_active_trader,APIFOOTBALL,71,WON,51.48
-2026-08-28,La Liga,Racing Santander,Elche,,OU,UNDER,5.5,1.725,79,3-1,oddsflow_beta,APIFOOTBALL,93,WON,67.43
-2026-08-28,Eerste Divisie,Jong AZ,MVV,,1X2,AWAY,0,1.727,38,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.35
-2026-08-28,La Liga,Racing Santander,Elche,,OU,UNDER,5.5,1.725,79,3-1,oddsflow_handicap_sniper,APIFOOTBALL,70,WON,50.75
-2026-08-28,Eerste Divisie,Jong AZ,MVV,,AH,HOME,0.5,2.1,39,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,55
-2026-08-28,La Liga,Racing Santander,Elche,,AH,AWAY,-1,2.125,80,3-2,oddsflow_active_trader,APIFOOTBALL,73,WON,82.13
-2026-08-28,La Liga,Racing Santander,Elche,,AH,AWAY,-1,2.125,80,3-2,oddsflow_handicap_sniper,APIFOOTBALL,73,WON,82.13
-2026-08-28,Austrian Bundesliga,Austria Lustenau,WSG Wattens,,OU,UNDER,3.5,1.775,54,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-28,Austrian Bundesliga,Austria Lustenau,WSG Wattens,,OU,UNDER,3.5,1.775,54,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,1X2,HOME,0,1.5,42,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,25
-2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,1X2,HOME,0,1.5,42,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,25
-2026-08-28,Eerste Divisie,Roda,NAC Breda,,OU,OVER,2.75,1.975,41,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,48.75
-2026-08-28,Eerste Divisie,Roda,NAC Breda,,OU,OVER,2.75,1.975,41,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,48.75
-2026-08-28,Eerste Divisie,Jong AZ,MVV,,OU,UNDER,2.5,2.025,43,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-28,Eerste Divisie,Jong AZ,MVV,,OU,UNDER,2.5,2.025,43,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-08-28,Eerste Divisie,Roda,NAC Breda,,1X2,DRAW,0,2.75,44,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,87.5
-2026-08-28,Eerste Divisie,Roda,NAC Breda,,1X2,DRAW,0,2.75,44,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,87.5
-2026-08-28,Egyptian Premier League,Al Ittihad,Ceramica Cleopatra,,AH,HOME,1,2.025,78,1-2,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
-2026-08-28,Eerste Divisie,FC OSS,Jong Utrecht,,OU,UNDER,2.5,2.025,44,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-28,Egyptian Premier League,Al Ittihad,Ceramica Cleopatra,,AH,HOME,1,2.025,78,1-2,oddsflow_core_strategy,APIFOOTBALL,35,VOID,0
-2026-08-28,Egyptian Premier League,Al Ittihad,Ceramica Cleopatra,,AH,HOME,1,2.025,78,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
-2026-08-28,Eerste Divisie,FC OSS,Jong Utrecht,,OU,UNDER,2.5,2.025,44,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-08-28,Eerste Divisie,FC OSS,Jong Utrecht,,AH,AWAY,-1,1.95,45,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
-2026-08-28,Eerste Divisie,Jong AZ,MVV,,AH,HOME,0.5,2.3,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,65
-2026-08-28,Eerste Divisie,Roda,NAC Breda,,OU,UNDER,3.5,1.775,47,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-28,Eerste Divisie,Roda,NAC Breda,,OU,UNDER,3.5,1.775,47,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,OU,UNDER,4.5,2,51,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,OU,UNDER,4.5,2,51,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-28,Eerste Divisie,FC Volendam,Dordrecht,,OU,UNDER,5.5,2.025,49,3-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
-2026-08-28,Eerste Divisie,FC Volendam,Dordrecht,,OU,UNDER,5.5,2.025,49,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-08-28,Eerste Divisie,FC Volendam,Dordrecht,,OU,UNDER,5.5,2.025,49,3-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,AH,AWAY,0,2,57,2-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
-2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,AH,AWAY,0,2,57,2-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
-2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,AH,AWAY,0,2,57,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
-2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,1X2,DRAW,0,2.5,58,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,1X2,DRAW,0,2.5,58,2-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-28,Eerste Divisie,FC OSS,Jong Utrecht,,OU,OVER,2,2.025,63,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
-2026-08-28,Eerste Divisie,Jong AZ,MVV,,AH,HOME,1,1.75,84,0-2,oddsflow_core_strategy,APIFOOTBALL,35,WON,26.25
-2026-08-28,NB I,Debreceni VSC,MTK Budapest,,AH,AWAY,0,1.95,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
-2026-08-28,Ligue 2,Clermont Foot,Sochaux,,AH,AWAY,0,1.975,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
-2026-08-28,Ligue 2,Laval,Grenoble,,AH,AWAY,0,2.6,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,80
-2026-08-28,Ligue 2,Montpellier,Boulogne,,AH,AWAY,-0.5,2.025,11,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
-2026-08-28,Ligue 2,Clermont Foot,Sochaux,,AH,HOME,-0.5,2.675,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-08-28,Ligue 2,Rodez,PAU,,AH,HOME,0.5,1.8,13,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
-2026-08-28,Eredivisie,Groningen,Fortuna Sittard,,AH,AWAY,-1,1.875,11,0-0,oddsflow_core_strategy,APIFOOTBALL,61,WON,53.38
-2026-08-28,Challenger Pro League,Sporting Hasselt,KAA Gent II,,AH,AWAY,-0.5,2,16,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
-2026-08-28,Ligue 2,Laval,Grenoble,,AH,HOME,0.5,1.9,20,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-08-28,Ligue 2,Nancy,Dunkerque,,AH,AWAY,0,2.075,21,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-08-28,Challenger Pro League,Lokeren-Temse,KRC Genk II,,AH,HOME,1,1.925,26,0-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
-2026-08-28,NB I,Debreceni VSC,MTK Budapest,,AH,HOME,0.5,2,26,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
-2026-08-28,Ligue 2,Rodez,PAU,,AH,AWAY,-0.5,1.975,30,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
-2026-08-28,NB I,Debreceni VSC,MTK Budapest,,1X2,AWAY,0,1.727,35,1-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-28,NB I,Debreceni VSC,MTK Budapest,,1X2,AWAY,0,1.727,35,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-08-28,Ligue 2,Rodez,PAU,,AH,AWAY,-0.5,1.775,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
-2026-08-28,Ligue 2,Rodez,PAU,,AH,AWAY,-0.5,1.775,35,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
-2026-08-28,Ligue 2,Rodez,PAU,,1X2,DRAW,0,2.875,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,93.75
 2026-08-28,Ligue 2,Rodez,PAU,,AH,HOME,0.5,1.95,37,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,47.5
 2026-08-28,Saudi Pro League,Al-Nassr,Al Taawon,,OU,UNDER,3.5,1.775,37,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-08-28,Eerste Divisie,FC OSS,Jong Utrecht,,AH,AWAY,-1,2.075,36,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,53.75
 2026-08-28,Ligue 2,Rodez,PAU,,AH,HOME,0.5,1.95,37,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
 2026-08-28,Ligue 2,Rodez,PAU,,1X2,HOME,0,4.333,37,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-28,Ligue 2,Rodez,PAU,,1X2,DRAW,0,3.4,37,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,120
@@ -8923,15 +8897,29 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-28,Ligue 2,Rodez,PAU,,1X2,HOME,0,5,38,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-28,Ligue 2,Rodez,PAU,,1X2,AWAY,0,1.833,38,1-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-28,Ligue 2,Rodez,PAU,,1X2,AWAY,0,1.833,38,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-08-28,Eerste Divisie,Jong AZ,MVV,,1X2,AWAY,0,1.727,38,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,36.35
 2026-08-28,Bulgarian First League,CSKA 1948,Lokomotiv Plovdiv,,AH,AWAY,-0.5,2,24,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-28,Eerste Divisie,Jong AZ,MVV,,1X2,AWAY,0,1.727,38,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.35
 2026-08-28,Ekstraklasa,Legia Warszawa,Slask Wroclaw,,AH,AWAY,-1,1.925,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
+2026-08-28,Eerste Divisie,Jong AZ,MVV,,AH,HOME,0.5,2.1,39,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,55
 2026-08-28,Austrian 2. Liga,WSPG Wels,Admira Wacker,,AH,AWAY,0,1.825,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
 2026-08-28,Belgian First Amateur Division,Hoogstraten,Merelbeke,,AH,AWAY,0,2.725,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,86.25
 2026-08-28,Ligue 2,Rodez,PAU,,OU,UNDER,4.5,2.025,42,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
 2026-08-28,Ligue 2,Rodez,PAU,,OU,UNDER,4.5,2.025,42,1-2,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,1X2,HOME,0,1.5,42,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,25
+2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,1X2,HOME,0,1.5,42,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,25
+2026-08-28,Eerste Divisie,Roda,NAC Breda,,OU,OVER,2.75,1.975,41,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,48.75
+2026-08-28,Eerste Divisie,Roda,NAC Breda,,OU,OVER,2.75,1.975,41,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,48.75
 2026-08-28,Turkish 1. Lig,Muğlaspor,Boluspor,,AH,AWAY,-1.5,1.975,12,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
+2026-08-28,Eerste Divisie,Jong AZ,MVV,,OU,UNDER,2.5,2.025,43,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-08-28,Eerste Divisie,Jong AZ,MVV,,OU,UNDER,2.5,2.025,43,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-28,Belgian First Amateur Division,Hoogstraten,Merelbeke,,AH,AWAY,-0.5,1.975,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
+2026-08-28,Eerste Divisie,Roda,NAC Breda,,1X2,DRAW,0,2.75,44,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,87.5
+2026-08-28,Eerste Divisie,Roda,NAC Breda,,1X2,DRAW,0,2.75,44,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,87.5
+2026-08-28,Eerste Divisie,FC OSS,Jong Utrecht,,OU,UNDER,2.5,2.025,44,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-08-28,Eerste Divisie,FC OSS,Jong Utrecht,,OU,UNDER,2.5,2.025,44,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-28,Austrian 2. Liga,WSPG Wels,Admira Wacker,,AH,HOME,1,1.825,16,0-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-08-28,Eerste Divisie,FC OSS,Jong Utrecht,,AH,AWAY,-1,1.95,45,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
 2026-08-28,Eredivisie,Groningen,Fortuna Sittard,,1X2,AWAY,0,2.5,45,1-2,oddsflow_active_trader,APIFOOTBALL,50,WON,75
 2026-08-28,Eredivisie,Groningen,Fortuna Sittard,,1X2,AWAY,0,2.5,45,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,75
 2026-08-28,Serie B,Cremonese,Modena,,AH,AWAY,0,2.05,16,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
@@ -8939,12 +8927,15 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-28,Irish Premier Division,Galway United,Shelbourne,,AH,AWAY,0,2.025,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-28,Bundesliga,Bayern Munich,VfB Stuttgart,,AH,AWAY,-1.5,1.975,23,1-0,oddsflow_core_strategy,APIFOOTBALL,88,LOST,-88
 2026-08-28,Belgian Pro League,Genk,Beveren,,AH,AWAY,-1.5,2,12,1-0,oddsflow_core_strategy,APIFOOTBALL,72,LOST,-72
+2026-08-28,Eerste Divisie,Jong AZ,MVV,,AH,HOME,0.5,2.3,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,65
 2026-08-28,Serie A,AC Milan,Venezia,,AH,AWAY,-1,2,11,0-0,oddsflow_core_strategy,APIFOOTBALL,123,LOST,-123
 2026-08-28,Belgian First Amateur Division,Hoogstraten,Merelbeke,,AH,HOME,0,2.725,29,0-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-28,Serie A,AC Milan,Venezia,,AH,AWAY,-0.5,2.6,13,0-0,oddsflow_core_strategy,APIFOOTBALL,100,LOST,-100
 2026-08-28,Ligue 2,Clermont Foot,Sochaux,,AH,AWAY,0,1.75,47,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-08-28,Ligue 2,Clermont Foot,Sochaux,,AH,AWAY,0,1.75,47,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-08-28,Ligue 2,Clermont Foot,Sochaux,,1X2,HOME,0,3.6,47,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-08-28,Eerste Divisie,Roda,NAC Breda,,OU,UNDER,3.5,1.775,47,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-08-28,Eerste Divisie,Roda,NAC Breda,,OU,UNDER,3.5,1.775,47,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-28,Turkish 1. Lig,Muğlaspor,Boluspor,,AH,AWAY,-1.5,1.8,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,40
 2026-08-28,Turkish 1. Lig,Muğlaspor,Boluspor,,AH,AWAY,-1.5,1.8,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,40
 2026-08-28,NB I,Debreceni VSC,MTK Budapest,,OU,OVER,4.75,1.85,48,2-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
@@ -8952,6 +8943,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-28,NB I,Debreceni VSC,MTK Budapest,,OU,OVER,4.75,1.85,48,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-28,NB I,Debreceni VSC,MTK Budapest,,1X2,DRAW,0,2.75,48,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,87.5
 2026-08-28,Ligue 2,Laval,Grenoble,,AH,HOME,1.5,1.9,46,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45
+2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,OU,UNDER,4.5,2,51,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,OU,UNDER,4.5,2,51,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-28,Ligue 2,Laval,Grenoble,,AH,HOME,1.5,1.9,46,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,45
 2026-08-28,Ligue 2,Clermont Foot,Sochaux,,OU,OVER,0.75,1.7,49,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-28,Ligue 2,Clermont Foot,Sochaux,,OU,OVER,0.75,1.7,50,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
@@ -8963,9 +8956,14 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-28,Eredivisie,Groningen,Fortuna Sittard,,AH,HOME,0.5,1.775,53,1-2,oddsflow_core_strategy,APIFOOTBALL,68,WON,52.7
 2026-08-28,Eredivisie,Groningen,Fortuna Sittard,,AH,HOME,0.5,1.775,53,1-2,oddsflow_handicap_sniper,APIFOOTBALL,68,WON,52.7
 2026-08-28,Eredivisie,Groningen,Fortuna Sittard,,AH,HOME,0.5,1.775,53,1-2,oddsflow_active_trader,APIFOOTBALL,67,WON,51.93
+2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,AH,AWAY,0,2,57,2-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-08-28,Bundesliga,Bayern Munich,VfB Stuttgart,,OU,UNDER,3.5,2.025,40,1-0,oddsflow_active_trader,APIFOOTBALL,79,LOST,-79
+2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,AH,AWAY,0,2,57,2-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,AH,AWAY,0,2,57,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-08-28,Bundesliga,Bayern Munich,VfB Stuttgart,,OU,UNDER,3.5,2.025,40,1-0,oddsflow_handicap_sniper,APIFOOTBALL,79,LOST,-79
 2026-08-28,Ligue 1,Lille,Paris Saint-Germain,,AH,HOME,0.5,2,13,0-0,oddsflow_core_strategy,APIFOOTBALL,172,WON,172
+2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,1X2,DRAW,0,2.5,58,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-08-28,Eerste Divisie,Jong Ajax,Helmond Sport,,1X2,DRAW,0,2.5,58,2-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-28,Ligue 2,Clermont Foot,Sochaux,,OU,OVER,0.5,1.725,60,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-28,Ligue 2,Clermont Foot,Sochaux,,OU,OVER,0.5,1.725,60,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-28,Ligue 2,Laval,Grenoble,,OU,OVER,3,2.075,58,0-2,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
@@ -8976,6 +8974,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-28,NB I,Debreceni VSC,MTK Budapest,,AH,AWAY,-1,1.9,63,2-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
 2026-08-28,Ligue 1,Lille,Paris Saint-Germain,,AH,AWAY,-0.5,1.825,21,1-0,oddsflow_core_strategy,APIFOOTBALL,100,WON,82.5
 2026-08-28,Irish Premier Division,Galway United,Shelbourne,,1X2,DRAW,0,2.75,36,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,87.5
+2026-08-28,Eerste Divisie,FC OSS,Jong Utrecht,,OU,OVER,2,2.025,63,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
 2026-08-28,Ligue 2,Clermont Foot,Sochaux,,OU,OVER,0.5,2,66,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-28,Ligue 2,Clermont Foot,Sochaux,,1X2,DRAW,0,1.533,73,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,26.65
 2026-08-28,Ligue 2,Clermont Foot,Sochaux,,1X2,DRAW,0,1.533,73,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,26.65
@@ -8997,6 +8996,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-28,Bundesliga,Bayern Munich,VfB Stuttgart,,AH,AWAY,-1,2.08,51,1-0,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
 2026-08-28,Turkish 1. Lig,Antalyaspor,Sarıyer,,AH,AWAY,-1,2.1,53,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,55
 2026-08-28,Turkish 1. Lig,Antalyaspor,Sarıyer,,AH,AWAY,-1,2.1,53,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,55
+2026-08-28,Eerste Divisie,Jong AZ,MVV,,AH,HOME,1,1.75,84,0-2,oddsflow_core_strategy,APIFOOTBALL,35,WON,26.25
 2026-08-28,Turkish 1. Lig,Antalyaspor,Sarıyer,,OU,OVER,2,2,54,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
 2026-08-28,Bundesliga,Bayern Munich,VfB Stuttgart,,1X2,DRAW,0,3.75,53,1-1,oddsflow_beta,APIFOOTBALL,60,LOST,-60
 2026-08-28,Bundesliga,Bayern Munich,VfB Stuttgart,,1X2,DRAW,0,3.75,53,1-1,oddsflow_handicap_sniper,APIFOOTBALL,60,LOST,-60
@@ -11618,7 +11618,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-30,Slovak Super Liga,Spartak Trnava,Žilina,,AH,AWAY,-0.5,1.875,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,43.75
 2026-08-30,Segunda División,Cadiz,Valladolid,,AH,AWAY,0,1.875,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-30,NWSL Women,Washington Spirit W,Bay FC W,,AH,AWAY,-0.5,1.975,34,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-08-30,Portuguese Segunda Liga,FC Porto B,Penafiel,,AH,HOME,1,1.85,11,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-30,NWSL Women,Washington Spirit W,Bay FC W,,AH,AWAY,-0.5,1.975,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-30,NWSL Women,Washington Spirit W,Bay FC W,,AH,AWAY,-0.5,1.975,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-30,Erovnuli Liga,Dinamo Batumi,Spaeri,,AH,AWAY,-1.5,1.975,12,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
@@ -11658,11 +11657,9 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-30,Belarusian Premier League,BATE Borisov,FC Minsk,,1X2,AWAY,0,1.52,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-30,Russian Premier League,Rubin,Dinamo Makhachkala,,AH,AWAY,0,2,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-30,Russian Premier League,Rubin,Dinamo Makhachkala,,AH,AWAY,0,2,45,0-0,oddsflow_active_trader,NOVA88,47,LOST,-47
-2026-08-30,Primeira Liga,Casa Pia,Moreirense,,1X2,AWAY,0,1.68,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,34
 2026-08-30,Russian Premier League,Rubin,Dinamo Makhachkala,,AH,AWAY,0,2,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-30,Belarusian Premier League,BATE Borisov,FC Minsk,,1X2,AWAY,0,1.52,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-30,Russian Premier League,Rubin,Dinamo Makhachkala,,AH,AWAY,0,2,45,0-0,oddsflow_handicap_sniper,NOVA88,45,LOST,-45
-2026-08-30,Primeira Liga,Casa Pia,Moreirense,,1X2,AWAY,0,1.68,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,34
 2026-08-30,Belarusian Premier League,BATE Borisov,FC Minsk,,AH,AWAY,0,2.37,47,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-30,Belarusian Premier League,BATE Borisov,FC Minsk,,AH,AWAY,0,2.37,47,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-30,Belarusian Premier League,BATE Borisov,FC Minsk,,AH,AWAY,0,2.37,47,0-1,oddsflow_active_trader,NOVA88,44,LOST,-44
@@ -11679,10 +11676,10 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-30,Belarusian Premier League,BATE Borisov,FC Minsk,,OU,OVER,2.5,1.55,60,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,27.5
 2026-08-30,Belarusian Premier League,BATE Borisov,FC Minsk,,OU,OVER,2.5,1.56,61,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,28
 2026-08-30,Segunda División,Cadiz,Valladolid,,1X2,DRAW,0,2,57,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
-2026-08-30,Primeira Liga,Casa Pia,Moreirense,,OU,OVER,1.5,1.725,63,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-30,Segunda División,Cadiz,Valladolid,,1X2,DRAW,0,1.833,65,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,41.65
 2026-08-30,Portuguese Segunda Liga,Sporting CP B,Farense,,AH,AWAY,0,2.025,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-30,Serie B,Mantova,Empoli,,AH,AWAY,-0.5,1.875,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-30,Portuguese Segunda Liga,FC Porto B,Penafiel,,AH,HOME,1,1.85,11,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-30,Portuguese Segunda Liga,Felgueiras 1932,Chaves,,AH,AWAY,0,1.975,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-30,Spanish Primera División RFEF - Group 2,Antequera,Ibiza,,AH,AWAY,-1,1.975,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
 2026-08-30,Serie B,Arezzo,Palermo,,AH,HOME,1,2.15,24,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,57.5
@@ -11724,9 +11721,11 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-30,Serie B,Arezzo,Palermo,,AH,AWAY,0,1.94,45,0-1,oddsflow_core_strategy,NOVA88,20,VOID,0
 2026-08-30,Serie B,Arezzo,Palermo,,AH,AWAY,0,1.94,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-08-30,Serie B,Arezzo,Palermo,,AH,AWAY,0,1.94,45,0-1,oddsflow_active_trader,NOVA88,18,VOID,0
+2026-08-30,Primeira Liga,Casa Pia,Moreirense,,1X2,AWAY,0,1.68,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,34
 2026-08-30,Belgian Pro League,Westerlo,Zulte Waregem,,OU,UNDER,3.5,2,42,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-30,Serie B,Arezzo,Palermo,,AH,AWAY,0,1.94,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-08-30,Serie B,Arezzo,Palermo,,AH,AWAY,0,1.94,45,0-1,oddsflow_handicap_sniper,NOVA88,21,VOID,0
+2026-08-30,Primeira Liga,Casa Pia,Moreirense,,1X2,AWAY,0,1.68,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,34
 2026-08-30,La Liga,Deportivo La Coruna,Valencia,,OU,OVER,3.75,2.02,27,2-1,oddsflow_active_trader,APIFOOTBALL,64,HALF_WON,32.64
 2026-08-30,La Liga,Deportivo La Coruna,Valencia,,OU,OVER,3.75,2.02,27,2-1,oddsflow_handicap_sniper,APIFOOTBALL,64,HALF_WON,32.64
 2026-08-30,Greek Super League,Atromitos,PAOK,,AH,HOME,0.5,1.9,45,1-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
@@ -11758,6 +11757,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-30,Belgian Pro League,Westerlo,Zulte Waregem,,AH,AWAY,-0.5,2.025,46,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
 2026-08-30,Belgian Pro League,Westerlo,Zulte Waregem,,AH,AWAY,-0.5,2.025,48,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
 2026-08-30,Serie B,Mantova,Empoli,,AH,AWAY,-1,2.075,63,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-08-30,Primeira Liga,Casa Pia,Moreirense,,OU,OVER,1.5,1.725,63,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-30,Belgian Pro League,Westerlo,Zulte Waregem,,1X2,HOME,0,1.615,49,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-30,Ecuadorian Liga Pro,Aucas,Libertad,,AH,AWAY,-0.5,2.05,22,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-30,Belgian Pro League,Westerlo,Zulte Waregem,,OU,UNDER,4.5,1.775,51,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
@@ -11834,7 +11834,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-30,Turkish 1. Lig,Manisa F.K.,Bodrum FK,,1X2,DRAW,0,2.76,35,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,26.4
 2026-08-30,Turkish 1. Lig,Manisa F.K.,Bodrum FK,,AH,AWAY,0,2.05,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-08-30,Turkish 1. Lig,Manisa F.K.,Bodrum FK,,AH,AWAY,0,2.05,35,0-0,oddsflow_active_trader,NOVA88,32,VOID,0
-2026-08-30,Ligue 1,Monaco,Marseille,,AH,AWAY,-1,2.025,21,1-0,oddsflow_core_strategy,APIFOOTBALL,244,VOID,0
 2026-08-30,Liga I,FCSB,Uta Arad,,OU,UNDER,2.5,2,48,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-30,Ekstraklasa,Widzew Łódź,Lech Poznan,,OU,UNDER,4.5,2.025,45,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-30,Liga I,FCSB,Uta Arad,,OU,UNDER,2.5,2,48,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
@@ -11861,14 +11860,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-30,Süper Lig,Samsunspor,Fenerbahce,,OU,UNDER,2.25,2.54,45,0-1,oddsflow_handicap_sniper,NOVA88,38,HALF_WON,29.26
 2026-08-30,Ecuadorian Liga Pro,Aucas,Libertad,,1X2,DRAW,0,2,58,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-30,Ekstraklasa,Widzew Łódź,Lech Poznan,,AH,HOME,0.5,2.75,46,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,87.5
-2026-08-30,Ligue 1,Monaco,Marseille,,AH,AWAY,-1,2.05,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,258,VOID,0
-2026-08-30,Ligue 1,Monaco,Marseille,,AH,AWAY,-1,2.05,35,1-0,oddsflow_beta,APIFOOTBALL,257,VOID,0
 2026-08-30,Ekstraklasa,Widzew Łódź,Lech Poznan,,AH,HOME,0.5,2.75,46,1-2,oddsflow_active_trader,APIFOOTBALL,50,WON,87.5
-2026-08-30,Ligue 1,Monaco,Marseille,,AH,AWAY,-1,2.05,35,1-0,oddsflow_active_trader,APIFOOTBALL,254,VOID,0
 2026-08-30,Ecuadorian Liga Pro,Aucas,Libertad,,1X2,DRAW,0,2,60,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-08-30,Ligue 1,Monaco,Marseille,,OU,UNDER,2.5,2.3,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,100,WON,130
-2026-08-30,Ligue 1,Monaco,Marseille,,OU,UNDER,2.5,2.3,35,1-0,oddsflow_beta,APIFOOTBALL,100,WON,130
-2026-08-30,Ligue 1,Monaco,Marseille,,OU,UNDER,2.5,2.3,35,1-0,oddsflow_active_trader,APIFOOTBALL,100,WON,130
 2026-08-30,Ecuadorian Liga Pro,Aucas,Libertad,,OU,OVER,0.5,1.725,64,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,36.25
 2026-08-30,Ecuadorian Liga Pro,Aucas,Libertad,,OU,OVER,0.5,1.725,64,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.25
 2026-08-30,Ekstraklasa,Widzew Łódź,Lech Poznan,,OU,OVER,4.5,2,54,2-2,oddsflow_active_trader,APIFOOTBALL,50,WON,50
@@ -11883,14 +11876,9 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-30,Ecuadorian Liga Pro,Aucas,Libertad,,AH,AWAY,-1,2.425,79,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,71.25
 2026-08-30,Süper Lig,Samsunspor,Fenerbahce,,OU,UNDER,3.5,1.775,51,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
 2026-08-30,Turkish 1. Lig,Manisa F.K.,Bodrum FK,,OU,OVER,1,2,57,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-08-30,Serie A,Lazio,Genoa,,AH,AWAY,-1,2.15,47,1-0,oddsflow_active_trader,APIFOOTBALL,167,WON,192.05
-2026-08-30,Serie A,Lazio,Genoa,,AH,AWAY,-1,2.15,47,1-0,oddsflow_handicap_sniper,APIFOOTBALL,165,WON,189.75
-2026-08-30,Ligue 1,Monaco,Marseille,,OU,OVER,2.25,1.875,54,2-0,oddsflow_active_trader,APIFOOTBALL,101,HALF_LOST,-50.5
-2026-08-30,Ligue 1,Monaco,Marseille,,OU,OVER,2.25,1.875,54,2-0,oddsflow_handicap_sniper,APIFOOTBALL,101,HALF_LOST,-50.5
-2026-08-30,Serie A,Lazio,Genoa,,OU,OVER,2,2.125,58,1-0,oddsflow_core_strategy,APIFOOTBALL,500,LOST,-500
-2026-08-30,Serie A,Lazio,Genoa,,AH,AWAY,-1,1.75,85,1-0,oddsflow_core_strategy,APIFOOTBALL,148.4,WON,111.3
 2026-08-30,Torneo Federal A,Argentino Monte Maíz,Juventud Antoniana,,AH,HOME,-0.5,2.675,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,83.75
 2026-08-30,Torneo Federal A,Argentino Monte Maíz,Juventud Antoniana,,AH,AWAY,0,2,17,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-30,Ligue 1,Monaco,Marseille,,AH,AWAY,-1,2.025,21,1-0,oddsflow_core_strategy,APIFOOTBALL,244,VOID,0
 2026-08-30,Paraguayan División Profesional - Clausura,Cerro Porteno,Libertad Asuncion,,AH,AWAY,0,2.05,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-08-30,Brasileirão Série A,Corinthians,Santos,,AH,AWAY,-0.5,1.875,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,43.75
 2026-08-30,Paraguayan División Profesional - Clausura,Cerro Porteno,Libertad Asuncion,,AH,AWAY,-1,1.875,11,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,43.75
@@ -11900,6 +11888,12 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-30,Torneo Federal A,Sportivo Belgrano,Bartolomé Mitre,,AH,AWAY,-1.5,2.025,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
 2026-08-30,Torneo Federal A,9 de Julio Rafaela,Defensores de Belgrano VR,,AH,AWAY,-1.5,1.95,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
 2026-08-30,Torneo Federal A,Gimnasia Chivilcoy,Sarmiento de La Banda,,AH,AWAY,0,2.6,18,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-30,Ligue 1,Monaco,Marseille,,AH,AWAY,-1,2.05,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,258,VOID,0
+2026-08-30,Ligue 1,Monaco,Marseille,,AH,AWAY,-1,2.05,35,1-0,oddsflow_beta,APIFOOTBALL,257,VOID,0
+2026-08-30,Ligue 1,Monaco,Marseille,,AH,AWAY,-1,2.05,35,1-0,oddsflow_active_trader,APIFOOTBALL,254,VOID,0
+2026-08-30,Ligue 1,Monaco,Marseille,,OU,UNDER,2.5,2.3,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,100,WON,130
+2026-08-30,Ligue 1,Monaco,Marseille,,OU,UNDER,2.5,2.3,35,1-0,oddsflow_beta,APIFOOTBALL,100,WON,130
+2026-08-30,Ligue 1,Monaco,Marseille,,OU,UNDER,2.5,2.3,35,1-0,oddsflow_active_trader,APIFOOTBALL,100,WON,130
 2026-08-30,Brasileirão Série A,Corinthians,Santos,,1X2,AWAY,0,1.666,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,33.3
 2026-08-30,Serie B,Pisa,Catanzaro,,AH,AWAY,-1.5,1.85,33,2-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
 2026-08-30,Brasileirão Série A,Corinthians,Santos,,AH,HOME,0.5,1.95,35,0-1,oddsflow_core_strategy,APIFOOTBALL,59,WON,56.05
@@ -11933,16 +11927,21 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-30,La Liga,Celta Vigo,Athletic Bilbao,,AH,HOME,1,1.925,21,0-1,oddsflow_active_trader,APIFOOTBALL,91,VOID,0
 2026-08-30,La Liga,Celta Vigo,Athletic Bilbao,,OU,OVER,2,1.95,21,0-1,oddsflow_active_trader,APIFOOTBALL,65,VOID,0
 2026-08-30,La Liga,Celta Vigo,Athletic Bilbao,,AH,HOME,1,1.8,22,0-1,oddsflow_beta,APIFOOTBALL,95,VOID,0
+2026-08-30,Serie A,Lazio,Genoa,,AH,AWAY,-1,2.15,47,1-0,oddsflow_active_trader,APIFOOTBALL,167,WON,192.05
 2026-08-30,La Liga,Celta Vigo,Athletic Bilbao,,OU,OVER,3,2,22,0-2,oddsflow_active_trader,APIFOOTBALL,60,LOST,-60
 2026-08-30,La Liga,Celta Vigo,Athletic Bilbao,,OU,OVER,3,2,22,0-2,oddsflow_beta,APIFOOTBALL,66,LOST,-66
 2026-08-30,La Liga,Celta Vigo,Athletic Bilbao,,OU,OVER,3,2,22,0-2,oddsflow_handicap_sniper,APIFOOTBALL,60,LOST,-60
+2026-08-30,Serie A,Lazio,Genoa,,AH,AWAY,-1,2.15,47,1-0,oddsflow_handicap_sniper,APIFOOTBALL,165,WON,189.75
 2026-08-30,Serie B,Pisa,Catanzaro,,AH,AWAY,0,2.69,45,2-1,oddsflow_beta,APIFOOTBALL,50,VOID,0
 2026-08-30,Serie B,Pisa,Catanzaro,,AH,AWAY,0,2.69,45,2-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-08-30,Serie B,Pisa,Catanzaro,,AH,AWAY,0,2.69,45,2-1,oddsflow_beta,NOVA88,50,VOID,0
 2026-08-30,Serie B,Pisa,Catanzaro,,AH,AWAY,0,2.69,45,2-1,oddsflow_active_trader,NOVA88,50,VOID,0
 2026-08-30,Serie B,Pisa,Catanzaro,,AH,AWAY,0,2.69,45,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-08-30,Serie B,Pisa,Catanzaro,,AH,AWAY,0,2.69,45,2-1,oddsflow_handicap_sniper,NOVA88,50,VOID,0
+2026-08-30,Ligue 1,Monaco,Marseille,,OU,OVER,2.25,1.875,54,2-0,oddsflow_active_trader,APIFOOTBALL,101,HALF_LOST,-50.5
+2026-08-30,Ligue 1,Monaco,Marseille,,OU,OVER,2.25,1.875,54,2-0,oddsflow_handicap_sniper,APIFOOTBALL,101,HALF_LOST,-50.5
 2026-08-30,Serie B,Pisa,Catanzaro,,OU,UNDER,4.5,1.775,45,2-1,oddsflow_beta,APIFOOTBALL,50,WON,38.75
+2026-08-30,Serie A,Lazio,Genoa,,OU,OVER,2,2.125,58,1-0,oddsflow_core_strategy,APIFOOTBALL,500,LOST,-500
 2026-08-30,Primeira Liga,Famalicao,Gil Vicente,,AH,AWAY,-0.5,1.75,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,37.5
 2026-08-30,Primeira Liga,Famalicao,Gil Vicente,,AH,AWAY,-0.5,1.75,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,37.5
 2026-08-30,Serie B,Benevento,Sudtirol,,1X2,DRAW,0,2.35,47,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,67.5
@@ -11974,6 +11973,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-30,Serie B,Benevento,Sudtirol,,AH,AWAY,0,2.75,67,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-08-30,Segunda División,Cordoba,Granada CF,,AH,AWAY,-1,2.075,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,53.75
 2026-08-30,Segunda División,Cordoba,Granada CF,,AH,AWAY,-1,2.075,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,53.75
+2026-08-30,Serie A,Lazio,Genoa,,AH,AWAY,-1,1.75,85,1-0,oddsflow_core_strategy,APIFOOTBALL,148.4,WON,111.3
 2026-08-30,Primeira Liga,Famalicao,Gil Vicente,,OU,OVER,0.75,1.725,51,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-30,Primeira Liga,Famalicao,Gil Vicente,,OU,OVER,0.75,1.725,51,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-30,Ecuadorian Liga Pro,Orense SC,Macara,,AH,AWAY,0,2.45,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,72.5
@@ -12099,8 +12099,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-30,Brasileirão Série A,Bahia,Internacional,,1X2,DRAW,0,2.73,39,1-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
 2026-08-30,Ecuadorian Liga Pro,Emelec,Leones del Norte,,AH,AWAY,-1.5,1.8,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
 2026-08-30,Major League Soccer,St. Louis City,FC Dallas,,AH,AWAY,-1,1.9,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
-2026-08-30,Colombian Primera A,Millonarios,Internacional de Bogota,,AH,AWAY,-1,2,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
-2026-08-30,Liga Panameña de Fútbol,Sporting San Miguelito,Herrera,,AH,AWAY,-1.5,2,15,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
 2026-08-30,Liga Profesional Argentina,Independiente,Gimnasia y Esgrima (Mendoza),,AH,HOME,1.5,1.875,55,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,43.75
 2026-08-30,Liga Profesional Argentina,Independiente,Gimnasia y Esgrima (Mendoza),,AH,HOME,1.5,1.875,55,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,43.75
 2026-08-30,Major League Soccer,St. Louis City,FC Dallas,,AH,AWAY,0,2.15,22,1-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
@@ -12128,6 +12126,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-30,Major League Soccer,St. Louis City,FC Dallas,,OU,UNDER,4.5,1.775,50,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-30,Ecuadorian Liga Pro,Emelec,Leones del Norte,,1X2,DRAW,0,1.909,60,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-30,Ecuadorian Liga Pro,Emelec,Leones del Norte,,OU,OVER,2.75,2,61,1-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,25
+2026-08-30,Colombian Primera A,Millonarios,Internacional de Bogota,,AH,AWAY,-1,2,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-08-30,Liga Panameña de Fútbol,Sporting San Miguelito,Herrera,,AH,AWAY,-1.5,2,15,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
 2026-08-31,Ukrainian Premier League,Zorya Luhansk,Metalist 1925 Kharkiv,,AH,HOME,0,2.6,14,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-31,Peruvian Primera División,Cienciano,Cusco,,AH,AWAY,-0.5,1.8,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
 2026-08-31,Peruvian Primera División,Cienciano,Cusco,,AH,HOME,0.5,1.975,10,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
@@ -12352,10 +12352,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-31,Liga Profesional Argentina,Estudiantes de La Plata,Newell's Old Boys,,AH,AWAY,-0.5,1.875,49,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,43.75
 2026-08-31,Liga Profesional Argentina,Estudiantes de La Plata,Newell's Old Boys,,1X2,DRAW,0,2.3,52,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,65
 2026-08-31,Liga Profesional Argentina,Estudiantes de La Plata,Newell's Old Boys,,1X2,DRAW,0,2.3,52,0-0,oddsflow_beta,APIFOOTBALL,50,WON,65
-2026-08-31,Brasileirão Série A,Clube do Remo,Coritiba,,AH,AWAY,-0.5,1.75,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,37.5
 2026-08-31,Liga Profesional Argentina,Estudiantes de La Plata,Newell's Old Boys,,OU,OVER,1,2,53,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-31,Liga Profesional Argentina,Defensa y Justicia,Platense,,OU,OVER,1,2.05,50,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
-2026-08-31,Brasileirão Série A,Clube do Remo,Coritiba,,AH,AWAY,0,2.675,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,83.75
 2026-08-31,Brasileirão Série B,Fortaleza EC,Operario-PR,,AH,AWAY,-0.5,1.8,41,1-1,oddsflow_beta,APIFOOTBALL,50,WON,40
 2026-08-31,Brasileirão Série B,Fortaleza EC,Operario-PR,,1X2,DRAW,0,2.5,41,1-1,oddsflow_beta,APIFOOTBALL,50,WON,75
 2026-08-31,Liga Profesional Argentina,Defensa y Justicia,Platense,,OU,OVER,0.75,1.7,52,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,17.5
@@ -12371,9 +12369,11 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-31,Liga Profesional Argentina,Estudiantes de La Plata,Newell's Old Boys,,AH,AWAY,0,2.75,78,0-0,oddsflow_beta,APIFOOTBALL,50,VOID,0
 2026-08-31,Liga Profesional Argentina,Estudiantes de La Plata,Newell's Old Boys,,AH,AWAY,0,2.75,78,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-08-31,Liga Profesional Argentina,Estudiantes de La Plata,Newell's Old Boys,,AH,AWAY,0,2.75,78,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-08-31,Brasileirão Série B,Fortaleza EC,Operario-PR,,1X2,DRAW,0,2.2,56,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,60
+2026-08-31,Brasileirão Série A,Clube do Remo,Coritiba,,AH,AWAY,-0.5,1.75,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,37.5
+2026-08-31,Brasileirão Série A,Clube do Remo,Coritiba,,AH,AWAY,0,2.675,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,83.75
 2026-08-31,Brasileirão Série A,Clube do Remo,Coritiba,,1X2,DRAW,0,2.75,37,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-08-31,Brasileirão Série A,Clube do Remo,Coritiba,,1X2,DRAW,0,2.6,45,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
-2026-08-31,Brasileirão Série B,Fortaleza EC,Operario-PR,,1X2,DRAW,0,2.2,56,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,60
 2026-08-31,Brasileirão Série A,Clube do Remo,Coritiba,,1X2,DRAW,0,3.4,47,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-08-31,Brasileirão Série A,Clube do Remo,Coritiba,,1X2,AWAY,0,1.8,48,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,40
 2026-08-31,Brasileirão Série A,Clube do Remo,Coritiba,,1X2,AWAY,0,1.8,48,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,40
