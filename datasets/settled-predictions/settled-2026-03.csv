@@ -584,6 +584,15 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-03-20,Serie A,Genoa,Udinese,,AH,HOME,-0.5,2.075,25,0-0,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
 2026-03-20,Serie A,Genoa,Udinese,,OU,OVER,1.5,1.8,25,0-0,oddsflow_active_trader,APIFOOTBALL,500,WON,400
 2026-03-20,Serie A,Genoa,Udinese,,1X2,HOME,0,2.1,25,0-0,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
+2026-03-20,Serie A,Genoa,Udinese,,AH,AWAY,0,2.675,47,0-0,oddsflow_active_trader,APIFOOTBALL,500,WON,837.5
+2026-03-20,Serie A,Genoa,Udinese,,AH,AWAY,0,2.75,47,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,875
+2026-03-20,Serie A,Genoa,Udinese,,1X2,DRAW,0,3,53,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
+2026-03-20,Serie A,Genoa,Udinese,,AH,AWAY,-0.5,1.825,55,0-0,oddsflow_active_trader,APIFOOTBALL,500,WON,412.5
+2026-03-20,Serie A,Genoa,Udinese,,AH,AWAY,-0.5,1.8,59,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,400
+2026-03-20,Serie A,Genoa,Udinese,,OU,OVER,0.5,1.533,59,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,266.5
+2026-03-20,Serie A,Genoa,Udinese,,1X2,DRAW,0,2.875,59,0-0,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
+2026-03-20,Serie A,Genoa,Udinese,,OU,OVER,0.5,1.533,63,0-0,oddsflow_active_trader,APIFOOTBALL,500,WON,266.5
+2026-03-20,Serie A,Genoa,Udinese,,AH,HOME,0.5,2.5,67,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
 2026-03-20,Premier League,Bournemouth,Manchester United,,AH,AWAY,0.5,2.15,25,0-0,oddsflow_beta,APIFOOTBALL,500,LOST,-500
 2026-03-20,Premier League,Bournemouth,Manchester United,,AH,AWAY,0.5,2.15,25,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
 2026-03-20,Premier League,Bournemouth,Manchester United,,AH,AWAY,0.5,2.15,25,0-0,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
@@ -592,20 +601,11 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-03-20,Premier League,Bournemouth,Manchester United,,1X2,AWAY,0,2.2,29,0-0,oddsflow_beta,APIFOOTBALL,500,LOST,-500
 2026-03-20,Premier League,Bournemouth,Manchester United,,1X2,DRAW,0,3.75,31,0-0,oddsflow_beta,APIFOOTBALL,500,WON,1375
 2026-03-20,Premier League,Bournemouth,Manchester United,,1X2,DRAW,0,3.4,32,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,1200
-2026-03-20,Serie A,Genoa,Udinese,,AH,AWAY,0,2.675,47,0-0,oddsflow_active_trader,APIFOOTBALL,500,WON,837.5
-2026-03-20,Serie A,Genoa,Udinese,,AH,AWAY,0,2.75,47,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,875
 2026-03-20,Premier League,Bournemouth,Manchester United,,1X2,DRAW,0,3.6,40,0-0,oddsflow_active_trader,APIFOOTBALL,500,WON,1300
 2026-03-20,Premier League,Bournemouth,Manchester United,,AH,HOME,0.5,1.7,47,0-0,oddsflow_active_trader,APIFOOTBALL,500,WON,350
 2026-03-20,Premier League,Bournemouth,Manchester United,,AH,HOME,0.5,1.7,47,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,350
-2026-03-20,Serie A,Genoa,Udinese,,1X2,DRAW,0,3,53,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
-2026-03-20,Serie A,Genoa,Udinese,,AH,AWAY,-0.5,1.825,55,0-0,oddsflow_active_trader,APIFOOTBALL,500,WON,412.5
 2026-03-20,Premier League,Bournemouth,Manchester United,,AH,AWAY,0,1.7,47,0-0,oddsflow_handicap_sniper,APIFOOTBALL,823,VOID,0
-2026-03-20,Serie A,Genoa,Udinese,,AH,AWAY,-0.5,1.8,59,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,400
-2026-03-20,Serie A,Genoa,Udinese,,OU,OVER,0.5,1.533,59,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,266.5
-2026-03-20,Serie A,Genoa,Udinese,,1X2,DRAW,0,2.875,59,0-0,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
 2026-03-20,Premier League,Bournemouth,Manchester United,,AH,AWAY,0,1.725,47,0-0,oddsflow_active_trader,APIFOOTBALL,823,VOID,0
-2026-03-20,Serie A,Genoa,Udinese,,OU,OVER,0.5,1.533,63,0-0,oddsflow_active_trader,APIFOOTBALL,500,WON,266.5
-2026-03-20,Serie A,Genoa,Udinese,,AH,HOME,0.5,2.5,67,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
 2026-03-20,Premier League,Bournemouth,Manchester United,,AH,HOME,1,2.025,62,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,512.5
 2026-03-20,Premier League,Bournemouth,Manchester United,,AH,HOME,1,2,63,0-1,oddsflow_active_trader,APIFOOTBALL,500,WON,500
 2026-03-20,La Liga,Villarreal,Real Sociedad,,OU,HOME,-0.5,2.025,60,3-1,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
