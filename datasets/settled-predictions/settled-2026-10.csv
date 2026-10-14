@@ -8833,3 +8833,314 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-06,Brasileirão Série B,Goias,Athletic Club,,AH,AWAY,0,2.6,61,1-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-10-06,Brasileirão Série B,Goias,Athletic Club,,AH,AWAY,0,2.6,61,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-10-06,Brasileirão Série B,Goias,Athletic Club,,AH,AWAY,0,2.6,61,1-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-10-07,Friendlies,USA,Canada,,AH,AWAY,-0.25,1.725,31,1-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,18.13
+2026-10-07,Friendlies,USA,Canada,,AH,AWAY,0,2.075,34,1-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-10-07,Friendlies,USA,Canada,,AH,AWAY,0,2.18,34,1-0,oddsflow_core_strategy,NOVA88,15,VOID,0
+2026-10-07,Friendlies,USA,Canada,,AH,AWAY,0,2.05,42,1-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-07,Friendlies,USA,Canada,,AH,AWAY,0,2.16,42,1-0,oddsflow_active_trader,NOVA88,15,VOID,0
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,AWAY,0.5,1.95,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,AWAY,0.5,2.04,10,1-0,oddsflow_core_strategy,NOVA88,28,LOST,-28
+2026-10-07,Friendlies,USA,Canada,,AH,AWAY,0,2.05,43,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-07,Friendlies,USA,Canada,,AH,AWAY,0,2.16,43,1-0,oddsflow_handicap_sniper,NOVA88,15,VOID,0
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,AWAY,0.25,1.8,12,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,AWAY,0.25,1.83,12,1-0,oddsflow_core_strategy,NOVA88,29,LOST,-29
+2026-10-07,Friendlies,USA,Canada,,AH,AWAY,-0.25,1.7,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,17.5
+2026-10-07,Friendlies,USA,Canada,,AH,AWAY,-0.25,1.7,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,17.5
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,AWAY,-0.5,1.9,26,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,AWAY,0.25,1.95,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,AWAY,0.25,1.95,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,AWAY,0.25,2.01,35,1-0,oddsflow_active_trader,NOVA88,27,LOST,-27
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,AWAY,0.25,2.01,35,1-0,oddsflow_handicap_sniper,NOVA88,29,LOST,-29
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,AWAY,0.25,1.95,35,1-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,AWAY,0.25,2.01,35,1-0,oddsflow_beta,NOVA88,28,LOST,-28
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,1X2,HOME,0,1.666,43,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,33.3
+2026-10-07,Friendlies,USA,Canada,,OU,OVER,2,2,57,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,AWAY,0.75,2.675,44,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,AWAY,0.75,2.675,44,1-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,AWAY,0.75,2.675,44,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,AWAY,0.75,2.675,44,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,AWAY,0.5,2.2,45,1-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,AWAY,0.5,2.2,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,AWAY,0.5,2.2,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,OU,UNDER,3.5,2.025,53,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,OU,UNDER,3.5,2.025,53,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,OU,UNDER,3.5,2.025,53,2-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,OU,UNDER,3.25,1.8,65,2-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,CONCACAF Nations League,French Guyana,Belize,,AH,AWAY,-0.5,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série B,Ponte Preta,Juventude,,OU,OVER,1.5,1.725,66,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.25
+2026-10-07,Brasileirão Série B,Ponte Preta,Juventude,,OU,OVER,1.5,1.725,66,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,36.25
+2026-10-07,Brasileirão Série B,Ponte Preta,Juventude,,AH,HOME,0.25,1.825,68,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série B,Ponte Preta,Juventude,,AH,HOME,0.25,1.825,68,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,HOME,0,2.25,77,2-1,oddsflow_core_strategy,APIFOOTBALL,35,WON,43.75
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,HOME,0,2.22,77,2-1,oddsflow_core_strategy,NOVA88,15,WON,18.3
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,HOME,0,2.25,77,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,62.5
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,HOME,0,2.22,77,2-1,oddsflow_active_trader,NOVA88,15,WON,18.3
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,HOME,0,2.25,77,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,62.5
+2026-10-07,Major League Soccer,Chicago Fire,Vancouver Whitecaps,,AH,HOME,0,2.22,77,2-1,oddsflow_handicap_sniper,NOVA88,15,WON,18.3
+2026-10-07,CONCACAF Nations League,French Guyana,Belize,,OU,OVER,0.75,1.625,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,15.63
+2026-10-07,CONCACAF Nations League,French Guyana,Belize,,OU,OVER,0.75,1.625,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,15.63
+2026-10-07,Friendlies,Mexico,Chile,,AH,HOME,-0.5,1.825,15,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Friendlies,Mexico,Chile,,AH,HOME,-0.5,1.91,15,0-0,oddsflow_core_strategy,NOVA88,15,LOST,-15
+2026-10-07,CONCACAF Nations League,French Guyana,Belize,,AH,AWAY,-0.25,1.925,51,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,CONCACAF Nations League,French Guyana,Belize,,AH,AWAY,-0.25,1.925,51,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,CONCACAF Nations League,French Guyana,Belize,,AH,AWAY,-0.25,1.925,51,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,CONCACAF Nations League,French Guyana,Belize,,OU,OVER,1,2.05,52,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-10-07,CONCACAF Nations League,French Guyana,Belize,,AH,AWAY,0,2.6,55,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,CONCACAF Nations League,French Guyana,Belize,,AH,AWAY,0,2.6,55,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,CONCACAF Nations League,French Guyana,Belize,,AH,AWAY,0,2.6,55,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,CONCACAF Nations League,French Guyana,Belize,,1X2,DRAW,0,1.909,60,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,CONCACAF Nations League,French Guyana,Belize,,1X2,DRAW,0,1.909,60,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Friendlies,Mexico,Chile,,AH,HOME,-0.25,1.775,37,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Friendlies,Mexico,Chile,,AH,HOME,-0.25,1.85,37,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-07,Friendlies,Mexico,Chile,,AH,HOME,-0.25,1.775,37,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Friendlies,Mexico,Chile,,AH,HOME,-0.25,1.85,37,0-0,oddsflow_core_strategy,NOVA88,15,LOST,-15
+2026-10-07,Friendlies,Mexico,Chile,,1X2,HOME,0,2.2,37,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-07,Friendlies,Mexico,Chile,,AH,HOME,-0.25,1.8,38,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Friendlies,Mexico,Chile,,AH,HOME,-0.25,1.85,38,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-07,CONCACAF Nations League,French Guyana,Belize,,OU,OVER,0.5,1.775,62,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-10-07,CONCACAF Nations League,French Guyana,Belize,,OU,OVER,0.5,1.775,63,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-10-07,Friendlies,Mexico,Chile,,1X2,HOME,0,2.2,40,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Friendlies,Mexico,Chile,,1X2,HOME,0,2.2,40,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Friendlies,Mexico,Chile,,AH,HOME,-0.5,2.32,45,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-07,Friendlies,Mexico,Chile,,AH,HOME,-0.5,2.33,45,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-07,Friendlies,Mexico,Chile,,1X2,AWAY,0,1.8,56,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,40
+2026-10-07,Friendlies,Mexico,Chile,,1X2,AWAY,0,1.8,56,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,40
+2026-10-07,Friendlies,Mexico,Chile,,OU,OVER,1.75,1.7,58,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,17.5
+2026-10-07,Friendlies,Mexico,Chile,,OU,OVER,2,2.18,58,0-1,oddsflow_active_trader,NOVA88,50,VOID,0
+2026-10-07,Friendlies,Mexico,Chile,,OU,OVER,1.75,1.7,58,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,17.5
+2026-10-07,Friendlies,Mexico,Chile,,OU,OVER,2,2.18,58,0-1,oddsflow_handicap_sniper,NOVA88,50,VOID,0
+2026-10-07,Friendlies,Mexico,Chile,,AH,AWAY,-0.25,2.075,66,0-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,26.88
+2026-10-07,Friendlies,Mexico,Chile,,AH,AWAY,-0.25,2.16,66,0-2,oddsflow_active_trader,NOVA88,15,HALF_WON,8.7
+2026-10-07,Friendlies,Mexico,Chile,,AH,AWAY,-0.25,2.075,66,0-2,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,26.88
+2026-10-07,Friendlies,Mexico,Chile,,AH,AWAY,-0.25,2.16,66,0-2,oddsflow_core_strategy,NOVA88,15,HALF_WON,8.7
+2026-10-07,Friendlies,Mexico,Chile,,AH,AWAY,-0.25,2.075,66,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,26.88
+2026-10-07,Friendlies,Mexico,Chile,,AH,AWAY,-0.25,2.16,66,0-2,oddsflow_handicap_sniper,NOVA88,15,HALF_WON,8.7
+2026-10-07,Friendlies,Mexico,Chile,,OU,OVER,2.5,1.725,72,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Friendlies,Mexico,Chile,,OU,OVER,2.5,1.725,72,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Friendlies,Mexico,Chile,,OU,OVER,2.75,2.1,72,0-2,oddsflow_active_trader,NOVA88,50,LOST,-50
+2026-10-07,Friendlies,Mexico,Chile,,OU,OVER,2.75,2.1,72,0-2,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-1.25,1.8,51,1-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,20
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-1.25,1.81,51,1-2,oddsflow_active_trader,NOVA88,15,HALF_WON,6.08
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-1.25,1.8,51,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,20
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-1.25,1.8,51,1-2,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,20
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-1,2.05,53,1-2,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-1,2.05,53,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-1,2.05,53,1-2,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-10-07,Canadian Premier League,York United,Supra du Quebec,,AH,AWAY,0.5,1.925,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-0.75,2.05,60,1-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-0.75,2.08,60,1-2,oddsflow_active_trader,NOVA88,15,HALF_LOST,-7.5
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-0.75,2.05,60,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-0.75,2.05,60,1-2,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-0.75,2.08,60,1-2,oddsflow_handicap_sniper,NOVA88,15,HALF_LOST,-7.5
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-0.75,2.08,60,1-2,oddsflow_core_strategy,NOVA88,15,HALF_LOST,-7.5
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,1X2,AWAY,0,2.39,60,1-2,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,1X2,DRAW,0,2.58,63,2-2,oddsflow_handicap_sniper,NOVA88,15,WON,23.7
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,1X2,DRAW,0,2.875,63,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,93.75
+2026-10-07,Canadian Premier League,York United,Supra du Quebec,,AH,AWAY,1,2.55,17,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,77.5
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-0.5,2.025,67,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-0.5,2.025,67,2-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-0.5,2.03,67,2-2,oddsflow_core_strategy,NOVA88,23,WON,23.69
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-0.5,2.025,67,2-2,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-0.5,2.03,67,2-2,oddsflow_active_trader,NOVA88,22,WON,22.66
+2026-10-07,Canadian Premier League,York United,Supra du Quebec,,AH,HOME,0.5,1.925,18,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,1X2,DRAW,0,2.375,68,2-2,oddsflow_active_trader,APIFOOTBALL,50,WON,68.75
+2026-10-07,Canadian Premier League,York United,Supra du Quebec,,AH,HOME,0.25,1.95,18,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-0.25,2.1,76,2-2,oddsflow_core_strategy,APIFOOTBALL,35,HALF_WON,19.25
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-0.25,2.15,76,2-2,oddsflow_core_strategy,NOVA88,29,HALF_WON,16.67
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-0.25,2.1,76,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,27.5
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-0.25,2.15,76,2-2,oddsflow_handicap_sniper,NOVA88,29,HALF_WON,16.67
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-0.25,2.1,76,2-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,27.5
+2026-10-07,Uzbekistan Super League,Neftchi,Xorazm,,AH,AWAY,-0.25,2.14,76,2-2,oddsflow_active_trader,NOVA88,34,HALF_WON,19.38
+2026-10-07,Canadian Premier League,York United,Supra du Quebec,,AH,HOME,0.5,1.875,35,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Canadian Premier League,York United,Supra du Quebec,,AH,HOME,0.5,1.89,35,1-1,oddsflow_active_trader,NOVA88,27,LOST,-27
+2026-10-07,Canadian Premier League,York United,Supra du Quebec,,AH,HOME,0.5,1.875,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Canadian Premier League,York United,Supra du Quebec,,AH,HOME,0.5,1.89,35,1-1,oddsflow_handicap_sniper,NOVA88,29,LOST,-29
+2026-10-07,Canadian Premier League,York United,Supra du Quebec,,1X2,DRAW,0,3.25,35,1-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-07,Canadian Premier League,York United,Supra du Quebec,,AH,HOME,0.25,2,39,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,25
+2026-10-07,Canadian Premier League,York United,Supra du Quebec,,AH,HOME,0.25,2.02,39,1-2,oddsflow_handicap_sniper,NOVA88,39,HALF_WON,19.89
+2026-10-07,Canadian Premier League,York United,Supra du Quebec,,AH,HOME,0.25,2,39,1-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,25
+2026-10-07,Canadian Premier League,York United,Supra du Quebec,,AH,HOME,0.25,2.02,39,1-2,oddsflow_active_trader,NOVA88,41,HALF_WON,20.91
+2026-10-07,Canadian Premier League,York United,Supra du Quebec,,AH,HOME,0,2.35,45,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-07,Canadian Premier League,York United,Supra du Quebec,,AH,HOME,0,2.35,45,1-2,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-07,Canadian Premier League,York United,Supra du Quebec,,AH,HOME,0,2.35,45,1-2,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-10-07,Ykkönen,KuPS Akatemia,Inter Turku II,,AH,HOME,0.75,1.85,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Ykkönen,KuPS Akatemia,Inter Turku II,,AH,HOME,0.75,1.89,10,0-0,oddsflow_core_strategy,NOVA88,43,LOST,-43
+2026-10-07,Ykkönen,KuPS Akatemia,Inter Turku II,,AH,HOME,0.5,2,23,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Ykkönen,KuPS Akatemia,Inter Turku II,,AH,HOME,0.5,1.925,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Ykkönen,KuPS Akatemia,Inter Turku II,,AH,HOME,0.5,1.925,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Ykkönen,KuPS Akatemia,Inter Turku II,,AH,HOME,0.5,1.93,35,0-1,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
+2026-10-07,Ykkönen,KuPS Akatemia,Inter Turku II,,AH,HOME,0.5,1.93,35,0-1,oddsflow_active_trader,NOVA88,50,LOST,-50
+2026-10-07,Canadian Premier League,York United,Supra du Quebec,,OU,UNDER,4,2.05,65,1-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-10-07,Veikkausliiga,Gnistan,Inter Turku,,AH,HOME,0.5,1.9,38,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45
+2026-10-07,Veikkausliiga,Gnistan,Inter Turku,,AH,HOME,0.5,1.9,38,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,45
+2026-10-07,Veikkausliiga,Gnistan,Inter Turku,,AH,HOME,0.5,1.94,38,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,14.1
+2026-10-07,Veikkausliiga,Gnistan,Inter Turku,,AH,HOME,0.5,1.94,38,0-0,oddsflow_active_trader,NOVA88,15,WON,14.1
+2026-10-07,Veikkausliiga,Gnistan,Inter Turku,,AH,HOME,0.5,1.9,38,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
+2026-10-07,Veikkausliiga,Gnistan,Inter Turku,,AH,HOME,0.5,1.94,38,0-0,oddsflow_core_strategy,NOVA88,15,WON,14.1
+2026-10-07,Ykkönen,KuPS Akatemia,Inter Turku II,,OU,UNDER,4.5,2,43,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-10-07,Ykkönen,KuPS Akatemia,Inter Turku II,,OU,UNDER,4.5,2,43,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-10-07,Veikkausliiga,Gnistan,Inter Turku,,1X2,DRAW,0,3,44,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,100
+2026-10-07,Veikkausliiga,Gnistan,Inter Turku,,OU,UNDER,1.5,2.025,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-10-07,Ykkönen,KuPS Akatemia,Inter Turku II,,AH,HOME,0.25,2.15,47,0-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Ykkönen,KuPS Akatemia,Inter Turku II,,AH,HOME,0.25,2.15,48,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Ykkönen,KuPS Akatemia,Inter Turku II,,AH,HOME,0.25,2.15,48,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Veikkausliiga,Gnistan,Inter Turku,,OU,UNDER,1.5,2.025,47,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,AH,HOME,-1.25,1.8,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
+2026-10-07,Algerian Ligue 1,Ben Aknoun,JS El Biar,,AH,AWAY,-0.25,2,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,25
+2026-10-07,Algerian Ligue 1,Ben Aknoun,JS El Biar,,AH,AWAY,-0.25,2.05,10,0-0,oddsflow_core_strategy,NOVA88,15,HALF_WON,7.87
+2026-10-07,Veikkausliiga,Gnistan,Inter Turku,,AH,HOME,0.25,2.05,54,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,26.25
+2026-10-07,Veikkausliiga,Gnistan,Inter Turku,,AH,HOME,0.25,2.05,54,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,26.25
+2026-10-07,Veikkausliiga,Gnistan,Inter Turku,,AH,HOME,0.25,2.09,54,0-0,oddsflow_active_trader,NOVA88,15,HALF_WON,8.17
+2026-10-07,Veikkausliiga,Gnistan,Inter Turku,,AH,HOME,0.25,2.09,54,0-0,oddsflow_core_strategy,NOVA88,15,HALF_WON,8.17
+2026-10-07,Veikkausliiga,Gnistan,Inter Turku,,AH,HOME,0.25,2.05,54,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,26.25
+2026-10-07,Veikkausliiga,Gnistan,Inter Turku,,AH,HOME,0.25,2.09,54,0-0,oddsflow_handicap_sniper,NOVA88,15,HALF_WON,8.17
+2026-10-07,Algerian Ligue 1,Ben Aknoun,JS El Biar,,AH,AWAY,-1,1.925,19,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,AH,AWAY,-1.25,1.9,20,2-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,22.5
+2026-10-07,Veikkausliiga,Gnistan,Inter Turku,,1X2,DRAW,0,2.4,58,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,70
+2026-10-07,Algerian Ligue 1,Ben Aknoun,JS El Biar,,AH,AWAY,0,1.975,21,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
+2026-10-07,Algerian Ligue 1,Ben Aknoun,JS El Biar,,AH,AWAY,0,2,21,1-0,oddsflow_core_strategy,NOVA88,15,WON,15
+2026-10-07,Veikkausliiga,Gnistan,Inter Turku,,OU,OVER,1,2.05,64,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,AH,AWAY,-1,2.025,34,2-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-10-07,Algerian Ligue 1,CS Constantine,US Biskra,,AH,AWAY,-0.5,1.8,31,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,AH,AWAY,-1,2.025,35,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,AH,AWAY,-1,2.025,35,2-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-07,Algerian Ligue 1,CS Constantine,US Biskra,,AH,AWAY,-0.5,1.775,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,AH,AWAY,-1.25,1.8,41,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,AH,AWAY,-1.25,1.8,41,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Algerian Ligue 1,CS Constantine,US Biskra,,AH,AWAY,-0.5,1.775,38,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Algerian Ligue 1,CS Constantine,US Biskra,,AH,AWAY,-0.25,1.85,39,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Algerian Ligue 1,CS Constantine,US Biskra,,AH,AWAY,-0.25,1.99,39,1-0,oddsflow_handicap_sniper,NOVA88,21,LOST,-21
+2026-10-07,Algerian Ligue 1,CS Constantine,US Biskra,,AH,AWAY,-0.25,1.85,39,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Algerian Ligue 1,CS Constantine,US Biskra,,AH,AWAY,-0.25,1.99,39,1-0,oddsflow_active_trader,NOVA88,19,LOST,-19
+2026-10-07,Algerian Ligue 1,CS Constantine,US Biskra,,AH,AWAY,-0.25,1.85,39,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Algerian Ligue 1,CS Constantine,US Biskra,,AH,AWAY,-0.25,1.99,39,1-0,oddsflow_core_strategy,NOVA88,17,LOST,-17
+2026-10-07,Veikkausliiga,Gnistan,Inter Turku,,AH,HOME,0,2.75,81,0-0,oddsflow_core_strategy,APIFOOTBALL,35,VOID,0
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,OU,UNDER,4.5,2.425,45,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,OU,UNDER,4.5,2.425,45,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Algerian Ligue 1,Ben Aknoun,JS El Biar,,AH,AWAY,0,1.975,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,48.75
+2026-10-07,Algerian Ligue 1,Ben Aknoun,JS El Biar,,AH,AWAY,0,2,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-10-07,Belgian First Amateur Division,Standard Liège II,Albert Quévy-Mons,,AH,AWAY,0,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Belgian First Amateur Division,Standard Liège II,Albert Quévy-Mons,,AH,AWAY,0.75,1.85,12,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Belgian First Amateur Division,Standard Liège II,Albert Quévy-Mons,,AH,AWAY,1,1.975,12,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,AH,AWAY,-0.75,2,53,2-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,AH,AWAY,-0.75,2,53,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,AH,AWAY,-0.75,2,53,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Algerian Ligue 1,CS Constantine,US Biskra,,OU,OVER,1.75,1.7,50,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,35
+2026-10-07,Algerian Ligue 1,CS Constantine,US Biskra,,OU,OVER,1.75,1.7,50,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,35
+2026-10-07,Algerian Ligue 1,CS Constantine,US Biskra,,OU,OVER,2,2.1,50,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,55
+2026-10-07,Algerian Ligue 1,Ben Aknoun,JS El Biar,,AH,AWAY,0.25,2.5,60,2-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,75
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,AH,AWAY,-0.5,2.025,65,2-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,AH,AWAY,-0.5,2.025,65,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,AH,AWAY,-0.5,2.025,65,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,OU,UNDER,4,2.075,67,2-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,AH,AWAY,-0.25,2.15,73,3-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,AH,AWAY,-0.25,2.15,73,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Türkiye Kupası,Eskişehirspor,Akşehirspor,,AH,AWAY,-0.25,2.15,73,3-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Belgian First Amateur Division,Standard Liège II,Albert Quévy-Mons,,1X2,AWAY,0,1.727,36,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Belgian First Amateur Division,Standard Liège II,Albert Quévy-Mons,,1X2,AWAY,0,1.727,36,2-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Algerian Ligue 1,Ben Aknoun,JS El Biar,,AH,HOME,0.75,2.25,74,2-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-07,Algerian Ligue 1,Ben Aknoun,JS El Biar,,1X2,DRAW,0,1.571,75,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,28.55
+2026-10-07,Algerian Ligue 1,Ben Aknoun,JS El Biar,,1X2,DRAW,0,1.571,75,2-2,oddsflow_active_trader,APIFOOTBALL,50,WON,28.55
+2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,-0.25,1.75,71,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,AH,HOME,0,1.95,33,0-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-10-07,Brasileirão Série A,Vitoria,Chapecoense,,AH,AWAY,-0.25,2.025,45,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,-0.25,1.76,71,0-1,oddsflow_core_strategy,NOVA88,19,LOST,-19
+2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,AH,HOME,0,1.92,33,0-1,oddsflow_core_strategy,NOVA88,20,VOID,0
+2026-10-07,Brasileirão Série A,Vitoria,Chapecoense,,AH,AWAY,-0.25,2.025,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-1,1.95,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,-0.25,1.75,71,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,-0.25,1.76,71,0-1,oddsflow_handicap_sniper,NOVA88,19,LOST,-19
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-1,1.95,45,1-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,-0.25,1.75,71,0-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,-0.25,1.76,71,0-1,oddsflow_beta,NOVA88,20,LOST,-20
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-1,1.95,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Vitoria,Chapecoense,,AH,AWAY,-0.25,2.025,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,-0.25,1.75,71,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,-0.25,1.76,71,0-1,oddsflow_active_trader,NOVA88,16,LOST,-16
+2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,1X2,AWAY,0,1.5,71,0-1,oddsflow_handicap_sniper,APIFOOTBALL,74,LOST,-74
+2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,1X2,AWAY,0,1.43,71,0-1,oddsflow_handicap_sniper,NOVA88,34,LOST,-34
+2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,1X2,AWAY,0,1.5,71,0-1,oddsflow_beta,APIFOOTBALL,74,LOST,-74
+2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,1X2,AWAY,0,1.43,71,0-1,oddsflow_beta,NOVA88,34,LOST,-34
+2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,1X2,AWAY,0,1.5,71,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série B,Operario-PR,Botafogo SP,,AH,AWAY,0,2.3,73,1-2,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-07,Brasileirão Série B,Operario-PR,Botafogo SP,,AH,AWAY,0,2.3,73,1-2,oddsflow_active_trader,NOVA88,15,VOID,0
+2026-10-07,Brasileirão Série B,Operario-PR,Botafogo SP,,AH,AWAY,0,2.3,73,1-2,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-10-07,Brasileirão Série B,Operario-PR,Botafogo SP,,AH,AWAY,0,2.3,73,1-2,oddsflow_core_strategy,NOVA88,15,VOID,0
+2026-10-07,Brasileirão Série B,Operario-PR,Botafogo SP,,AH,AWAY,0,2.3,73,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-07,Brasileirão Série B,Operario-PR,Botafogo SP,,AH,AWAY,0,2.3,73,1-2,oddsflow_handicap_sniper,NOVA88,15,VOID,0
+2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,AH,HOME,0,1.925,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,1X2,AWAY,0,1.5,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,25
+2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,AH,HOME,0,1.96,35,0-1,oddsflow_active_trader,NOVA88,23,VOID,0
+2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,AH,HOME,0,1.925,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,AH,HOME,0,1.96,35,0-1,oddsflow_handicap_sniper,NOVA88,24,VOID,0
+2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,1X2,AWAY,0,1.5,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,25
+2026-10-07,Brasileirão Série A,Vitoria,Chapecoense,,OU,UNDER,2.5,1.775,46,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Vitoria,Chapecoense,,OU,UNDER,2.5,1.775,46,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,AH,HOME,-0.25,2.28,39,0-1,oddsflow_active_trader,NOVA88,15,HALF_LOST,-7.5
+2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,AH,HOME,-0.25,2.28,40,0-1,oddsflow_handicap_sniper,NOVA88,15,HALF_LOST,-7.5
+2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,0,2.5,78,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,0,2.5,78,0-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,0,2.5,78,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,0,2.5,78,0-1,oddsflow_core_strategy,APIFOOTBALL,35,LOST,-35
+2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,OU,UNDER,2.5,2.05,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,OU,UNDER,2.5,2.05,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Vitoria,Chapecoense,,OU,OVER,3,2,60,2-0,oddsflow_core_strategy,APIFOOTBALL,500,WON,500
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,OU,UNDER,3.5,2.025,51,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,OU,UNDER,3.5,2.025,51,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,OU,UNDER,3.5,2.025,51,2-0,oddsflow_beta,APIFOOTBALL,50,WON,51.25
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-0.75,2.025,55,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-0.75,2.05,55,2-0,oddsflow_handicap_sniper,NOVA88,50,HALF_LOST,-25
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-0.75,2.025,55,2-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-0.75,2.025,55,2-0,oddsflow_beta,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-0.75,2.04,55,2-0,oddsflow_beta,NOVA88,50,HALF_LOST,-25
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-0.5,2.05,67,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-0.5,2.05,67,2-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-0.5,2.05,67,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,OU,UNDER,3.5,1.775,52,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,OU,UNDER,3.25,2.09,52,0-2,oddsflow_handicap_sniper,NOVA88,50,HALF_WON,27.25
+2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,OU,UNDER,3.5,1.775,52,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,OU,UNDER,3.25,2.09,52,0-2,oddsflow_active_trader,NOVA88,50,HALF_WON,27.25
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-0.25,2.15,77,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-0.25,2.18,77,2-0,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-0.25,2.15,77,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-0.25,2.18,77,2-0,oddsflow_active_trader,NOVA88,50,LOST,-50
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-0.25,2.15,77,2-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-0.25,2.18,77,2-0,oddsflow_beta,NOVA88,50,LOST,-50
+2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,AH,AWAY,0,2.1,84,1-2,oddsflow_core_strategy,APIFOOTBALL,35,VOID,0
+2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0.25,2.05,32,0-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,26.25
+2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0.25,2.08,32,0-1,oddsflow_core_strategy,NOVA88,41,HALF_WON,22.14
+2026-10-07,Brasileirão Série B,CRB,Atletico Goianiense,,1X2,DRAW,0,3,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série B,CRB,Atletico Goianiense,,1X2,DRAW,0,2.89,35,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0.25,2.04,35,0-1,oddsflow_handicap_sniper,NOVA88,39,HALF_WON,20.28
+2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0.25,2,35,0-1,oddsflow_beta,APIFOOTBALL,50,HALF_WON,25
+2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0.25,2.04,35,0-1,oddsflow_beta,NOVA88,38,HALF_WON,19.76
+2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0.25,2,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,25
+2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0.25,2.04,35,0-1,oddsflow_active_trader,NOVA88,38,HALF_WON,19.76
+2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0.25,2,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,25
+2026-10-07,Brasileirão Série B,CRB,Atletico Goianiense,,OU,UNDER,1.5,2,44,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série B,CRB,Atletico Goianiense,,OU,UNDER,1.5,2,44,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série B,CRB,Atletico Goianiense,,AH,AWAY,0,2.64,45,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-07,Brasileirão Série B,CRB,Atletico Goianiense,,AH,AWAY,0,2.64,45,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0,2.72,45,0-1,oddsflow_handicap_sniper,NOVA88,36,VOID,0
+2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0,2.72,45,0-1,oddsflow_beta,NOVA88,37,VOID,0
+2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0,2.72,45,0-1,oddsflow_active_trader,NOVA88,37,VOID,0
+2026-10-07,Brasileirão Série B,CRB,Atletico Goianiense,,AH,AWAY,0,2.5,47,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0,2.6,46,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0,2.6,46,0-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0,2.6,46,0-1,oddsflow_beta,APIFOOTBALL,50,VOID,0
+2026-10-07,Brasileirão Série B,CRB,Atletico Goianiense,,1X2,DRAW,0,2.625,49,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0,2.6,46,0-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-07,Brasileirão Série B,CRB,Atletico Goianiense,,AH,AWAY,-0.25,1.85,55,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série B,CRB,Atletico Goianiense,,AH,AWAY,-0.25,1.85,55,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série B,CRB,Atletico Goianiense,,AH,AWAY,-0.25,1.85,55,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série B,Vila Nova,Cuiaba,,OU,OVER,0.75,1.7,54,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série B,Vila Nova,Cuiaba,,AH,AWAY,0,2.5,57,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-07,Brasileirão Série B,Vila Nova,Cuiaba,,AH,AWAY,0,2.5,57,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-10-07,Brasileirão Série B,CRB,Atletico Goianiense,,AH,AWAY,0,2.2,60,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série B,CRB,Atletico Goianiense,,AH,AWAY,0,2.2,60,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,OU,OVER,2,2,57,0-1,oddsflow_core_strategy,APIFOOTBALL,500,LOST,-500
+2026-10-07,Brasileirão Série B,Vila Nova,Cuiaba,,AH,AWAY,0,2.6,59,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-07,Brasileirão Série B,Vila Nova,Cuiaba,,OU,OVER,0.5,1.725,64,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série B,Vila Nova,Cuiaba,,OU,OVER,0.5,1.725,64,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série B,Vila Nova,Cuiaba,,1X2,DRAW,0,1.8,65,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,40
+2026-10-07,Brasileirão Série B,Vila Nova,Cuiaba,,1X2,DRAW,0,1.8,65,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,40

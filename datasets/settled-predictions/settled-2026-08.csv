@@ -12131,6 +12131,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-31,Ukrainian Premier League,Zorya Luhansk,Metalist 1925 Kharkiv,,AH,HOME,0,2.6,14,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-31,Peruvian Primera División,Cienciano,Cusco,,AH,AWAY,-0.5,1.8,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
 2026-08-31,Peruvian Primera División,Cienciano,Cusco,,AH,HOME,0.5,1.975,10,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
+2026-08-31,Chilean Primera División,Coquimbo Unido,Huachipato,,AH,AWAY,-1,2.025,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
 2026-08-31,Liga Profesional Argentina,Independiente Rivadavia,Racing Club,,AH,AWAY,-0.5,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-31,Liga Profesional Argentina,Independiente Rivadavia,Racing Club,,AH,HOME,0.5,1.825,24,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
 2026-08-31,Colombian Primera A,Deportivo Cali,Bucaramanga,,AH,AWAY,0,2.2,23,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
