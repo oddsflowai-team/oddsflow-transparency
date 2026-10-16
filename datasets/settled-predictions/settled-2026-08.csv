@@ -8079,7 +8079,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-08-26,K League 1,Gangwon FC,Gwangju FC,,AH,AWAY,0,2.2,11,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-26,K League 1,FC Anyang,Incheon United,,AH,HOME,0,2.6,14,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,80
 2026-08-26,K League 1,Daejeon Citizen,Ulsan Hyundai FC,,AH,AWAY,0,2.5,28,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-08-26,Croatian Cup,Cuba U20,Uljanik,,AH,AWAY,-0.5,1.825,11,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-08-26,Croatian Cup,Tomislav,Uljanik,,AH,AWAY,-0.5,1.825,11,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-26,Croatian Cup,Vrbovec,Daruvar,,AH,AWAY,0,1.9,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-08-26,Egyptian Premier League,Smouha SC,Asyut Petrol,,AH,AWAY,-0.5,2.05,44,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
 2026-08-26,Egyptian Premier League,Smouha SC,Asyut Petrol,,AH,AWAY,-0.5,2.05,44,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5

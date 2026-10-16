@@ -8366,8 +8366,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-09-09,Erovnuli Liga,Spaeri,Rustavi,,AH,AWAY,0,1.775,23,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-09-09,Erovnuli Liga,Spaeri,Rustavi,,AH,AWAY,-0.75,1.95,24,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
 2026-09-09,Egyptian Premier League,Future FC,Wadi Degla,,1X2,DRAW,0,1.909,60,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-09-09,Croatian Cup,Cuba U20,NK Lokomotiva Zagreb,,AH,HOME,1.25,1.825,48,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,20.63
-2026-09-09,Croatian Cup,Cuba U20,NK Lokomotiva Zagreb,,AH,HOME,1.25,1.825,48,0-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,20.63
+2026-09-09,Croatian Cup,Tomislav,NK Lokomotiva Zagreb,,AH,HOME,1.25,1.825,48,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,20.63
+2026-09-09,Croatian Cup,Tomislav,NK Lokomotiva Zagreb,,AH,HOME,1.25,1.825,48,0-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,20.63
 2026-09-09,Veikkausliiga,HJK Helsinki,Inter Turku,,AH,AWAY,0,2.05,30,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-09-09,Erovnuli Liga,Spaeri,Rustavi,,AH,AWAY,0.25,1.975,29,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
 2026-09-09,Croatian Cup,Uskok Klis,HNK Gorica,,AH,AWAY,0.5,1.725,46,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.25
@@ -8377,19 +8377,19 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-09-09,Egyptian Premier League,Future FC,Wadi Degla,,OU,UNDER,3.5,2,65,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,50
 2026-09-09,Egyptian Premier League,Future FC,Wadi Degla,,OU,UNDER,3.5,2,65,1-1,oddsflow_beta,APIFOOTBALL,50,WON,50
 2026-09-09,Croatian Cup,Vukovar,HNK Cibalia,,1X2,DRAW,0,2.3,49,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-09-09,Croatian Cup,Cuba U20,NK Lokomotiva Zagreb,,AH,HOME,1,1.95,53,0-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-09-09,Croatian Cup,Tomislav,NK Lokomotiva Zagreb,,AH,HOME,1,1.95,53,0-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-09-09,Veikkausliiga,HJK Helsinki,Inter Turku,,1X2,DRAW,0,2.875,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-09-09,Veikkausliiga,HJK Helsinki,Inter Turku,,AH,AWAY,0,2.075,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-09-09,Veikkausliiga,HJK Helsinki,Inter Turku,,AH,AWAY,0,2.1,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-09-09,Czech Liga,Jablonec,Baník Ostrava,,AH,AWAY,-0.25,1.9,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-09-09,Czech Liga,Jablonec,Baník Ostrava,,AH,AWAY,-0.25,1.9,35,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
 2026-09-09,Czech Liga,Jablonec,Baník Ostrava,,AH,AWAY,-0.25,1.9,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-09-09,Croatian Cup,Cuba U20,NK Lokomotiva Zagreb,,AH,HOME,1,1.95,54,0-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-09-09,Croatian Cup,Tomislav,NK Lokomotiva Zagreb,,AH,HOME,1,1.95,54,0-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-09-09,Erovnuli Liga,Spaeri,Rustavi,,AH,HOME,1.25,1.85,33,1-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,21.25
 2026-09-09,Veikkausliiga,HJK Helsinki,Inter Turku,,AH,AWAY,-0.25,1.725,36,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-09-09,Erovnuli Liga,Samgurali,Dila,,AH,HOME,0,1.825,35,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-09-09,Erovnuli Liga,Samgurali,Dila,,AH,HOME,0,1.825,35,0-2,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
-2026-09-09,Croatian Cup,Cuba U20,NK Lokomotiva Zagreb,,AH,HOME,1,1.9,47,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45
+2026-09-09,Croatian Cup,Tomislav,NK Lokomotiva Zagreb,,AH,HOME,1,1.9,47,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45
 2026-09-09,Erovnuli Liga,Spaeri,Rustavi,,1X2,DRAW,0,2.875,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,93.75
 2026-09-09,Croatian Cup,Vukovar,HNK Cibalia,,AH,HOME,-0.25,2.5,52,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,75
 2026-09-09,Croatian Cup,Vukovar,HNK Cibalia,,AH,HOME,-0.25,2.5,52,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,75
@@ -8404,13 +8404,13 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-09-09,Veikkausliiga,HJK Helsinki,Inter Turku,,OU,UNDER,2.5,2,40,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-09-09,Croatian Cup,Vukovar,HNK Cibalia,,OU,OVER,1,2.025,56,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-09-09,Erovnuli Liga,Samgurali,Dila,,OU,UNDER,3.5,2.025,42,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-09-09,Croatian Cup,Cuba U20,NK Lokomotiva Zagreb,,AH,HOME,0.75,2.05,53,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-09-09,Croatian Cup,Tomislav,NK Lokomotiva Zagreb,,AH,HOME,0.75,2.05,53,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
 2026-09-09,Croatian Cup,Segesta Sisak,NK Osijek,,AH,HOME,0.75,2.05,53,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
-2026-09-09,Croatian Cup,Cuba U20,NK Lokomotiva Zagreb,,AH,HOME,0.75,2.05,53,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-09-09,Croatian Cup,Tomislav,NK Lokomotiva Zagreb,,AH,HOME,0.75,2.05,53,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
 2026-09-09,Erovnuli Liga,Samgurali,Dila,,OU,UNDER,3.5,2.025,42,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-09-09,Croatian Cup,Segesta Sisak,NK Osijek,,AH,HOME,0.75,2.05,53,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
 2026-09-09,Croatian Cup,Segesta Sisak,NK Osijek,,AH,HOME,0.75,2.05,53,2-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
-2026-09-09,Croatian Cup,Cuba U20,NK Lokomotiva Zagreb,,AH,HOME,0.75,2.05,53,0-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-09-09,Croatian Cup,Tomislav,NK Lokomotiva Zagreb,,AH,HOME,0.75,2.05,53,0-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
 2026-09-09,Czech Liga,Jablonec,Baník Ostrava,,AH,AWAY,-1.25,1.85,43,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-09-09,Croatian Cup,Segesta Sisak,NK Osijek,,OU,UNDER,4.5,1.775,54,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
 2026-09-09,Croatian Cup,Segesta Sisak,NK Osijek,,OU,UNDER,4.5,1.775,54,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
@@ -8429,17 +8429,17 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-09-09,Czech Liga,Jablonec,Baník Ostrava,,AH,AWAY,0,2.1,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-09-09,Erovnuli Liga,Spaeri,Rustavi,,1X2,DRAW,0,2.625,44,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,81.25
 2026-09-09,Erovnuli Liga,Spaeri,Rustavi,,OU,UNDER,3.5,1.775,45,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
-2026-09-09,Croatian Cup,Cuba U20,NK Lokomotiva Zagreb,,OU,UNDER,3.5,1.775,57,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
-2026-09-09,Croatian Cup,Cuba U20,NK Lokomotiva Zagreb,,OU,UNDER,3.5,1.775,58,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-09-09,Croatian Cup,Tomislav,NK Lokomotiva Zagreb,,OU,UNDER,3.5,1.775,57,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-09-09,Croatian Cup,Tomislav,NK Lokomotiva Zagreb,,OU,UNDER,3.5,1.775,58,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
 2026-09-09,Czech Liga,Jablonec,Baník Ostrava,,AH,AWAY,0,2.05,45,1-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
 2026-09-09,Croatian Cup,Uskok Klis,HNK Gorica,,1X2,HOME,0,1.833,64,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-09-09,Croatian Cup,Uskok Klis,HNK Gorica,,1X2,HOME,0,1.833,64,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-09-09,Croatian Cup,Uskok Klis,HNK Gorica,,OU,OVER,1.75,1.75,65,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,18.75
 2026-09-09,Erovnuli Liga,Spaeri,Rustavi,,AH,AWAY,0.25,2.25,45,1-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
-2026-09-09,Croatian Cup,Cuba U20,NK Lokomotiva Zagreb,,AH,HOME,0.5,2.05,64,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
-2026-09-09,Croatian Cup,Cuba U20,NK Lokomotiva Zagreb,,AH,HOME,0.5,2.05,64,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
-2026-09-09,Croatian Cup,Cuba U20,NK Lokomotiva Zagreb,,AH,HOME,0.5,2.05,64,0-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
-2026-09-09,Croatian Cup,Cuba U20,NK Lokomotiva Zagreb,,OU,UNDER,3.25,1.75,65,0-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,37.5
+2026-09-09,Croatian Cup,Tomislav,NK Lokomotiva Zagreb,,AH,HOME,0.5,2.05,64,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-09-09,Croatian Cup,Tomislav,NK Lokomotiva Zagreb,,AH,HOME,0.5,2.05,64,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-09-09,Croatian Cup,Tomislav,NK Lokomotiva Zagreb,,AH,HOME,0.5,2.05,64,0-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-09-09,Croatian Cup,Tomislav,NK Lokomotiva Zagreb,,OU,UNDER,3.25,1.75,65,0-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,37.5
 2026-09-09,Croatian Cup,Segesta Sisak,NK Osijek,,OU,UNDER,4,2.05,65,2-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-09-09,Croatian Cup,Uskok Klis,HNK Gorica,,OU,OVER,1.5,1.725,73,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,36.25
 2026-09-09,Croatian Cup,Uskok Klis,HNK Gorica,,OU,OVER,1.5,1.725,73,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.25
@@ -8465,9 +8465,9 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-09-09,Saudi Pro League,Al Kholood,Al Shabab,,AH,HOME,0.25,1.85,10,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
 2026-09-09,Croatian Cup,Orijent 1919,Mladost Ždralovi,,AH,AWAY,-0.25,1.875,35,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,43.75
 2026-09-09,Croatian Cup,Orijent 1919,Mladost Ždralovi,,AH,AWAY,-0.25,1.875,35,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,43.75
-2026-09-09,Croatian Cup,Cuba U20,NK Lokomotiva Zagreb,,AH,HOME,0.25,2.15,76,0-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,28.75
-2026-09-09,Croatian Cup,Cuba U20,NK Lokomotiva Zagreb,,AH,HOME,0.25,2.15,76,0-2,oddsflow_core_strategy,APIFOOTBALL,35,HALF_WON,20.13
-2026-09-09,Croatian Cup,Cuba U20,NK Lokomotiva Zagreb,,AH,HOME,0.25,2.15,77,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,28.75
+2026-09-09,Croatian Cup,Tomislav,NK Lokomotiva Zagreb,,AH,HOME,0.25,2.15,76,0-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,28.75
+2026-09-09,Croatian Cup,Tomislav,NK Lokomotiva Zagreb,,AH,HOME,0.25,2.15,76,0-2,oddsflow_core_strategy,APIFOOTBALL,35,HALF_WON,20.13
+2026-09-09,Croatian Cup,Tomislav,NK Lokomotiva Zagreb,,AH,HOME,0.25,2.15,77,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,28.75
 2026-09-09,Croatian Cup,Segesta Sisak,NK Osijek,,AH,HOME,0.25,2.15,78,2-1,oddsflow_core_strategy,APIFOOTBALL,35,WON,40.25
 2026-09-09,Croatian Cup,Segesta Sisak,NK Osijek,,AH,HOME,0.25,2.15,78,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,57.5
 2026-09-09,Croatian Cup,Segesta Sisak,NK Osijek,,AH,HOME,0.25,2.15,78,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,57.5
