@@ -82840,3 +82840,409 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-14,Major League Soccer,Inter Miami,New York City FC,,AH,AWAY,0,2.15,74,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-10-14,Major League Soccer,FC Cincinnati,New England Revolution,,AH,AWAY,0,2.675,74,2-3,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-10-14,Major League Soccer,Inter Miami,New York City FC,,AH,AWAY,0,2.25,74,2-0,oddsflow_handicap_sniper,NOVA88,15,VOID,0
+2026-10-15,Major League Soccer,FC Dallas,Seattle Sounders,,AH,HOME,-0.25,2,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-10-15,Major League Soccer,FC Dallas,Seattle Sounders,,AH,HOME,-0.25,2,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-10-15,Major League Soccer,FC Dallas,Seattle Sounders,,AH,HOME,-0.25,2.03,35,0-0,oddsflow_active_trader,NOVA88,20,WON,20.6
+2026-10-15,Major League Soccer,FC Dallas,Seattle Sounders,,1X2,HOME,0,2.3,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,65
+2026-10-15,Major League Soccer,FC Dallas,Seattle Sounders,,AH,HOME,-0.25,2.03,35,0-0,oddsflow_handicap_sniper,NOVA88,20,WON,20.6
+2026-10-15,Major League Soccer,FC Dallas,Seattle Sounders,,1X2,HOME,0,2.35,35,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,20.25
+2026-10-15,Major League Soccer,FC Dallas,Seattle Sounders,,AH,HOME,-0.5,2.3,38,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,65
+2026-10-15,Major League Soccer,FC Dallas,Seattle Sounders,,AH,HOME,0,1.725,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.25
+2026-10-15,Major League Soccer,FC Dallas,Seattle Sounders,,AH,HOME,0,1.725,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,36.25
+2026-10-15,Major League Soccer,Chicago Fire,Philadelphia Union,,AH,AWAY,0,1.775,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-10-15,Major League Soccer,Chicago Fire,Philadelphia Union,,1X2,HOME,0,1.533,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,Chicago Fire,Philadelphia Union,,AH,AWAY,0,1.775,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-10-15,Major League Soccer,Chicago Fire,Philadelphia Union,,1X2,HOME,0,1.533,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,FC Dallas,Seattle Sounders,,1X2,HOME,0,2.5,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,75
+2026-10-15,Major League Soccer,Chicago Fire,Philadelphia Union,,AH,HOME,1,1.725,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,Chicago Fire,Philadelphia Union,,AH,HOME,1,1.725,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,FC Dallas,Seattle Sounders,,AH,HOME,-0.5,2.54,45,0-0,oddsflow_active_trader,NOVA88,15,WON,23.1
+2026-10-15,Major League Soccer,FC Dallas,Seattle Sounders,,1X2,DRAW,0,2.6,57,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,St. Louis City,Vancouver Whitecaps,,AH,HOME,0,2.28,65,0-0,oddsflow_handicap_sniper,NOVA88,15,VOID,0
+2026-10-15,Major League Soccer,St. Louis City,Vancouver Whitecaps,,AH,HOME,0,2.28,65,0-0,oddsflow_active_trader,NOVA88,15,VOID,0
+2026-10-15,Major League Soccer,St. Louis City,Vancouver Whitecaps,,AH,HOME,0,2.2,65,0-0,oddsflow_beta,APIFOOTBALL,50,VOID,0
+2026-10-15,Major League Soccer,St. Louis City,Vancouver Whitecaps,,AH,HOME,0,2.28,65,0-0,oddsflow_beta,NOVA88,15,VOID,0
+2026-10-15,Major League Soccer,St. Louis City,Vancouver Whitecaps,,AH,HOME,0,2.2,65,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-15,Major League Soccer,St. Louis City,Vancouver Whitecaps,,AH,HOME,0,2.2,65,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-15,Major League Soccer,St. Louis City,Vancouver Whitecaps,,1X2,DRAW,0,1.952,70,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,47.6
+2026-10-15,Major League Soccer,St. Louis City,Vancouver Whitecaps,,1X2,DRAW,0,1.952,70,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,47.6
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,AWAY,-0.5,1.85,35,0-0,oddsflow_beta,APIFOOTBALL,50,WON,42.5
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,AWAY,-0.5,1.86,35,0-0,oddsflow_beta,NOVA88,16,WON,13.76
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,1X2,AWAY,0,4.333,35,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,AWAY,-0.5,1.85,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,42.5
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,AWAY,-0.5,1.86,35,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,12.9
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,AWAY,-0.5,1.85,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,42.5
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,AWAY,-0.5,1.86,35,0-0,oddsflow_active_trader,NOVA88,15,WON,12.9
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,AWAY,0,2.75,41,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,AWAY,0,2.75,41,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,AWAY,-0.25,2.025,43,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,25.62
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,AWAY,-0.25,2.12,43,0-0,oddsflow_handicap_sniper,NOVA88,15,HALF_WON,8.4
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,AWAY,-0.25,2.025,43,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,25.62
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,AWAY,-0.25,2.12,43,0-0,oddsflow_active_trader,NOVA88,15,HALF_WON,8.4
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,AWAY,-0.25,1.8,45,1-0,oddsflow_beta,APIFOOTBALL,50,WON,40
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,AWAY,-0.25,1.91,45,1-0,oddsflow_beta,NOVA88,26,WON,23.66
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,AWAY,0.25,2.75,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,87.5
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,AWAY,0.25,2.75,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,87.5
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,AWAY,0.25,2.75,45,1-0,oddsflow_beta,APIFOOTBALL,50,WON,87.5
+2026-10-15,Major League Soccer,Real Salt Lake,San Jose Earthquakes,,AH,AWAY,0,2.6,50,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-15,Major League Soccer,Real Salt Lake,San Jose Earthquakes,,AH,AWAY,0,2.6,50,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,1X2,DRAW,0,2.5,57,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,75
+2026-10-15,Major League Soccer,Real Salt Lake,San Jose Earthquakes,,1X2,DRAW,0,2.3,63,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,65
+2026-10-15,Major League Soccer,Real Salt Lake,San Jose Earthquakes,,AH,AWAY,-0.25,1.875,63,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,21.88
+2026-10-15,Major League Soccer,Real Salt Lake,San Jose Earthquakes,,AH,AWAY,-0.25,1.95,63,0-0,oddsflow_active_trader,NOVA88,15,HALF_WON,7.13
+2026-10-15,Major League Soccer,Real Salt Lake,San Jose Earthquakes,,1X2,DRAW,0,2.3,64,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,65
+2026-10-15,Major League Soccer,Real Salt Lake,San Jose Earthquakes,,AH,AWAY,-0.25,1.9,64,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,22.5
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,1X2,DRAW,0,2.4,62,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,70
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,HOME,0,2.3,68,1-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-15,Major League Soccer,Colorado Rapids,Minnesota United FC,,AH,HOME,0,2.3,69,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-15,Major League Soccer,San Diego,Houston Dynamo,,AH,HOME,-0.25,1.8,38,2-3,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,40
+2026-10-15,Major League Soccer,Los Angeles FC,Austin,,AH,AWAY,-0.75,2.05,40,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,San Diego,Houston Dynamo,,1X2,AWAY,0,1.909,41,2-3,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,San Diego,Houston Dynamo,,1X2,AWAY,0,1.909,44,2-3,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,Los Angeles FC,Austin,,AH,AWAY,-0.75,1.975,44,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,Los Angeles FC,Austin,,AH,AWAY,-0.75,1.975,45,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,Los Angeles FC,Austin,,AH,AWAY,-0.75,2.01,45,0-0,oddsflow_beta,NOVA88,15,LOST,-15
+2026-10-15,Major League Soccer,Los Angeles FC,Austin,,AH,AWAY,-0.5,2.25,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,Los Angeles FC,Austin,,AH,AWAY,-0.5,2.25,45,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,Los Angeles FC,Austin,,AH,AWAY,-0.5,2,53,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,Los Angeles FC,Austin,,OU,UNDER,2.5,1.775,57,1-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,Los Angeles FC,Austin,,OU,UNDER,2.5,1.775,57,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,Los Angeles FC,Austin,,OU,UNDER,2.5,1.775,57,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,Los Angeles FC,Austin,,AH,AWAY,-0.25,2.05,64,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,Los Angeles FC,Austin,,AH,AWAY,-0.25,2.12,64,1-0,oddsflow_handicap_sniper,NOVA88,20,LOST,-20
+2026-10-15,Major League Soccer,Los Angeles FC,Austin,,AH,AWAY,-0.25,2.05,64,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,Los Angeles FC,Austin,,AH,AWAY,-0.25,2.12,64,1-0,oddsflow_active_trader,NOVA88,18,LOST,-18
+2026-10-15,Major League Soccer,Los Angeles Galaxy,Portland Timbers,,AH,HOME,-0.25,2.675,63,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,83.75
+2026-10-15,Major League Soccer,Los Angeles FC,Austin,,1X2,DRAW,0,2.25,67,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,Los Angeles FC,Austin,,AH,AWAY,-0.25,1.95,69,2-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-15,Major League Soccer,Los Angeles FC,Austin,,AH,AWAY,-0.25,1.96,69,2-1,oddsflow_beta,NOVA88,16,LOST,-16
+2026-10-15,Major League Soccer,San Diego,Houston Dynamo,,AH,AWAY,-0.25,1.7,74,2-3,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,AFC Champions League Two,Gangwon FC,Phnom Penh Crown,,AH,AWAY,-0.75,2.05,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-10-15,AFC Champions League Two,Gangwon FC,Phnom Penh Crown,,AH,AWAY,-0.75,2.05,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-10-15,AFC Champions League Two,Gangwon FC,Phnom Penh Crown,,1X2,AWAY,0,2.5,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,75
+2026-10-15,AFC Champions League Two,Gangwon FC,Phnom Penh Crown,,AH,AWAY,-1,1.775,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-10-15,AFC Champions League Two,Gangwon FC,Phnom Penh Crown,,AH,AWAY,-1,1.75,48,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,37.5
+2026-10-15,AFC Champions League Two,Gangwon FC,Phnom Penh Crown,,1X2,AWAY,0,2.4,49,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,70
+2026-10-15,AFC Champions League Two,Gangwon FC,Phnom Penh Crown,,OU,UNDER,2.5,1.575,60,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,AFC Champions League Two,Gangwon FC,Phnom Penh Crown,,OU,UNDER,2.5,1.575,60,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,AFC Champions League Two,Gangwon FC,Phnom Penh Crown,,1X2,DRAW,0,2.5,63,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,AFC Champions League Two,Gangwon FC,Phnom Penh Crown,,1X2,DRAW,0,2.5,63,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,AFC Champions League Two,Gangwon FC,Phnom Penh Crown,,AH,AWAY,-0.5,2.025,64,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-10-15,AFC Champions League Two,Gangwon FC,Phnom Penh Crown,,AH,AWAY,-0.5,2.025,64,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-10-15,AFC Champions League Two,Gangwon FC,Phnom Penh Crown,,OU,OVER,2.5,1.575,71,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,28.75
+2026-10-15,Thai League 2,Uttaradit,Satun,,AH,AWAY,-0.25,1.875,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,21.88
+2026-10-15,Thai League 2,Uttaradit,Satun,,AH,AWAY,-0.25,1.875,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,21.88
+2026-10-15,Thai League 2,Uttaradit,Satun,,1X2,DRAW,0,2.625,39,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,81.25
+2026-10-15,Thai League 2,Uttaradit,Satun,,1X2,AWAY,0,1.571,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Thai League 2,Uttaradit,Satun,,1X2,AWAY,0,1.571,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Thai League 2,Uttaradit,Satun,,1X2,DRAW,0,2.4,51,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,70
+2026-10-15,Thai League 2,Uttaradit,Satun,,AH,AWAY,0,2.55,63,1-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-15,Thai League 2,Uttaradit,Satun,,AH,AWAY,0,2.55,63,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-15,Thai League 2,Khon Kaen United,Chainat,,AH,AWAY,-0.5,1.775,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-10-15,AFC Champions League Two,Kuching FA,Kitchee,,AH,AWAY,-0.5,1.95,35,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
+2026-10-15,AFC Champions League Two,Svay Rieng,Shanghai Shenhua,,AH,AWAY,0,1.9,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-15,AFC Champions League Two,Kuching FA,Kitchee,,AH,AWAY,-0.5,1.95,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,47.5
+2026-10-15,AFC Champions League Two,Svay Rieng,Shanghai Shenhua,,AH,AWAY,0,1.9,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-15,AFC Champions League Two,Svay Rieng,Shanghai Shenhua,,1X2,AWAY,0,2.6,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,AFC Champions League Two,Svay Rieng,Shanghai Shenhua,,1X2,AWAY,0,2.6,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,AFC Champions League Two,Kuching FA,Kitchee,,1X2,DRAW,0,3.2,36,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,110
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,1X2,HOME,0,2.2,36,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,1X2,HOME,0,2.2,36,1-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,1X2,DRAW,0,2.875,37,1-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,AH,AWAY,-0.5,1.8,40,1-1,oddsflow_beta,APIFOOTBALL,50,WON,40
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,AH,AWAY,-0.5,1.8,40,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,40
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,AH,AWAY,-0.5,1.81,40,1-1,oddsflow_active_trader,NOVA88,15,WON,12.15
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,AH,AWAY,-0.5,1.8,41,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,40
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,AH,AWAY,-0.5,1.85,41,1-1,oddsflow_handicap_sniper,NOVA88,15,WON,12.75
+2026-10-15,AFC Champions League Two,Svay Rieng,Shanghai Shenhua,,OU,OVER,1.5,1.825,43,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,AFC Champions League Two,Svay Rieng,Shanghai Shenhua,,OU,OVER,1.5,1.825,43,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,1X2,DRAW,0,2.69,43,1-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-15,AFC Champions League Two,Svay Rieng,Shanghai Shenhua,,AH,AWAY,0.25,2.3,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-15,AFC Champions League Two,Svay Rieng,Shanghai Shenhua,,AH,AWAY,0.25,2.3,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-15,AFC Champions League Two,Svay Rieng,Shanghai Shenhua,,AH,AWAY,0.5,2.725,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,AFC Champions League Two,Svay Rieng,Shanghai Shenhua,,AH,AWAY,0.5,2.725,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,AFC Champions League Two,Tampines Rovers,Machida Zelvia,,OU,OVER,1.5,1.975,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,AFC Champions League Two,Tampines Rovers,Machida Zelvia,,AH,HOME,0.75,1.95,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-15,AFC Champions League Two,Tampines Rovers,Machida Zelvia,,OU,OVER,1.5,1.975,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,AFC Champions League Two,Tampines Rovers,Machida Zelvia,,AH,HOME,0.75,1.975,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,AH,AWAY,-0.25,2.2,45,1-1,oddsflow_handicap_sniper,NOVA88,15,WON,18
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,AH,AWAY,-0.25,2.2,45,1-1,oddsflow_beta,NOVA88,15,WON,18
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,AH,AWAY,-0.25,2.28,45,1-1,oddsflow_active_trader,NOVA88,15,WON,19.2
+2026-10-15,AFC Champions League Two,Kuching FA,Kitchee,,AH,AWAY,0,2.725,45,1-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-15,AFC Champions League Two,Kuching FA,Kitchee,,AH,AWAY,0,2.725,45,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-15,AFC Champions League Two,Kuching FA,Kitchee,,AH,AWAY,-0.25,2.025,45,1-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,25.62
+2026-10-15,AFC Champions League Two,Kuching FA,Kitchee,,AH,AWAY,-0.25,2.025,45,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,25.62
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,OU,UNDER,3.5,1.775,47,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,OU,UNDER,3.5,1.775,47,1-1,oddsflow_beta,APIFOOTBALL,50,WON,38.75
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,OU,UNDER,3.5,1.775,47,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,1X2,DRAW,0,2.75,48,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,1X2,DRAW,0,2.625,52,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,AH,AWAY,-0.25,2.025,53,1-1,oddsflow_beta,APIFOOTBALL,50,WON,51.25
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,AH,AWAY,-0.25,2.025,53,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,AH,AWAY,-0.25,2.025,53,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-10-15,Thai League 2,Khon Kaen United,Chainat,,AH,AWAY,0,2.2,69,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,60
+2026-10-15,AFC Champions League Two,Kuching FA,Kitchee,,1X2,DRAW,0,2.375,57,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,68.75
+2026-10-15,Thai League 2,Khon Kaen United,Chainat,,AH,AWAY,0,2.625,75,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,81.25
+2026-10-15,AFC Champions League Two,Svay Rieng,Shanghai Shenhua,,1X2,DRAW,0,2.1,65,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,55
+2026-10-15,AFC Champions League Two,Svay Rieng,Shanghai Shenhua,,1X2,DRAW,0,2.05,67,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,AH,AWAY,0,2.425,74,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,71.25
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,AH,AWAY,0,2.33,74,1-1,oddsflow_active_trader,NOVA88,17,WON,22.61
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,AH,AWAY,0,2.425,74,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,71.25
+2026-10-15,AFC Champions League Two,BG Pathum United,Adelaide United,,AH,AWAY,0,2.33,74,1-1,oddsflow_handicap_sniper,NOVA88,20,WON,26.6
+2026-10-15,AFC Champions League Two,Svay Rieng,Shanghai Shenhua,,AH,HOME,0,2.3,75,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-15,AFC Champions League Two,Svay Rieng,Shanghai Shenhua,,AH,HOME,0,2.25,77,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-15,Saudi Pro League,Al-Faisaly FC,Al Kholood,,1X2,DRAW,0,3,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Saudi Pro League,Al-Faisaly FC,Al Kholood,,1X2,DRAW,0,2.8,35,1-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-15,Saudi Pro League,Al-Faisaly FC,Al Kholood,,AH,AWAY,0,1.825,39,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Saudi Pro League,Al-Faisaly FC,Al Kholood,,AH,AWAY,0,1.825,39,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Saudi Pro League,Al-Faisaly FC,Al Kholood,,AH,AWAY,0,1.86,39,1-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-15,Saudi Pro League,Al-Faisaly FC,Al Kholood,,OU,UNDER,3.5,2,41,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Saudi Pro League,Al-Faisaly FC,Al Kholood,,OU,UNDER,3.5,2,41,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Saudi Pro League,Al-Faisaly FC,Al Kholood,,1X2,DRAW,0,2.75,43,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Saudi Pro League,Al-Faisaly FC,Al Kholood,,OU,UNDER,4.5,1.775,45,1-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Saudi Pro League,Al-Faisaly FC,Al Kholood,,OU,UNDER,4.5,1.775,45,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Saudi Pro League,Al-Faisaly FC,Al Kholood,,1X2,AWAY,0,1.5,45,1-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Saudi Pro League,Al-Faisaly FC,Al Kholood,,1X2,AWAY,0,1.5,45,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Saudi Pro League,Al-Faisaly FC,Al Kholood,,1X2,AWAY,0,1.5,45,1-2,oddsflow_handicap_sniper,NOVA88,18,LOST,-18
+2026-10-15,Uzbekistan Super League,Mash'al,Olmaliq,,AH,HOME,1.25,2.02,35,0-0,oddsflow_active_trader,NOVA88,39,HALF_WON,19.89
+2026-10-15,Uzbekistan Super League,Mash'al,Olmaliq,,AH,HOME,1.25,2.02,35,0-0,oddsflow_handicap_sniper,NOVA88,41,HALF_WON,20.91
+2026-10-15,Turkish 1. Lig,Mardin 1969,Fatih Karagümrük,,AH,AWAY,-0.25,1.73,35,1-0,oddsflow_active_trader,NOVA88,27,HALF_WON,9.86
+2026-10-15,Turkish 1. Lig,Mardin 1969,Fatih Karagümrük,,AH,AWAY,-0.25,1.73,35,1-0,oddsflow_handicap_sniper,NOVA88,50,HALF_WON,18.25
+2026-10-15,Turkish 1. Lig,Mardin 1969,Fatih Karagümrük,,AH,AWAY,-0.25,1.725,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,18.13
+2026-10-15,Turkish 1. Lig,Mardin 1969,Fatih Karagümrük,,AH,AWAY,-0.25,1.725,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,18.13
+2026-10-15,Turkish 1. Lig,Mardin 1969,Fatih Karagümrük,,AH,AWAY,0,2.1,38,1-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-15,Turkish 1. Lig,Mardin 1969,Fatih Karagümrük,,AH,AWAY,0,2.18,38,1-0,oddsflow_active_trader,NOVA88,24,VOID,0
+2026-10-15,Turkish 1. Lig,Mardin 1969,Fatih Karagümrük,,AH,AWAY,0,2.1,38,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-15,Turkish 1. Lig,Mardin 1969,Fatih Karagümrük,,AH,AWAY,0,2.18,38,1-0,oddsflow_handicap_sniper,NOVA88,27,VOID,0
+2026-10-15,Virsliga,Rīgas FS,Super Nova,,AH,AWAY,-1.25,2.025,40,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Virsliga,Rīgas FS,Super Nova,,AH,AWAY,-1.25,2.02,40,2-0,oddsflow_active_trader,NOVA88,50,LOST,-50
+2026-10-15,Virsliga,Rīgas FS,Super Nova,,AH,AWAY,-1.25,2.025,40,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Virsliga,Rīgas FS,Super Nova,,AH,AWAY,-1.25,2.02,40,2-0,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
+2026-10-15,Uzbekistan Super League,Andijan,Qizilqum,,1X2,AWAY,0,1.909,40,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,45.45
+2026-10-15,Uzbekistan Super League,Andijan,Qizilqum,,1X2,AWAY,0,1.909,40,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45.45
+2026-10-15,Uzbekistan Super League,Mash'al,Olmaliq,,AH,HOME,1,2.09,45,0-0,oddsflow_active_trader,NOVA88,41,VOID,0
+2026-10-15,Uzbekistan Super League,Mash'al,Olmaliq,,AH,HOME,1,2.09,45,0-0,oddsflow_handicap_sniper,NOVA88,40,VOID,0
+2026-10-15,Saudi Pro League,Al-Faisaly FC,Al Kholood,,AH,HOME,0.75,2,68,2-2,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-10-15,Saudi Pro League,Al-Faisaly FC,Al Kholood,,AH,HOME,0.75,2,69,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-10-15,Uzbekistan Super League,Mash'al,Olmaliq,,AH,HOME,0.75,2.08,52,0-0,oddsflow_handicap_sniper,NOVA88,29,HALF_LOST,-14.5
+2026-10-15,Uzbekistan Super League,Mash'al,Olmaliq,,AH,HOME,0.75,2.08,52,0-0,oddsflow_active_trader,NOVA88,30,HALF_LOST,-15
+2026-10-15,Uzbekistan Super League,Andijan,Qizilqum,,AH,AWAY,-0.5,1.875,53,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,43.75
+2026-10-15,Uzbekistan Super League,Andijan,Qizilqum,,AH,AWAY,-0.5,1.87,53,0-1,oddsflow_handicap_sniper,NOVA88,15,WON,13.05
+2026-10-15,Uzbekistan Super League,Andijan,Qizilqum,,AH,AWAY,-0.5,1.875,53,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,43.75
+2026-10-15,Uzbekistan Super League,Mash'al,Olmaliq,,1X2,DRAW,0,2.66,56,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-15,Saudi Pro League,Al-Faisaly FC,Al Kholood,,AH,HOME,0,2.05,77,2-2,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-10-15,Uzbekistan Super League,Andijan,Qizilqum,,AH,AWAY,-0.25,2.075,64,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,26.88
+2026-10-15,Uzbekistan Super League,Andijan,Qizilqum,,AH,AWAY,-0.25,2.1,64,0-1,oddsflow_handicap_sniper,NOVA88,17,HALF_WON,9.35
+2026-10-15,Uzbekistan Super League,Andijan,Qizilqum,,AH,AWAY,-0.25,2.075,64,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,26.88
+2026-10-15,Uzbekistan Super League,Andijan,Qizilqum,,AH,AWAY,-0.25,2.1,64,0-1,oddsflow_active_trader,NOVA88,18,HALF_WON,9.9
+2026-10-15,Uzbekistan Super League,Mash'al,Olmaliq,,AH,HOME,0.5,2.09,64,0-0,oddsflow_active_trader,NOVA88,34,LOST,-34
+2026-10-15,Uzbekistan Super League,Mash'al,Olmaliq,,AH,HOME,0.5,2.09,64,0-0,oddsflow_handicap_sniper,NOVA88,35,LOST,-35
+2026-10-15,Saudi Pro League,Al Khaleej Saihat,Al-Fayha,,1X2,DRAW,0,2.625,38,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Uzbekistan Super League,Mash'al,Olmaliq,,AH,HOME,0.25,2.32,73,0-0,oddsflow_handicap_sniper,NOVA88,40,LOST,-40
+2026-10-15,Uzbekistan Super League,Mash'al,Olmaliq,,AH,HOME,0.25,2.18,76,0-0,oddsflow_active_trader,NOVA88,45,LOST,-45
+2026-10-15,Saudi Pro League,Al Khaleej Saihat,Al-Fayha,,1X2,DRAW,0,2.625,44,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Saudi Pro League,Al Khaleej Saihat,Al-Fayha,,OU,UNDER,1.5,1.775,44,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Saudi Pro League,Al Khaleej Saihat,Al-Fayha,,OU,UNDER,1.5,1.775,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Saudi Pro League,Al Khaleej Saihat,Al-Fayha,,AH,HOME,-0.25,2.43,45,0-0,oddsflow_active_trader,NOVA88,15,WON,21.45
+2026-10-15,Saudi Pro League,Al Khaleej Saihat,Al-Fayha,,AH,HOME,-0.25,2.43,45,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,21.45
+2026-10-15,Saudi Pro League,Al-Hazm,Al-Fateh,,1X2,DRAW,0,3,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Saudi Pro League,Al-Hazm,Al-Fateh,,1X2,DRAW,0,2.625,45,1-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-15,Belarusian Premier League,Dinamo Minsk,Slavia Mozyr,,AH,AWAY,-0.75,2.16,44,0-0,oddsflow_handicap_sniper,NOVA88,43,LOST,-43
+2026-10-15,Belarusian Premier League,Dinamo Minsk,Slavia Mozyr,,AH,AWAY,-0.75,2.14,44,0-0,oddsflow_active_trader,NOVA88,44,LOST,-44
+2026-10-15,Belarusian Premier League,Dinamo Minsk,Slavia Mozyr,,1X2,DRAW,0,2.88,45,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-15,Belarusian Premier League,Dinamo Minsk,Slavia Mozyr,,AH,AWAY,-1,1.7,45,0-0,oddsflow_active_trader,NOVA88,40,LOST,-40
+2026-10-15,Belarusian Premier League,Dinamo Minsk,Slavia Mozyr,,AH,AWAY,-1,1.7,45,0-0,oddsflow_handicap_sniper,NOVA88,40,LOST,-40
+2026-10-15,Saudi Pro League,Al-Hazm,Al-Fateh,,AH,AWAY,0,1.9,50,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45
+2026-10-15,Saudi Pro League,Al-Hazm,Al-Fateh,,AH,AWAY,0,1.9,50,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,45
+2026-10-15,Saudi Pro League,Al-Hazm,Al-Fateh,,AH,AWAY,0.25,2.1,51,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,55
+2026-10-15,Saudi Pro League,Al-Hazm,Al-Fateh,,AH,AWAY,0.25,2.16,51,2-1,oddsflow_active_trader,NOVA88,15,WON,17.4
+2026-10-15,Saudi Pro League,Al-Hazm,Al-Fateh,,1X2,HOME,0,1.5,51,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Saudi Pro League,Al-Hazm,Al-Fateh,,1X2,HOME,0,1.5,51,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Meistriliiga,Flora Tallinn,Levadia Tallinn,,AH,HOME,0.75,2,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Meistriliiga,Flora Tallinn,Levadia Tallinn,,1X2,DRAW,0,3.75,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Meistriliiga,Flora Tallinn,Levadia Tallinn,,AH,HOME,0.75,2,35,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Belarusian Premier League,Dinamo Minsk,Slavia Mozyr,,AH,AWAY,-0.5,2.05,56,1-0,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
+2026-10-15,Belarusian Premier League,Dinamo Minsk,Slavia Mozyr,,AH,AWAY,-0.5,2.05,57,1-0,oddsflow_active_trader,NOVA88,50,LOST,-50
+2026-10-15,Meistriliiga,Flora Tallinn,Levadia Tallinn,,AH,HOME,0.5,2.025,45,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,Meistriliiga,Flora Tallinn,Levadia Tallinn,,AH,HOME,0.5,2.025,45,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Saudi Pro League,Al-Hazm,Al-Fateh,,AH,HOME,0,2.14,76,2-1,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-15,Belarusian Premier League,Dinamo Minsk,Slavia Mozyr,,AH,AWAY,-0.25,2.14,70,2-0,oddsflow_handicap_sniper,NOVA88,50,HALF_WON,28.5
+2026-10-15,Belarusian Premier League,Dinamo Minsk,Slavia Mozyr,,AH,AWAY,-0.25,2.14,70,2-0,oddsflow_active_trader,NOVA88,50,HALF_WON,28.5
+2026-10-15,Polish I Liga,Pogoń Siedlce,Puszcza Niepołomice,,AH,AWAY,0,2.1,35,0-0,oddsflow_active_trader,NOVA88,15,WON,16.5
+2026-10-15,Polish I Liga,Pogoń Siedlce,Puszcza Niepołomice,,AH,AWAY,0,2.1,35,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,16.5
+2026-10-15,Polish I Liga,Pogoń Siedlce,Puszcza Niepołomice,,1X2,DRAW,0,2.65,38,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-15,UEFA Conference League,Egnatia Rrogozhinë,FC Midtjylland,,AH,HOME,0.75,1.95,35,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
+2026-10-15,UEFA Conference League,Egnatia Rrogozhinë,FC Midtjylland,,AH,HOME,0.75,1.99,35,1-1,oddsflow_active_trader,NOVA88,15,WON,14.85
+2026-10-15,UEFA Conference League,Egnatia Rrogozhinë,FC Midtjylland,,AH,HOME,0.75,1.95,35,1-1,oddsflow_beta,APIFOOTBALL,50,WON,47.5
+2026-10-15,UEFA Conference League,Egnatia Rrogozhinë,FC Midtjylland,,AH,HOME,0.75,1.99,35,1-1,oddsflow_beta,NOVA88,15,WON,14.85
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,1.25,1.75,35,0-1,oddsflow_beta,APIFOOTBALL,50,HALF_WON,18.75
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,1.25,2.06,35,0-1,oddsflow_beta,NOVA88,50,HALF_WON,26.5
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,1.25,1.75,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,18.75
+2026-10-15,UEFA Conference League,CSKA Sofia,Monaco,,AH,AWAY,0.25,2,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-15,UEFA Conference League,Hajduk Split,Ajax,,AH,AWAY,0.25,1.825,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,1.25,2.06,35,0-1,oddsflow_handicap_sniper,NOVA88,50,HALF_WON,26.5
+2026-10-15,UEFA Conference League,CSKA Sofia,Monaco,,AH,AWAY,0.25,2.08,35,0-1,oddsflow_handicap_sniper,NOVA88,15,HALF_LOST,-7.5
+2026-10-15,UEFA Conference League,Hajduk Split,Ajax,,AH,AWAY,0.25,1.93,35,0-0,oddsflow_handicap_sniper,NOVA88,28,LOST,-28
+2026-10-15,UEFA Conference League,CSKA Sofia,Monaco,,AH,AWAY,0.25,2,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,1.25,1.75,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,18.75
+2026-10-15,UEFA Conference League,Hajduk Split,Ajax,,AH,AWAY,0.25,1.825,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,1.25,2.06,35,0-1,oddsflow_active_trader,NOVA88,50,HALF_WON,26.5
+2026-10-15,UEFA Conference League,Hajduk Split,Ajax,,AH,AWAY,0.25,1.93,35,0-0,oddsflow_active_trader,NOVA88,28,LOST,-28
+2026-10-15,Meistriliiga,Flora Tallinn,Levadia Tallinn,,AH,HOME,0.25,2.075,63,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,Meistriliiga,Flora Tallinn,Levadia Tallinn,,AH,HOME,0.25,2.075,63,1-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,1,2.05,36,0-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,1,2.05,36,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,1,2.05,36,0-1,oddsflow_beta,APIFOOTBALL,50,VOID,0
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,0.5,1.95,37,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,0.5,1.95,37,0-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,0.5,1.925,37,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,0.5,2.04,37,0-1,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-15,UEFA Conference League,Hajduk Split,Ajax,,AH,AWAY,0.25,1.875,37,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,Gent,Aarhus,,AH,AWAY,-0.5,2,37,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,FC Lugano,Red Star Belgrade,,AH,AWAY,-0.25,1.95,35,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,FC Lugano,Red Star Belgrade,,AH,AWAY,-0.25,2.08,35,1-1,oddsflow_active_trader,NOVA88,32,LOST,-32
+2026-10-15,UEFA Conference League,Gent,Aarhus,,AH,AWAY,-0.5,2,37,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,Gent,Aarhus,,AH,AWAY,-0.5,2.09,37,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-15,UEFA Conference League,FC Lugano,Red Star Belgrade,,AH,AWAY,-0.25,1.95,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,FC Lugano,Red Star Belgrade,,AH,AWAY,-0.25,2.08,35,1-1,oddsflow_handicap_sniper,NOVA88,31,LOST,-31
+2026-10-15,UEFA Conference League,Hajduk Split,Ajax,,AH,AWAY,0.5,1.95,38,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,Hajduk Split,Ajax,,AH,AWAY,0.5,1.99,38,1-0,oddsflow_active_trader,NOVA88,31,LOST,-31
+2026-10-15,UEFA Conference League,Hajduk Split,Ajax,,AH,AWAY,0.5,1.95,38,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Europa League,Torreense,Sunderland,,OU,OVER,2.5,1.875,39,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,43.75
+2026-10-15,UEFA Europa League,Torreense,Sunderland,,OU,OVER,2.5,1.875,39,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,43.75
+2026-10-15,UEFA Conference League,Egnatia Rrogozhinë,FC Midtjylland,,OU,UNDER,3.5,2.2,43,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,60
+2026-10-15,UEFA Conference League,Egnatia Rrogozhinë,FC Midtjylland,,OU,UNDER,3.5,2.2,43,1-1,oddsflow_beta,APIFOOTBALL,50,WON,60
+2026-10-15,UEFA Conference League,CSKA Sofia,Monaco,,OU,UNDER,3.5,2.025,44,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-10-15,UEFA Conference League,CSKA Sofia,Monaco,,OU,UNDER,3.5,2.025,44,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-10-15,UEFA Conference League,Egnatia Rrogozhinë,FC Midtjylland,,OU,UNDER,3.5,2,45,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,0.25,2.16,45,0-2,oddsflow_active_trader,NOVA88,18,HALF_WON,10.44
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,0.25,2.16,45,0-2,oddsflow_handicap_sniper,NOVA88,18,HALF_WON,10.44
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,0.25,2.16,45,0-2,oddsflow_beta,NOVA88,18,HALF_WON,10.44
+2026-10-15,UEFA Conference League,FC Lugano,Red Star Belgrade,,AH,AWAY,0,2.67,45,1-1,oddsflow_active_trader,NOVA88,33,LOST,-33
+2026-10-15,UEFA Conference League,FC Lugano,Red Star Belgrade,,AH,AWAY,0,2.67,45,1-1,oddsflow_handicap_sniper,NOVA88,32,LOST,-32
+2026-10-15,UEFA Conference League,Hajduk Split,Ajax,,AH,AWAY,0.75,2.35,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,Hajduk Split,Ajax,,AH,AWAY,0.75,2.35,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,0.25,2.15,45,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,28.75
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,0.25,2.15,45,0-2,oddsflow_beta,APIFOOTBALL,50,HALF_WON,28.75
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,0.25,2.15,45,0-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,28.75
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,OU,UNDER,3.5,1.775,45,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,OU,UNDER,3.5,1.775,45,0-2,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,OU,UNDER,3.5,1.775,46,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,Egnatia Rrogozhinë,FC Midtjylland,,AH,HOME,0.5,2,48,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-10-15,UEFA Conference League,Egnatia Rrogozhinë,FC Midtjylland,,AH,HOME,0.5,2.05,48,1-1,oddsflow_active_trader,NOVA88,15,WON,15.75
+2026-10-15,UEFA Conference League,Egnatia Rrogozhinë,FC Midtjylland,,AH,HOME,0.5,2.025,48,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-10-15,UEFA Conference League,Egnatia Rrogozhinë,FC Midtjylland,,AH,HOME,0.5,2.05,48,1-1,oddsflow_handicap_sniper,NOVA88,15,WON,15.75
+2026-10-15,UEFA Conference League,Gent,Aarhus,,AH,AWAY,-0.5,1.875,47,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,Gent,Aarhus,,AH,AWAY,-0.5,1.96,47,0-0,oddsflow_beta,NOVA88,16,LOST,-16
+2026-10-15,Polish I Liga,Pogoń Siedlce,Puszcza Niepołomice,,AH,HOME,-0.25,2.67,60,0-1,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-15,UEFA Conference League,Egnatia Rrogozhinë,FC Midtjylland,,AH,HOME,0.75,1.825,51,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,41.25
+2026-10-15,UEFA Conference League,Egnatia Rrogozhinë,FC Midtjylland,,AH,HOME,0.75,1.84,51,1-1,oddsflow_handicap_sniper,NOVA88,21,WON,17.64
+2026-10-15,UEFA Conference League,FC Lugano,Red Star Belgrade,,AH,AWAY,0,2.2,49,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,FC Lugano,Red Star Belgrade,,AH,AWAY,0,2.2,49,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Europa League,Celje,Omonia Nicosia,,OU,UNDER,2.5,1.775,53,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Europa League,Celje,Omonia Nicosia,,OU,UNDER,2.25,2.1,53,0-1,oddsflow_active_trader,NOVA88,44,LOST,-44
+2026-10-15,UEFA Europa League,Celje,Omonia Nicosia,,OU,UNDER,2.5,1.775,53,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Europa League,Celje,Omonia Nicosia,,OU,UNDER,2.25,2.08,53,0-1,oddsflow_handicap_sniper,NOVA88,44,LOST,-44
+2026-10-15,UEFA Europa League,Lyon,Crystal Palace,,1X2,HOME,0,1.571,52,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,28.55
+2026-10-15,UEFA Europa League,Lyon,Crystal Palace,,1X2,HOME,0,1.56,52,2-1,oddsflow_handicap_sniper,NOVA88,16,WON,8.96
+2026-10-15,UEFA Europa League,Lyon,Crystal Palace,,1X2,HOME,0,1.533,52,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,26.65
+2026-10-15,UEFA Conference League,CSKA Sofia,Monaco,,AH,HOME,0,2.35,54,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,67.5
+2026-10-15,UEFA Conference League,CSKA Sofia,Monaco,,AH,HOME,0,2.35,54,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,67.5
+2026-10-15,UEFA Europa League,Torreense,Sunderland,,1X2,HOME,0,2.5,55,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Europa League,Torreense,Sunderland,,1X2,HOME,0,2.61,55,1-0,oddsflow_handicap_sniper,NOVA88,20,LOST,-20
+2026-10-15,UEFA Conference League,Hajduk Split,Ajax,,OU,UNDER,3.5,1.775,55,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,AWAY,-0.25,2,58,1-3,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,25
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,AWAY,-0.25,2,58,1-3,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,25
+2026-10-15,UEFA Conference League,Gent,Aarhus,,AH,AWAY,-0.25,2.09,58,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-15,UEFA Conference League,Gent,Aarhus,,AH,AWAY,-0.25,2.1,58,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-15,UEFA Europa League,Sparta Prague,Lillestrom,,OU,OVER,1.75,1.94,60,1-0,oddsflow_active_trader,NOVA88,46,HALF_WON,21.62
+2026-10-15,UEFA Europa League,Sparta Prague,Lillestrom,,OU,OVER,1.75,1.94,60,1-0,oddsflow_handicap_sniper,NOVA88,46,HALF_WON,21.62
+2026-10-15,UEFA Conference League,Egnatia Rrogozhinë,FC Midtjylland,,AH,AWAY,0.25,2.06,60,1-1,oddsflow_active_trader,NOVA88,15,HALF_LOST,-7.5
+2026-10-15,UEFA Europa League,Lyon,Crystal Palace,,OU,OVER,3.75,1.94,56,2-1,oddsflow_active_trader,NOVA88,46,WON,43.24
+2026-10-15,UEFA Europa League,Lyon,Crystal Palace,,OU,OVER,3.75,1.94,56,2-1,oddsflow_handicap_sniper,NOVA88,46,WON,43.24
+2026-10-15,UEFA Conference League,Egnatia Rrogozhinë,FC Midtjylland,,AH,AWAY,0.25,2.09,60,1-1,oddsflow_handicap_sniper,NOVA88,15,HALF_LOST,-7.5
+2026-10-15,UEFA Europa League,AZ Alkmaar,Hapoel Beer Sheva,,OU,OVER,2.75,1.93,59,1-1,oddsflow_handicap_sniper,NOVA88,45,HALF_WON,20.92
+2026-10-15,UEFA Europa League,AZ Alkmaar,Hapoel Beer Sheva,,OU,OVER,2.75,1.95,59,1-1,oddsflow_active_trader,NOVA88,46,HALF_WON,21.85
+2026-10-15,UEFA Europa League,AZ Alkmaar,Hapoel Beer Sheva,,OU,OVER,2.75,1.95,59,1-1,oddsflow_beta,NOVA88,46,HALF_WON,21.85
+2026-10-15,UEFA Conference League,Gent,Aarhus,,OU,OVER,0.5,1.93,58,0-0,oddsflow_active_trader,NOVA88,45,WON,41.85
+2026-10-15,UEFA Conference League,Gent,Aarhus,,OU,OVER,0.5,1.93,58,0-0,oddsflow_handicap_sniper,NOVA88,45,WON,41.85
+2026-10-15,UEFA Conference League,Hajduk Split,Ajax,,OU,OVER,3.75,1.93,57,2-1,oddsflow_handicap_sniper,NOVA88,45,LOST,-45
+2026-10-15,UEFA Conference League,Hajduk Split,Ajax,,OU,OVER,3.75,1.93,57,2-1,oddsflow_active_trader,NOVA88,45,LOST,-45
+2026-10-15,UEFA Europa League,Sparta Prague,Lillestrom,,OU,OVER,1.5,1.93,60,1-0,oddsflow_active_trader,NOVA88,45,WON,41.85
+2026-10-15,UEFA Europa League,Sparta Prague,Lillestrom,,OU,OVER,1.5,1.93,60,1-0,oddsflow_handicap_sniper,NOVA88,45,WON,41.85
+2026-10-15,UEFA Europa League,Royale Union Saint-Gilloise,Real Sociedad,,OU,OVER,1.5,1.94,59,0-1,oddsflow_handicap_sniper,NOVA88,46,WON,43.24
+2026-10-15,UEFA Europa League,Royale Union Saint-Gilloise,Real Sociedad,,OU,OVER,1.5,1.94,59,0-1,oddsflow_active_trader,NOVA88,46,WON,43.24
+2026-10-15,UEFA Europa League,Royale Union Saint-Gilloise,Real Sociedad,,OU,OVER,1.5,1.94,59,0-1,oddsflow_beta,NOVA88,46,WON,43.24
+2026-10-15,UEFA Conference League,Egnatia Rrogozhinë,FC Midtjylland,,OU,OVER,2.5,1.97,60,1-1,oddsflow_handicap_sniper,NOVA88,47,LOST,-47
+2026-10-15,UEFA Conference League,Egnatia Rrogozhinë,FC Midtjylland,,OU,OVER,2.5,1.97,60,1-1,oddsflow_active_trader,NOVA88,47,LOST,-47
+2026-10-15,UEFA Europa League,Lyon,Crystal Palace,,OU,OVER,3.5,1.95,56,2-1,oddsflow_handicap_sniper,NOVA88,46,WON,43.7
+2026-10-15,UEFA Europa League,Lyon,Crystal Palace,,OU,OVER,3.5,1.95,56,2-1,oddsflow_active_trader,NOVA88,46,WON,43.7
+2026-10-15,UEFA Conference League,Gent,Aarhus,,AH,HOME,-0.25,2.23,58,0-0,oddsflow_active_trader,NOVA88,15,WON,18.45
+2026-10-15,UEFA Conference League,Gent,Aarhus,,AH,HOME,-0.25,2.23,58,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,18.45
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,OU,OVER,4.5,1.93,59,1-3,oddsflow_handicap_sniper,NOVA88,45,WON,41.85
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,OU,OVER,4.5,1.93,59,1-3,oddsflow_active_trader,NOVA88,45,WON,41.85
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,AWAY,0.25,2.49,59,1-3,oddsflow_active_trader,NOVA88,15,HALF_LOST,-7.5
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,AWAY,0.25,2.54,59,1-3,oddsflow_handicap_sniper,NOVA88,15,HALF_LOST,-7.5
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,0,2.56,59,1-3,oddsflow_handicap_sniper,NOVA88,15,VOID,0
+2026-10-15,UEFA Conference League,KuPS,Trabzonspor,,AH,HOME,0,2.56,59,1-3,oddsflow_active_trader,NOVA88,15,VOID,0
+2026-10-15,UEFA Conference League,Hajduk Split,Ajax,,OU,OVER,3.5,1.94,57,2-1,oddsflow_handicap_sniper,NOVA88,46,LOST,-46
+2026-10-15,UEFA Conference League,Hajduk Split,Ajax,,OU,OVER,3.5,1.94,57,2-1,oddsflow_active_trader,NOVA88,46,LOST,-46
+2026-10-15,UEFA Conference League,Panathinaikos,Borac Banja Luka,,AH,AWAY,-1.25,2,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-10-15,UEFA Conference League,Panathinaikos,Borac Banja Luka,,AH,AWAY,-1.25,2,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-10-15,UEFA Conference League,Universitatea Craiova,Getafe,,AH,AWAY,0.25,2.375,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-15,UEFA Conference League,Universitatea Craiova,Getafe,,AH,AWAY,0.25,2.375,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-15,UEFA Conference League,Universitatea Craiova,Getafe,,AH,AWAY,0,1.9,37,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-15,UEFA Conference League,Universitatea Craiova,Getafe,,AH,AWAY,0,1.93,37,0-0,oddsflow_active_trader,NOVA88,15,VOID,0
+2026-10-15,UEFA Conference League,Mjallby AIF,Inter Club d'Escaldes,,AH,HOME,-0.5,1.85,38,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,42.5
+2026-10-15,UEFA Conference League,Mjallby AIF,Inter Club d'Escaldes,,OU,OVER,1.5,1.95,38,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
+2026-10-15,UEFA Conference League,Mjallby AIF,Inter Club d'Escaldes,,AH,HOME,-0.5,1.9,38,0-0,oddsflow_active_trader,NOVA88,20,WON,18
+2026-10-15,UEFA Conference League,Mjallby AIF,Inter Club d'Escaldes,,AH,HOME,-0.5,1.85,38,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,42.5
+2026-10-15,UEFA Conference League,Mjallby AIF,Inter Club d'Escaldes,,AH,HOME,-0.5,1.9,38,0-0,oddsflow_handicap_sniper,NOVA88,23,WON,20.7
+2026-10-15,UEFA Conference League,Mjallby AIF,Inter Club d'Escaldes,,OU,OVER,1.5,1.95,38,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,47.5
+2026-10-15,UEFA Conference League,Mjallby AIF,Inter Club d'Escaldes,,OU,OVER,1.25,1.775,40,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-10-15,UEFA Conference League,Panathinaikos,Borac Banja Luka,,AH,AWAY,-1.25,2.025,41,1-0,oddsflow_beta,APIFOOTBALL,50,WON,51.25
+2026-10-15,UEFA Conference League,Mjallby AIF,Inter Club d'Escaldes,,OU,OVER,1.25,1.775,40,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-10-15,UEFA Conference League,Panathinaikos,Borac Banja Luka,,AH,AWAY,-0.75,2.75,45,1-0,oddsflow_beta,APIFOOTBALL,50,WON,87.5
+2026-10-15,UEFA Conference League,Panathinaikos,Borac Banja Luka,,AH,AWAY,-0.75,2.75,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,87.5
+2026-10-15,UEFA Conference League,Panathinaikos,Borac Banja Luka,,AH,AWAY,-0.75,2.75,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,87.5
+2026-10-15,UEFA Conference League,Universitatea Craiova,Getafe,,AH,AWAY,0,2,47,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-15,UEFA Conference League,Universitatea Craiova,Getafe,,OU,OVER,0.75,1.7,50,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,35
+2026-10-15,UEFA Conference League,Universitatea Craiova,Getafe,,OU,OVER,1,2.19,50,0-0,oddsflow_active_trader,NOVA88,50,WON,59.5
+2026-10-15,UEFA Conference League,Mjallby AIF,Inter Club d'Escaldes,,OU,OVER,1,1.725,50,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,36.25
+2026-10-15,UEFA Conference League,Mjallby AIF,Inter Club d'Escaldes,,OU,OVER,1,1.725,50,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.25
+2026-10-15,UEFA Conference League,Mjallby AIF,Inter Club d'Escaldes,,AH,HOME,-0.25,1.7,52,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,35
+2026-10-15,UEFA Conference League,Mjallby AIF,Inter Club d'Escaldes,,AH,HOME,-0.25,1.7,52,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,35
+2026-10-15,UEFA Conference League,Panathinaikos,Borac Banja Luka,,AH,AWAY,-1,2.05,50,1-0,oddsflow_beta,APIFOOTBALL,50,WON,52.5
+2026-10-15,UEFA Conference League,Panathinaikos,Borac Banja Luka,,AH,AWAY,-1,2.09,50,1-0,oddsflow_beta,NOVA88,50,WON,54.5
+2026-10-15,UEFA Conference League,Panathinaikos,Borac Banja Luka,,AH,AWAY,-1,2.05,50,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-10-15,UEFA Conference League,Panathinaikos,Borac Banja Luka,,AH,AWAY,-1,2.09,50,1-0,oddsflow_active_trader,NOVA88,50,WON,54.5
+2026-10-15,UEFA Conference League,Panathinaikos,Borac Banja Luka,,AH,AWAY,-1,2.05,50,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-10-15,UEFA Conference League,Panathinaikos,Borac Banja Luka,,AH,AWAY,-1,2.09,50,1-0,oddsflow_handicap_sniper,NOVA88,50,WON,54.5
+2026-10-15,UEFA Conference League,Panathinaikos,Borac Banja Luka,,OU,UNDER,2.5,2.025,51,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,Panathinaikos,Borac Banja Luka,,OU,UNDER,2.5,2.025,51,1-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,Panathinaikos,Borac Banja Luka,,OU,UNDER,2.5,2.025,52,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-15,UEFA Conference League,Mjallby AIF,Inter Club d'Escaldes,,OU,OVER,1.75,1.7,57,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,17.5
+2026-10-15,UEFA Conference League,Mjallby AIF,Inter Club d'Escaldes,,OU,OVER,1.75,1.7,57,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,17.5
+2026-10-15,UEFA Conference League,Universitatea Craiova,Getafe,,OU,OVER,1.75,2.19,60,1-0,oddsflow_active_trader,NOVA88,50,HALF_WON,29.75
+2026-10-15,UEFA Conference League,Universitatea Craiova,Getafe,,OU,OVER,1.5,1.96,60,1-0,oddsflow_active_trader,NOVA88,46,WON,44.16
+2026-10-15,UEFA Conference League,Universitatea Craiova,Getafe,,OU,OVER,1.5,1.96,60,1-0,oddsflow_handicap_sniper,NOVA88,46,WON,44.16
+2026-10-15,UEFA Conference League,Panathinaikos,Borac Banja Luka,,AH,AWAY,-0.5,2.11,56,1-0,oddsflow_active_trader,NOVA88,26,WON,28.86
+2026-10-15,UEFA Conference League,Panathinaikos,Borac Banja Luka,,AH,AWAY,-0.5,2.11,56,1-0,oddsflow_beta,NOVA88,26,WON,28.86
+2026-10-15,UEFA Conference League,Panathinaikos,Borac Banja Luka,,AH,AWAY,-0.5,2.11,56,1-0,oddsflow_handicap_sniper,NOVA88,28,WON,31.08
+2026-10-15,UEFA Conference League,Universitatea Craiova,Getafe,,AH,HOME,0,2.61,60,1-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-15,UEFA Conference League,Universitatea Craiova,Getafe,,AH,HOME,0,2.61,60,1-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-15,Liga Profesional Argentina,Huracan,Gimnasia La Plata,,AH,AWAY,-0.25,2.1,45,0-1,oddsflow_active_trader,NOVA88,15,HALF_WON,8.25
+2026-10-15,Colombian Primera B,Internacional Palmira,Orsomarso,,AH,AWAY,-0.25,2.05,45,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,26.25
+2026-10-15,Liga Profesional Argentina,Huracan,Gimnasia La Plata,,AH,AWAY,-0.25,2.1,45,0-1,oddsflow_handicap_sniper,NOVA88,15,HALF_WON,8.25
+2026-10-15,Colombian Primera B,Internacional Palmira,Orsomarso,,AH,AWAY,-0.25,2.04,45,1-1,oddsflow_handicap_sniper,NOVA88,15,HALF_WON,7.8
+2026-10-15,Liga Profesional Argentina,Huracan,Gimnasia La Plata,,1X2,AWAY,0,1.73,45,0-1,oddsflow_handicap_sniper,NOVA88,22,WON,16.06
+2026-10-15,Colombian Primera B,Internacional Palmira,Orsomarso,,AH,AWAY,-0.25,2.05,45,1-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,26.25
+2026-10-15,Colombian Primera B,Internacional Palmira,Orsomarso,,AH,AWAY,-0.25,2.04,45,1-1,oddsflow_active_trader,NOVA88,15,HALF_WON,7.8
+2026-10-15,Liga Profesional Argentina,Huracan,Gimnasia La Plata,,AH,AWAY,-0.25,2.025,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,25.62
+2026-10-15,Liga Profesional Argentina,Huracan,Gimnasia La Plata,,1X2,AWAY,0,1.666,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,33.3
+2026-10-15,Liga Profesional Argentina,Huracan,Gimnasia La Plata,,AH,AWAY,-0.25,2.025,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,25.62
+2026-10-15,Liga Profesional Argentina,Huracan,Gimnasia La Plata,,1X2,AWAY,0,1.666,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,33.3
+2026-10-15,Colombian Primera B,Internacional Palmira,Orsomarso,,1X2,DRAW,0,2.25,51,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,62.5
+2026-10-15,Colombian Primera B,Internacional Palmira,Orsomarso,,1X2,DRAW,0,2.2,55,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,60
+2026-10-15,Colombian Primera B,Internacional Palmira,Orsomarso,,AH,AWAY,0,2.725,56,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-15,Colombian Primera B,Internacional Palmira,Orsomarso,,AH,AWAY,0,2.725,56,1-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
