@@ -1085,6 +1085,20 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-26,K League 1,FC Anyang,Gangwon FC,,AH,AWAY,1,2.375,20,1-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
 2026-07-26,K League 1,FC Seoul,Ulsan Hyundai FC,,AH,HOME,-1.5,2.675,21,0-2,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
 2026-07-26,K League 1,Incheon United,Bucheon FC 1995,,AH,AWAY,-0.5,2.075,23,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,215
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,OU,OVER,2.5,2.01,37,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,OU,OVER,2.5,2.01,37,0-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,AWAY,0,3,49,1-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,AWAY,0,3,49,1-1,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,AWAY,0,3,49,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,AWAY,0,3,49,1-1,oddsflow_handicap_sniper,NOVA88,18,LOST,-18
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,DRAW,0,3.4,50,1-1,oddsflow_active_trader,APIFOOTBALL,500,WON,1200
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,DRAW,0,3.4,50,1-1,oddsflow_active_trader,NOVA88,15,WON,36
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,DRAW,0,3.4,50,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,1200
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,DRAW,0,3.4,50,1-1,oddsflow_handicap_sniper,NOVA88,18,WON,43.2
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,AH,AWAY,0,2.5,54,1-1,oddsflow_active_trader,APIFOOTBALL,522,VOID,0
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,AH,AWAY,0,2.5,54,1-1,oddsflow_handicap_sniper,APIFOOTBALL,513,VOID,0
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,OU,OVER,3.5,2.375,46,1-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,OU,OVER,3.5,2.375,46,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
 2026-07-26,Brasileirão Série A,Cruzeiro,Botafogo,,1X2,DRAW,0,3.65,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
 2026-07-26,Brasileirão Série A,Cruzeiro,Botafogo,,1X2,DRAW,0,3.65,35,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,1X2,HOME,0,2.22,35,1-0,oddsflow_active_trader,APIFOOTBALL,4,LOST,-4
@@ -1097,20 +1111,10 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-26,Brasileirão Série B,Criciuma,Nautico Recife,,1X2,HOME,0,1.75,35,0-0,oddsflow_active_trader,APIFOOTBALL,4,LOST,-4
 2026-07-26,Brasileirão Série B,Criciuma,Nautico Recife,,1X2,HOME,0,1.75,35,0-0,oddsflow_handicap_sniper,NOVA88,19,LOST,-19
 2026-07-26,Brasileirão Série B,Criciuma,Nautico Recife,,1X2,HOME,0,1.75,35,0-0,oddsflow_handicap_sniper,HGA,50,LOST,-50
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,OU,OVER,2.5,2.01,37,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,OU,OVER,2.5,2.01,37,0-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
 2026-07-26,Brasileirão Série B,Criciuma,Nautico Recife,,1X2,DRAW,0,3.4,46,0-0,oddsflow_handicap_sniper,APIFOOTBALL,4,WON,9.6
 2026-07-26,Brasileirão Série B,Criciuma,Nautico Recife,,1X2,DRAW,0,3.4,46,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,36
 2026-07-26,Brasileirão Série B,Criciuma,Nautico Recife,,1X2,DRAW,0,3.4,48,0-0,oddsflow_active_trader,APIFOOTBALL,4,WON,9.6
 2026-07-26,Brasileirão Série B,Criciuma,Nautico Recife,,1X2,DRAW,0,3.4,48,0-0,oddsflow_active_trader,NOVA88,15,WON,36
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,AWAY,0,3,49,1-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,AWAY,0,3,49,1-1,oddsflow_active_trader,NOVA88,15,LOST,-15
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,AWAY,0,3,49,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,AWAY,0,3,49,1-1,oddsflow_handicap_sniper,NOVA88,18,LOST,-18
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,DRAW,0,3.4,50,1-1,oddsflow_active_trader,APIFOOTBALL,500,WON,1200
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,DRAW,0,3.4,50,1-1,oddsflow_active_trader,NOVA88,15,WON,36
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,DRAW,0,3.4,50,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,1200
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,DRAW,0,3.4,50,1-1,oddsflow_handicap_sniper,NOVA88,18,WON,43.2
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,1X2,DRAW,0,2.88,49,1-1,oddsflow_handicap_sniper,APIFOOTBALL,4,LOST,-4
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,1X2,DRAW,0,2.88,49,1-1,oddsflow_handicap_sniper,NOVA88,44,LOST,-44
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,1X2,DRAW,0,2.18,49,1-1,oddsflow_handicap_sniper,HGA,50,LOST,-50
@@ -1120,16 +1124,12 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,AH,AWAY,0,2.18,55,1-1,oddsflow_core_strategy,HGA,100,WON,118
 2026-07-26,Brasileirão Série A,Cruzeiro,Botafogo,,1X2,AWAY,0,1.8,52,0-1,oddsflow_active_trader,APIFOOTBALL,500,WON,400
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,AH,AWAY,0,2.15,55,1-1,oddsflow_active_trader,APIFOOTBALL,4,WON,4.6
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,AH,AWAY,0,2.5,54,1-1,oddsflow_active_trader,APIFOOTBALL,522,VOID,0
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,AH,AWAY,0,2.15,55,1-1,oddsflow_handicap_sniper,APIFOOTBALL,4,WON,4.6
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,AH,AWAY,0,2.5,54,1-1,oddsflow_handicap_sniper,APIFOOTBALL,513,VOID,0
 2026-07-26,Brasileirão Série A,Cruzeiro,Botafogo,,1X2,AWAY,0,1.8,52,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,400
 2026-07-26,Brasileirão Série A,Cruzeiro,Botafogo,,1X2,AWAY,0,4,52,0-1,oddsflow_active_trader,NOVA88,50,WON,150
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,AH,AWAY,0,2.18,55,1-1,oddsflow_active_trader,HGA,100,WON,118
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,AH,AWAY,0,2.18,55,1-1,oddsflow_handicap_sniper,HGA,100,WON,118
 2026-07-26,Brasileirão Série A,Cruzeiro,Botafogo,,1X2,AWAY,0,4,52,0-1,oddsflow_handicap_sniper,NOVA88,50,WON,150
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,OU,OVER,3.5,2.375,46,1-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,OU,OVER,3.5,2.375,46,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,OU,UNDER,3.5,2.375,59,1-1,oddsflow_active_trader,APIFOOTBALL,4,LOST,-4
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,OU,UNDER,3.5,2.375,59,1-1,oddsflow_handicap_sniper,APIFOOTBALL,4,LOST,-4
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,OU,UNDER,2,1.94,59,1-1,oddsflow_active_trader,NOVA88,50,LOST,-50
@@ -1176,8 +1176,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-26,Brasileirão Série A,Flamengo,Sao Paulo,,1X2,HOME,0,1.571,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,634,LOST,-634
 2026-07-26,Brasileirão Série B,Londrina,Novorizontino,,1X2,DRAW,0,3.2,35,1-1,oddsflow_handicap_sniper,NOVA88,24,LOST,-24
 2026-07-26,Brasileirão Série A,Flamengo,Sao Paulo,,1X2,HOME,0,1.72,35,0-0,oddsflow_handicap_sniper,HGA,73,LOST,-73
-2026-07-26,Brasileirão Série A,Flamengo,Sao Paulo,,AH,HOME,-1.5,2.6,35,0-0,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
 2026-07-26,Brasileirão Série B,Londrina,Novorizontino,,OU,OVER,2.5,2.5,35,1-1,oddsflow_active_trader,APIFOOTBALL,4,WON,6
+2026-07-26,Brasileirão Série A,Flamengo,Sao Paulo,,AH,HOME,-1.5,2.6,35,0-0,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
 2026-07-26,Brasileirão Série B,Londrina,Novorizontino,,1X2,DRAW,0,2.83,35,1-1,oddsflow_handicap_sniper,HGA,50,LOST,-50
 2026-07-26,Brasileirão Série A,Flamengo,Sao Paulo,,1X2,HOME,0,1.571,35,0-0,oddsflow_active_trader,APIFOOTBALL,528,LOST,-528
 2026-07-26,Brasileirão Série B,Londrina,Novorizontino,,1X2,DRAW,0,3.1,35,1-1,oddsflow_active_trader,APIFOOTBALL,4,LOST,-4
