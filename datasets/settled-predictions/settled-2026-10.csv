@@ -30374,8 +30374,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-20,League Two,Northampton,Tranmere,,AH,AWAY,-0.5,1.77,35,0-0,oddsflow_beta,NOVA88,31,WON,23.87
 2026-10-20,League One,Stevenage,Plymouth,,AH,AWAY,0.25,2.06,35,2-0,oddsflow_beta,NOVA88,15,LOST,-15
 2026-10-20,League Two,Northampton,Tranmere,,1X2,DRAW,0,2.71,35,0-0,oddsflow_beta,NOVA88,15,LOST,-15
-2026-10-20,English FA Cup,Anstey Nomads,Macclesfield,,AH,AWAY,0,1.8,36,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,40
 2026-10-20,League Two,Exeter City,Crewe,,AH,AWAY,0,2.025,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-20,English FA Cup,Anstey Nomads,Macclesfield,,AH,AWAY,0,1.8,36,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,40
 2026-10-20,League Two,Walsall,Oldham,,AH,AWAY,0.25,2.27,35,2-0,oddsflow_active_trader,NOVA88,18,LOST,-18
 2026-10-20,League Two,Northampton,Tranmere,,AH,AWAY,-0.5,1.77,35,0-0,oddsflow_active_trader,NOVA88,26,WON,20.02
 2026-10-20,League Two,Northampton,Tranmere,,AH,AWAY,-0.5,1.775,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
@@ -30605,3 +30605,441 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-20,Colombian Primera A,Internacional de Bogota,Fortaleza FC,,AH,HOME,0.25,1.7,57,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,17.5
 2026-10-20,Colombian Primera A,Internacional de Bogota,Fortaleza FC,,AH,HOME,0.25,1.7,57,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,17.5
 2026-10-20,Colombian Primera A,Internacional de Bogota,Fortaleza FC,,AH,HOME,0.25,1.67,57,1-0,oddsflow_active_trader,NOVA88,15,HALF_WON,5.02
+2026-10-21,CONMEBOL Sudamericana,Vasco da Gama,Boca Juniors,,AH,HOME,-0.25,1.95,36,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-21,CONMEBOL Sudamericana,Vasco da Gama,Boca Juniors,,AH,HOME,-0.25,2,36,0-2,oddsflow_handicap_sniper,NOVA88,15,HALF_LOST,-7.5
+2026-10-21,CONMEBOL Sudamericana,Vasco da Gama,Boca Juniors,,AH,HOME,-0.25,1.95,36,0-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-21,CONMEBOL Sudamericana,Vasco da Gama,Boca Juniors,,AH,HOME,-0.25,2,36,0-2,oddsflow_active_trader,NOVA88,15,HALF_LOST,-7.5
+2026-10-21,Liga MX,Guadalajara Chivas,Necaxa,,AH,AWAY,-0.5,2.05,66,0-0,oddsflow_beta,NOVA88,36,LOST,-36
+2026-10-21,Liga MX,Guadalajara Chivas,Necaxa,,AH,AWAY,-0.5,2.04,66,0-0,oddsflow_handicap_sniper,NOVA88,33,LOST,-33
+2026-10-21,Liga MX,Guadalajara Chivas,Necaxa,,1X2,DRAW,0,2.38,66,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,Liga MX,Guadalajara Chivas,Necaxa,,AH,AWAY,-0.5,2.04,66,0-0,oddsflow_active_trader,NOVA88,35,LOST,-35
+2026-10-21,Liga MX,Guadalajara Chivas,Necaxa,,1X2,DRAW,0,2.38,66,0-0,oddsflow_beta,NOVA88,15,LOST,-15
+2026-10-21,Liga MX,Guadalajara Chivas,Necaxa,,1X2,DRAW,0,2.21,71,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,Liga MX,Atlético San Luis,Querétaro,,1X2,DRAW,0,2.73,41,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,Liga MX,Guadalajara Chivas,Necaxa,,AH,AWAY,-0.25,2.23,77,0-0,oddsflow_active_trader,NOVA88,47,LOST,-47
+2026-10-21,Liga MX,Atlético San Luis,Querétaro,,AH,AWAY,0,2.49,45,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,Liga MX,Atlético San Luis,Querétaro,,AH,AWAY,0,2.49,45,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,Liga MX,Guadalajara Chivas,Necaxa,,AH,AWAY,-0.25,1.93,78,1-0,oddsflow_handicap_sniper,NOVA88,41,HALF_WON,19.06
+2026-10-21,Liga MX,FC Juárez,Atlante FC,,AH,HOME,0.25,1.84,45,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,Liga MX,FC Juárez,Atlante FC,,AH,HOME,0,2.47,45,0-0,oddsflow_active_trader,NOVA88,22,LOST,-22
+2026-10-21,Liga MX,FC Juárez,Atlante FC,,AH,HOME,0,2.47,45,0-0,oddsflow_handicap_sniper,NOVA88,19,LOST,-19
+2026-10-21,CONMEBOL Sudamericana,Vasco da Gama,Boca Juniors,,AH,AWAY,0,2.25,68,1-2,oddsflow_active_trader,APIFOOTBALL,50,WON,62.5
+2026-10-21,CONMEBOL Sudamericana,Vasco da Gama,Boca Juniors,,AH,AWAY,0,2.33,68,1-2,oddsflow_active_trader,NOVA88,15,WON,19.95
+2026-10-21,CONMEBOL Sudamericana,Vasco da Gama,Boca Juniors,,AH,AWAY,0,2.25,68,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,62.5
+2026-10-21,Colombian Primera A,Millonarios,Once Caldas,,AH,AWAY,0,2.59,70,1-0,oddsflow_handicap_sniper,NOVA88,26,WON,41.34
+2026-10-21,Colombian Primera A,Millonarios,Once Caldas,,AH,AWAY,0,2.39,71,1-0,oddsflow_active_trader,NOVA88,20,WON,27.8
+2026-10-21,J3 League,Tochigi SC,Biwako Shiga,,AH,HOME,0,2.05,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-10-21,J3 League,Parceiro Nagano,FC Ryukyu,,1X2,DRAW,0,2.81,35,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,J3 League,Tochigi SC,Biwako Shiga,,AH,HOME,0,2.1,35,0-0,oddsflow_handicap_sniper,NOVA88,33,WON,36.3
+2026-10-21,J3 League,Tochigi SC,Biwako Shiga,,1X2,HOME,0,3.1,35,0-0,oddsflow_handicap_sniper,NOVA88,17,WON,35.7
+2026-10-21,J3 League,Tochigi SC,Biwako Shiga,,AH,HOME,0,2.05,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-10-21,J3 League,Tochigi SC,Biwako Shiga,,AH,HOME,0,2.1,35,0-0,oddsflow_active_trader,NOVA88,32,WON,35.2
+2026-10-21,J3 League,Tochigi SC,Biwako Shiga,,1X2,HOME,0,3.1,35,0-0,oddsflow_active_trader,NOVA88,15,WON,31.5
+2026-10-21,J3 League,Tochigi SC,Biwako Shiga,,1X2,HOME,0,3.1,37,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,105
+2026-10-21,J3 League,Tochigi SC,Biwako Shiga,,1X2,HOME,0,3.1,37,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,105
+2026-10-21,J3 League,Fukushima United,Kitakyushu,,1X2,DRAW,0,3,39,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Fukushima United,Kitakyushu,,1X2,DRAW,0,2.8,39,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,J2 League,Montedio Yamagata,Consadole Sapporo,,1X2,DRAW,0,2.625,40,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Parceiro Nagano,FC Ryukyu,,1X2,DRAW,0,2.75,42,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Parceiro Nagano,FC Ryukyu,,1X2,DRAW,0,2.75,42,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Parceiro Nagano,FC Ryukyu,,AH,HOME,0,2,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Parceiro Nagano,FC Ryukyu,,AH,HOME,0,2.04,45,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,J3 League,Parceiro Nagano,FC Ryukyu,,AH,HOME,0,2.1,45,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,J3 League,Parceiro Nagano,FC Ryukyu,,AH,HOME,0,2.05,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Parceiro Nagano,FC Ryukyu,,OU,UNDER,1.5,1.775,48,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-10-21,J3 League,Parceiro Nagano,FC Ryukyu,,OU,UNDER,1.5,1.775,48,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-10-21,J3 League,Parceiro Nagano,FC Ryukyu,,AH,HOME,0.25,1.7,49,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Parceiro Nagano,FC Ryukyu,,AH,HOME,0.25,1.72,49,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,J3 League,Parceiro Nagano,FC Ryukyu,,AH,HOME,0.25,1.7,49,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Parceiro Nagano,FC Ryukyu,,AH,HOME,0.25,1.72,49,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,J3 League,Tochigi SC,Biwako Shiga,,1X2,DRAW,0,2.25,52,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Montedio Yamagata,Consadole Sapporo,,1X2,DRAW,0,2.3,55,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Fukushima United,Kitakyushu,,AH,AWAY,-0.25,1.8,55,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,20
+2026-10-21,J3 League,Fukushima United,Kitakyushu,,AH,AWAY,-0.25,1.8,55,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,20
+2026-10-21,J3 League,Fukushima United,Kitakyushu,,AH,AWAY,-0.25,1.74,55,1-0,oddsflow_active_trader,NOVA88,17,HALF_WON,6.29
+2026-10-21,J3 League,Tochigi SC,Biwako Shiga,,1X2,DRAW,0,2.2,55,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Fukushima United,Kitakyushu,,AH,HOME,0.75,1.825,64,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-21,J3 League,Fukushima United,Kitakyushu,,AH,HOME,0.75,1.825,64,2-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-21,J3 League,Fukushima United,Kitakyushu,,AH,AWAY,0,2.2,66,2-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-21,J3 League,Fukushima United,Kitakyushu,,AH,AWAY,0,2.2,66,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-21,J3 League,Fukushima United,Kitakyushu,,AH,AWAY,0,2.23,66,2-1,oddsflow_handicap_sniper,NOVA88,17,VOID,0
+2026-10-21,J2 League,Montedio Yamagata,Consadole Sapporo,,AH,AWAY,0,2.25,68,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,62.5
+2026-10-21,J2 League,Montedio Yamagata,Consadole Sapporo,,AH,AWAY,0,2.25,69,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,62.5
+2026-10-21,J2 League,Ventforet Kofu,Yokohama FC,,AH,HOME,0.5,2.025,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Ventforet Kofu,Yokohama FC,,AH,HOME,0.5,2.08,35,0-0,oddsflow_handicap_sniper,NOVA88,18,LOST,-18
+2026-10-21,J2 League,Ventforet Kofu,Yokohama FC,,AH,HOME,0.5,2.025,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Ventforet Kofu,Yokohama FC,,AH,HOME,0.5,2.08,35,0-0,oddsflow_active_trader,NOVA88,19,LOST,-19
+2026-10-21,J3 League,Roasso Kumamoto,Gainare Tottori,,AH,HOME,-0.25,2.025,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-10-21,J3 League,Matsumoto Yamaga,Thespakusatsu Gunma,,AH,AWAY,-0.5,1.825,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Tegevajaro Miyazaki,Blaublitz Akita,,AH,AWAY,-0.5,1.75,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Shonan Bellmare,Iwaki,,AH,HOME,0,1.98,35,0-0,oddsflow_handicap_sniper,NOVA88,15,VOID,0
+2026-10-21,J1 League,Fagiano Okayama,Mito Hollyhock,,AH,AWAY,-0.75,1.84,35,0-0,oddsflow_handicap_sniper,NOVA88,19,LOST,-19
+2026-10-21,J3 League,Matsumoto Yamaga,Thespakusatsu Gunma,,AH,AWAY,-0.5,1.84,35,1-0,oddsflow_handicap_sniper,NOVA88,29,LOST,-29
+2026-10-21,J3 League,Roasso Kumamoto,Gainare Tottori,,AH,HOME,-0.25,2.08,35,0-0,oddsflow_handicap_sniper,NOVA88,19,WON,20.52
+2026-10-21,J2 League,Tegevajaro Miyazaki,Blaublitz Akita,,AH,AWAY,-0.5,1.8,35,0-0,oddsflow_handicap_sniper,NOVA88,17,LOST,-17
+2026-10-21,J3 League,Matsumoto Yamaga,Thespakusatsu Gunma,,AH,AWAY,-0.5,1.825,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Shonan Bellmare,Iwaki,,1X2,DRAW,0,2.68,35,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,25.2
+2026-10-21,J3 League,Roasso Kumamoto,Gainare Tottori,,AH,HOME,-0.25,2.025,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-10-21,J1 League,Nagoya Grampus,Cerezo Osaka,,AH,AWAY,0.25,2.3,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,65
+2026-10-21,J2 League,Tegevajaro Miyazaki,Blaublitz Akita,,AH,AWAY,-0.5,1.75,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Roasso Kumamoto,Gainare Tottori,,1X2,HOME,0,2.44,35,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,21.6
+2026-10-21,J1 League,Fagiano Okayama,Mito Hollyhock,,AH,AWAY,-0.75,1.84,35,0-0,oddsflow_active_trader,NOVA88,21,LOST,-21
+2026-10-21,J3 League,Matsumoto Yamaga,Thespakusatsu Gunma,,AH,AWAY,-0.5,1.84,35,1-0,oddsflow_active_trader,NOVA88,30,LOST,-30
+2026-10-21,J3 League,Roasso Kumamoto,Gainare Tottori,,AH,HOME,-0.25,2.08,35,0-0,oddsflow_active_trader,NOVA88,16,WON,17.28
+2026-10-21,J2 League,Tegevajaro Miyazaki,Blaublitz Akita,,AH,AWAY,-0.5,1.8,35,0-0,oddsflow_active_trader,NOVA88,17,LOST,-17
+2026-10-21,J1 League,Nagoya Grampus,Cerezo Osaka,,AH,AWAY,0.25,2.3,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,65
+2026-10-21,J2 League,Shonan Bellmare,Iwaki,,AH,HOME,0,1.95,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-21,J2 League,Shonan Bellmare,Iwaki,,1X2,DRAW,0,2.75,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,87.5
+2026-10-21,J2 League,Shonan Bellmare,Iwaki,,AH,HOME,0,1.95,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-21,J2 League,Shonan Bellmare,Iwaki,,AH,HOME,0,1.98,35,0-0,oddsflow_active_trader,NOVA88,15,VOID,0
+2026-10-21,J3 League,Osaka,Nara Club,,AH,AWAY,-0.25,1.95,35,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,23.75
+2026-10-21,J3 League,Kamatamare Sanuki,Kanazawa,,AH,HOME,0.5,1.9,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45
+2026-10-21,J3 League,Kagoshima United,Kochi United,,AH,AWAY,-0.75,1.875,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-21,J3 League,Kamatamare Sanuki,Kanazawa,,AH,HOME,0.5,1.9,35,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,45
+2026-10-21,J3 League,Osaka,Nara Club,,AH,AWAY,-0.25,1.95,35,2-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,23.75
+2026-10-21,J3 League,Kagoshima United,Kochi United,,AH,AWAY,-0.75,1.875,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-21,J3 League,Osaka,Nara Club,,AH,AWAY,-0.25,1.97,35,2-0,oddsflow_handicap_sniper,NOVA88,37,HALF_WON,17.95
+2026-10-21,J3 League,Kamatamare Sanuki,Kanazawa,,AH,HOME,0.5,1.92,35,1-1,oddsflow_handicap_sniper,NOVA88,15,WON,13.8
+2026-10-21,J3 League,Kamatamare Sanuki,Kanazawa,,AH,HOME,0.5,1.92,35,1-1,oddsflow_active_trader,NOVA88,15,WON,13.8
+2026-10-21,J3 League,Osaka,Nara Club,,AH,AWAY,-0.25,1.97,35,2-0,oddsflow_active_trader,NOVA88,34,HALF_WON,16.49
+2026-10-21,J1 League,Nagoya Grampus,Cerezo Osaka,,AH,AWAY,0,1.95,36,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,47.5
+2026-10-21,J3 League,Roasso Kumamoto,Gainare Tottori,,OU,OVER,1.5,1.925,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,46.25
+2026-10-21,J1 League,Nagoya Grampus,Cerezo Osaka,,AH,AWAY,0,1.95,36,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
+2026-10-21,J3 League,Roasso Kumamoto,Gainare Tottori,,OU,OVER,1.5,1.925,36,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,46.25
+2026-10-21,J2 League,Vegalta Sendai,Imabari,,AH,AWAY,-1,2.025,37,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Omiya Ardija,Kataller Toyama,,1X2,DRAW,0,3.15,37,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,J2 League,Tochigi City,Fujieda MYFC,,1X2,DRAW,0,2.91,37,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,28.65
+2026-10-21,J1 League,Shimizu S-Pulse,Machida Zelvia,,AH,HOME,0.25,1.725,37,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J1 League,Shimizu S-Pulse,Machida Zelvia,,AH,HOME,0.25,1.725,37,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Roasso Kumamoto,Gainare Tottori,,1X2,HOME,0,2.3,37,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,65
+2026-10-21,J3 League,Roasso Kumamoto,Gainare Tottori,,1X2,HOME,0,2.3,37,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,65
+2026-10-21,J2 League,Albirex Niigata,Sagan Tosu,,1X2,HOME,0,1.93,37,1-0,oddsflow_handicap_sniper,NOVA88,15,WON,13.95
+2026-10-21,J2 League,Ventforet Kofu,Yokohama FC,,AH,HOME,0.75,1.775,38,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Kamatamare Sanuki,Kanazawa,,1X2,DRAW,0,3.1,37,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,FC Gifu,Sagamihara,,1X2,AWAY,0,2.04,38,0-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,J3 League,Kamatamare Sanuki,Kanazawa,,1X2,DRAW,0,2.88,37,1-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,J2 League,Ventforet Kofu,Yokohama FC,,AH,HOME,0.75,1.775,38,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,FC Gifu,Sagamihara,,1X2,AWAY,0,1.952,38,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Kagoshima United,Kochi United,,AH,AWAY,-0.5,2.025,38,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-10-21,J1 League,Fagiano Okayama,Mito Hollyhock,,AH,AWAY,-0.75,1.75,38,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Matsumoto Yamaga,Thespakusatsu Gunma,,AH,AWAY,-0.25,2.05,38,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Kagoshima United,Kochi United,,AH,AWAY,-0.5,2.08,38,2-0,oddsflow_active_trader,NOVA88,31,WON,33.48
+2026-10-21,J3 League,Kagoshima United,Kochi United,,AH,AWAY,-0.5,2.025,38,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-10-21,J2 League,Tegevajaro Miyazaki,Blaublitz Akita,,AH,AWAY,-0.25,2.05,39,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,FC Gifu,Sagamihara,,1X2,AWAY,0,1.952,39,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Matsumoto Yamaga,Thespakusatsu Gunma,,AH,AWAY,-0.25,2.05,39,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J1 League,Fagiano Okayama,Mito Hollyhock,,AH,AWAY,-0.75,1.75,39,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J1 League,Kyoto Sanga,Kashima Antlers,,AH,HOME,0.75,1.85,39,1-0,oddsflow_beta,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-21,J3 League,Kagoshima United,Kochi United,,AH,AWAY,-0.5,2.08,38,2-0,oddsflow_handicap_sniper,NOVA88,29,WON,31.32
+2026-10-21,J2 League,Tegevajaro Miyazaki,Blaublitz Akita,,AH,AWAY,-0.25,2.1,39,0-0,oddsflow_handicap_sniper,NOVA88,16,LOST,-16
+2026-10-21,J1 League,Kyoto Sanga,Kashima Antlers,,AH,HOME,0.75,1.93,39,1-0,oddsflow_beta,NOVA88,15,HALF_LOST,-7.5
+2026-10-21,J2 League,Tegevajaro Miyazaki,Blaublitz Akita,,AH,AWAY,-0.25,2.05,39,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Tegevajaro Miyazaki,Blaublitz Akita,,AH,AWAY,-0.25,2.1,39,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,J1 League,Kyoto Sanga,Kashima Antlers,,AH,HOME,0.75,1.94,40,1-0,oddsflow_active_trader,NOVA88,15,HALF_LOST,-7.5
+2026-10-21,J2 League,Tochigi City,Fujieda MYFC,,1X2,DRAW,0,3,40,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,100
+2026-10-21,J1 League,Kyoto Sanga,Kashima Antlers,,AH,HOME,0.75,1.94,40,1-0,oddsflow_handicap_sniper,NOVA88,15,HALF_LOST,-7.5
+2026-10-21,J3 League,FC Gifu,Sagamihara,,AH,AWAY,-0.5,2.02,41,0-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,J2 League,Vegalta Sendai,Imabari,,AH,AWAY,-1,1.95,41,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Kagoshima United,Kochi United,,OU,UNDER,3.5,2.025,40,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Vegalta Sendai,Imabari,,AH,AWAY,-1,1.99,41,0-1,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,J3 League,Kagoshima United,Kochi United,,OU,UNDER,3.5,2.025,40,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,FC Gifu,Sagamihara,,AH,AWAY,-0.5,1.95,41,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,FC Gifu,Sagamihara,,AH,AWAY,-0.5,2,41,0-1,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,J2 League,Albirex Niigata,Sagan Tosu,,1X2,HOME,0,1.727,42,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.35
+2026-10-21,J2 League,Albirex Niigata,Sagan Tosu,,1X2,HOME,0,1.727,42,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,36.35
+2026-10-21,J3 League,FC Gifu,Sagamihara,,AH,AWAY,-0.5,1.975,42,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J1 League,Kyoto Sanga,Kashima Antlers,,AH,HOME,0.75,1.825,42,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-21,J1 League,Kyoto Sanga,Kashima Antlers,,AH,HOME,0.75,1.825,43,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-21,J3 League,Ehime FC,Renofa Yamaguchi,,1X2,DRAW,0,2.75,42,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Shonan Bellmare,Iwaki,,1X2,DRAW,0,2.6,43,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,80
+2026-10-21,J2 League,Tokushima Vortis,Vanraure Hachinohe,,AH,AWAY,0,2.75,44,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,87.5
+2026-10-21,J2 League,Jubilo Iwata,Oita Trinita,,AH,AWAY,0,2.75,44,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-21,J2 League,Tokushima Vortis,Vanraure Hachinohe,,AH,AWAY,0,2.75,44,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,87.5
+2026-10-21,J2 League,Jubilo Iwata,Oita Trinita,,AH,AWAY,0,2.75,44,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-21,J2 League,Shonan Bellmare,Iwaki,,OU,UNDER,1.5,1.775,44,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Shonan Bellmare,Iwaki,,OU,UNDER,1.5,1.775,44,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Kamatamare Sanuki,Kanazawa,,1X2,HOME,0,1.727,44,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,36.35
+2026-10-21,J3 League,Kamatamare Sanuki,Kanazawa,,1X2,HOME,0,1.909,44,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45.45
+2026-10-21,J2 League,Albirex Niigata,Sagan Tosu,,AH,HOME,0.5,1.775,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-10-21,J3 League,Ehime FC,Renofa Yamaguchi,,AH,AWAY,0,2,45,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-10-21,J3 League,Ehime FC,Renofa Yamaguchi,,AH,AWAY,0,1.87,45,2-0,oddsflow_active_trader,NOVA88,15,WON,13.05
+2026-10-21,J3 League,Ehime FC,Renofa Yamaguchi,,AH,AWAY,0,1.875,45,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,43.75
+2026-10-21,J2 League,Jubilo Iwata,Oita Trinita,,AH,AWAY,-0.25,2.05,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,26.25
+2026-10-21,J3 League,Ehime FC,Renofa Yamaguchi,,AH,AWAY,0,1.87,45,2-0,oddsflow_handicap_sniper,NOVA88,15,WON,13.05
+2026-10-21,J2 League,Jubilo Iwata,Oita Trinita,,AH,AWAY,-0.25,2.05,45,0-0,oddsflow_handicap_sniper,NOVA88,15,HALF_WON,7.87
+2026-10-21,J2 League,Jubilo Iwata,Oita Trinita,,AH,AWAY,-0.25,2.05,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,26.25
+2026-10-21,J2 League,Omiya Ardija,Kataller Toyama,,1X2,DRAW,0,3.1,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,FC Gifu,Sagamihara,,AH,AWAY,-0.25,2.41,45,0-1,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,J3 League,FC Gifu,Sagamihara,,AH,AWAY,-0.25,2.41,45,0-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,J2 League,Ventforet Kofu,Yokohama FC,,AH,HOME,0.25,2.15,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Kagoshima United,Kochi United,,AH,AWAY,-0.25,2.28,45,2-0,oddsflow_active_trader,NOVA88,19,HALF_WON,12.16
+2026-10-21,J1 League,Nagoya Grampus,Cerezo Osaka,,AH,AWAY,-0.25,1.7,45,1-0,oddsflow_active_trader,NOVA88,22,WON,15.4
+2026-10-21,J3 League,Osaka,Nara Club,,AH,AWAY,0,2.3,45,2-0,oddsflow_active_trader,NOVA88,26,VOID,0
+2026-10-21,J2 League,Ventforet Kofu,Yokohama FC,,AH,HOME,0.25,2.15,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Kagoshima United,Kochi United,,AH,AWAY,-0.25,2.28,45,2-0,oddsflow_handicap_sniper,NOVA88,18,HALF_WON,11.52
+2026-10-21,J1 League,Nagoya Grampus,Cerezo Osaka,,AH,AWAY,-0.25,1.7,45,1-0,oddsflow_handicap_sniper,NOVA88,21,WON,14.7
+2026-10-21,J3 League,Osaka,Nara Club,,AH,AWAY,0,2.3,45,2-0,oddsflow_handicap_sniper,NOVA88,27,VOID,0
+2026-10-21,J2 League,Omiya Ardija,Kataller Toyama,,AH,AWAY,0,2.37,45,0-0,oddsflow_active_trader,NOVA88,15,WON,20.55
+2026-10-21,J3 League,Ehime FC,Renofa Yamaguchi,,AH,AWAY,0.25,2.32,45,2-0,oddsflow_active_trader,NOVA88,15,WON,19.8
+2026-10-21,J2 League,Omiya Ardija,Kataller Toyama,,AH,AWAY,0,2.37,45,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,20.55
+2026-10-21,J3 League,Ehime FC,Renofa Yamaguchi,,AH,AWAY,0.25,2.32,45,2-0,oddsflow_handicap_sniper,NOVA88,15,WON,19.8
+2026-10-21,J1 League,FC Tokyo,Kashiwa Reysol,,AH,AWAY,-0.25,2.15,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,28.75
+2026-10-21,J1 League,FC Tokyo,Kashiwa Reysol,,AH,AWAY,-0.25,2.15,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,28.75
+2026-10-21,J3 League,Osaka,Nara Club,,AH,AWAY,0,1.975,45,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-21,J3 League,Osaka,Nara Club,,AH,AWAY,0,1.975,45,2-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-21,J1 League,Fagiano Okayama,Mito Hollyhock,,AH,AWAY,-0.25,2.43,45,0-0,oddsflow_handicap_sniper,NOVA88,17,LOST,-17
+2026-10-21,J1 League,Fagiano Okayama,Mito Hollyhock,,AH,AWAY,-0.25,2.43,45,0-0,oddsflow_active_trader,NOVA88,17,LOST,-17
+2026-10-21,J2 League,Albirex Niigata,Sagan Tosu,,OU,UNDER,2.5,1.775,47,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Albirex Niigata,Sagan Tosu,,AH,HOME,0.5,1.84,47,1-0,oddsflow_handicap_sniper,NOVA88,15,WON,12.6
+2026-10-21,J2 League,Albirex Niigata,Sagan Tosu,,AH,HOME,0.5,1.775,47,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-10-21,J1 League,Urawa Red Diamonds,JEF United Chiba,,AH,AWAY,-0.75,1.775,35,1-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-21,J1 League,Urawa Red Diamonds,JEF United Chiba,,AH,AWAY,-0.75,1.84,35,1-1,oddsflow_active_trader,NOVA88,15,HALF_LOST,-7.5
+2026-10-21,J1 League,Urawa Red Diamonds,JEF United Chiba,,AH,AWAY,-0.75,1.8,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-21,J1 League,Urawa Red Diamonds,JEF United Chiba,,AH,AWAY,-0.75,1.84,35,1-1,oddsflow_handicap_sniper,NOVA88,15,HALF_LOST,-7.5
+2026-10-21,J2 League,Vegalta Sendai,Imabari,,AH,AWAY,-0.75,1.775,49,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Vegalta Sendai,Imabari,,AH,AWAY,-0.75,1.89,49,1-1,oddsflow_handicap_sniper,NOVA88,17,LOST,-17
+2026-10-21,J2 League,Vegalta Sendai,Imabari,,AH,AWAY,-0.75,1.775,49,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Vegalta Sendai,Imabari,,AH,AWAY,-0.75,1.89,49,1-1,oddsflow_active_trader,NOVA88,17,LOST,-17
+2026-10-21,J3 League,Kagoshima United,Kochi United,,AH,AWAY,-0.25,2.1,50,2-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,27.5
+2026-10-21,J3 League,Kagoshima United,Kochi United,,AH,AWAY,-0.25,2.1,50,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,27.5
+2026-10-21,J2 League,Albirex Niigata,Sagan Tosu,,AH,HOME,0.25,2.075,50,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,26.88
+2026-10-21,J2 League,Albirex Niigata,Sagan Tosu,,AH,HOME,0.25,2.1,50,1-0,oddsflow_active_trader,NOVA88,15,HALF_WON,8.25
+2026-10-21,J3 League,FC Gifu,Sagamihara,,OU,UNDER,2.5,2,49,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Tegevajaro Miyazaki,Blaublitz Akita,,1X2,DRAW,0,2.25,51,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,FC Gifu,Sagamihara,,OU,UNDER,2.5,2,49,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Tochigi City,Fujieda MYFC,,1X2,DRAW,0,2.625,51,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,81.25
+2026-10-21,J1 League,FC Tokyo,Kashiwa Reysol,,OU,UNDER,1.5,1.75,52,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,37.5
+2026-10-21,J1 League,Fagiano Okayama,Mito Hollyhock,,AH,AWAY,-0.25,2.075,54,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J1 League,Fagiano Okayama,Mito Hollyhock,,AH,AWAY,-0.25,2.075,54,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Tochigi City,Fujieda MYFC,,1X2,AWAY,0,1.571,52,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Tochigi City,Fujieda MYFC,,1X2,AWAY,0,1.571,52,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Tochigi City,Fujieda MYFC,,AH,HOME,0,1.725,53,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.25
+2026-10-21,J2 League,Tochigi City,Fujieda MYFC,,AH,HOME,0,1.725,53,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,36.25
+2026-10-21,J2 League,Omiya Ardija,Kataller Toyama,,OU,UNDER,1.5,2,55,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Vegalta Sendai,Imabari,,AH,AWAY,-0.5,1.875,53,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Vegalta Sendai,Imabari,,AH,AWAY,-0.5,2,53,2-1,oddsflow_handicap_sniper,NOVA88,33,LOST,-33
+2026-10-21,J3 League,Osaka,Nara Club,,OU,UNDER,3.5,2.025,53,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-10-21,J2 League,Tochigi City,Fujieda MYFC,,OU,UNDER,2.5,1.775,54,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Vegalta Sendai,Imabari,,AH,AWAY,-0.5,2,53,2-1,oddsflow_active_trader,NOVA88,33,LOST,-33
+2026-10-21,J3 League,Osaka,Nara Club,,OU,UNDER,3.5,2.03,53,2-0,oddsflow_active_trader,NOVA88,45,WON,46.35
+2026-10-21,J2 League,Tochigi City,Fujieda MYFC,,OU,UNDER,2.25,2.11,54,0-1,oddsflow_active_trader,NOVA88,38,LOST,-38
+2026-10-21,J3 League,Osaka,Nara Club,,OU,UNDER,3.5,2.025,54,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-10-21,J2 League,Tochigi City,Fujieda MYFC,,OU,UNDER,2.5,1.775,54,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Osaka,Nara Club,,OU,UNDER,3.5,2.01,54,2-0,oddsflow_handicap_sniper,NOVA88,43,WON,43.43
+2026-10-21,J2 League,Vegalta Sendai,Imabari,,AH,AWAY,-0.5,1.975,54,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Ehime FC,Renofa Yamaguchi,,OU,UNDER,3.5,1.775,55,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-10-21,J3 League,Ehime FC,Renofa Yamaguchi,,OU,UNDER,3.5,1.775,55,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-10-21,J3 League,Ehime FC,Renofa Yamaguchi,,OU,UNDER,3.25,2.01,55,2-0,oddsflow_handicap_sniper,NOVA88,44,HALF_WON,22.22
+2026-10-21,J1 League,Shimizu S-Pulse,Machida Zelvia,,AH,HOME,0,1.9,54,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,FC Gifu,Sagamihara,,1X2,DRAW,0,2.875,54,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,FC Gifu,Sagamihara,,1X2,DRAW,0,2.52,54,1-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,J3 League,FC Gifu,Sagamihara,,1X2,DRAW,0,2.875,54,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Omiya Ardija,Kataller Toyama,,AH,AWAY,0,2.3,57,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,65
+2026-10-21,J2 League,Omiya Ardija,Kataller Toyama,,AH,AWAY,0,2.3,57,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,65
+2026-10-21,J2 League,Tokushima Vortis,Vanraure Hachinohe,,1X2,DRAW,0,2.05,56,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,FC Gifu,Sagamihara,,AH,AWAY,-0.25,2,55,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,FC Gifu,Sagamihara,,AH,AWAY,-0.25,2,55,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Tokushima Vortis,Vanraure Hachinohe,,1X2,DRAW,0,2.05,56,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Tegevajaro Miyazaki,Blaublitz Akita,,1X2,DRAW,0,2.1,56,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J1 League,Shimizu S-Pulse,Machida Zelvia,,AH,HOME,0,1.925,55,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Omiya Ardija,Kataller Toyama,,1X2,DRAW,0,2.625,58,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J1 League,Yokohama F. Marinos,Tokyo Verdy,,AH,AWAY,0,2.075,56,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,53.75
+2026-10-21,J1 League,Yokohama F. Marinos,Tokyo Verdy,,AH,AWAY,0,2.075,56,2-0,oddsflow_beta,APIFOOTBALL,50,WON,53.75
+2026-10-21,J1 League,Yokohama F. Marinos,Tokyo Verdy,,AH,AWAY,0,2.075,56,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,53.75
+2026-10-21,J2 League,Albirex Niigata,Sagan Tosu,,AH,HOME,0.25,2,58,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,25
+2026-10-21,J2 League,Albirex Niigata,Sagan Tosu,,AH,HOME,0.25,2,58,1-0,oddsflow_handicap_sniper,NOVA88,15,HALF_WON,7.5
+2026-10-21,J3 League,Matsumoto Yamaga,Thespakusatsu Gunma,,AH,AWAY,0,2.625,60,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Matsumoto Yamaga,Thespakusatsu Gunma,,AH,AWAY,0,2.625,60,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Vegalta Sendai,Imabari,,AH,AWAY,-0.25,2.1,60,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J1 League,Shimizu S-Pulse,Machida Zelvia,,AH,HOME,-0.25,2.675,59,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Vegalta Sendai,Imabari,,AH,AWAY,-0.25,2.05,60,2-1,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,J2 League,Vegalta Sendai,Imabari,,AH,AWAY,-0.25,2,60,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Vegalta Sendai,Imabari,,AH,AWAY,-0.25,2.05,60,2-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,J3 League,Roasso Kumamoto,Gainare Tottori,,1X2,DRAW,0,1.952,62,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Shonan Bellmare,Iwaki,,AH,HOME,0.75,2.05,61,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-10-21,J3 League,Roasso Kumamoto,Gainare Tottori,,1X2,DRAW,0,1.952,62,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Jubilo Iwata,Oita Trinita,,1X2,DRAW,0,2,59,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-10-21,J2 League,Jubilo Iwata,Oita Trinita,,1X2,DRAW,0,2,59,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-10-21,J2 League,Shonan Bellmare,Iwaki,,AH,HOME,0.75,2.05,61,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-10-21,J2 League,Omiya Ardija,Kataller Toyama,,1X2,AWAY,0,1.571,63,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,28.55
+2026-10-21,J2 League,Omiya Ardija,Kataller Toyama,,1X2,AWAY,0,1.571,63,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,28.55
+2026-10-21,J1 League,Kawasaki Frontale,Vissel Kobe,,AH,AWAY,0,2.025,62,1-0,oddsflow_beta,APIFOOTBALL,50,VOID,0
+2026-10-21,J1 League,Kawasaki Frontale,Vissel Kobe,,AH,AWAY,0,2.025,62,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-21,J1 League,Kawasaki Frontale,Vissel Kobe,,AH,AWAY,0,2.025,63,1-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-21,J1 League,Fagiano Okayama,Mito Hollyhock,,AH,AWAY,0,2.2,67,2-0,oddsflow_beta,APIFOOTBALL,50,VOID,0
+2026-10-21,J1 League,Fagiano Okayama,Mito Hollyhock,,AH,AWAY,0,2.2,67,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-21,J1 League,Fagiano Okayama,Mito Hollyhock,,AH,AWAY,0,2.2,67,2-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-21,J2 League,Tegevajaro Miyazaki,Blaublitz Akita,,AH,AWAY,0,2.375,67,1-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-21,J2 League,Tegevajaro Miyazaki,Blaublitz Akita,,AH,AWAY,0,2.375,67,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-21,J3 League,Roasso Kumamoto,Gainare Tottori,,OU,OVER,0.5,1.775,69,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-10-21,J3 League,Kamatamare Sanuki,Kanazawa,,AH,HOME,0.25,1.95,65,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
+2026-10-21,J3 League,Roasso Kumamoto,Gainare Tottori,,AH,AWAY,0,2.2,70,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J3 League,Roasso Kumamoto,Gainare Tottori,,AH,AWAY,0,2.2,70,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Ventforet Kofu,Yokohama FC,,AH,HOME,0,2.25,72,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Ventforet Kofu,Yokohama FC,,AH,HOME,0,2.33,72,0-2,oddsflow_handicap_sniper,NOVA88,18,LOST,-18
+2026-10-21,J2 League,Ventforet Kofu,Yokohama FC,,AH,HOME,0,2.25,72,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J1 League,Avispa Fukuoka,Gamba Osaka,,AH,AWAY,0,2.1,72,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-21,J1 League,Avispa Fukuoka,Gamba Osaka,,AH,AWAY,0,2.1,72,0-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-21,J1 League,Urawa Red Diamonds,JEF United Chiba,,AH,AWAY,-0.25,2.39,45,1-1,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,J3 League,Kamatamare Sanuki,Kanazawa,,AH,HOME,0.25,1.85,70,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,21.25
+2026-10-21,J1 League,Urawa Red Diamonds,JEF United Chiba,,AH,AWAY,-0.25,2.39,45,1-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,J2 League,Shonan Bellmare,Iwaki,,AH,AWAY,0,2.05,74,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,J2 League,Shonan Bellmare,Iwaki,,AH,AWAY,0,2.09,74,0-1,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,J2 League,Vegalta Sendai,Imabari,,AH,AWAY,0,2.375,77,3-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-21,J2 League,Vegalta Sendai,Imabari,,AH,AWAY,0,2.69,77,3-1,oddsflow_active_trader,NOVA88,30,VOID,0
+2026-10-21,J2 League,Vegalta Sendai,Imabari,,AH,AWAY,0,2.375,77,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-21,J3 League,FC Gifu,Sagamihara,,AH,AWAY,0,2.35,80,2-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-21,J3 League,FC Gifu,Sagamihara,,AH,AWAY,0,2.35,80,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-21,J3 League,FC Gifu,Sagamihara,,AH,AWAY,0,2.43,80,2-1,oddsflow_handicap_sniper,NOVA88,23,VOID,0
+2026-10-21,J1 League,Urawa Red Diamonds,JEF United Chiba,,AH,AWAY,-0.25,1.825,61,2-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,20.63
+2026-10-21,J1 League,Urawa Red Diamonds,JEF United Chiba,,AH,AWAY,-0.25,1.825,61,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,20.63
+2026-10-21,J1 League,Urawa Red Diamonds,JEF United Chiba,,AH,AWAY,0,2.375,74,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-21,J1 League,Urawa Red Diamonds,JEF United Chiba,,AH,AWAY,0,2.375,74,2-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-21,Liga 1 Indonesia,Persija,Arema FC,,AH,AWAY,-0.75,2,35,1-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,Liga 1 Indonesia,Persija,Arema FC,,AH,AWAY,-0.75,2,35,1-0,oddsflow_handicap_sniper,NOVA88,18,LOST,-18
+2026-10-21,Ethiopian Premier League,Ethiopia Bunna,Negelle Arsi,,AH,HOME,-0.25,2.025,35,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,Ethiopian Premier League,Ethiopia Bunna,Negelle Arsi,,AH,HOME,-0.25,2.05,36,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,Liga 1 Indonesia,Persija,Arema FC,,AH,AWAY,-0.5,2.02,41,1-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,CAF Champions League,15 de Agosto,Simba,,AH,HOME,1.25,1.95,44,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,CAF Champions League,15 de Agosto,Simba,,AH,HOME,1.25,1.95,44,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,Liga 1 Indonesia,Persija,Arema FC,,AH,AWAY,-0.25,2.08,45,2-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,Liga 1 Indonesia,Persija,Arema FC,,AH,AWAY,-0.25,2.08,45,2-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,Liga 1 Indonesia,Persija,Arema FC,,AH,AWAY,-0.5,1.76,45,2-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,CAF Champions League,15 de Agosto,Simba,,AH,HOME,1,2.1,46,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,CAF Champions League,15 de Agosto,Simba,,OU,UNDER,2.5,2.025,46,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,CAF Champions League,15 de Agosto,Simba,,AH,HOME,1,2.1,46,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,CAF Champions League,15 de Agosto,Simba,,OU,UNDER,2.5,2.025,46,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,CAF Champions League,15 de Agosto,Simba,,AH,HOME,0.75,2,57,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,Ethiopian Premier League,Ethiopia Bunna,Negelle Arsi,,AH,AWAY,0,2.6,55,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,80
+2026-10-21,CAF Champions League,15 de Agosto,Simba,,AH,HOME,0.75,2,57,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,Ethiopian Premier League,Ethiopia Bunna,Negelle Arsi,,AH,AWAY,0,2.6,55,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,80
+2026-10-21,Ethiopian Premier League,Ethiopia Bunna,Negelle Arsi,,AH,AWAY,-0.25,1.7,58,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,35
+2026-10-21,CAF Champions League,15 de Agosto,Simba,,AH,HOME,0.5,2.05,64,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,CAF Champions League,15 de Agosto,Simba,,AH,HOME,0.5,2.05,64,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,Egyptian Premier League,Ghazl El Mehalla,Al Ittihad,,AH,HOME,0.25,1.875,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,21.88
+2026-10-21,Egyptian Premier League,Ghazl El Mehalla,Al Ittihad,,1X2,HOME,0,1.615,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,30.75
+2026-10-21,Egyptian Premier League,Ghazl El Mehalla,Al Ittihad,,AH,HOME,0.25,1.92,35,1-0,oddsflow_handicap_sniper,NOVA88,15,HALF_WON,6.9
+2026-10-21,Egyptian Premier League,Ghazl El Mehalla,Al Ittihad,,1X2,HOME,0,1.63,35,1-0,oddsflow_handicap_sniper,NOVA88,22,WON,13.86
+2026-10-21,Egyptian Premier League,Ghazl El Mehalla,Al Ittihad,,AH,HOME,0.25,1.875,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,21.88
+2026-10-21,Egyptian Premier League,Ghazl El Mehalla,Al Ittihad,,1X2,HOME,0,1.615,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,30.75
+2026-10-21,Egyptian Premier League,Ghazl El Mehalla,Al Ittihad,,AH,HOME,0.25,1.92,35,1-0,oddsflow_active_trader,NOVA88,15,HALF_WON,6.9
+2026-10-21,Egyptian Premier League,Ghazl El Mehalla,Al Ittihad,,AH,HOME,0,2.59,45,2-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,Egyptian Premier League,Ghazl El Mehalla,Al Ittihad,,AH,HOME,0,2.56,45,2-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,Egyptian Premier League,Ghazl El Mehalla,Al Ittihad,,AH,HOME,0,2.425,52,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-21,Egyptian Premier League,Ghazl El Mehalla,Al Ittihad,,AH,HOME,0,2.425,52,2-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-21,Maltese Premier League,Hamrun Spartans,Balzan FC,,AH,AWAY,-0.5,1.875,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,43.75
+2026-10-21,Maltese Premier League,Hamrun Spartans,Balzan FC,,AH,AWAY,-0.5,1.86,35,1-0,oddsflow_handicap_sniper,NOVA88,15,WON,12.9
+2026-10-21,Maltese Premier League,Hamrun Spartans,Balzan FC,,AH,AWAY,-0.5,1.875,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,43.75
+2026-10-21,Maltese Premier League,Hamrun Spartans,Balzan FC,,AH,AWAY,-0.5,1.86,35,1-0,oddsflow_active_trader,NOVA88,15,WON,12.9
+2026-10-21,Spanish Tercera División RFEF - Group 12,Tenerife C,Villa Santa Brígida,,AH,AWAY,-0.25,1.79,35,2-0,oddsflow_active_trader,NOVA88,21,WON,16.59
+2026-10-21,Spanish Tercera División RFEF - Group 12,Tenerife C,Villa Santa Brígida,,AH,AWAY,-0.25,1.79,35,2-0,oddsflow_handicap_sniper,NOVA88,24,WON,18.96
+2026-10-21,Maltese Premier League,Hamrun Spartans,Balzan FC,,AH,AWAY,-0.25,2.05,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-10-21,Maltese Premier League,Hamrun Spartans,Balzan FC,,AH,AWAY,-0.25,2.05,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-10-21,Maltese Premier League,Hamrun Spartans,Balzan FC,,OU,UNDER,2.5,1.775,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-10-21,Maltese Premier League,Hamrun Spartans,Balzan FC,,OU,UNDER,2.5,1.775,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-10-21,Maltese Premier League,Birzebbuga,Marsaxlokk,,1X2,AWAY,0,2.1,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,Maltese Premier League,Birzebbuga,Marsaxlokk,,1X2,AWAY,0,2.1,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,Maltese Premier League,Birzebbuga,Marsaxlokk,,AH,AWAY,0.75,2.475,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,Maltese Premier League,Birzebbuga,Marsaxlokk,,AH,AWAY,0.5,1.975,49,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,Maltese Premier League,Birzebbuga,Marsaxlokk,,AH,AWAY,0.5,1.975,49,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,Maltese Premier League,Birzebbuga,Marsaxlokk,,1X2,HOME,0,1.727,58,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,36.35
+2026-10-21,Maltese Premier League,Birzebbuga,Marsaxlokk,,1X2,HOME,0,1.727,58,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.35
+2026-10-21,UEFA Champions League,Como,Manchester United,,AH,AWAY,0,1.9,36,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,Spanish Tercera División RFEF - Group 12,Tenerife C,Villa Santa Brígida,,AH,AWAY,0,2.22,61,2-0,oddsflow_handicap_sniper,NOVA88,17,WON,20.74
+2026-10-21,Spanish Tercera División RFEF - Group 12,Tenerife C,Villa Santa Brígida,,AH,AWAY,0,2.22,61,2-0,oddsflow_active_trader,NOVA88,17,WON,20.74
+2026-10-21,UEFA Champions League,Lille,Galatasaray,,1X2,HOME,0,1.571,41,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,UEFA Champions League,Lille,Galatasaray,,1X2,HOME,0,1.571,41,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,UEFA Champions League,Lille,Galatasaray,,1X2,HOME,0,1.571,41,2-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-10-21,UEFA Champions League,Como,Manchester United,,AH,AWAY,0,1.95,40,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,Maltese Premier League,Hamrun Spartans,Balzan FC,,1X2,DRAW,0,1.833,73,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,41.65
+2026-10-21,Maltese Premier League,Hamrun Spartans,Balzan FC,,1X2,DRAW,0,1.833,73,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,41.65
+2026-10-21,Maltese Premier League,Birzebbuga,Marsaxlokk,,AH,HOME,0.25,1.775,73,2-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,19.37
+2026-10-21,Maltese Premier League,Birzebbuga,Marsaxlokk,,AH,HOME,0.25,1.8,74,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,20
+2026-10-21,Egyptian Premier League,Al Ahly,Olympic El Qanah,,AH,AWAY,-1,2,37,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-10-21,Egyptian Premier League,Al Ahly,Olympic El Qanah,,1X2,HOME,0,1.5,38,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,Maltese Premier League,Hamrun Spartans,Balzan FC,,AH,AWAY,0,2.375,80,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-21,Maltese Premier League,Hamrun Spartans,Balzan FC,,AH,AWAY,0,2.375,80,1-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-21,Egyptian Premier League,Al Ahly,Olympic El Qanah,,1X2,HOME,0,1.5,38,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,Maltese Premier League,Hamrun Spartans,Balzan FC,,AH,AWAY,0,2.23,80,1-1,oddsflow_handicap_sniper,NOVA88,15,VOID,0
+2026-10-21,Maltese Premier League,Hamrun Spartans,Balzan FC,,AH,AWAY,0,2.23,80,1-1,oddsflow_active_trader,NOVA88,15,VOID,0
+2026-10-21,Egyptian Premier League,Ceramica Cleopatra,Petrojet,,AH,HOME,0,2.05,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-10-21,Egyptian Premier League,Ceramica Cleopatra,Petrojet,,AH,HOME,0,2.09,45,1-0,oddsflow_handicap_sniper,NOVA88,15,WON,16.35
+2026-10-21,Egyptian Premier League,Ceramica Cleopatra,Petrojet,,AH,HOME,0,2.05,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-10-21,Egyptian Premier League,Ceramica Cleopatra,Petrojet,,AH,HOME,0,2.09,45,1-0,oddsflow_active_trader,NOVA88,15,WON,16.35
+2026-10-21,Egyptian Premier League,Al Ahly,Olympic El Qanah,,AH,AWAY,-1,1.725,44,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.25
+2026-10-21,Norwegian First Division,Sogndal,Raufoss,,1X2,HOME,0,2,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-10-21,Egyptian Premier League,Al Ahly,Olympic El Qanah,,AH,AWAY,-0.75,1.95,45,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,47.5
+2026-10-21,Norwegian First Division,Sogndal,Raufoss,,1X2,HOME,0,2,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-10-21,Egyptian Premier League,Al Ahly,Olympic El Qanah,,AH,AWAY,-0.75,1.95,45,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
+2026-10-21,Egyptian Premier League,Ceramica Cleopatra,Petrojet,,OU,UNDER,2.5,1.775,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-10-21,Egyptian Premier League,Ceramica Cleopatra,Petrojet,,OU,UNDER,2.5,1.775,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-10-21,UEFA Champions League,Lille,Galatasaray,,AH,HOME,-0.25,2.3,45,2-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,UEFA Champions League,Lille,Galatasaray,,AH,HOME,-0.25,2.35,45,2-2,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,UEFA Champions League,Lille,Galatasaray,,1X2,DRAW,0,2.75,50,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,UEFA Champions League,Lille,Galatasaray,,1X2,DRAW,0,2.6,50,2-2,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,UEFA Champions League,Lille,Galatasaray,,1X2,AWAY,0,1.571,54,2-3,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,28.55
+2026-10-21,UEFA Champions League,Lille,Galatasaray,,1X2,AWAY,0,1.533,59,2-3,oddsflow_active_trader,APIFOOTBALL,50,WON,26.65
+2026-10-21,UEFA Champions League,Lille,Galatasaray,,AH,AWAY,0,2.2,75,2-4,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-21,UEFA Champions League,Lille,Galatasaray,,AH,AWAY,0,2.1,77,2-4,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-21,Norwegian First Division,Sogndal,Raufoss,,AH,AWAY,0,2.375,65,1-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-21,Norwegian First Division,Sogndal,Raufoss,,AH,AWAY,0,2.375,65,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-21,La Liga,Levante,Athletic Bilbao,,AH,HOME,0.25,2.08,19,0-0,oddsflow_beta,NOVA88,15,WON,16.2
+2026-10-21,La Liga,Levante,Athletic Bilbao,,AH,HOME,0.25,2.08,19,0-0,oddsflow_active_trader,NOVA88,15,WON,16.2
+2026-10-21,Egyptian Premier League,Al Ahly,Olympic El Qanah,,AH,AWAY,-0.5,1.975,62,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,48.75
+2026-10-21,Egyptian Premier League,Al Ahly,Olympic El Qanah,,AH,AWAY,-0.5,1.975,62,2-2,oddsflow_active_trader,APIFOOTBALL,50,WON,48.75
+2026-10-21,Egyptian Premier League,Al Ahly,Olympic El Qanah,,1X2,DRAW,0,2.3,63,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,65
+2026-10-21,Norwegian First Division,Sogndal,Raufoss,,1X2,DRAW,0,1.833,74,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,Norwegian First Division,Sogndal,Raufoss,,1X2,DRAW,0,1.833,74,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,Egyptian Premier League,Al Ahly,Olympic El Qanah,,1X2,DRAW,0,2,70,2-2,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-10-21,Egyptian Premier League,Al Ahly,Olympic El Qanah,,OU,OVER,4.5,1.75,72,2-2,oddsflow_active_trader,APIFOOTBALL,50,WON,37.5
+2026-10-21,Egyptian Premier League,Al Ahly,Olympic El Qanah,,OU,OVER,4.5,1.75,72,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,37.5
+2026-10-21,Egyptian Premier League,Al Ahly,Olympic El Qanah,,AH,AWAY,-0.25,2.05,74,2-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,26.25
+2026-10-21,Egyptian Premier League,Al Ahly,Olympic El Qanah,,AH,AWAY,-0.25,2.05,74,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,26.25
+2026-10-21,La Liga,Levante,Athletic Bilbao,,AH,HOME,0.5,1.98,41,2-0,oddsflow_active_trader,NOVA88,15,WON,14.7
+2026-10-21,Belgian First Amateur Division,Heist,Tienen,,AH,AWAY,0,2.05,40,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,Belgian First Amateur Division,Albert Quévy-Mons,Rochefort,,AH,AWAY,0,2.625,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,La Liga,Levante,Athletic Bilbao,,AH,HOME,0.5,1.92,45,2-0,oddsflow_handicap_sniper,NOVA88,15,WON,13.8
+2026-10-21,Belgian First Amateur Division,Albert Quévy-Mons,Rochefort,,AH,AWAY,0,2.725,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,Belgian First Amateur Division,Heist,Tienen,,OU,UNDER,3.5,2,46,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,Belgian First Amateur Division,Heist,Tienen,,OU,UNDER,3.5,2,46,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,La Liga,Levante,Athletic Bilbao,,AH,HOME,0.25,2.16,59,2-0,oddsflow_handicap_sniper,NOVA88,15,HALF_WON,8.7
+2026-10-21,Maltese Premier League,Mosta,Valletta,,AH,HOME,0.5,1.825,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,Maltese Premier League,Mosta,Valletta,,AH,HOME,0.5,1.825,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,Maltese Premier League,Mosta,Valletta,,AH,HOME,0.25,2.1,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,Maltese Premier League,Mosta,Valletta,,AH,HOME,0.25,2.1,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,Maltese Premier League,Mosta,Valletta,,OU,UNDER,2.5,2,37,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-10-21,Maltese Premier League,Mosta,Valletta,,OU,UNDER,2.5,2,37,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-10-21,Maltese Premier League,Mosta,Valletta,,AH,HOME,0,2.725,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,Maltese Premier League,Zabbar St. Patrick,Sliema Wanderers,,AH,HOME,0.5,1.75,42,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,37.5
+2026-10-21,Maltese Premier League,Mosta,Valletta,,AH,HOME,0,2.725,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,Maltese Premier League,Zabbar St. Patrick,Sliema Wanderers,,AH,HOME,0.5,1.75,43,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,37.5
+2026-10-21,Maltese Premier League,Zabbar St. Patrick,Sliema Wanderers,,AH,HOME,0.25,2.05,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,26.25
+2026-10-21,Maltese Premier League,Zabbar St. Patrick,Sliema Wanderers,,AH,HOME,0.25,2.05,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,26.25
+2026-10-21,Major League Soccer,FC Cincinnati,DC United,,1X2,HOME,0,1.833,45,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,41.65
+2026-10-21,Colombian Primera A,Llaneros,Deportivo Cali,,AH,HOME,-0.25,2.075,45,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,Colombian Primera A,Llaneros,Deportivo Cali,,AH,HOME,-0.25,2.1,45,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,Colombian Primera A,Llaneros,Deportivo Cali,,AH,HOME,-0.25,2.22,45,0-2,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,USL Championship,Sporting JAX,Louisville City,,AH,HOME,1,1.925,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,USL Championship,Sporting JAX,Louisville City,,AH,HOME,1,1.925,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,USL Championship,Sporting JAX,Louisville City,,AH,HOME,0.75,2.05,44,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,USL Championship,Sporting JAX,Louisville City,,AH,HOME,0.75,2.05,44,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,Colombian Primera A,Llaneros,Deportivo Cali,,AH,HOME,0,1.75,45,0-2,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,Colombian Primera A,Llaneros,Deportivo Cali,,AH,HOME,0,1.75,52,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,Major League Soccer,FC Cincinnati,DC United,,AH,AWAY,-0.5,1.875,56,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,43.75
+2026-10-21,Major League Soccer,FC Cincinnati,DC United,,AH,AWAY,-0.5,1.875,56,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,43.75
+2026-10-21,Colombian Primera A,Llaneros,Deportivo Cali,,AH,HOME,0,1.8,53,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,Colombian Primera A,Llaneros,Deportivo Cali,,AH,HOME,0,1.83,53,0-2,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,Major League Soccer,FC Cincinnati,DC United,,AH,AWAY,0,2.25,74,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-21,Major League Soccer,FC Cincinnati,DC United,,AH,AWAY,0,2.3,74,2-1,oddsflow_handicap_sniper,NOVA88,15,VOID,0
+2026-10-21,Major League Soccer,FC Cincinnati,DC United,,AH,AWAY,0,2.25,74,2-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-21,Major League Soccer,FC Cincinnati,DC United,,AH,AWAY,0,2.3,74,2-1,oddsflow_active_trader,NOVA88,15,VOID,0
+2026-10-21,USL Championship,Sporting JAX,Louisville City,,AH,HOME,0.5,2.05,56,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,USL Championship,Sporting JAX,Louisville City,,AH,HOME,0.5,2.08,56,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-21,USL Championship,Sporting JAX,Louisville City,,AH,HOME,0.5,2.05,56,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,USL Championship,Sporting JAX,Louisville City,,AH,HOME,0.5,2.08,56,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,USL Championship,Sporting JAX,Louisville City,,1X2,DRAW,0,2.5,62,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,USL Championship,Sporting JAX,Louisville City,,1X2,DRAW,0,2.2,67,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,USL Championship,Sporting JAX,Louisville City,,AH,HOME,0.25,2.05,69,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-21,USL Championship,Sporting JAX,Louisville City,,AH,HOME,0.25,2.06,69,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-10-21,USL Championship,Sporting JAX,Louisville City,,AH,HOME,0.25,2.05,69,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-21,USL Championship,Sporting JAX,Louisville City,,AH,HOME,0.25,2.06,69,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
