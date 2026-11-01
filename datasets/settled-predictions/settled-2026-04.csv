@@ -1641,6 +1641,10 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-04-25,Ligue 1,Lyon,Auxerre,,AH,AWAY,-0.5,2.05,45,1-1,oddsflow_beta,APIFOOTBALL,500,LOST,-500
 2026-04-25,Ligue 1,Lyon,Auxerre,,1X2,DRAW,0,3,45,1-1,oddsflow_beta,APIFOOTBALL,500,LOST,-500
 2026-04-25,Ligue 1,Lyon,Auxerre,,1X2,DRAW,0,3,46,1-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
+2026-04-25,Ligue 1,Lyon,Auxerre,,OU,UNDER,3.5,1.571,56,1-1,oddsflow_beta,APIFOOTBALL,542,LOST,-542
+2026-04-25,Bundesliga,VfL Wolfsburg,Borussia Mönchengladbach,,AH,AWAY,0,1.975,28,0-0,oddsflow_active_trader,APIFOOTBALL,500,VOID,0
+2026-04-25,Bundesliga,VfL Wolfsburg,Borussia Mönchengladbach,,AH,AWAY,0,1.975,28,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,VOID,0
+2026-04-25,Bundesliga,VfL Wolfsburg,Borussia Mönchengladbach,,1X2,DRAW,0,3.25,28,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,1125
 2026-04-25,Bundesliga,1. FC Heidenheim,FC St. Pauli,,AH,AWAY,-1,1.8,33,1-0,oddsflow_active_trader,APIFOOTBALL,1100,VOID,0
 2026-04-25,Bundesliga,1. FC Heidenheim,FC St. Pauli,,1X2,HOME,0,1.533,33,1-0,oddsflow_active_trader,APIFOOTBALL,500,WON,266.5
 2026-04-25,Bundesliga,1. FC Köln,Bayer Leverkusen,,OU,UNDER,2.5,1.727,34,0-0,oddsflow_active_trader,APIFOOTBALL,514,LOST,-514
@@ -1662,7 +1666,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-04-25,Bundesliga,1. FC Köln,Bayer Leverkusen,,OU,OVER,1.5,1.533,43,0-1,oddsflow_active_trader,APIFOOTBALL,500,WON,266.5
 2026-04-25,Bundesliga,1. FC Köln,Bayer Leverkusen,,OU,OVER,2.5,2.5,43,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,750
 2026-04-25,Bundesliga,1. FC Köln,Bayer Leverkusen,,OU,OVER,2.5,2.5,43,0-1,oddsflow_active_trader,APIFOOTBALL,500,WON,750
-2026-04-25,Ligue 1,Lyon,Auxerre,,OU,UNDER,3.5,1.571,56,1-1,oddsflow_beta,APIFOOTBALL,542,LOST,-542
 2026-04-25,Bundesliga,1. FC Köln,Bayer Leverkusen,,OU,UNDER,3.5,1.5,47,0-1,oddsflow_handicap_sniper,APIFOOTBALL,547,WON,273.5
 2026-04-25,Bundesliga,1. FC Köln,Bayer Leverkusen,,OU,UNDER,3.5,1.5,47,0-1,oddsflow_active_trader,APIFOOTBALL,574,WON,287
 2026-04-25,Bundesliga,1. FC Köln,Bayer Leverkusen,,AH,AWAY,0,1.7,47,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,VOID,0
@@ -1674,9 +1677,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-04-25,Bundesliga,1. FC Köln,Bayer Leverkusen,,AH,HOME,1,1.875,83,1-2,oddsflow_core_strategy,APIFOOTBALL,200,WON,175
 2026-04-25,Bundesliga,1. FC Köln,Bayer Leverkusen,,AH,HOME,1,1.875,83,1-2,oddsflow_active_trader,APIFOOTBALL,567,WON,496.13
 2026-04-25,Bundesliga,1. FC Köln,Bayer Leverkusen,,AH,HOME,1,1.875,83,1-2,oddsflow_handicap_sniper,APIFOOTBALL,580,WON,507.5
-2026-04-25,Bundesliga,VfL Wolfsburg,Borussia Mönchengladbach,,AH,AWAY,0,1.975,28,0-0,oddsflow_active_trader,APIFOOTBALL,500,VOID,0
-2026-04-25,Bundesliga,VfL Wolfsburg,Borussia Mönchengladbach,,AH,AWAY,0,1.975,28,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,VOID,0
-2026-04-25,Bundesliga,VfL Wolfsburg,Borussia Mönchengladbach,,1X2,DRAW,0,3.25,28,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,1125
 2026-04-25,Premier League,West Ham,Everton,,AH,AWAY,-1,1.875,66,1-0,oddsflow_handicap_sniper,APIFOOTBALL,1323,WON,1157.63
 2026-04-25,Premier League,West Ham,Everton,,AH,AWAY,-1,1.875,66,1-0,oddsflow_active_trader,APIFOOTBALL,1317,WON,1152.38
 2026-04-25,Premier League,West Ham,Everton,,OU,OVER,1.5,1.615,66,1-0,oddsflow_active_trader,APIFOOTBALL,500,WON,307.5
@@ -2113,9 +2113,11 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-04-28,Saudi Pro League,Al-Hilal Saudi FC,Damac,,OU,UNDER,2.5,2.5,44,1-0,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,750
 2026-04-28,Saudi Pro League,Al-Hilal Saudi FC,Damac,,OU,UNDER,2.5,2.5,44,1-0,oddsflow_active_trader,APIFOOTBALL,500,WON,750
 2026-04-28,Saudi Pro League,Al-Hilal Saudi FC,Damac,,OU,UNDER,2.5,2.375,46,1-0,oddsflow_5.2,APIFOOTBALL,359,WON,493.63
-2026-04-28,UEFA Champions League,Paris Saint-Germain,Bayern Munich,,AH,HOME,-0.5,2.5,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,300
 2026-04-28,Saudi Pro League,Al-Hilal Saudi FC,Damac,,AH,AWAY,-1.5,2.75,56,1-0,oddsflow_handicap_sniper,APIFOOTBALL,903,WON,1580.25
 2026-04-28,Saudi Pro League,Al-Hilal Saudi FC,Damac,,AH,AWAY,-1.5,2.75,56,1-0,oddsflow_active_trader,APIFOOTBALL,896,WON,1568
+2026-04-28,Saudi Pro League,Al-Hilal Saudi FC,Damac,,AH,AWAY,-1.5,1.75,75,1-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,150
+2026-04-28,Saudi Pro League,Al-Hilal Saudi FC,Damac,,OU,UNDER,2.5,1.727,78,1-0,oddsflow_core_strategy,APIFOOTBALL,500,WON,363.5
+2026-04-28,UEFA Champions League,Paris Saint-Germain,Bayern Munich,,AH,HOME,-0.5,2.5,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,300
 2026-04-28,UEFA Champions League,Paris Saint-Germain,Bayern Munich,,AH,HOME,-0.5,2.6,25,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,800
 2026-04-28,UEFA Champions League,Paris Saint-Germain,Bayern Munich,,OU,OVER,2.5,1.615,25,0-1,oddsflow_handicap_sniper,APIFOOTBALL,832,WON,511.68
 2026-04-28,UEFA Champions League,Paris Saint-Germain,Bayern Munich,,AH,HOME,-0.5,2.6,25,0-1,oddsflow_active_trader,APIFOOTBALL,500,WON,800
@@ -2128,8 +2130,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-04-28,UEFA Champions League,Paris Saint-Germain,Bayern Munich,,AH,AWAY,0,1.925,26,1-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
 2026-04-28,UEFA Champions League,Paris Saint-Germain,Bayern Munich,,OU,OVER,3.5,2.2,26,1-1,oddsflow_active_trader,APIFOOTBALL,500,WON,600
 2026-04-28,UEFA Champions League,Paris Saint-Germain,Bayern Munich,,AH,AWAY,0,2.05,30,1-1,oddsflow_5.2,APIFOOTBALL,226,LOST,-226
-2026-04-28,Saudi Pro League,Al-Hilal Saudi FC,Damac,,AH,AWAY,-1.5,1.75,75,1-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,150
-2026-04-28,Saudi Pro League,Al-Hilal Saudi FC,Damac,,OU,UNDER,2.5,1.727,78,1-0,oddsflow_core_strategy,APIFOOTBALL,500,WON,363.5
 2026-04-28,UEFA Champions League,Paris Saint-Germain,Bayern Munich,,AH,AWAY,-0.5,2.25,51,3-2,oddsflow_beta,APIFOOTBALL,594,WON,742.5
 2026-04-28,UEFA Champions League,Paris Saint-Germain,Bayern Munich,,AH,AWAY,-0.5,2.25,51,3-2,oddsflow_active_trader,APIFOOTBALL,500,WON,625
 2026-04-28,UEFA Champions League,Paris Saint-Germain,Bayern Munich,,OU,UNDER,6.5,2.3,51,3-2,oddsflow_beta,APIFOOTBALL,500,LOST,-500
@@ -2148,23 +2148,23 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-04-28,UEFA Champions League,Paris Saint-Germain,Bayern Munich,,OU,UNDER,10.5,1.571,71,5-4,oddsflow_handicap_sniper,APIFOOTBALL,548,WON,312.91
 2026-04-28,UEFA Champions League,Paris Saint-Germain,Bayern Munich,,OU,UNDER,10.5,1.571,71,5-4,oddsflow_active_trader,APIFOOTBALL,531,WON,303.2
 2026-04-28,UEFA Champions League,Paris Saint-Germain,Bayern Munich,,OU,UNDER,10.5,1.571,71,5-4,oddsflow_beta,APIFOOTBALL,533,WON,304.34
+2026-04-29,UEFA Champions League,Atletico Madrid,Arsenal,,1X2,AWAY,0,2.62,0,0-0,oddsflow_5.1,APIFOOTBALL,200,LOST,-200
+2026-04-29,Saudi Pro League,Al Taawon,Al-Ittihad FC,,AH,HOME,-0.5,2.425,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
 2026-04-29,Saudi Pro League,Al Riyadh,Al-Qadisiyah FC,,OU,UNDER,4.5,2,25,0-1,oddsflow_active_trader,APIFOOTBALL,1064,WON,1064
 2026-04-29,Saudi Pro League,Al Riyadh,Al-Qadisiyah FC,,OU,UNDER,4.5,2,25,0-1,oddsflow_handicap_sniper,APIFOOTBALL,1068,WON,1068
 2026-04-29,Saudi Pro League,Al Riyadh,Al-Qadisiyah FC,,AH,HOME,1.5,2.6,26,0-1,oddsflow_active_trader,APIFOOTBALL,784,LOST,-784
 2026-04-29,Saudi Pro League,Al Riyadh,Al-Qadisiyah FC,,AH,HOME,1.5,2.6,26,0-1,oddsflow_handicap_sniper,APIFOOTBALL,785,LOST,-785
 2026-04-29,Saudi Pro League,Al Riyadh,Al-Qadisiyah FC,,OU,UNDER,3.5,1.727,30,0-1,oddsflow_active_trader,APIFOOTBALL,572,LOST,-572
 2026-04-29,Saudi Pro League,Al Riyadh,Al-Qadisiyah FC,,OU,UNDER,3.5,1.727,30,0-1,oddsflow_handicap_sniper,APIFOOTBALL,569,LOST,-569
-2026-04-29,Saudi Pro League,Al Riyadh,Al-Qadisiyah FC,,OU,UNDER,2.5,2.375,44,0-1,oddsflow_5.2,APIFOOTBALL,336,LOST,-336
-2026-04-29,Saudi Pro League,Al Riyadh,Al-Qadisiyah FC,,OU,UNDER,2.5,2.375,44,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
-2026-04-29,Saudi Pro League,Al Riyadh,Al-Qadisiyah FC,,OU,UNDER,2.5,2.375,44,0-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
-2026-04-29,UEFA Champions League,Atletico Madrid,Arsenal,,1X2,AWAY,0,2.62,0,0-0,oddsflow_5.1,APIFOOTBALL,200,LOST,-200
-2026-04-29,Saudi Pro League,Al Taawon,Al-Ittihad FC,,AH,HOME,-0.5,2.425,15,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
 2026-04-29,Saudi Pro League,Al Taawon,Al-Ittihad FC,,AH,HOME,0.5,2.15,25,0-1,oddsflow_active_trader,APIFOOTBALL,945,LOST,-945
 2026-04-29,Saudi Pro League,Al Taawon,Al-Ittihad FC,,AH,HOME,0.5,2.15,25,0-1,oddsflow_handicap_sniper,APIFOOTBALL,936,LOST,-936
 2026-04-29,Saudi Pro League,Al Taawon,Al-Ittihad FC,,1X2,HOME,0,4.75,25,0-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
 2026-04-29,Saudi Pro League,Al Taawon,Al-Ittihad FC,,1X2,HOME,0,4.75,25,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
 2026-04-29,Saudi Pro League,Al Taawon,Al-Ittihad FC,,AH,HOME,0.5,2.2,26,0-1,oddsflow_beta,APIFOOTBALL,908,LOST,-908
 2026-04-29,Saudi Pro League,Al Taawon,Al-Ittihad FC,,1X2,HOME,0,4.75,26,0-1,oddsflow_beta,APIFOOTBALL,500,LOST,-500
+2026-04-29,Saudi Pro League,Al Riyadh,Al-Qadisiyah FC,,OU,UNDER,2.5,2.375,44,0-1,oddsflow_5.2,APIFOOTBALL,336,LOST,-336
+2026-04-29,Saudi Pro League,Al Riyadh,Al-Qadisiyah FC,,OU,UNDER,2.5,2.375,44,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
+2026-04-29,Saudi Pro League,Al Riyadh,Al-Qadisiyah FC,,OU,UNDER,2.5,2.375,44,0-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
 2026-04-29,Primeira Liga,Sporting CP,Tondela,,OU,UNDER,1.5,2.5,46,0-0,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
 2026-04-29,Primeira Liga,Sporting CP,Tondela,,OU,UNDER,1.5,2.5,46,0-0,oddsflow_beta,APIFOOTBALL,500,LOST,-500
 2026-04-29,Primeira Liga,Sporting CP,Tondela,,OU,UNDER,1.5,2.5,46,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500

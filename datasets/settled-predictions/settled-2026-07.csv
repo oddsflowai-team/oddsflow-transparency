@@ -452,7 +452,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-16,Brasileirão Série B,CRB,Nautico Recife,,OU,OVER,1.5,1.533,63,1-0,oddsflow_beta,APIFOOTBALL,4,WON,2.13
 2026-07-16,Brasileirão Série B,CRB,Nautico Recife,,OU,OVER,1.5,1.533,63,1-0,oddsflow_active_trader,APIFOOTBALL,4,WON,2.13
 2026-07-16,Brasileirão Série B,CRB,Nautico Recife,,OU,OVER,1.5,1.533,63,1-0,oddsflow_handicap_sniper,APIFOOTBALL,4,WON,2.13
-2026-07-17,Brasileirão Série B,São Bernardo,Avai,,AH,AWAY,0,2.6,10,0-0,oddsflow_core_strategy,APIFOOTBALL,4,VOID,0
 2026-07-17,Brasileirão Série B,Juventude,Cuiaba,,AH,AWAY,0,2.75,26,0-0,oddsflow_core_strategy,APIFOOTBALL,4,LOST,-4
 2026-07-17,Brasileirão Série B,Juventude,Cuiaba,,AH,AWAY,0,2.25,35,1-0,oddsflow_beta,APIFOOTBALL,4,LOST,-4
 2026-07-17,Brasileirão Série B,Juventude,Cuiaba,,AH,AWAY,0,2.25,35,1-0,oddsflow_active_trader,APIFOOTBALL,4,LOST,-4
@@ -466,6 +465,17 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-17,Brasileirão Série B,Juventude,Cuiaba,,OU,UNDER,2.5,1.5,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,4,WON,2
 2026-07-17,Brasileirão Série B,Juventude,Cuiaba,,OU,UNDER,2.25,1.76,35,1-0,oddsflow_handicap_sniper,NOVA88,50,HALF_WON,19
 2026-07-17,Brasileirão Série B,Juventude,Cuiaba,,OU,UNDER,2,2.11,35,1-0,oddsflow_handicap_sniper,HGA,100,VOID,0
+2026-07-17,Brasileirão Série B,Juventude,Cuiaba,,OU,OVER,1.5,2,69,1-0,oddsflow_core_strategy,APIFOOTBALL,500,WON,500
+2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.975,80,1-0,oddsflow_active_trader,APIFOOTBALL,4,WON,3.9
+2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.975,80,1-0,oddsflow_handicap_sniper,APIFOOTBALL,4,WON,3.9
+2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.98,80,1-0,oddsflow_active_trader,NOVA88,50,WON,49
+2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.94,80,1-0,oddsflow_active_trader,HGA,100,WON,94
+2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.98,80,1-0,oddsflow_handicap_sniper,NOVA88,50,WON,49
+2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.94,80,1-0,oddsflow_handicap_sniper,HGA,100,WON,94
+2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.975,80,1-0,oddsflow_core_strategy,APIFOOTBALL,3.5,WON,3.41
+2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.98,80,1-0,oddsflow_core_strategy,NOVA88,50,WON,49
+2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.94,80,1-0,oddsflow_core_strategy,HGA,100,WON,94
+2026-07-17,Brasileirão Série B,São Bernardo,Avai,,AH,AWAY,0,2.6,10,0-0,oddsflow_core_strategy,APIFOOTBALL,4,VOID,0
 2026-07-17,Brasileirão Série B,São Bernardo,Avai,,AH,AWAY,0,2.35,38,1-0,oddsflow_active_trader,APIFOOTBALL,4,WON,5.4
 2026-07-17,Brasileirão Série B,São Bernardo,Avai,,AH,AWAY,0,2.35,38,1-0,oddsflow_handicap_sniper,APIFOOTBALL,4,WON,5.4
 2026-07-17,Brasileirão Série A,Mirassol,Gremio,,AH,AWAY,-0.5,1.825,13,0-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
@@ -483,7 +493,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-17,Brasileirão Série B,São Bernardo,Avai,,OU,OVER,2.75,2.05,62,1-1,oddsflow_active_trader,HGA,99,LOST,-99
 2026-07-17,Brasileirão Série B,São Bernardo,Avai,,1X2,DRAW,0,4.45,62,1-1,oddsflow_handicap_sniper,NOVA88,50,WON,172.5
 2026-07-17,Brasileirão Série B,São Bernardo,Avai,,OU,OVER,2.75,2.05,62,1-1,oddsflow_handicap_sniper,HGA,99,LOST,-99
-2026-07-17,Brasileirão Série B,Juventude,Cuiaba,,OU,OVER,1.5,2,69,1-0,oddsflow_core_strategy,APIFOOTBALL,500,WON,500
 2026-07-17,Brasileirão Série A,Fluminense,RB Bragantino,,OU,UNDER,2.5,2.1,35,0-1,oddsflow_active_trader,APIFOOTBALL,500,WON,550
 2026-07-17,Brasileirão Série A,Fluminense,RB Bragantino,,1X2,AWAY,0,1.909,35,0-1,oddsflow_active_trader,APIFOOTBALL,563,LOST,-563
 2026-07-17,Brasileirão Série A,Fluminense,RB Bragantino,,OU,UNDER,2.5,2.1,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,550
@@ -504,22 +513,13 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-17,Brasileirão Série A,Mirassol,Gremio,,AH,AWAY,0,2.15,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,726,VOID,0
 2026-07-17,Brasileirão Série A,Mirassol,Gremio,,OU,UNDER,2.5,2.2,36,1-0,oddsflow_active_trader,APIFOOTBALL,571,LOST,-571
 2026-07-17,Brasileirão Série A,Mirassol,Gremio,,OU,UNDER,2.5,2.2,36,1-0,oddsflow_handicap_sniper,APIFOOTBALL,567,LOST,-567
-2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.975,80,1-0,oddsflow_active_trader,APIFOOTBALL,4,WON,3.9
-2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.975,80,1-0,oddsflow_handicap_sniper,APIFOOTBALL,4,WON,3.9
-2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.98,80,1-0,oddsflow_active_trader,NOVA88,50,WON,49
-2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.94,80,1-0,oddsflow_active_trader,HGA,100,WON,94
-2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.98,80,1-0,oddsflow_handicap_sniper,NOVA88,50,WON,49
-2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.94,80,1-0,oddsflow_handicap_sniper,HGA,100,WON,94
-2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.975,80,1-0,oddsflow_core_strategy,APIFOOTBALL,3.5,WON,3.41
-2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.98,80,1-0,oddsflow_core_strategy,NOVA88,50,WON,49
-2026-07-17,Brasileirão Série B,America Mineiro,Ceara,,AH,AWAY,0,1.94,80,1-0,oddsflow_core_strategy,HGA,100,WON,94
 2026-07-18,Brasileirão Série B,Londrina,Botafogo SP,,AH,HOME,0,2.3,10,0-0,oddsflow_core_strategy,APIFOOTBALL,4,VOID,0
 2026-07-18,Brasileirão Série B,Fortaleza EC,Novorizontino,,AH,AWAY,0,2,18,1-0,oddsflow_core_strategy,APIFOOTBALL,6,VOID,0
 2026-07-18,Brasileirão Série B,Fortaleza EC,Novorizontino,,AH,AWAY,0,2.05,18,1-0,oddsflow_core_strategy,HGA,100,VOID,0
 2026-07-18,Brasileirão Série B,Fortaleza EC,Novorizontino,,AH,AWAY,0,1.825,35,1-0,oddsflow_active_trader,APIFOOTBALL,7,VOID,0
 2026-07-18,Brasileirão Série B,Londrina,Botafogo SP,,1X2,HOME,0,3,35,0-0,oddsflow_active_trader,APIFOOTBALL,4,LOST,-4
-2026-07-18,Brasileirão Série B,Londrina,Botafogo SP,,1X2,HOME,0,3,35,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
 2026-07-18,Brasileirão Série B,Fortaleza EC,Novorizontino,,AH,AWAY,0,1.9,35,1-0,oddsflow_active_trader,NOVA88,50,VOID,0
+2026-07-18,Brasileirão Série B,Londrina,Botafogo SP,,1X2,HOME,0,3,35,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
 2026-07-18,Brasileirão Série B,Londrina,Botafogo SP,,1X2,HOME,0,3,35,0-0,oddsflow_active_trader,HGA,50,LOST,-50
 2026-07-18,Brasileirão Série B,Fortaleza EC,Novorizontino,,AH,AWAY,0,1.83,35,1-0,oddsflow_active_trader,HGA,100,VOID,0
 2026-07-18,Brasileirão Série B,Fortaleza EC,Novorizontino,,AH,AWAY,0,1.825,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,7,VOID,0
@@ -1000,6 +1000,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-24,Brasileirão Série B,Botafogo SP,Juventude,,AH,AWAY,0,2,16,1-0,oddsflow_core_strategy,APIFOOTBALL,6,LOST,-6
 2026-07-24,Brasileirão Série B,Botafogo SP,Juventude,,AH,AWAY,0,2,16,1-0,oddsflow_core_strategy,NOVA88,50,LOST,-50
 2026-07-24,Brasileirão Série B,Botafogo SP,Juventude,,AH,AWAY,0,1.94,16,1-0,oddsflow_core_strategy,HGA,100,LOST,-100
+2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,AH,AWAY,0.5,2.35,26,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,270
 2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,AH,AWAY,0,1.9,26,0-1,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
 2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,AH,AWAY,0,1.96,26,0-1,oddsflow_core_strategy,NOVA88,50,LOST,-50
 2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,AH,AWAY,0,1.725,35,1-1,oddsflow_active_trader,APIFOOTBALL,803,LOST,-803
@@ -1009,22 +1010,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,DRAW,0,2.81,35,1-1,oddsflow_active_trader,NOVA88,15,LOST,-15
 2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,3.75,2,35,1-1,oddsflow_active_trader,HGA,100,LOST,-100
 2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,DRAW,0,3,35,1-1,oddsflow_active_trader,HGA,50,LOST,-50
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,AH,AWAY,0,1.7,36,1-1,oddsflow_handicap_sniper,APIFOOTBALL,821,LOST,-821
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,3.5,2.1,36,1-1,oddsflow_handicap_sniper,APIFOOTBALL,664,LOST,-664
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,DRAW,0,2.875,36,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,3.75,1.87,36,1-1,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,3.75,1.88,36,1-1,oddsflow_handicap_sniper,HGA,100,LOST,-100
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,DRAW,0,2.76,36,1-1,oddsflow_handicap_sniper,NOVA88,29,LOST,-29
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,DRAW,0,3,36,1-1,oddsflow_handicap_sniper,HGA,68,LOST,-68
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.571,44,2-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,285.5
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.571,44,2-1,oddsflow_active_trader,APIFOOTBALL,500,WON,285.5
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.63,44,2-1,oddsflow_handicap_sniper,NOVA88,23,WON,14.49
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.63,44,2-1,oddsflow_active_trader,NOVA88,15,WON,9.45
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.64,44,2-1,oddsflow_handicap_sniper,HGA,50,WON,32
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.64,44,2-1,oddsflow_active_trader,HGA,50,WON,32
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,4.5,1.727,47,2-1,oddsflow_active_trader,APIFOOTBALL,543,LOST,-543
-2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,4.5,1.727,47,2-1,oddsflow_handicap_sniper,APIFOOTBALL,533,LOST,-533
-2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,AH,AWAY,0.5,2.35,26,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,270
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,OU,UNDER,1.5,2,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,590,LOST,-590
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,1X2,DRAW,0,2.75,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,OU,UNDER,1.5,2.01,35,0-0,oddsflow_handicap_sniper,NOVA88,48,LOST,-48
@@ -1037,10 +1022,25 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,OU,UNDER,1.5,2.02,35,0-0,oddsflow_active_trader,HGA,98,LOST,-98
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,1X2,DRAW,0,2.66,35,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,1X2,DRAW,0,2.66,35,0-0,oddsflow_active_trader,HGA,50,LOST,-50
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,AH,AWAY,0,1.7,36,1-1,oddsflow_handicap_sniper,APIFOOTBALL,821,LOST,-821
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,3.5,2.1,36,1-1,oddsflow_handicap_sniper,APIFOOTBALL,664,LOST,-664
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,DRAW,0,2.875,36,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,3.75,1.87,36,1-1,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,3.75,1.88,36,1-1,oddsflow_handicap_sniper,HGA,100,LOST,-100
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,DRAW,0,2.76,36,1-1,oddsflow_handicap_sniper,NOVA88,29,LOST,-29
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,DRAW,0,3,36,1-1,oddsflow_handicap_sniper,HGA,68,LOST,-68
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,AH,AWAY,0,1.7,37,0-0,oddsflow_handicap_sniper,APIFOOTBALL,785,WON,549.5
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,AH,AWAY,0,1.7,37,0-0,oddsflow_active_trader,APIFOOTBALL,784,WON,548.8
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.571,44,2-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,285.5
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.571,44,2-1,oddsflow_active_trader,APIFOOTBALL,500,WON,285.5
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.63,44,2-1,oddsflow_handicap_sniper,NOVA88,23,WON,14.49
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.63,44,2-1,oddsflow_active_trader,NOVA88,15,WON,9.45
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.64,44,2-1,oddsflow_handicap_sniper,HGA,50,WON,32
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,1X2,HOME,0,1.64,44,2-1,oddsflow_active_trader,HGA,50,WON,32
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,OU,UNDER,2.5,1.666,43,0-1,oddsflow_handicap_sniper,APIFOOTBALL,508,WON,338.33
 2026-07-25,K League 1,Pohang Steelers,Jeonbuk Motors,,OU,UNDER,2.5,1.666,43,0-1,oddsflow_active_trader,APIFOOTBALL,500,WON,333
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,4.5,1.727,47,2-1,oddsflow_active_trader,APIFOOTBALL,543,LOST,-543
+2026-07-25,K League 1,Gimcheon Sangmu FC,Daejeon Citizen,,OU,UNDER,4.5,1.727,47,2-1,oddsflow_handicap_sniper,APIFOOTBALL,533,LOST,-533
 2026-07-25,Brasileirão Série A,Atletico Paranaense,Internacional,,AH,HOME,-0.5,2.08,10,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,216
 2026-07-25,Brasileirão Série A,Atletico Paranaense,Internacional,,AH,HOME,-0.5,2.08,10,0-0,oddsflow_core_strategy,NOVA88,50,WON,54
 2026-07-25,Brasileirão Série A,Atletico Paranaense,Internacional,,AH,HOME,-0.5,2.04,10,0-0,oddsflow_core_strategy,HGA,100,WON,104
@@ -1085,20 +1085,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-26,K League 1,FC Anyang,Gangwon FC,,AH,AWAY,1,2.375,20,1-0,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
 2026-07-26,K League 1,FC Seoul,Ulsan Hyundai FC,,AH,HOME,-1.5,2.675,21,0-2,oddsflow_core_strategy,APIFOOTBALL,200,LOST,-200
 2026-07-26,K League 1,Incheon United,Bucheon FC 1995,,AH,AWAY,-0.5,2.075,23,0-0,oddsflow_core_strategy,APIFOOTBALL,200,WON,215
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,OU,OVER,2.5,2.01,37,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,OU,OVER,2.5,2.01,37,0-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,AWAY,0,3,49,1-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,AWAY,0,3,49,1-1,oddsflow_active_trader,NOVA88,15,LOST,-15
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,AWAY,0,3,49,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,AWAY,0,3,49,1-1,oddsflow_handicap_sniper,NOVA88,18,LOST,-18
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,DRAW,0,3.4,50,1-1,oddsflow_active_trader,APIFOOTBALL,500,WON,1200
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,DRAW,0,3.4,50,1-1,oddsflow_active_trader,NOVA88,15,WON,36
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,DRAW,0,3.4,50,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,1200
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,DRAW,0,3.4,50,1-1,oddsflow_handicap_sniper,NOVA88,18,WON,43.2
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,AH,AWAY,0,2.5,54,1-1,oddsflow_active_trader,APIFOOTBALL,522,VOID,0
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,AH,AWAY,0,2.5,54,1-1,oddsflow_handicap_sniper,APIFOOTBALL,513,VOID,0
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,OU,OVER,3.5,2.375,46,1-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
-2026-07-26,Brasileirão Série A,Bahia,Corinthians,,OU,OVER,3.5,2.375,46,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
 2026-07-26,Brasileirão Série A,Cruzeiro,Botafogo,,1X2,DRAW,0,3.65,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
 2026-07-26,Brasileirão Série A,Cruzeiro,Botafogo,,1X2,DRAW,0,3.65,35,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,1X2,HOME,0,2.22,35,1-0,oddsflow_active_trader,APIFOOTBALL,4,LOST,-4
@@ -1111,10 +1097,20 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-26,Brasileirão Série B,Criciuma,Nautico Recife,,1X2,HOME,0,1.75,35,0-0,oddsflow_active_trader,APIFOOTBALL,4,LOST,-4
 2026-07-26,Brasileirão Série B,Criciuma,Nautico Recife,,1X2,HOME,0,1.75,35,0-0,oddsflow_handicap_sniper,NOVA88,19,LOST,-19
 2026-07-26,Brasileirão Série B,Criciuma,Nautico Recife,,1X2,HOME,0,1.75,35,0-0,oddsflow_handicap_sniper,HGA,50,LOST,-50
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,OU,OVER,2.5,2.01,37,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,OU,OVER,2.5,2.01,37,0-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
 2026-07-26,Brasileirão Série B,Criciuma,Nautico Recife,,1X2,DRAW,0,3.4,46,0-0,oddsflow_handicap_sniper,APIFOOTBALL,4,WON,9.6
 2026-07-26,Brasileirão Série B,Criciuma,Nautico Recife,,1X2,DRAW,0,3.4,46,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,36
 2026-07-26,Brasileirão Série B,Criciuma,Nautico Recife,,1X2,DRAW,0,3.4,48,0-0,oddsflow_active_trader,APIFOOTBALL,4,WON,9.6
 2026-07-26,Brasileirão Série B,Criciuma,Nautico Recife,,1X2,DRAW,0,3.4,48,0-0,oddsflow_active_trader,NOVA88,15,WON,36
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,AWAY,0,3,49,1-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,AWAY,0,3,49,1-1,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,AWAY,0,3,49,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,AWAY,0,3,49,1-1,oddsflow_handicap_sniper,NOVA88,18,LOST,-18
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,DRAW,0,3.4,50,1-1,oddsflow_active_trader,APIFOOTBALL,500,WON,1200
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,DRAW,0,3.4,50,1-1,oddsflow_active_trader,NOVA88,15,WON,36
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,DRAW,0,3.4,50,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,1200
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,1X2,DRAW,0,3.4,50,1-1,oddsflow_handicap_sniper,NOVA88,18,WON,43.2
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,1X2,DRAW,0,2.88,49,1-1,oddsflow_handicap_sniper,APIFOOTBALL,4,LOST,-4
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,1X2,DRAW,0,2.88,49,1-1,oddsflow_handicap_sniper,NOVA88,44,LOST,-44
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,1X2,DRAW,0,2.18,49,1-1,oddsflow_handicap_sniper,HGA,50,LOST,-50
@@ -1124,12 +1120,16 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,AH,AWAY,0,2.18,55,1-1,oddsflow_core_strategy,HGA,100,WON,118
 2026-07-26,Brasileirão Série A,Cruzeiro,Botafogo,,1X2,AWAY,0,1.8,52,0-1,oddsflow_active_trader,APIFOOTBALL,500,WON,400
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,AH,AWAY,0,2.15,55,1-1,oddsflow_active_trader,APIFOOTBALL,4,WON,4.6
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,AH,AWAY,0,2.5,54,1-1,oddsflow_active_trader,APIFOOTBALL,522,VOID,0
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,AH,AWAY,0,2.15,55,1-1,oddsflow_handicap_sniper,APIFOOTBALL,4,WON,4.6
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,AH,AWAY,0,2.5,54,1-1,oddsflow_handicap_sniper,APIFOOTBALL,513,VOID,0
 2026-07-26,Brasileirão Série A,Cruzeiro,Botafogo,,1X2,AWAY,0,1.8,52,0-1,oddsflow_handicap_sniper,APIFOOTBALL,500,WON,400
 2026-07-26,Brasileirão Série A,Cruzeiro,Botafogo,,1X2,AWAY,0,4,52,0-1,oddsflow_active_trader,NOVA88,50,WON,150
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,AH,AWAY,0,2.18,55,1-1,oddsflow_active_trader,HGA,100,WON,118
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,AH,AWAY,0,2.18,55,1-1,oddsflow_handicap_sniper,HGA,100,WON,118
 2026-07-26,Brasileirão Série A,Cruzeiro,Botafogo,,1X2,AWAY,0,4,52,0-1,oddsflow_handicap_sniper,NOVA88,50,WON,150
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,OU,OVER,3.5,2.375,46,1-1,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
+2026-07-26,Brasileirão Série A,Bahia,Corinthians,,OU,OVER,3.5,2.375,46,1-1,oddsflow_handicap_sniper,APIFOOTBALL,500,LOST,-500
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,OU,UNDER,3.5,2.375,59,1-1,oddsflow_active_trader,APIFOOTBALL,4,LOST,-4
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,OU,UNDER,3.5,2.375,59,1-1,oddsflow_handicap_sniper,APIFOOTBALL,4,LOST,-4
 2026-07-26,Brasileirão Série B,São Bernardo,Ceara,,OU,UNDER,2,1.94,59,1-1,oddsflow_active_trader,NOVA88,50,LOST,-50
@@ -1176,8 +1176,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-07-26,Brasileirão Série A,Flamengo,Sao Paulo,,1X2,HOME,0,1.571,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,634,LOST,-634
 2026-07-26,Brasileirão Série B,Londrina,Novorizontino,,1X2,DRAW,0,3.2,35,1-1,oddsflow_handicap_sniper,NOVA88,24,LOST,-24
 2026-07-26,Brasileirão Série A,Flamengo,Sao Paulo,,1X2,HOME,0,1.72,35,0-0,oddsflow_handicap_sniper,HGA,73,LOST,-73
-2026-07-26,Brasileirão Série B,Londrina,Novorizontino,,OU,OVER,2.5,2.5,35,1-1,oddsflow_active_trader,APIFOOTBALL,4,WON,6
 2026-07-26,Brasileirão Série A,Flamengo,Sao Paulo,,AH,HOME,-1.5,2.6,35,0-0,oddsflow_active_trader,APIFOOTBALL,500,LOST,-500
+2026-07-26,Brasileirão Série B,Londrina,Novorizontino,,OU,OVER,2.5,2.5,35,1-1,oddsflow_active_trader,APIFOOTBALL,4,WON,6
 2026-07-26,Brasileirão Série B,Londrina,Novorizontino,,1X2,DRAW,0,2.83,35,1-1,oddsflow_handicap_sniper,HGA,50,LOST,-50
 2026-07-26,Brasileirão Série A,Flamengo,Sao Paulo,,1X2,HOME,0,1.571,35,0-0,oddsflow_active_trader,APIFOOTBALL,528,LOST,-528
 2026-07-26,Brasileirão Série B,Londrina,Novorizontino,,1X2,DRAW,0,3.1,35,1-1,oddsflow_active_trader,APIFOOTBALL,4,LOST,-4
