@@ -3098,3 +3098,264 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-11-02,Chilean Primera División,Concepción,Palestino,,AH,HOME,0,2.35,51,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-11-02,Colombian Primera B,Union Magdalena,Envigado,,AH,AWAY,0,2.55,79,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-11-02,Colombian Primera B,Union Magdalena,Envigado,,AH,AWAY,0,2.55,79,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Liga Profesional Argentina,Independiente Rivadavia,Banfield,,AH,AWAY,-0.5,1.825,45,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Liga Profesional Argentina,Independiente Rivadavia,Banfield,,AH,AWAY,-0.5,1.84,45,2-1,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-11-03,Liga Profesional Argentina,Independiente Rivadavia,Banfield,,AH,AWAY,-0.5,1.825,45,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Liga Profesional Argentina,Independiente Rivadavia,Banfield,,AH,AWAY,-0.5,1.84,45,2-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-11-03,Liga Profesional Argentina,Atletico Tucuman,Argentinos Juniors,,AH,HOME,-0.25,2.39,45,0-2,oddsflow_active_trader,NOVA88,15,WON,20.85
+2026-11-03,Liga Profesional Argentina,Atletico Tucuman,Argentinos Juniors,,AH,HOME,-0.25,2.39,45,0-2,oddsflow_handicap_sniper,NOVA88,15,WON,20.85
+2026-11-03,Liga Profesional Argentina,Independiente Rivadavia,Banfield,,AH,AWAY,-0.25,2.05,45,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,26.25
+2026-11-03,Liga Profesional Argentina,Independiente Rivadavia,Banfield,,AH,AWAY,-0.25,2.1,45,3-1,oddsflow_handicap_sniper,NOVA88,15,HALF_WON,8.25
+2026-11-03,Liga Profesional Argentina,Independiente Rivadavia,Banfield,,AH,AWAY,-0.25,2.05,45,3-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,26.25
+2026-11-03,Liga Profesional Argentina,Independiente Rivadavia,Banfield,,AH,AWAY,-0.25,2.1,45,3-1,oddsflow_active_trader,NOVA88,15,HALF_WON,8.25
+2026-11-03,Liga Profesional Argentina,Independiente Rivadavia,Banfield,,OU,UNDER,5.5,1.775,45,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-11-03,Liga Profesional Argentina,Independiente Rivadavia,Banfield,,OU,UNDER,5.5,1.775,45,3-1,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-11-03,Liga Profesional Argentina,Atletico Tucuman,Argentinos Juniors,,AH,AWAY,0,2.3,65,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Liga Profesional Argentina,Atletico Tucuman,Argentinos Juniors,,AH,AWAY,0,2.3,65,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Bucaramanga,Atletico Nacional,,1X2,AWAY,0,1.66,35,0-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-11-03,Colombian Primera A,Bucaramanga,Atletico Nacional,,AH,AWAY,-0.25,1.875,37,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Bucaramanga,Atletico Nacional,,AH,AWAY,-0.25,1.91,37,0-1,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-11-03,Colombian Primera A,Bucaramanga,Atletico Nacional,,OU,UNDER,2.5,2.025,39,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-11-03,Colombian Primera A,Bucaramanga,Atletico Nacional,,OU,UNDER,2.5,2.025,39,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-11-03,Liga Profesional Argentina,Independiente Rivadavia,Banfield,,AH,AWAY,0,2.425,78,3-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-03,Liga Profesional Argentina,Independiente Rivadavia,Banfield,,AH,AWAY,0,2.425,78,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-03,Colombian Primera A,Bucaramanga,Atletico Nacional,,AH,AWAY,-0.25,1.9,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Bucaramanga,Atletico Nacional,,AH,AWAY,-0.25,1.92,45,0-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-11-03,Colombian Primera A,Bucaramanga,Atletico Nacional,,AH,AWAY,0,2.6,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Bucaramanga,Atletico Nacional,,AH,AWAY,0,2.6,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Bucaramanga,Atletico Nacional,,1X2,AWAY,0,1.533,49,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Bucaramanga,Atletico Nacional,,1X2,AWAY,0,1.533,49,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Bucaramanga,Atletico Nacional,,1X2,DRAW,0,1.8,76,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,40
+2026-11-03,Colombian Primera A,Bucaramanga,Atletico Nacional,,1X2,DRAW,0,1.8,76,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,40
+2026-11-03,J3 League,FC Ryukyu,FC Gifu,,OU,UNDER,4.5,2,50,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,J3 League,FC Ryukyu,FC Gifu,,1X2,HOME,0,1.615,50,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,J3 League,FC Ryukyu,FC Gifu,,OU,UNDER,4.5,2,50,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,J3 League,FC Ryukyu,FC Gifu,,1X2,HOME,0,1.615,50,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,J3 League,FC Ryukyu,FC Gifu,,AH,HOME,0.25,1.95,53,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,J3 League,FC Ryukyu,FC Gifu,,AH,HOME,0.25,1.8,54,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,J3 League,FC Ryukyu,FC Gifu,,AH,HOME,0.25,1.85,54,2-2,oddsflow_handicap_sniper,NOVA88,17,LOST,-17
+2026-11-03,J3 League,FC Ryukyu,FC Gifu,,1X2,DRAW,0,2.75,54,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,J3 League,FC Ryukyu,FC Gifu,,1X2,DRAW,0,2.55,54,2-2,oddsflow_handicap_sniper,NOVA88,19,LOST,-19
+2026-11-03,J3 League,FC Ryukyu,FC Gifu,,1X2,DRAW,0,2.75,54,2-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Newcastle Jets,Shanghai SIPG,,AH,HOME,0.25,1.8,40,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,20
+2026-11-03,AFC Champions League Elite,Newcastle Jets,Shanghai SIPG,,AH,HOME,0.25,1.8,40,0-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,20
+2026-11-03,J3 League,FC Ryukyu,FC Gifu,,AH,HOME,0,2.3,65,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,J3 League,FC Ryukyu,FC Gifu,,AH,HOME,0,2.3,65,2-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Newcastle Jets,Shanghai SIPG,,AH,HOME,0,2.25,44,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-03,AFC Champions League Elite,Newcastle Jets,Shanghai SIPG,,AH,HOME,0,2.25,44,0-2,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-03,AFC Champions League Elite,Newcastle Jets,Shanghai SIPG,,OU,UNDER,3.5,2.3,45,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Newcastle Jets,Shanghai SIPG,,OU,UNDER,3.5,2.3,45,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Newcastle Jets,Shanghai SIPG,,AH,AWAY,0,2.075,80,1-3,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-03,AFC Champions League Elite,Newcastle Jets,Shanghai SIPG,,AH,AWAY,0,2.075,80,1-3,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-03,AFC Champions League Elite,Kashiwa Reysol,Daejeon Citizen,,AH,AWAY,-0.75,1.98,35,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-11-03,AFC Champions League Elite,Jeonbuk Motors,Johor Darul Takzim FC,,1X2,HOME,0,1.89,35,1-0,oddsflow_handicap_sniper,NOVA88,38,WON,33.82
+2026-11-03,AFC Champions League Elite,Kashiwa Reysol,Daejeon Citizen,,AH,AWAY,-0.75,1.98,35,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-11-03,AFC Champions League Elite,Jeonbuk Motors,Johor Darul Takzim FC,,AH,HOME,0.5,1.9,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45
+2026-11-03,AFC Champions League Elite,Kashiwa Reysol,Daejeon Citizen,,AH,AWAY,-0.75,1.975,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Kashiwa Reysol,Daejeon Citizen,,AH,AWAY,-0.75,1.975,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Jeonbuk Motors,Johor Darul Takzim FC,,AH,HOME,0.5,1.9,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,45
+2026-11-03,AFC Champions League Elite,Jeonbuk Motors,Johor Darul Takzim FC,,1X2,HOME,0,1.909,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45.45
+2026-11-03,AFC Champions League Elite,Jeonbuk Motors,Johor Darul Takzim FC,,AH,HOME,0.5,1.93,35,1-0,oddsflow_handicap_sniper,NOVA88,37,WON,34.41
+2026-11-03,AFC Champions League Elite,Jeonbuk Motors,Johor Darul Takzim FC,,1X2,HOME,0,1.909,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,45.45
+2026-11-03,AFC Champions League Elite,Jeonbuk Motors,Johor Darul Takzim FC,,AH,AWAY,-0.25,2.025,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Jeonbuk Motors,Johor Darul Takzim FC,,AH,AWAY,-0.25,2.025,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Kashiwa Reysol,Daejeon Citizen,,AH,AWAY,-0.75,1.825,45,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Kashiwa Reysol,Daejeon Citizen,,AH,AWAY,-0.75,1.84,45,0-0,oddsflow_beta,NOVA88,17,LOST,-17
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-1,1.875,45,1-0,oddsflow_beta,APIFOOTBALL,50,WON,43.75
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-1,1.96,45,1-0,oddsflow_beta,NOVA88,30,WON,28.8
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-1,1.875,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,43.75
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-1,1.96,45,1-0,oddsflow_active_trader,NOVA88,28,WON,26.88
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-1,1.875,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,43.75
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-1,1.96,45,1-0,oddsflow_handicap_sniper,NOVA88,27,WON,25.92
+2026-11-03,AFC Champions League Elite,Kashiwa Reysol,Daejeon Citizen,,AH,AWAY,-0.5,2.23,45,0-0,oddsflow_handicap_sniper,NOVA88,22,LOST,-22
+2026-11-03,AFC Champions League Elite,Jeonbuk Motors,Johor Darul Takzim FC,,AH,HOME,0.25,2.16,45,2-0,oddsflow_handicap_sniper,NOVA88,19,HALF_WON,11.02
+2026-11-03,AFC Champions League Elite,Kashiwa Reysol,Daejeon Citizen,,AH,AWAY,-0.5,2.23,45,0-0,oddsflow_beta,NOVA88,21,LOST,-21
+2026-11-03,AFC Champions League Elite,Jeonbuk Motors,Johor Darul Takzim FC,,OU,UNDER,3.5,2,45,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-11-03,AFC Champions League Elite,Jeonbuk Motors,Johor Darul Takzim FC,,OU,UNDER,3.5,2,45,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-11-03,AFC Champions League Elite,Kashiwa Reysol,Daejeon Citizen,,AH,AWAY,-0.5,2.15,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Kashiwa Reysol,Daejeon Citizen,,AH,AWAY,-0.5,2.15,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Kashiwa Reysol,Daejeon Citizen,,AH,AWAY,-0.5,2.15,45,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-0.75,2.05,47,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-0.75,2.09,47,1-0,oddsflow_active_trader,NOVA88,19,WON,20.71
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-0.75,2.05,47,1-0,oddsflow_beta,APIFOOTBALL,50,WON,52.5
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-0.75,2.09,47,1-0,oddsflow_beta,NOVA88,18,WON,19.62
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-0.75,2.05,47,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-0.75,2.09,47,1-0,oddsflow_handicap_sniper,NOVA88,17,WON,18.53
+2026-11-03,AFC Champions League Elite,Kashiwa Reysol,Daejeon Citizen,,AH,AWAY,-0.25,2.05,55,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Kashiwa Reysol,Daejeon Citizen,,AH,AWAY,-0.25,2.11,55,1-0,oddsflow_active_trader,NOVA88,20,LOST,-20
+2026-11-03,AFC Champions League Elite,Kashiwa Reysol,Daejeon Citizen,,AH,AWAY,-0.25,2.05,55,1-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Kashiwa Reysol,Daejeon Citizen,,AH,AWAY,-0.25,2.11,55,1-0,oddsflow_beta,NOVA88,20,LOST,-20
+2026-11-03,AFC Champions League Elite,Kashiwa Reysol,Daejeon Citizen,,AH,AWAY,-0.25,2.05,55,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Kashiwa Reysol,Daejeon Citizen,,AH,AWAY,-0.25,2.11,55,1-0,oddsflow_handicap_sniper,NOVA88,19,LOST,-19
+2026-11-03,AFC Champions League Elite,Jeonbuk Motors,Johor Darul Takzim FC,,AH,HOME,0.25,2.15,54,2-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,28.75
+2026-11-03,AFC Champions League Elite,Jeonbuk Motors,Johor Darul Takzim FC,,AH,HOME,0.25,2.15,54,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,28.75
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-0.5,2.05,55,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-0.5,2.09,55,1-0,oddsflow_active_trader,NOVA88,15,WON,16.35
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-0.5,2.05,55,1-0,oddsflow_beta,APIFOOTBALL,50,WON,52.5
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-0.5,2.09,55,1-0,oddsflow_beta,NOVA88,15,WON,16.35
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-0.5,2.05,55,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-0.5,2.09,55,1-0,oddsflow_handicap_sniper,NOVA88,15,WON,16.35
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,1X2,DRAW,0,2.25,66,1-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,1X2,DRAW,0,2.25,67,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,1X2,DRAW,0,2.1,72,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-0.25,2.5,74,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-0.25,2.5,74,1-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Vissel Kobe,Ratchaburi,,AH,AWAY,-0.25,2.5,75,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Portuguese Liga Revelação U23,Estrela U23,Santa Clara U23,,AH,AWAY,-0.25,1.8,37,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Portuguese Liga Revelação U23,Estrela U23,Santa Clara U23,,1X2,DRAW,0,3,37,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Portuguese Liga Revelação U23,Estrela U23,Santa Clara U23,,AH,AWAY,-0.25,1.8,37,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Jeonbuk Motors,Johor Darul Takzim FC,,AH,HOME,0,2.375,80,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-03,AFC Champions League Elite,Jeonbuk Motors,Johor Darul Takzim FC,,AH,HOME,0,2.45,80,2-0,oddsflow_handicap_sniper,NOVA88,24,VOID,0
+2026-11-03,AFC Champions League Elite,Jeonbuk Motors,Johor Darul Takzim FC,,AH,HOME,0,2.375,80,2-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-03,AFC Champions League Elite,Jeonbuk Motors,Johor Darul Takzim FC,,AH,HOME,0,2.45,80,2-0,oddsflow_active_trader,NOVA88,23,VOID,0
+2026-11-03,Portuguese Liga Revelação U23,Estrela U23,Santa Clara U23,,AH,AWAY,0,2.05,39,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Portuguese Liga Revelação U23,Estrela U23,Santa Clara U23,,AH,AWAY,0,2.05,39,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Portuguese Liga Revelação U23,Estrela U23,Santa Clara U23,,AH,AWAY,0,2.12,39,1-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-11-03,Portuguese Liga Revelação U23,Estrela U23,Santa Clara U23,,AH,AWAY,0,2.12,39,1-1,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-11-03,Portuguese Liga Revelação U23,Estrela U23,Santa Clara U23,,AH,AWAY,0.25,2.35,45,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Portuguese Liga Revelação U23,Estrela U23,Santa Clara U23,,AH,AWAY,0.25,2.35,45,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Công An Nhân Dân,Kyoto Sanga,,AH,AWAY,0,2.3,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-03,AFC Champions League Elite,Công An Nhân Dân,Kyoto Sanga,,AH,AWAY,0,2.3,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-03,AFC Champions League Elite,Công An Nhân Dân,Kyoto Sanga,,AH,AWAY,-0.25,1.775,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,19.37
+2026-11-03,AFC Champions League Elite,Công An Nhân Dân,Kyoto Sanga,,AH,AWAY,-0.25,1.775,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,19.37
+2026-11-03,AFC Champions League Elite,Port FC,Beijing Guoan,,AH,AWAY,0.5,1.85,36,3-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Port FC,Beijing Guoan,,AH,AWAY,0.5,1.9,36,3-2,oddsflow_handicap_sniper,NOVA88,19,LOST,-19
+2026-11-03,AFC Champions League Elite,Port FC,Beijing Guoan,,AH,AWAY,0.5,1.85,37,3-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Port FC,Beijing Guoan,,AH,AWAY,0.5,1.9,37,3-2,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-11-03,AFC Champions League Elite,Công An Nhân Dân,Kyoto Sanga,,1X2,DRAW,0,2.625,40,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,81.25
+2026-11-03,AFC Champions League Elite,Công An Nhân Dân,Kyoto Sanga,,AH,AWAY,0.25,2.6,41,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-03,AFC Champions League Elite,Công An Nhân Dân,Kyoto Sanga,,AH,AWAY,0.25,2.6,41,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-03,AFC Champions League Elite,Công An Nhân Dân,Kyoto Sanga,,1X2,DRAW,0,2.625,50,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,81.25
+2026-11-03,AFC Champions League Elite,Công An Nhân Dân,Kyoto Sanga,,OU,UNDER,1.5,1.75,51,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,37.5
+2026-11-03,AFC Champions League Elite,Công An Nhân Dân,Kyoto Sanga,,OU,UNDER,1.5,1.75,51,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,37.5
+2026-11-03,AFC Champions League Elite,Port FC,Beijing Guoan,,AH,AWAY,-0.25,1.9,58,3-4,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Port FC,Beijing Guoan,,1X2,AWAY,0,1.615,58,3-4,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Port FC,Beijing Guoan,,AH,AWAY,-0.25,1.9,58,3-4,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Elite,Port FC,Beijing Guoan,,1X2,AWAY,0,1.615,58,3-4,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Croatian Cup,Mladost Ždralovi,NK Slaven Belupo,,AH,AWAY,0.25,1.75,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Croatian Cup,Mladost Ždralovi,NK Slaven Belupo,,AH,AWAY,0.25,1.75,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Croatian Cup,Mladost Ždralovi,NK Slaven Belupo,,AH,AWAY,0.75,2.6,36,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Croatian Cup,Mladost Ždralovi,NK Slaven Belupo,,AH,AWAY,0.75,2.6,36,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Croatian Cup,Mladost Ždralovi,NK Slaven Belupo,,1X2,HOME,0,1.571,56,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,28.55
+2026-11-03,Croatian Cup,Mladost Ždralovi,NK Slaven Belupo,,1X2,HOME,0,1.5,61,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,25
+2026-11-03,Croatian Cup,Mladost Ždralovi,NK Slaven Belupo,,AH,HOME,0,2.5,69,2-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-03,Croatian Cup,Mladost Ždralovi,NK Slaven Belupo,,AH,HOME,0,2.5,69,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-03,Portuguese Liga Revelação U23,Vizela U23,Portimonense U23,,AH,AWAY,-0.75,1.8,45,0-2,oddsflow_handicap_sniper,NOVA88,15,HALF_LOST,-7.5
+2026-11-03,Portuguese Liga Revelação U23,Vizela U23,Portimonense U23,,AH,AWAY,-0.75,1.8,45,0-2,oddsflow_active_trader,NOVA88,15,HALF_LOST,-7.5
+2026-11-03,Portuguese Liga Revelação U23,Gil Vicente U23,Felgueiras U23,,AH,HOME,0.25,2.03,46,2-2,oddsflow_handicap_sniper,NOVA88,42,WON,43.26
+2026-11-03,Portuguese Liga Revelação U23,Gil Vicente U23,Felgueiras U23,,1X2,HOME,0,3.7,46,2-2,oddsflow_handicap_sniper,NOVA88,18,WON,48.6
+2026-11-03,Portuguese Liga Revelação U23,Gil Vicente U23,Felgueiras U23,,AH,HOME,0.25,2.03,46,2-2,oddsflow_active_trader,NOVA88,44,WON,45.32
+2026-11-03,Portuguese Liga Revelação U23,Gil Vicente U23,Felgueiras U23,,1X2,HOME,0,3.7,46,2-2,oddsflow_active_trader,NOVA88,15,WON,40.5
+2026-11-03,Portuguese Liga Revelação U23,Vizela U23,Portimonense U23,,AH,AWAY,-0.75,1.825,46,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-03,Portuguese Liga Revelação U23,Gil Vicente U23,Felgueiras U23,,AH,HOME,0.25,2,47,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-11-03,Portuguese Liga Revelação U23,Gil Vicente U23,Felgueiras U23,,AH,HOME,0.25,2,47,2-2,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-11-03,Portuguese Liga Revelação U23,Vizela U23,Portimonense U23,,AH,AWAY,-0.75,1.825,46,0-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-03,Portuguese Liga Revelação U23,Gil Vicente U23,Felgueiras U23,,1X2,HOME,0,1.727,50,3-2,oddsflow_active_trader,APIFOOTBALL,50,WON,36.35
+2026-11-03,Portuguese Liga Revelação U23,Gil Vicente U23,Felgueiras U23,,1X2,HOME,0,1.727,50,3-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.35
+2026-11-03,Portuguese Liga Revelação U23,Vizela U23,Portimonense U23,,AH,AWAY,-0.5,2.05,49,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Portuguese Liga Revelação U23,Vizela U23,Portimonense U23,,AH,AWAY,-0.5,2.05,49,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Portuguese Liga Revelação U23,Vizela U23,Portimonense U23,,OU,UNDER,3.5,1.775,51,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-11-03,Portuguese Liga Revelação U23,Vizela U23,Portimonense U23,,AH,AWAY,-0.25,2.55,51,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Portuguese Liga Revelação U23,Vizela U23,Portimonense U23,,OU,UNDER,3.5,1.775,51,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-11-03,Portuguese Liga Revelação U23,Vizela U23,Portimonense U23,,AH,AWAY,-0.25,2.55,51,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Portuguese Liga Revelação U23,Gil Vicente U23,Felgueiras U23,,AH,HOME,0.5,1.8,53,4-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Portuguese Liga Revelação U23,Gil Vicente U23,Felgueiras U23,,AH,HOME,0.5,1.8,53,4-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Portuguese Liga Revelação U23,Gil Vicente U23,Felgueiras U23,,AH,HOME,0.5,1.8,53,4-2,oddsflow_active_trader,NOVA88,31,LOST,-31
+2026-11-03,Portuguese Liga Revelação U23,Marítimo U23,Moreirense U23,,1X2,HOME,0,1.85,55,1-0,oddsflow_handicap_sniper,NOVA88,15,WON,12.75
+2026-11-03,Portuguese Liga Revelação U23,Marítimo U23,Moreirense U23,,AH,HOME,0.5,1.825,56,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,41.25
+2026-11-03,Portuguese Liga Revelação U23,Marítimo U23,Moreirense U23,,AH,HOME,0.5,1.83,56,1-0,oddsflow_active_trader,NOVA88,15,WON,12.45
+2026-11-03,Portuguese Liga Revelação U23,Marítimo U23,Moreirense U23,,AH,HOME,0.5,1.825,56,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,41.25
+2026-11-03,Portuguese Liga Revelação U23,Marítimo U23,Moreirense U23,,AH,HOME,0.5,1.84,56,1-0,oddsflow_handicap_sniper,NOVA88,15,WON,12.6
+2026-11-03,Portuguese Liga Revelação U23,Marítimo U23,Moreirense U23,,AH,HOME,0.25,2.15,57,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,28.75
+2026-11-03,Portuguese Liga Revelação U23,Marítimo U23,Moreirense U23,,AH,HOME,0.25,2.15,58,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,28.75
+2026-11-03,Portuguese Liga Revelação U23,Marítimo U23,Moreirense U23,,1X2,HOME,0,1.615,66,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,30.75
+2026-11-03,Portuguese Liga Revelação U23,Marítimo U23,Moreirense U23,,1X2,HOME,0,1.615,66,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,30.75
+2026-11-03,AFC Champions League Two,Al Hussein,Al Shorta,,AH,AWAY,-0.25,1.875,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,43.75
+2026-11-03,AFC Champions League Two,Al Hussein,Al Shorta,,1X2,AWAY,0,1.615,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,30.75
+2026-11-03,AFC Champions League Two,Al Hussein,Al Shorta,,AH,AWAY,-0.25,1.875,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,43.75
+2026-11-03,AFC Champions League Two,Al Hussein,Al Shorta,,1X2,AWAY,0,1.615,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,30.75
+2026-11-03,AFC Champions League Elite,Esteghlal FC,Al Shamal,,AH,HOME,0,1.87,35,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,13.05
+2026-11-03,AFC Champions League Elite,Esteghlal FC,Al Shamal,,AH,HOME,0,1.87,35,0-0,oddsflow_active_trader,NOVA88,15,WON,13.05
+2026-11-03,AFC Champions League Elite,Esteghlal FC,Al Shamal,,1X2,HOME,0,2.88,35,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,28.2
+2026-11-03,AFC Champions League Elite,Esteghlal FC,Al Shamal,,AH,HOME,-0.25,2.61,41,0-0,oddsflow_active_trader,NOVA88,19,WON,30.59
+2026-11-03,AFC Champions League Elite,Esteghlal FC,Al Shamal,,AH,HOME,-0.25,2.61,41,0-0,oddsflow_handicap_sniper,NOVA88,22,WON,35.42
+2026-11-03,AFC Champions League Two,Al Hussein,Al Shorta,,AH,AWAY,0,2.35,42,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,67.5
+2026-11-03,AFC Champions League Two,Al Hussein,Al Shorta,,OU,UNDER,2.5,2,42,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,AFC Champions League Two,Al Hussein,Al Shorta,,AH,AWAY,0,2.35,42,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,67.5
+2026-11-03,AFC Champions League Two,Al Hussein,Al Shorta,,OU,UNDER,2.5,2,42,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Croatian Cup,Istra 1961,Neretva Metković,,AH,AWAY,-1.25,1.975,45,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,24.38
+2026-11-03,Croatian Cup,Istra 1961,Neretva Metković,,AH,AWAY,-1.25,1.975,45,2-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,24.38
+2026-11-03,Croatian Cup,Istra 1961,Neretva Metković,,OU,UNDER,4.5,1.55,45,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,27.5
+2026-11-03,Croatian Cup,Istra 1961,Neretva Metković,,OU,UNDER,4.5,1.55,45,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,27.5
+2026-11-03,Croatian Cup,Istra 1961,Neretva Metković,,AH,AWAY,-1,2.05,53,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-03,Croatian Cup,Istra 1961,Neretva Metković,,AH,AWAY,-1,2.05,53,2-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-03,Croatian Cup,Istra 1961,Neretva Metković,,OU,UNDER,3.5,2,56,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-11-03,Croatian Cup,Istra 1961,Neretva Metković,,OU,UNDER,3.5,2,56,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-11-03,Croatian Cup,Istra 1961,Neretva Metković,,AH,AWAY,-0.75,2.075,60,2-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-03,Croatian Cup,Istra 1961,Neretva Metković,,AH,AWAY,-0.75,2.075,60,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-03,Croatian Cup,Istra 1961,Neretva Metković,,AH,AWAY,-0.5,2.05,70,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Croatian Cup,Istra 1961,Neretva Metković,,AH,AWAY,-0.5,2.05,70,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Polish I Liga,Chrobry Głogów,Arka Gdynia,,AH,HOME,0.25,1.8,36,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,20
+2026-11-03,AFC Champions League Elite,Esteghlal FC,Al Shamal,,AH,AWAY,0,2.23,80,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-11-03,AFC Champions League Elite,Esteghlal FC,Al Shamal,,AH,AWAY,0,2.25,80,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-11-03,Polish I Liga,Chrobry Głogów,Arka Gdynia,,AH,HOME,0.25,1.8,36,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,20
+2026-11-03,Polish I Liga,Chrobry Głogów,Arka Gdynia,,AH,HOME,0.25,1.83,36,0-0,oddsflow_handicap_sniper,NOVA88,15,HALF_WON,6.23
+2026-11-03,Polish I Liga,Chrobry Głogów,Arka Gdynia,,AH,HOME,0,2.425,38,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-03,Polish I Liga,Chrobry Głogów,Arka Gdynia,,AH,HOME,0,2.425,38,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-03,Polish I Liga,Pogoń Siedlce,Ruch Chorzów,,AH,HOME,0.75,2.05,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-03,Polish I Liga,Pogoń Siedlce,Ruch Chorzów,,AH,HOME,0.75,2.08,35,1-0,oddsflow_handicap_sniper,NOVA88,19,HALF_LOST,-9.5
+2026-11-03,Polish I Liga,Pogoń Siedlce,Ruch Chorzów,,1X2,HOME,0,2.38,35,1-0,oddsflow_handicap_sniper,NOVA88,16,LOST,-16
+2026-11-03,Polish I Liga,Pogoń Siedlce,Ruch Chorzów,,AH,HOME,0.75,2.05,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-03,Polish I Liga,Pogoń Siedlce,Ruch Chorzów,,AH,HOME,0.75,2.08,35,1-0,oddsflow_active_trader,NOVA88,15,HALF_LOST,-7.5
+2026-11-03,Polish I Liga,Pogoń Siedlce,Ruch Chorzów,,1X2,HOME,0,2.38,35,1-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-11-03,Polish I Liga,Pogoń Siedlce,Ruch Chorzów,,1X2,HOME,0,2.3,37,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Polish I Liga,Pogoń Siedlce,Ruch Chorzów,,1X2,HOME,0,2.3,37,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Polish I Liga,Pogoń Siedlce,Ruch Chorzów,,OU,UNDER,2.5,2,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-11-03,Polish I Liga,Pogoń Siedlce,Ruch Chorzów,,OU,UNDER,2.5,2,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-11-03,Polish I Liga,Pogoń Siedlce,Ruch Chorzów,,AH,HOME,0.5,2.23,46,1-0,oddsflow_handicap_sniper,NOVA88,20,LOST,-20
+2026-11-03,Polish I Liga,Pogoń Siedlce,Ruch Chorzów,,AH,HOME,0.5,2.05,49,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Polish I Liga,Pogoń Siedlce,Ruch Chorzów,,AH,HOME,0.5,2.05,49,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Polish I Liga,Pogoń Siedlce,Ruch Chorzów,,OU,OVER,1.5,1.93,57,1-0,oddsflow_handicap_sniper,NOVA88,45,WON,41.85
+2026-11-03,Polish I Liga,Pogoń Siedlce,Ruch Chorzów,,OU,OVER,1.5,1.93,57,1-0,oddsflow_active_trader,NOVA88,45,WON,41.85
+2026-11-03,Polish I Liga,Pogoń Siedlce,Ruch Chorzów,,AH,AWAY,0.25,2.04,57,1-0,oddsflow_active_trader,NOVA88,15,WON,15.6
+2026-11-03,Polish I Liga,Pogoń Siedlce,Ruch Chorzów,,AH,AWAY,0.25,2.08,57,1-0,oddsflow_handicap_sniper,NOVA88,15,WON,16.2
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,AH,AWAY,-0.75,1.81,42,0-0,oddsflow_active_trader,NOVA88,21,LOST,-21
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,AH,AWAY,-0.75,1.81,42,0-0,oddsflow_handicap_sniper,NOVA88,25,LOST,-25
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,AH,AWAY,-0.75,1.75,42,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,AH,AWAY,-0.75,1.75,42,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,1X2,DRAW,0,2.875,43,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,1X2,DRAW,0,2.81,43,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-11-03,Brasileirão Série A,Chapecoense,Mirassol,,AH,HOME,0,2.15,66,1-2,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-03,Brasileirão Série A,Chapecoense,Mirassol,,AH,HOME,0,2.15,66,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,OU,UNDER,1.5,1.75,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,OU,UNDER,1.5,1.75,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,AH,AWAY,-0.25,2.675,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,AH,AWAY,-0.5,2,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,AH,AWAY,-0.5,2.03,45,0-0,oddsflow_active_trader,NOVA88,21,LOST,-21
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,AH,AWAY,-0.5,2,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,AH,AWAY,-0.5,2.03,45,0-0,oddsflow_handicap_sniper,NOVA88,20,LOST,-20
+2026-11-03,Venezuelan Primera División,Deportivo Tachira FC,Puerto Cabello,,1X2,HOME,0,2.86,35,1-1,oddsflow_handicap_sniper,NOVA88,15,WON,27.9
+2026-11-03,Venezuelan Primera División,Deportivo Tachira FC,Puerto Cabello,,AH,HOME,0,1.95,35,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
+2026-11-03,Venezuelan Primera División,Deportivo Tachira FC,Puerto Cabello,,AH,HOME,0,1.95,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,47.5
+2026-11-03,Venezuelan Primera División,Deportivo Tachira FC,Puerto Cabello,,1X2,HOME,0,3,37,1-1,oddsflow_active_trader,NOVA88,15,WON,30
+2026-11-03,Venezuelan Primera División,Deportivo Tachira FC,Puerto Cabello,,AH,HOME,0.25,1.73,37,1-1,oddsflow_active_trader,NOVA88,36,WON,26.28
+2026-11-03,Venezuelan Primera División,Deportivo Tachira FC,Puerto Cabello,,AH,HOME,0.25,1.73,37,1-1,oddsflow_handicap_sniper,NOVA88,37,WON,27.01
+2026-11-03,Venezuelan Primera División,Deportivo Tachira FC,Puerto Cabello,,1X2,HOME,0,3.1,40,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,105
+2026-11-03,Venezuelan Primera División,Deportivo Tachira FC,Puerto Cabello,,1X2,DRAW,0,2.6,45,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-03,Venezuelan Primera División,Deportivo Tachira FC,Puerto Cabello,,OU,UNDER,3.5,1.75,45,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Venezuelan Primera División,Deportivo Tachira FC,Puerto Cabello,,1X2,DRAW,0,2.6,45,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,AH,AWAY,-0.5,1.94,47,0-0,oddsflow_beta,NOVA88,18,LOST,-18
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,AH,AWAY,-0.5,1.9,47,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,1X2,DRAW,0,2.48,49,0-0,oddsflow_beta,NOVA88,15,LOST,-15
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,1X2,DRAW,0,2.2,59,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,AH,AWAY,-0.25,2.075,60,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,AH,AWAY,-0.25,2.12,60,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,AH,AWAY,-0.25,2.05,62,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,1X2,DRAW,0,2.1,62,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,AH,AWAY,-0.25,2.12,62,0-0,oddsflow_beta,NOVA88,20,LOST,-20
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,OU,OVER,0.5,1.525,66,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,26.25
+2026-11-03,Colombian Primera A,Deportivo Pasto,Jaguares,,OU,OVER,0.5,1.525,66,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,26.25
+2026-11-03,Venezuelan Primera División,Deportivo Tachira FC,Puerto Cabello,,AH,HOME,-0.25,2.25,53,1-2,oddsflow_active_trader,NOVA88,18,WON,22.5
+2026-11-03,Venezuelan Primera División,Deportivo Tachira FC,Puerto Cabello,,AH,HOME,-0.25,2.25,53,1-2,oddsflow_handicap_sniper,NOVA88,20,WON,25
+2026-11-03,Venezuelan Primera División,Deportivo Tachira FC,Puerto Cabello,,AH,HOME,-0.25,2.15,53,1-2,oddsflow_active_trader,APIFOOTBALL,50,WON,57.5
+2026-11-03,Venezuelan Primera División,Deportivo Tachira FC,Puerto Cabello,,AH,HOME,-0.25,2.15,53,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,57.5
