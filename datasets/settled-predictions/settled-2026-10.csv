@@ -4700,6 +4700,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-03,Eerste Divisie,Den Bosch,Dordrecht,,AH,AWAY,-0.25,2.05,49,0-0,oddsflow_beta,APIFOOTBALL,50,HALF_WON,26.25
 2026-10-03,Eerste Divisie,Den Bosch,Dordrecht,,AH,AWAY,-0.25,2.05,49,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,26.25
 2026-10-03,Eerste Divisie,Waalwijk,Emmen,,AH,AWAY,0,2.075,49,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,53.75
+2026-10-03,Belgian First Amateur Division,Mandel United,Spouwen-Mopertingen,,1X2,DRAW,0,2.6,52,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-03,Belgian First Amateur Division,Mandel United,Spouwen-Mopertingen,,1X2,DRAW,0,2.6,52,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-03,Belgian First Amateur Division,Hoogstraten,Houtvenne,,AH,AWAY,0,1.8,51,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-03,Belgian First Amateur Division,Hoogstraten,Houtvenne,,AH,AWAY,0,1.8,51,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-03,Belgian First Amateur Division,Albert Quévy-Mons,Flénu,,AH,AWAY,-0.75,2,50,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
@@ -4843,8 +4845,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-03,Serie C - Girone A,Folgore Caratese,Desenzano Calvina,,AH,AWAY,0,2.6,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,80
 2026-10-03,Belgian First Amateur Division,Thes Sport,Zelzate,,AH,AWAY,-0.5,1.95,47,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,47.5
 2026-10-03,Belgian First Amateur Division,Thes Sport,Zelzate,,AH,AWAY,-0.5,1.95,47,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
-2026-10-03,Belgian First Amateur Division,Mandel United,Spouwen-Mopertingen,,1X2,DRAW,0,2.6,52,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-10-03,Belgian First Amateur Division,Mandel United,Spouwen-Mopertingen,,1X2,DRAW,0,2.6,52,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-03,Serie C - Girone A,PRO Vercelli,Athletic Carpi,,OU,UNDER,2.5,2.025,40,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
 2026-10-03,Serie C - Girone A,PRO Vercelli,Athletic Carpi,,OU,UNDER,2.5,2.025,40,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
 2026-10-03,Serie C - Girone A,Folgore Caratese,Desenzano Calvina,,1X2,DRAW,0,2.6,40,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
@@ -5349,11 +5349,11 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-04,USL Championship,FC Tulsa,Sacramento Republic,,AH,AWAY,0.25,2.2,39,1-0,oddsflow_active_trader,NOVA88,15,WON,18
 2026-10-04,USL Championship,FC Tulsa,Sacramento Republic,,AH,AWAY,0.25,2.35,39,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,67.5
 2026-10-04,USL Championship,FC Tulsa,Sacramento Republic,,AH,AWAY,0.25,2.2,39,1-0,oddsflow_handicap_sniper,NOVA88,15,WON,18
+2026-10-04,NWSL Women,Portland Thorns W,Boston Legacy W,,AH,AWAY,-0.75,1.925,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
 2026-10-04,USL Championship,FC Tulsa,Sacramento Republic,,OU,OVER,2,2,51,1-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-10-04,USL Championship,FC Tulsa,Sacramento Republic,,AH,HOME,0,2.15,70,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-04,USL Championship,FC Tulsa,Sacramento Republic,,AH,HOME,0,2.25,71,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-04,USL Championship,FC Tulsa,Sacramento Republic,,AH,HOME,0,2.25,71,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-10-04,NWSL Women,Portland Thorns W,Boston Legacy W,,AH,AWAY,-0.75,1.925,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
 2026-10-04,Liga de Expansión MX,Monarcas,Tlaxcala,,AH,AWAY,-1,1.95,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
 2026-10-04,Liga de Expansión MX,Monarcas,Tlaxcala,,AH,AWAY,-1,2.05,10,1-0,oddsflow_core_strategy,NOVA88,35,WON,36.75
 2026-10-04,Liga de Expansión MX,Monarcas,Tlaxcala,,AH,AWAY,-1.25,1.75,11,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,37.5
@@ -6197,12 +6197,21 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-04,Copa del Rey,Noja,Ribadesella CF,,AH,AWAY,-0.25,2.05,42,1-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,26.25
 2026-10-04,Copa del Rey,Noja,Ribadesella CF,,1X2,DRAW,0,2.875,42,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,93.75
 2026-10-04,Copa del Rey,Noja,Ribadesella CF,,AH,AWAY,-0.25,2.05,42,1-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,26.25
+2026-10-04,Croatian Cup,Vukovar,Dinamo Zagreb,,AH,HOME,1.25,2.025,43,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-04,Croatian Cup,Vukovar,Dinamo Zagreb,,AH,HOME,1.25,2.025,43,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-04,Croatian Cup,Vukovar,Dinamo Zagreb,,AH,HOME,1.25,2.025,43,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-04,Northern Ireland Premiership,Bangor,Coleraine,,1X2,DRAW,0,5,43,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-04,Club Friendlies,Hamburger SV,FC Copenhagen,,OU,OVER,0.75,2,62,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
 2026-10-04,Club Friendlies,Hamburger SV,FC Copenhagen,,OU,OVER,0.5,1.75,63,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,37.5
 2026-10-04,Club Friendlies,Hamburger SV,FC Copenhagen,,OU,OVER,0.5,1.75,63,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,37.5
 2026-10-04,Club Friendlies,Hamburger SV,FC Copenhagen,,1X2,DRAW,0,1.666,68,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-04,Club Friendlies,Hamburger SV,FC Copenhagen,,1X2,DRAW,0,1.666,69,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-04,Croatian Cup,Vukovar,Dinamo Zagreb,,AH,HOME,0.75,2.6,51,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-04,Croatian Cup,Vukovar,Dinamo Zagreb,,AH,HOME,0.75,2.6,51,0-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-04,Croatian Cup,Vukovar,Dinamo Zagreb,,AH,HOME,0.75,2.6,51,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-04,Croatian Cup,Vukovar,Dinamo Zagreb,,AH,HOME,1,2.075,52,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-04,Croatian Cup,Vukovar,Dinamo Zagreb,,AH,HOME,1,2.075,52,0-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-04,Croatian Cup,Vukovar,Dinamo Zagreb,,AH,HOME,1,2.075,52,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-04,Frauen Bundesliga,Stuttgart W,Union Berlin W,,AH,HOME,0,2.05,56,0-2,oddsflow_beta,APIFOOTBALL,50,LOST,-50
 2026-10-04,Frauen Bundesliga,Stuttgart W,Union Berlin W,,OU,UNDER,3,2.075,65,0-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-04,Copa del Rey,Noja,Ribadesella CF,,OU,OVER,3,2,62,1-1,oddsflow_core_strategy,APIFOOTBALL,500,LOST,-500
@@ -6231,9 +6240,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-04,Friendlies,Kyrgyzstan,Lebanon,,OU,UNDER,3.5,1.75,38,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-04,Friendlies,Kyrgyzstan,Lebanon,,OU,UNDER,3.5,1.75,38,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-04,Spanish Primera División RFEF - Group 1,Ponferradina,Mirandes,,AH,AWAY,-0.25,1.775,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-10-04,Croatian Cup,Vukovar,Dinamo Zagreb,,AH,HOME,1.25,2.025,43,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-10-04,Croatian Cup,Vukovar,Dinamo Zagreb,,AH,HOME,1.25,2.025,43,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-10-04,Croatian Cup,Vukovar,Dinamo Zagreb,,AH,HOME,1.25,2.025,43,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-04,Segunda División,Sporting Gijon,Celta de Vigo II,,OU,OVER,3.5,1.9,35,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,45
 2026-10-04,Segunda División,Sporting Gijon,Celta de Vigo II,,1X2,HOME,0,1.909,35,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,45.45
 2026-10-04,Segunda División,Sporting Gijon,Celta de Vigo II,,1X2,HOME,0,1.909,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45.45
@@ -6261,12 +6267,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-04,Segunda División,Sporting Gijon,Celta de Vigo II,,OU,OVER,3.25,2.08,45,1-1,oddsflow_handicap_sniper,NOVA88,50,WON,54
 2026-10-04,Segunda División,Sporting Gijon,Celta de Vigo II,,OU,OVER,3,1.7,45,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,35
 2026-10-04,Segunda División,Sporting Gijon,Celta de Vigo II,,OU,OVER,3.25,2.08,45,1-1,oddsflow_active_trader,NOVA88,50,WON,54
-2026-10-04,Croatian Cup,Vukovar,Dinamo Zagreb,,AH,HOME,0.75,2.6,51,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-10-04,Croatian Cup,Vukovar,Dinamo Zagreb,,AH,HOME,0.75,2.6,51,0-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-10-04,Croatian Cup,Vukovar,Dinamo Zagreb,,AH,HOME,0.75,2.6,51,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-10-04,Croatian Cup,Vukovar,Dinamo Zagreb,,AH,HOME,1,2.075,52,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-10-04,Croatian Cup,Vukovar,Dinamo Zagreb,,AH,HOME,1,2.075,52,0-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-10-04,Croatian Cup,Vukovar,Dinamo Zagreb,,AH,HOME,1,2.075,52,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-04,Ettan Norra,Umeå FC,Hammarby Talang,,AH,AWAY,0.25,1.925,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-04,Polish II Liga - East,Górnik Łęczna,Chojniczanka Chojnice,,AH,AWAY,-0.5,1.8,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-04,Ettan Norra,Umeå FC,Hammarby Talang,,AH,AWAY,0.25,1.94,10,0-0,oddsflow_core_strategy,NOVA88,33,LOST,-33
@@ -7439,9 +7439,12 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-05,Friendlies,Montenegro U19,Israel U19,,AH,HOME,0.75,2.025,43,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
 2026-10-05,Friendlies,Montenegro U19,Israel U19,,1X2,DRAW,0,3.6,43,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-05,Friendlies,Montenegro U19,Israel U19,,AH,HOME,0.75,2.025,43,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.5,1.8,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
+2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.5,1.79,10,0-0,oddsflow_core_strategy,NOVA88,15,WON,11.85
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,AH,AWAY,-0.75,1.95,17,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,AH,AWAY,-0.75,2.06,17,0-0,oddsflow_core_strategy,NOVA88,15,HALF_LOST,-7.5
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,AH,AWAY,-1,1.75,19,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.75,1.825,21,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,AH,AWAY,-1,1.775,35,0-0,oddsflow_beta,APIFOOTBALL,50,VOID,0
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,AH,AWAY,-1,1.82,35,0-0,oddsflow_beta,NOVA88,36,VOID,0
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,1X2,DRAW,0,3.4,35,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
@@ -7452,8 +7455,16 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,1X2,DRAW,0,3.25,35,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,AH,AWAY,-1,1.775,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,AH,AWAY,-1,1.8,35,0-0,oddsflow_active_trader,NOVA88,36,VOID,0
+2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.5,1.975,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,48.75
+2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.5,1.97,35,0-1,oddsflow_handicap_sniper,NOVA88,15,WON,14.55
+2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.5,1.975,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,48.75
+2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,1X2,AWAY,0,1.97,35,0-1,oddsflow_handicap_sniper,NOVA88,22,WON,21.34
+2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.5,1.97,35,0-1,oddsflow_active_trader,NOVA88,15,WON,14.55
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,AH,AWAY,-0.75,2.05,36,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,1X2,AWAY,0,1.952,36,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,47.6
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,AH,AWAY,-0.75,2.05,36,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,1X2,AWAY,0,1.952,36,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,47.6
+2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,1X2,AWAY,0,1.96,36,0-1,oddsflow_active_trader,NOVA88,15,WON,14.4
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,AH,AWAY,-0.75,2.05,36,0-0,oddsflow_beta,APIFOOTBALL,50,HALF_LOST,-25
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,OU,UNDER,1.5,2.025,38,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,OU,UNDER,1.5,2.025,38,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
@@ -7470,40 +7481,21 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,1X2,AWAY,0,1.952,57,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,1X2,AWAY,0,1.952,57,0-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,1X2,AWAY,0,1.952,57,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,OU,UNDER,3.5,2.025,50,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,OU,UNDER,3.5,2.025,51,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,OU,OVER,2,2,64,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.25,2.025,58,0-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.25,1.875,64,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,21.88
+2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.25,1.875,64,1-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,21.88
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,AH,AWAY,-0.25,2.02,72,1-1,oddsflow_active_trader,NOVA88,40,LOST,-40
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,AH,AWAY,-0.25,2.02,72,1-1,oddsflow_beta,NOVA88,41,LOST,-41
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,AH,AWAY,-0.25,2.02,72,1-1,oddsflow_handicap_sniper,NOVA88,40,LOST,-40
+2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,OU,UNDER,4,2.075,65,1-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,AH,AWAY,-0.25,1.95,73,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,AH,AWAY,-0.25,1.95,73,1-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,AH,AWAY,-0.25,1.95,73,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,AH,AWAY,-0.25,1.95,73,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-05,UEFA Nations League,Cyprus,Latvia,,AH,AWAY,-0.25,2.05,73,1-1,oddsflow_core_strategy,NOVA88,46,LOST,-46
-2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.5,1.8,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
-2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.5,1.79,10,0-0,oddsflow_core_strategy,NOVA88,15,WON,11.85
-2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.75,1.825,21,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
-2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.5,1.975,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,48.75
-2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.5,1.97,35,0-1,oddsflow_handicap_sniper,NOVA88,15,WON,14.55
-2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.5,1.975,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,48.75
-2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,1X2,AWAY,0,1.97,35,0-1,oddsflow_handicap_sniper,NOVA88,22,WON,21.34
-2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.5,1.97,35,0-1,oddsflow_active_trader,NOVA88,15,WON,14.55
-2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,1X2,AWAY,0,1.952,36,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,47.6
-2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,1X2,AWAY,0,1.952,36,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,47.6
-2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,1X2,AWAY,0,1.96,36,0-1,oddsflow_active_trader,NOVA88,15,WON,14.4
-2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,OU,UNDER,3.5,2.025,50,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,OU,UNDER,3.5,2.025,51,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.25,2.025,58,0-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-10-05,Norwegian First Division,Moss,Kongsvinger,,AH,HOME,0.5,1.825,25,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-10-05,Norwegian First Division,Moss,Kongsvinger,,AH,HOME,0.25,1.975,26,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-10-05,Norwegian First Division,Moss,Kongsvinger,,AH,HOME,0.25,1.99,26,0-1,oddsflow_core_strategy,NOVA88,17,LOST,-17
-2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.25,1.875,64,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,21.88
-2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,-0.25,1.875,64,1-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,21.88
-2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,OU,UNDER,4,2.075,65,1-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-10-05,Norwegian First Division,Moss,Kongsvinger,,AH,HOME,0.25,1.875,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-10-05,Norwegian First Division,Moss,Kongsvinger,,AH,HOME,0.25,1.875,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-10-05,Norwegian First Division,Moss,Kongsvinger,,AH,HOME,0,2.25,36,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-10-05,Norwegian First Division,Moss,Kongsvinger,,AH,HOME,0,2.25,36,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-10-05,Norwegian First Division,Moss,Kongsvinger,,AH,HOME,0,2.25,36,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,1X2,DRAW,0,1.952,72,2-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,1X2,DRAW,0,1.952,72,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,1X2,DRAW,0,1.83,72,2-2,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
@@ -7511,6 +7503,14 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,HOME,0.75,2.15,73,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
 2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,0,2.675,85,2-3,oddsflow_core_strategy,APIFOOTBALL,35,VOID,0
 2026-10-05,Portuguese Liga Revelação U23,Torreense U23,Estoril U23,,AH,AWAY,0,2.64,85,2-3,oddsflow_core_strategy,NOVA88,29,VOID,0
+2026-10-05,Norwegian First Division,Moss,Kongsvinger,,AH,HOME,0.5,1.825,25,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-05,Norwegian First Division,Moss,Kongsvinger,,AH,HOME,0.25,1.975,26,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-05,Norwegian First Division,Moss,Kongsvinger,,AH,HOME,0.25,1.99,26,0-1,oddsflow_core_strategy,NOVA88,17,LOST,-17
+2026-10-05,Norwegian First Division,Moss,Kongsvinger,,AH,HOME,0.25,1.875,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-05,Norwegian First Division,Moss,Kongsvinger,,AH,HOME,0.25,1.875,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-05,Norwegian First Division,Moss,Kongsvinger,,AH,HOME,0,2.25,36,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-05,Norwegian First Division,Moss,Kongsvinger,,AH,HOME,0,2.25,36,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-05,Norwegian First Division,Moss,Kongsvinger,,AH,HOME,0,2.25,36,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-05,Primera B Metropolitana,UAI Urquiza,Ituzaingó,,AH,AWAY,-0.75,2.05,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
 2026-10-05,Norwegian First Division,Moss,Kongsvinger,,OU,UNDER,3.25,1.825,65,0-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
 2026-10-05,Primera B Metropolitana,UAI Urquiza,Ituzaingó,,AH,AWAY,-0.5,2.025,33,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
@@ -8585,8 +8585,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-06,EFL Trophy,Grimsby,Burton Albion,,OU,OVER,1,2,64,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-06,EFL Trophy,Shrewsbury,Stockport County,,AH,HOME,0.25,1.975,64,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-06,EFL Trophy,Shrewsbury,Stockport County,,AH,HOME,0.25,1.99,64,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
-2026-10-06,EFL Trophy,AFC Wimbledon,Barnet,,OU,OVER,1,2.025,64,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-06,EFL Trophy,Fleetwood Town,Barnsley,,OU,UNDER,3,2,65,2-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-06,EFL Trophy,AFC Wimbledon,Barnet,,OU,OVER,1,2.025,64,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-06,UEFA Nations League,Luxembourg,Bulgaria,,AH,HOME,0,1.8,36,0-2,oddsflow_beta,APIFOOTBALL,50,VOID,0
 2026-10-06,UEFA Nations League,Luxembourg,Bulgaria,,AH,HOME,0,1.85,36,0-2,oddsflow_beta,NOVA88,44,VOID,0
 2026-10-06,UEFA Nations League,Luxembourg,Bulgaria,,AH,HOME,0,1.8,36,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
@@ -9042,11 +9042,14 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-07,Algerian Ligue 1,Ben Aknoun,JS El Biar,,1X2,DRAW,0,1.571,75,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,28.55
 2026-10-07,Algerian Ligue 1,Ben Aknoun,JS El Biar,,1X2,DRAW,0,1.571,75,2-2,oddsflow_active_trader,APIFOOTBALL,50,WON,28.55
 2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,-0.25,1.75,71,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Vitoria,Chapecoense,,AH,AWAY,-0.25,2.025,45,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,-0.25,1.76,71,0-1,oddsflow_core_strategy,NOVA88,19,LOST,-19
+2026-10-07,Brasileirão Série A,Vitoria,Chapecoense,,AH,AWAY,-0.25,2.025,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,-0.25,1.75,71,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,-0.25,1.76,71,0-1,oddsflow_handicap_sniper,NOVA88,19,LOST,-19
 2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,-0.25,1.75,71,0-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
 2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,-0.25,1.76,71,0-1,oddsflow_beta,NOVA88,20,LOST,-20
+2026-10-07,Brasileirão Série A,Vitoria,Chapecoense,,AH,AWAY,-0.25,2.025,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,-0.25,1.75,71,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,-0.25,1.76,71,0-1,oddsflow_active_trader,NOVA88,16,LOST,-16
 2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,1X2,AWAY,0,1.5,71,0-1,oddsflow_handicap_sniper,APIFOOTBALL,74,LOST,-74
@@ -9060,18 +9063,18 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-07,Brasileirão Série B,Operario-PR,Botafogo SP,,AH,AWAY,0,2.3,73,1-2,oddsflow_core_strategy,NOVA88,15,VOID,0
 2026-10-07,Brasileirão Série B,Operario-PR,Botafogo SP,,AH,AWAY,0,2.3,73,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-10-07,Brasileirão Série B,Operario-PR,Botafogo SP,,AH,AWAY,0,2.3,73,1-2,oddsflow_handicap_sniper,NOVA88,15,VOID,0
+2026-10-07,Brasileirão Série A,Vitoria,Chapecoense,,OU,UNDER,2.5,1.775,46,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-07,Brasileirão Série A,Vitoria,Chapecoense,,OU,UNDER,2.5,1.775,46,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,0,2.5,78,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,0,2.5,78,0-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
 2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,0,2.5,78,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-07,Brasileirão Série A,Clube do Remo,Gremio,,AH,AWAY,0,2.5,78,0-1,oddsflow_core_strategy,APIFOOTBALL,35,LOST,-35
+2026-10-07,Brasileirão Série A,Vitoria,Chapecoense,,OU,OVER,3,2,60,2-0,oddsflow_core_strategy,APIFOOTBALL,500,WON,500
 2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,AH,HOME,0,1.95,33,0-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
-2026-10-07,Brasileirão Série A,Vitoria,Chapecoense,,AH,AWAY,-0.25,2.025,45,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,AH,HOME,0,1.92,33,0-1,oddsflow_core_strategy,NOVA88,20,VOID,0
-2026-10-07,Brasileirão Série A,Vitoria,Chapecoense,,AH,AWAY,-0.25,2.025,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-1,1.95,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-1,1.95,45,1-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
 2026-10-07,Canadian Premier League,Forge,Pacific FC,,AH,AWAY,-1,1.95,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-10-07,Brasileirão Série A,Vitoria,Chapecoense,,AH,AWAY,-0.25,2.025,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0.25,2.05,32,0-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,26.25
 2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0.25,2.08,32,0-1,oddsflow_core_strategy,NOVA88,41,HALF_WON,22.14
 2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,AH,HOME,0,1.925,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
@@ -9088,15 +9091,12 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0.25,2,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,25
 2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0.25,2.04,35,0-1,oddsflow_active_trader,NOVA88,38,HALF_WON,19.76
 2026-10-07,Brasileirão Série B,America Mineiro,Fortaleza EC,,AH,HOME,0.25,2,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,25
-2026-10-07,Brasileirão Série A,Vitoria,Chapecoense,,OU,UNDER,2.5,1.775,46,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-10-07,Brasileirão Série A,Vitoria,Chapecoense,,OU,UNDER,2.5,1.775,46,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,AH,HOME,-0.25,2.28,39,0-1,oddsflow_active_trader,NOVA88,15,HALF_LOST,-7.5
 2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,AH,HOME,-0.25,2.28,40,0-1,oddsflow_handicap_sniper,NOVA88,15,HALF_LOST,-7.5
 2026-10-07,Brasileirão Série B,CRB,Atletico Goianiense,,OU,UNDER,1.5,2,44,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-07,Brasileirão Série B,CRB,Atletico Goianiense,,OU,UNDER,1.5,2,44,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,OU,UNDER,2.5,2.05,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-07,Brasileirão Série A,Botafogo,Vasco da Gama,,OU,UNDER,2.5,2.05,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-10-07,Brasileirão Série A,Vitoria,Chapecoense,,OU,OVER,3,2,60,2-0,oddsflow_core_strategy,APIFOOTBALL,500,WON,500
 2026-10-07,Canadian Premier League,Forge,Pacific FC,,OU,UNDER,3.5,2.025,51,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
 2026-10-07,Canadian Premier League,Forge,Pacific FC,,OU,UNDER,3.5,2.025,51,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
 2026-10-07,Canadian Premier League,Forge,Pacific FC,,OU,UNDER,3.5,2.025,51,2-0,oddsflow_beta,APIFOOTBALL,50,WON,51.25
