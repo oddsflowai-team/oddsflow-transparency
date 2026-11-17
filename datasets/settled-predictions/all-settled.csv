@@ -123050,28 +123050,28 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-11-08,Colombian Primera A,Deportes Tolima,Millonarios,,AH,HOME,0,2.16,80,2-1,oddsflow_active_trader,NOVA88,15,VOID,0
 2026-11-08,Colombian Primera A,Deportes Tolima,Millonarios,,AH,HOME,0,2.1,80,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-11-08,Colombian Primera A,Deportes Tolima,Millonarios,,AH,HOME,0,2.16,80,2-1,oddsflow_handicap_sniper,NOVA88,15,VOID,0
-2026-11-09,Liga MX,Querétaro,Puebla,,AH,AWAY,-0.5,1.95,54,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
-2026-11-09,Liga MX,Querétaro,Puebla,,AH,AWAY,-0.5,1.97,54,0-2,oddsflow_active_trader,NOVA88,15,WON,14.55
-2026-11-09,Liga MX,Querétaro,Puebla,,AH,AWAY,-0.5,1.9,57,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45
-2026-11-09,Liga MX,Querétaro,Puebla,,AH,AWAY,-0.5,1.95,57,0-2,oddsflow_handicap_sniper,NOVA88,15,WON,14.25
-2026-11-09,Liga MX,Querétaro,Puebla,,AH,AWAY,-0.25,2.05,66,0-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,26.25
-2026-11-09,Liga MX,Querétaro,Puebla,,AH,AWAY,-0.25,2.11,66,0-2,oddsflow_active_trader,NOVA88,15,HALF_WON,8.32
-2026-11-09,Liga MX,Querétaro,Puebla,,AH,AWAY,-0.25,2.05,66,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,26.25
 2026-11-09,Costa Rican Primera División,CS Herediano,Inter San Carlos,,AH,AWAY,-0.5,1.85,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,42.5
 2026-11-09,Costa Rican Primera División,CS Herediano,Inter San Carlos,,AH,AWAY,-0.5,1.85,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,42.5
+2026-11-09,Liga MX,Querétaro,Puebla,,AH,AWAY,-0.5,1.95,54,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
+2026-11-09,Liga MX,Querétaro,Puebla,,AH,AWAY,-0.5,1.97,54,0-2,oddsflow_active_trader,NOVA88,15,WON,14.55
 2026-11-09,Costa Rican Primera División,CS Herediano,Inter San Carlos,,AH,AWAY,-0.25,2.05,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
 2026-11-09,Costa Rican Primera División,CS Herediano,Inter San Carlos,,AH,AWAY,-0.25,2.02,45,1-0,oddsflow_active_trader,NOVA88,15,WON,15.3
 2026-11-09,Costa Rican Primera División,CS Herediano,Inter San Carlos,,AH,AWAY,-0.25,2.05,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-11-09,Liga MX,Querétaro,Puebla,,AH,AWAY,-0.5,1.9,57,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45
+2026-11-09,Liga MX,Querétaro,Puebla,,AH,AWAY,-0.5,1.95,57,0-2,oddsflow_handicap_sniper,NOVA88,15,WON,14.25
 2026-11-09,Costa Rican Primera División,CS Herediano,Inter San Carlos,,OU,UNDER,2.5,1.775,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
 2026-11-09,Costa Rican Primera División,CS Herediano,Inter San Carlos,,OU,UNDER,2.5,1.775,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-11-09,Liga MX,Querétaro,Puebla,,AH,AWAY,-0.25,2.05,66,0-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,26.25
+2026-11-09,Liga MX,Querétaro,Puebla,,AH,AWAY,-0.25,2.11,66,0-2,oddsflow_active_trader,NOVA88,15,HALF_WON,8.32
+2026-11-09,Liga MX,Querétaro,Puebla,,AH,AWAY,-0.25,2.05,66,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,26.25
 2026-11-09,Costa Rican Primera División,CS Herediano,Inter San Carlos,,1X2,DRAW,0,2,65,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
 2026-11-09,Costa Rican Primera División,CS Herediano,Inter San Carlos,,1X2,DRAW,0,2,65,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,50
-2026-11-09,Colombian Primera A,Alianza Valledupar,Llaneros,,AH,AWAY,-0.5,1.84,42,1-2,oddsflow_active_trader,NOVA88,15,WON,12.6
-2026-11-09,Colombian Primera A,Alianza Valledupar,Llaneros,,1X2,AWAY,0,1.82,44,1-2,oddsflow_handicap_sniper,NOVA88,15,WON,12.3
 2026-11-09,Costa Rican Primera División,CS Herediano,Inter San Carlos,,AH,AWAY,0,2.375,73,1-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-11-09,Costa Rican Primera División,CS Herediano,Inter San Carlos,,AH,AWAY,0,2.35,73,1-1,oddsflow_active_trader,NOVA88,15,VOID,0
 2026-11-09,Costa Rican Primera División,CS Herediano,Inter San Carlos,,AH,AWAY,0,2.375,74,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-11-09,Costa Rican Primera División,CS Herediano,Inter San Carlos,,AH,AWAY,0,2.33,74,1-1,oddsflow_handicap_sniper,NOVA88,15,VOID,0
+2026-11-09,Colombian Primera A,Alianza Valledupar,Llaneros,,AH,AWAY,-0.5,1.84,42,1-2,oddsflow_active_trader,NOVA88,15,WON,12.6
+2026-11-09,Colombian Primera A,Alianza Valledupar,Llaneros,,1X2,AWAY,0,1.82,44,1-2,oddsflow_handicap_sniper,NOVA88,15,WON,12.3
 2026-11-09,Colombian Primera A,Alianza Valledupar,Llaneros,,AH,AWAY,-0.5,1.81,46,1-2,oddsflow_handicap_sniper,NOVA88,15,WON,12.15
 2026-11-09,Colombian Primera A,Alianza Valledupar,Llaneros,,AH,AWAY,-0.25,2.15,48,1-2,oddsflow_active_trader,NOVA88,15,HALF_WON,8.63
 2026-11-09,Colombian Primera A,Alianza Valledupar,Llaneros,,AH,AWAY,-0.25,2.15,49,1-2,oddsflow_handicap_sniper,NOVA88,15,HALF_WON,8.63
@@ -123127,3 +123127,85 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-11-09,Frauen Bundesliga,FC Koln W,RB Leipzig W,,AH,AWAY,-0.25,2.025,42,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-11-09,Frauen Bundesliga,FC Koln W,RB Leipzig W,,AH,AWAY,-0.25,2.03,42,2-1,oddsflow_active_trader,NOVA88,32,LOST,-32
 2026-11-09,Frauen Bundesliga,FC Koln W,RB Leipzig W,,AH,AWAY,-0.25,2.01,45,2-1,oddsflow_beta,NOVA88,31,LOST,-31
+2026-11-10,Colombian Primera A,Junior,Cucuta,,AH,AWAY,-0.5,1.79,37,1-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-11-10,Bolivian Primera División,Aurora,Universitario de Vinto,,1X2,HOME,0,2.03,35,0-0,oddsflow_handicap_sniper,NOVA88,24,LOST,-24
+2026-11-10,Bolivian Primera División,Aurora,Universitario de Vinto,,AH,HOME,-0.5,2,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-10,Bolivian Primera División,Aurora,Universitario de Vinto,,AH,HOME,-0.5,2.03,35,0-0,oddsflow_active_trader,NOVA88,34,LOST,-34
+2026-11-10,Bolivian Primera División,Aurora,Universitario de Vinto,,AH,HOME,-0.5,2,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-10,Bolivian Primera División,Aurora,Universitario de Vinto,,AH,HOME,-0.5,2.03,35,0-0,oddsflow_handicap_sniper,NOVA88,37,LOST,-37
+2026-11-10,Bolivian Primera División,Aurora,Universitario de Vinto,,AH,HOME,-0.25,1.775,36,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-10,Bolivian Primera División,Aurora,Universitario de Vinto,,AH,HOME,-0.25,1.775,37,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-10,Bolivian Primera División,Aurora,Universitario de Vinto,,1X2,HOME,0,2.1,40,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-10,Bolivian Primera División,Aurora,Universitario de Vinto,,1X2,HOME,0,2.1,40,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-10,Colombian Primera A,Junior,Cucuta,,AH,AWAY,-0.25,1.84,51,2-0,oddsflow_handicap_sniper,NOVA88,15,HALF_WON,6.3
+2026-11-10,Colombian Primera A,Junior,Cucuta,,AH,AWAY,-0.25,1.84,51,2-0,oddsflow_active_trader,NOVA88,15,HALF_WON,6.3
+2026-11-10,Colombian Primera A,Junior,Cucuta,,AH,AWAY,-0.25,1.81,57,2-0,oddsflow_beta,NOVA88,15,HALF_WON,6.08
+2026-11-10,Colombian Primera A,Junior,Cucuta,,AH,AWAY,0,2.33,70,2-0,oddsflow_active_trader,NOVA88,18,VOID,0
+2026-11-10,Colombian Primera A,Junior,Cucuta,,AH,AWAY,0,2.33,70,2-0,oddsflow_beta,NOVA88,17,VOID,0
+2026-11-10,Colombian Primera A,Junior,Cucuta,,AH,AWAY,0,2.33,70,2-0,oddsflow_handicap_sniper,NOVA88,17,VOID,0
+2026-11-10,Bolivian Primera División,Aurora,Universitario de Vinto,,1X2,DRAW,0,2.25,65,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,62.5
+2026-11-10,Bolivian Primera División,Aurora,Universitario de Vinto,,AH,AWAY,-0.75,1.75,68,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,37.5
+2026-11-10,Bolivian Primera División,Aurora,Universitario de Vinto,,1X2,DRAW,0,2.4,68,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,70
+2026-11-10,Friendlies,Qatar U23,Singapore U23,,AH,AWAY,-1.25,2.025,38,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-11-10,Friendlies,Qatar U23,Singapore U23,,AH,AWAY,-1.25,2.025,38,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-11-10,Friendlies,Qatar U23,Singapore U23,,AH,AWAY,-1.25,2.025,38,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-11-10,Friendlies,Qatar U23,Singapore U23,,OU,OVER,1.5,1.825,43,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-10,Friendlies,Qatar U23,Singapore U23,,OU,OVER,1.5,1.95,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-10,Friendlies,Qatar U23,Singapore U23,,AH,AWAY,-1,2.05,50,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-11-10,Friendlies,Qatar U23,Singapore U23,,AH,AWAY,-1,2.05,50,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-11-10,Friendlies,Qatar U23,Singapore U23,,AH,AWAY,-1,2.05,50,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-11-10,Friendlies,Qatar U23,Singapore U23,,AH,AWAY,-0.75,2.1,55,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,55
+2026-11-10,Friendlies,Qatar U23,Singapore U23,,AH,AWAY,-0.75,2.1,56,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,55
+2026-11-10,Friendlies,Qatar U23,Singapore U23,,AH,AWAY,-0.75,2.1,56,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,55
+2026-11-10,Friendlies,Qatar U23,Singapore U23,,OU,OVER,1,2.05,62,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-10,Friendlies,Qatar U23,Singapore U23,,AH,AWAY,-0.5,2.05,67,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-11-10,Friendlies,Qatar U23,Singapore U23,,AH,AWAY,-0.5,2.05,67,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-11-10,Friendlies,Qatar U23,Singapore U23,,AH,AWAY,-0.5,2.05,67,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-11-10,Friendlies,Qatar U23,Singapore U23,,1X2,DRAW,0,2.2,69,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,60
+2026-11-10,Friendlies,Qatar U23,Singapore U23,,1X2,DRAW,0,2.05,73,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-11-10,Friendlies,Qatar U23,Singapore U23,,AH,AWAY,-0.25,1.975,81,0-0,oddsflow_core_strategy,APIFOOTBALL,35,HALF_WON,17.06
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,AH,HOME,0.5,1.95,40,2-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,-0.5,1.925,37,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,-0.5,1.925,37,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,AH,HOME,0.5,1.95,40,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,-0.5,1.95,37,1-0,oddsflow_core_strategy,NOVA88,50,LOST,-50
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,-0.5,1.95,37,1-0,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,1X2,HOME,0,2.08,40,2-1,oddsflow_handicap_sniper,NOVA88,40,LOST,-40
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,AH,HOME,0.5,1.95,40,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,-0.5,1.925,37,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,-0.5,1.95,37,1-0,oddsflow_active_trader,NOVA88,50,LOST,-50
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,1X2,HOME,0,2.08,40,2-1,oddsflow_active_trader,NOVA88,18,LOST,-18
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,AH,HOME,0.75,1.8,40,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,AH,HOME,0.75,1.81,40,2-1,oddsflow_active_trader,NOVA88,37,LOST,-37
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,AH,HOME,0.75,1.8,40,2-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,AH,HOME,0.75,1.81,40,2-1,oddsflow_core_strategy,NOVA88,34,LOST,-34
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,AH,HOME,0.75,1.8,40,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,AH,HOME,0.75,1.81,40,2-1,oddsflow_handicap_sniper,NOVA88,34,LOST,-34
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,1X2,HOME,0,2.1,44,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,1X2,HOME,0,2.1,44,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,-0.25,2.09,45,2-0,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,-0.25,2.09,45,2-0,oddsflow_active_trader,NOVA88,49,LOST,-49
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,-0.25,2.05,45,2-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,-0.25,2.09,45,2-0,oddsflow_core_strategy,NOVA88,50,LOST,-50
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,-0.25,2.05,45,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,-0.25,2.05,45,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,OU,UNDER,4.5,2,49,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,OU,UNDER,4.5,2,49,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,-0.5,1.8,56,2-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,1X2,DRAW,0,2.6,61,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,1X2,DRAW,0,2.28,61,2-2,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,1X2,DRAW,0,2.6,61,2-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,OU,OVER,3,2.05,60,2-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,-0.25,1.99,61,2-0,oddsflow_beta,NOVA88,50,LOST,-50
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,-0.25,1.9,62,2-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,AH,HOME,0.25,1.925,64,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,AH,HOME,0.25,1.94,64,2-2,oddsflow_handicap_sniper,NOVA88,32,LOST,-32
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,AH,HOME,0.25,1.925,64,2-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,AH,HOME,0.25,1.94,64,2-2,oddsflow_active_trader,NOVA88,34,LOST,-34
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,AH,HOME,0.25,1.925,64,2-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,AH,HOME,0.25,1.94,64,2-2,oddsflow_core_strategy,NOVA88,34,LOST,-34
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,0,2.425,76,2-0,oddsflow_core_strategy,APIFOOTBALL,35,LOST,-35
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,0,2.425,76,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,0,2.425,76,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,0,2.425,76,2-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,AH,HOME,0,2.375,81,2-2,oddsflow_core_strategy,APIFOOTBALL,35,LOST,-35
