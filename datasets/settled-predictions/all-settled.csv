@@ -123209,3 +123209,41 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,0,2.425,76,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-11-10,Friendlies,Vietnam U23,Thailand U23,,AH,AWAY,0,2.425,76,2-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
 2026-11-10,Portuguese Liga Revelação U23,Santa Clara U23,Torreense U23,,AH,HOME,0,2.375,81,2-2,oddsflow_core_strategy,APIFOOTBALL,35,LOST,-35
+2026-11-11,Friendlies,China U19,Vietnam U19,,AH,AWAY,-0.75,2,28,1-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-11,Friendlies,China U19,Vietnam U19,,AH,AWAY,-0.75,1.85,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-11,Friendlies,China U19,Vietnam U19,,AH,AWAY,-0.75,1.85,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-11,Friendlies,China U19,Vietnam U19,,AH,AWAY,-0.5,2.05,51,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-11,Friendlies,China U19,Vietnam U19,,AH,AWAY,-0.5,2.05,52,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-11,Friendlies,China U19,Vietnam U19,,AH,AWAY,-0.5,2.05,52,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-11,Friendlies,China U19,Vietnam U19,,OU,OVER,2,2,55,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-11-11,Friendlies,China U19,Vietnam U19,,AH,AWAY,-0.25,2.1,65,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-11,Friendlies,China U19,Vietnam U19,,AH,AWAY,-0.25,2.1,65,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-11,Friendlies,China U19,Vietnam U19,,AH,AWAY,-0.25,2.1,65,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-11,Colombian Primera B,Real Cundinamarca,Real Cartagena,,AH,AWAY,0,1.8,45,2-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
+2026-11-11,Colombian Primera B,Real Cundinamarca,Real Cartagena,,AH,AWAY,0,1.74,45,2-0,oddsflow_core_strategy,NOVA88,15,WON,11.1
+2026-11-11,Colombian Primera B,Real Cundinamarca,Real Cartagena,,AH,AWAY,0,1.8,45,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,40
+2026-11-11,Pernambucano - 1,Central SC,Salgueiro,,AH,AWAY,-0.75,1.95,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-11,Colombian Primera B,Real Cundinamarca,Real Cartagena,,AH,AWAY,0,1.8,45,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,40
+2026-11-11,Pernambucano - 1,Central SC,Salgueiro,,AH,AWAY,-0.75,1.95,45,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-11,Pernambucano - 1,Central SC,Salgueiro,,AH,AWAY,-0.75,1.95,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-11,Colombian Primera B,Real Cundinamarca,Real Cartagena,,AH,AWAY,0,1.84,45,2-0,oddsflow_active_trader,NOVA88,25,WON,21
+2026-11-11,Pernambucano - 1,Facilnet,Belo Jardim,,AH,AWAY,-0.25,1.85,45,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
+2026-11-11,Pernambucano - 1,Facilnet,Belo Jardim,,AH,AWAY,-0.25,2,48,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-11-11,Pernambucano - 1,Facilnet,Belo Jardim,,1X2,AWAY,0,1.666,48,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,33.3
+2026-11-11,Pernambucano - 1,Facilnet,Belo Jardim,,AH,AWAY,-0.25,2,48,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-11-11,Pernambucano - 1,Facilnet,Belo Jardim,,1X2,AWAY,0,1.666,48,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,33.3
+2026-11-11,Pernambucano - 1,Central SC,Salgueiro,,1X2,DRAW,0,2.625,51,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-11,Colombian Primera B,Real Cundinamarca,Real Cartagena,,AH,AWAY,0.25,2.25,59,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,62.5
+2026-11-11,Colombian Primera B,Real Cundinamarca,Real Cartagena,,AH,AWAY,0.25,2.3,59,2-0,oddsflow_active_trader,NOVA88,15,WON,19.5
+2026-11-11,Colombian Primera B,Real Cundinamarca,Real Cartagena,,AH,AWAY,0.25,2.25,59,2-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,62.5
+2026-11-11,Colombian Primera B,Real Cundinamarca,Real Cartagena,,AH,AWAY,0.25,2.3,59,2-0,oddsflow_core_strategy,NOVA88,15,WON,19.5
+2026-11-11,Pernambucano - 1,Facilnet,Belo Jardim,,OU,OVER,2,2.025,56,0-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-11,Pernambucano - 1,Central SC,Salgueiro,,AH,AWAY,-0.5,2.25,60,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-11,Pernambucano - 1,Central SC,Salgueiro,,AH,AWAY,-0.5,2.25,60,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-11,Pernambucano - 1,Central SC,Salgueiro,,OU,OVER,1,2.05,60,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-11-11,Pernambucano - 1,Central SC,Salgueiro,,AH,AWAY,-0.5,2.25,60,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-11,Pernambucano - 1,Central SC,Salgueiro,,1X2,DRAW,0,2.3,63,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-11,Colombian Primera B,Real Cundinamarca,Real Cartagena,,AH,HOME,0,2.25,68,2-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-11-11,Colombian Primera B,Real Cundinamarca,Real Cartagena,,AH,HOME,0,2.15,71,2-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-11,Colombian Primera B,Real Cundinamarca,Real Cartagena,,AH,HOME,0,2.15,71,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-11,Colombian Primera B,Real Cundinamarca,Real Cartagena,,AH,HOME,0,2.15,71,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
