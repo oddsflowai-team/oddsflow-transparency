@@ -10945,3 +10945,628 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-11-11,Colombian Primera B,Real Cundinamarca,Real Cartagena,,AH,HOME,0,2.15,71,2-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-11-11,Colombian Primera B,Real Cundinamarca,Real Cartagena,,AH,HOME,0,2.15,71,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-11-11,Colombian Primera B,Real Cundinamarca,Real Cartagena,,AH,HOME,0,2.15,71,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,AH,HOME,-0.5,1.95,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,AH,HOME,-0.5,2,12,0-0,oddsflow_core_strategy,NOVA88,15,WON,15
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,AH,AWAY,-0.5,1.85,40,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,AH,AWAY,-0.5,1.85,41,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,OU,OVER,1,1.675,41,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,OU,OVER,1,1.675,41,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,AH,AWAY,-0.5,1.775,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,AH,AWAY,-0.25,2.05,49,1-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,26.25
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,AH,AWAY,-0.25,2.05,49,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,26.25
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,AH,AWAY,-0.25,2.05,49,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,26.25
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,OU,OVER,2,2,50,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,OU,OVER,1.75,1.675,53,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,OU,OVER,2,2.11,53,1-0,oddsflow_active_trader,NOVA88,50,LOST,-50
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,OU,OVER,1.75,1.675,53,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,OU,OVER,2,2.11,53,1-0,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,OU,OVER,1.5,1.775,65,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,OU,OVER,1.5,1.775,65,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,AH,AWAY,0,2.475,76,1-0,oddsflow_core_strategy,APIFOOTBALL,35,VOID,0
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,AH,AWAY,0,2.475,76,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-12,Colombian Primera B,Quindio,Tigres FC,,AH,AWAY,0,2.475,76,1-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-12,Friendlies,New Zealand,India,,AH,AWAY,-1.25,2,40,2-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Friendlies,New Zealand,India,,AH,AWAY,-1.25,2.05,40,2-0,oddsflow_core_strategy,NOVA88,50,LOST,-50
+2026-11-12,Friendlies,New Zealand,India,,AH,AWAY,-1.25,2,40,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Friendlies,New Zealand,India,,AH,AWAY,-1.25,2,40,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Friendlies,New Zealand,India,,AH,AWAY,-1.25,2.05,40,2-0,oddsflow_active_trader,NOVA88,50,LOST,-50
+2026-11-12,Friendlies,New Zealand,India,,AH,AWAY,-1.25,2.05,40,2-0,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
+2026-11-12,Friendlies,Thailand U23,Qatar U23,,AH,HOME,0.25,1.875,10,0-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,21.88
+2026-11-12,Friendlies,Thailand U23,Qatar U23,,AH,HOME,0.25,1.89,10,0-1,oddsflow_core_strategy,NOVA88,44,HALF_WON,19.58
+2026-11-12,Friendlies,Thailand U23,Qatar U23,,AH,HOME,0,2.3,34,0-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,65
+2026-11-12,Friendlies,Thailand U23,Qatar U23,,AH,HOME,0,2.3,35,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,65
+2026-11-12,Friendlies,Thailand U23,Qatar U23,,AH,HOME,0,2.3,35,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,65
+2026-11-12,Friendlies,Thailand U23,Qatar U23,,OU,UNDER,3.5,2,35,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-11-12,Friendlies,Thailand U23,Qatar U23,,OU,UNDER,3.5,2,35,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-11-12,Friendlies,Thailand U23,Qatar U23,,AH,HOME,0.25,1.75,36,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,37.5
+2026-11-12,Friendlies,Thailand U23,Qatar U23,,AH,HOME,0.25,1.75,36,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,37.5
+2026-11-12,Friendlies,Thailand U23,Qatar U23,,AH,HOME,0.25,1.78,36,0-2,oddsflow_active_trader,NOVA88,48,WON,37.44
+2026-11-12,Friendlies,Thailand U23,Qatar U23,,AH,HOME,0.25,1.78,36,0-2,oddsflow_handicap_sniper,NOVA88,50,WON,39
+2026-11-12,Friendlies,Thailand U23,Qatar U23,,OU,OVER,3,2.05,60,0-2,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,Friendlies,Uzbekistan,Russia,,AH,HOME,0.75,1.91,35,1-0,oddsflow_active_trader,NOVA88,21,LOST,-21
+2026-11-12,Friendlies,Uzbekistan,Russia,,AH,HOME,0.75,1.91,35,1-0,oddsflow_handicap_sniper,NOVA88,21,LOST,-21
+2026-11-12,Friendlies,Uzbekistan,Russia,,1X2,HOME,0,2.19,35,1-0,oddsflow_handicap_sniper,NOVA88,20,LOST,-20
+2026-11-12,Friendlies,Uzbekistan,Russia,,AH,HOME,0.5,2.08,39,1-0,oddsflow_active_trader,NOVA88,18,LOST,-18
+2026-11-12,Friendlies,Uzbekistan,Russia,,AH,HOME,0.5,2.08,39,1-0,oddsflow_handicap_sniper,NOVA88,16,LOST,-16
+2026-11-12,Friendlies,Uzbekistan,Russia,,1X2,HOME,0,2.07,45,1-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-11-12,Friendlies,France U20,Denmark U20,,AH,HOME,-1,1.825,10,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Friendlies,France U20,Denmark U20,,AH,HOME,-1.25,1.95,11,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Madagascar,Guinea-Bissau,,AH,AWAY,0.25,2.05,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,Africa Cup of Nations - Qualification,Madagascar,Guinea-Bissau,,AH,AWAY,0.25,2.11,10,0-0,oddsflow_core_strategy,NOVA88,20,HALF_LOST,-10
+2026-11-12,Friendlies,Uzbekistan,Russia,,OU,UNDER,3.5,2.08,48,2-0,oddsflow_handicap_sniper,NOVA88,41,LOST,-41
+2026-11-12,Friendlies,Uzbekistan,Russia,,OU,UNDER,3.5,2.08,48,2-0,oddsflow_active_trader,NOVA88,42,LOST,-42
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,AH,HOME,0,1.775,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-1.25,2,14,1-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,25
+2026-11-12,Friendlies,France U20,Denmark U20,,AH,HOME,-0.75,1.8,24,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-1,2.3,24,1-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,Friendlies,Uzbekistan,Russia,,AH,HOME,0.5,1.88,62,2-0,oddsflow_beta,NOVA88,42,LOST,-42
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,AH,HOME,-0.25,2.375,23,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,Friendlies,Uzbekistan,Russia,,AH,HOME,0.25,2.19,68,2-0,oddsflow_handicap_sniper,NOVA88,36,LOST,-36
+2026-11-12,Friendlies,Uzbekistan,Russia,,AH,HOME,0.25,2.19,68,2-0,oddsflow_active_trader,NOVA88,37,LOST,-37
+2026-11-12,Friendlies,Uzbekistan,Russia,,AH,HOME,0.25,2.19,68,2-0,oddsflow_beta,NOVA88,35,LOST,-35
+2026-11-12,Friendlies,France U20,Denmark U20,,AH,HOME,-0.75,1.9,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Friendlies,France U20,Denmark U20,,AH,HOME,-0.75,1.9,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Madagascar,Guinea-Bissau,,AH,AWAY,0.25,2.1,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,Africa Cup of Nations - Qualification,Madagascar,Guinea-Bissau,,AH,AWAY,0.25,2.1,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,Friendlies,Uzbekistan,Russia,,1X2,HOME,0,1.59,70,2-1,oddsflow_beta,NOVA88,49,LOST,-49
+2026-11-12,Africa Cup of Nations - Qualification,Madagascar,Guinea-Bissau,,AH,AWAY,0,1.725,36,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-1.25,1.9,36,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,45
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-1.25,1.9,36,2-0,oddsflow_beta,APIFOOTBALL,50,WON,45
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-1.25,1.86,36,2-0,oddsflow_beta,NOVA88,50,WON,43
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-1.25,1.9,36,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-1.25,1.86,36,2-0,oddsflow_handicap_sniper,NOVA88,50,WON,43
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,AH,HOME,0,1.85,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,AH,HOME,0,1.85,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-12,Friendlies,Uzbekistan,Russia,,1X2,DRAW,0,1.77,76,2-2,oddsflow_beta,NOVA88,15,LOST,-15
+2026-11-12,Friendlies,Uzbekistan,Russia,,1X2,DRAW,0,1.77,76,2-2,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-1,2.025,39,2-0,oddsflow_beta,APIFOOTBALL,50,WON,51.25
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-1,2.1,39,2-0,oddsflow_beta,NOVA88,50,WON,55
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-1,2.025,39,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,1X2,HOME,0,2.875,37,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-1,2.1,39,2-0,oddsflow_handicap_sniper,NOVA88,50,WON,55
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-1,2.025,39,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-1,2.1,39,2-0,oddsflow_active_trader,NOVA88,50,WON,55
+2026-11-12,Friendlies,France U20,Denmark U20,,AH,HOME,-0.5,1.825,45,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Friendlies,France U20,Denmark U20,,AH,HOME,-0.5,1.825,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,OU,OVER,1,1.7,40,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Friendlies,France U20,Denmark U20,,AH,HOME,-0.5,1.825,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,OU,OVER,1,1.7,40,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,OU,UNDER,3.5,2.025,44,2-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,OU,UNDER,3.5,2.09,44,2-0,oddsflow_beta,NOVA88,49,LOST,-49
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,OU,UNDER,3.5,2.025,44,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,OU,UNDER,3.5,2.025,44,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,AH,HOME,-0.25,2.375,43,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,AH,HOME,-0.25,2.375,43,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,Friendlies,France U20,Denmark U20,,OU,OVER,2.5,1.825,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Friendlies,France U20,Denmark U20,,OU,OVER,2.5,1.825,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-0.75,2.15,47,2-0,oddsflow_beta,NOVA88,50,WON,57.5
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-0.75,2.15,47,2-0,oddsflow_active_trader,NOVA88,49,WON,56.35
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-0.75,2.15,47,2-0,oddsflow_handicap_sniper,NOVA88,49,WON,56.35
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-0.75,2.075,48,2-0,oddsflow_beta,APIFOOTBALL,50,WON,53.75
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-0.75,2.075,48,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,53.75
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-0.75,2.075,48,2-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,53.75
+2026-11-12,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,,AH,AWAY,-0.75,2.075,48,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,53.75
+2026-11-12,UEFA Europa Cup - Women,Torreense W,Sparta Praha W,,AH,HOME,-0.5,1.925,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,46.25
+2026-11-12,UEFA Nations League,Armenia,Cyprus,,AH,HOME,0.25,1.875,10,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,43.75
+2026-11-12,Africa Cup of Nations - Qualification,Madagascar,Guinea-Bissau,,1X2,DRAW,0,2.25,53,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,62.5
+2026-11-12,Friendlies,Lithuania,Suriname,,AH,HOME,0.25,1.725,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,18.13
+2026-11-12,Friendlies,Lithuania,Suriname,,AH,HOME,0,2.05,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,UEFA Nations League,Armenia,Cyprus,,AH,HOME,0,2,10,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-11-12,Friendlies,Lithuania,Suriname,,AH,HOME,0,2.12,10,0-0,oddsflow_core_strategy,NOVA88,28,VOID,0
+2026-11-12,UEFA Nations League,Armenia,Cyprus,,AH,HOME,0,2.08,10,0-1,oddsflow_core_strategy,NOVA88,47,WON,50.76
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,OU,OVER,0.75,1.7,50,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,OU,OVER,0.75,1.7,50,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Europa Cup - Women,Torreense W,Sparta Praha W,,AH,AWAY,-0.5,1.925,15,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Madagascar,Guinea-Bissau,,AH,HOME,0,2.35,58,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,Friendlies,France U20,Denmark U20,,1X2,AWAY,0,1.8,61,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,40
+2026-11-12,Friendlies,France U20,Denmark U20,,1X2,AWAY,0,1.8,62,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,40
+2026-11-12,Africa Cup of Nations - Qualification,Madagascar,Guinea-Bissau,,1X2,HOME,0,1.5,60,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,AH,AWAY,-1.25,1.875,15,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,43.75
+2026-11-12,Africa Cup of Nations - Qualification,Madagascar,Guinea-Bissau,,1X2,HOME,0,1.5,60,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,AH,AWAY,0,2.5,60,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,AH,AWAY,0,2.5,60,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,AH,AWAY,0,2.5,60,0-0,oddsflow_beta,APIFOOTBALL,50,VOID,0
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,AH,AWAY,0,2.5,60,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,AWAY,0.5,1.825,23,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,AWAY,0.5,1.86,23,1-0,oddsflow_core_strategy,NOVA88,15,WON,12.9
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,OU,OVER,0.75,2.025,63,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Madagascar,Guinea-Bissau,,OU,OVER,1.75,2.025,68,1-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,25.62
+2026-11-12,Africa Cup of Nations - Qualification,Madagascar,Guinea-Bissau,,AH,HOME,0,2.75,68,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Madagascar,Guinea-Bissau,,AH,HOME,0,2.75,68,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,OU,OVER,0.5,1.725,65,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,1X2,DRAW,0,1.833,65,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,41.65
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,OU,OVER,0.5,1.725,65,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,1X2,DRAW,0,1.833,65,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,41.65
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,OU,OVER,0.5,1.725,65,0-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,,1X2,DRAW,0,1.833,65,0-0,oddsflow_beta,APIFOOTBALL,50,WON,41.65
+2026-11-12,Friendlies,Lithuania,Suriname,,AH,HOME,-0.25,2.5,27,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,Africa Cup of Nations - Qualification,Madagascar,Guinea-Bissau,,AH,HOME,0.25,1.7,71,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Friendlies,France U20,Denmark U20,,AH,AWAY,-0.25,1.875,73,0-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,21.88
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,AH,AWAY,-1,2.025,26,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,AH,AWAY,-1,2.06,26,1-0,oddsflow_core_strategy,NOVA88,19,WON,20.14
+2026-11-12,Friendlies,France U20,Denmark U20,,AH,AWAY,-0.25,1.85,74,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,21.25
+2026-11-12,Friendlies,France U20,Denmark U20,,AH,AWAY,-0.25,1.825,75,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,20.63
+2026-11-12,Friendlies,France U20,Denmark U20,,OU,OVER,1.5,1.775,75,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,0.25,1.825,31,1-2,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,20.63
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,0.25,1.85,31,1-2,oddsflow_core_strategy,NOVA88,15,HALF_WON,6.38
+2026-11-12,UEFA Nations League,Armenia,Cyprus,,AH,HOME,-0.25,2.1,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,55
+2026-11-12,UEFA Nations League,Armenia,Cyprus,,AH,HOME,-0.25,2.1,35,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,55
+2026-11-12,UEFA Nations League,Armenia,Cyprus,,AH,HOME,-0.25,2.1,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,55
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,0.25,1.9,35,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,22.5
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,0.25,1.92,35,1-2,oddsflow_handicap_sniper,NOVA88,17,HALF_WON,7.82
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,0.25,1.9,35,1-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,22.5
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,0.25,1.92,35,1-2,oddsflow_active_trader,NOVA88,20,HALF_WON,9.2
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,0.25,1.9,38,1-2,oddsflow_beta,APIFOOTBALL,50,HALF_WON,22.5
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,0.25,1.95,38,1-2,oddsflow_beta,NOVA88,20,HALF_WON,9.5
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,-0.25,2.75,41,1-2,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,UEFA Nations League,Armenia,Cyprus,,AH,HOME,0,1.725,42,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.25
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,-0.25,2.75,41,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,UEFA Nations League,Armenia,Cyprus,,AH,HOME,0,1.8,42,0-1,oddsflow_handicap_sniper,NOVA88,18,WON,14.4
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,-0.25,2.75,41,1-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,UEFA Nations League,Armenia,Cyprus,,AH,HOME,0,1.725,42,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,36.25
+2026-11-12,UEFA Nations League,Armenia,Cyprus,,AH,HOME,0,1.8,42,0-1,oddsflow_active_trader,NOVA88,16,WON,12.8
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,-0.25,2.75,41,1-2,oddsflow_beta,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,UEFA Nations League,Armenia,Cyprus,,OU,UNDER,2.5,2.025,43,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-11-12,UEFA Nations League,Armenia,Cyprus,,OU,UNDER,2.5,2.025,43,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-11-12,UEFA Nations League,Armenia,Cyprus,,1X2,AWAY,0,1.5,43,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,AH,AWAY,-0.75,1.89,41,1-0,oddsflow_handicap_sniper,NOVA88,15,WON,13.35
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,AH,AWAY,-0.75,1.89,41,1-0,oddsflow_active_trader,NOVA88,15,WON,13.35
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,AH,AWAY,-0.75,1.85,42,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,AH,AWAY,-0.75,1.85,42,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,42.5
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,OU,UNDER,2.5,2.05,42,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,OU,UNDER,2.5,2.05,42,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,AH,AWAY,-0.75,1.85,42,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,42.5
+2026-11-12,Friendlies,Lithuania,Suriname,,1X2,DRAW,0,2.4,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,70
+2026-11-12,Friendlies,Malta,Eswatini,,AH,AWAY,-0.75,2.05,15,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-11-12,UEFA Europa Cup - Women,Torreense W,Sparta Praha W,,AH,AWAY,-0.25,1.975,45,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Europa Cup - Women,Torreense W,Sparta Praha W,,AH,AWAY,-0.25,1.975,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,AH,AWAY,-0.5,2.05,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-11-12,Copa del Rey,Calvo Sotelo,Albacete,,AH,HOME,0.5,1.95,18,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,AH,AWAY,-0.5,2.05,45,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,AH,AWAY,-0.5,2.05,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-11-12,UEFA Europa Cup - Women,Torreense W,Sparta Praha W,,AH,AWAY,-0.25,2,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,0,2.2,45,1-2,oddsflow_active_trader,NOVA88,15,VOID,0
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,0,2.075,45,1-2,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,0,2.2,45,1-2,oddsflow_core_strategy,NOVA88,15,VOID,0
+2026-11-12,UEFA Europa Cup - Women,Torreense W,Sparta Praha W,,AH,AWAY,-0.5,1.7,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Europa Cup - Women,Torreense W,Sparta Praha W,,AH,AWAY,-0.5,1.7,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,0,2.075,45,1-2,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,0,2.075,45,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,0,2.2,45,1-2,oddsflow_handicap_sniper,NOVA88,15,VOID,0
+2026-11-12,Friendlies,Malta,Eswatini,,AH,AWAY,-1.25,1.9,26,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
+2026-11-12,Copa del Rey,Calvo Sotelo,Albacete,,AH,HOME,0.5,1.975,35,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,AH,HOME,0,2.075,48,1-2,oddsflow_beta,APIFOOTBALL,50,VOID,0
+2026-11-12,Copa del Rey,Calvo Sotelo,Albacete,,AH,HOME,0.5,1.975,35,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Europa Cup - Women,Torreense W,Sparta Praha W,,OU,UNDER,2.5,1.775,50,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Europa Cup - Women,Torreense W,Sparta Praha W,,OU,UNDER,2.5,1.775,50,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,OU,UNDER,4.5,2.025,51,1-2,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,OU,UNDER,4.5,2,52,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,OU,UNDER,4.5,2,52,1-2,oddsflow_beta,APIFOOTBALL,50,WON,50
+2026-11-12,Friendlies,Lithuania,Suriname,,1X2,DRAW,0,2.2,53,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,60
+2026-11-12,Friendlies,Lithuania,Suriname,,AH,AWAY,0,2.3,59,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-12,Friendlies,Lithuania,Suriname,,AH,AWAY,0,2.3,59,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-12,Friendlies,Lithuania,Suriname,,AH,AWAY,0,2.3,59,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,Copa del Rey,Calvo Sotelo,Albacete,,AH,HOME,0.25,2.1,45,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Copa del Rey,Calvo Sotelo,Albacete,,AH,HOME,0.25,2.1,45,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Europa Cup - Women,Torreense W,Sparta Praha W,,AH,AWAY,0,2.3,61,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Europa Cup - Women,Torreense W,Sparta Praha W,,AH,AWAY,0,2.3,61,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Copa del Rey,Calvo Sotelo,Albacete,,AH,HOME,0.25,2.1,45,0-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,AH,AWAY,-0.25,2.075,61,2-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,53.75
+2026-11-12,UEFA Nations League,Türkiye,Belgium,,OU,UNDER,4,2.025,65,1-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,AH,AWAY,-0.25,2.11,61,2-0,oddsflow_core_strategy,NOVA88,29,WON,32.19
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,AH,AWAY,-0.25,2.075,61,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,53.75
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,AH,AWAY,-0.25,2.11,61,2-0,oddsflow_handicap_sniper,NOVA88,28,WON,31.08
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,AH,AWAY,-0.25,2.075,61,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,53.75
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,AH,AWAY,-0.25,2.11,61,2-0,oddsflow_active_trader,NOVA88,28,WON,31.08
+2026-11-12,UEFA Europa Cup - Women,Torreense W,Sparta Praha W,,AH,AWAY,0,2.3,65,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,OU,OVER,3,2.025,63,2-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,Copa del Rey,Tarancón,Levante,,AH,AWAY,1.25,1.775,27,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Coupe de France,Chambéry,Grenoble,,AH,HOME,1.25,2,32,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Champions League Women,Barcelona W,Arsenal W,,AH,AWAY,-1,2.675,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-12,UEFA Champions League Women,Barcelona W,Arsenal W,,AH,AWAY,-1,2.675,45,0-1,oddsflow_beta,APIFOOTBALL,50,VOID,0
+2026-11-12,UEFA Champions League Women,Barcelona W,Arsenal W,,AH,AWAY,-1,2.675,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-12,Copa del Rey,Tarancón,Levante,,AH,AWAY,1.25,1.95,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Champions League Women,Barcelona W,Arsenal W,,AH,AWAY,-1.25,2.15,45,0-1,oddsflow_beta,APIFOOTBALL,50,HALF_WON,28.75
+2026-11-12,UEFA Champions League Women,Barcelona W,Arsenal W,,AH,AWAY,-1.25,2.15,45,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,28.75
+2026-11-12,Copa del Rey,Tarancón,Levante,,AH,AWAY,1.25,2,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Champions League Women,Barcelona W,Arsenal W,,AH,AWAY,-1.25,2.15,45,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,28.75
+2026-11-12,Coupe de France,Chambéry,Grenoble,,AH,HOME,1.25,1.95,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Coupe de France,Chambéry,Grenoble,,AH,HOME,1.25,1.95,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Copa del Rey,Tarancón,Levante,,AH,AWAY,1,1.75,38,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Copa del Rey,Tarancón,Levante,,AH,AWAY,1,1.75,38,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Copa del Rey,Tarancón,Levante,,AH,AWAY,1,1.75,38,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Copa del Rey,Calvo Sotelo,Albacete,,OU,UNDER,3.5,1.775,52,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-11-12,Copa del Rey,Calvo Sotelo,Albacete,,OU,UNDER,3.5,1.775,52,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-11-12,Copa del Rey,Tarancón,Levante,,OU,OVER,1.5,1.85,43,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,42.5
+2026-11-12,Copa del Rey,Tarancón,Levante,,1X2,AWAY,0,1.5,43,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Copa del Rey,Tarancón,Levante,,OU,OVER,1.5,1.85,43,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,42.5
+2026-11-12,Copa del Rey,Tarancón,Levante,,1X2,AWAY,0,1.5,43,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Coupe de France,Chambéry,Grenoble,,AH,HOME,1,2.05,44,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Coupe de France,Chambéry,Grenoble,,AH,HOME,1,2.05,44,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Coupe de France,Chambéry,Grenoble,,AH,HOME,1,2.05,44,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Guinea,Eritrea,,AH,AWAY,0,2.675,83,2-1,oddsflow_core_strategy,APIFOOTBALL,35,VOID,0
+2026-11-12,Copa del Rey,Calvo Sotelo,Albacete,,OU,OVER,3,2.075,64,0-2,oddsflow_core_strategy,APIFOOTBALL,500,VOID,0
+2026-11-12,Copa del Rey,Tarancón,Levante,,OU,OVER,2.5,2.05,54,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Copa del Rey,Tarancón,Levante,,OU,OVER,2.5,2.05,54,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Coupe de France,Chambéry,Grenoble,,AH,HOME,0.75,2.05,53,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Coupe de France,Chambéry,Grenoble,,AH,HOME,0.75,2.05,54,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Coupe de France,Chambéry,Grenoble,,AH,HOME,0.75,2.05,54,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Barbados,Guadeloupe,,AH,HOME,0.25,1.9,11,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,AH,AWAY,-0.25,2.6,13,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,AH,AWAY,-0.75,1.9,13,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Barbados,Guadeloupe,,AH,HOME,0,2.05,12,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,AH,AWAY,-0.75,1.87,13,1-0,oddsflow_core_strategy,NOVA88,15,LOST,-15
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,AH,AWAY,-0.5,2.025,17,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,AH,AWAY,-0.5,2.09,17,1-0,oddsflow_core_strategy,NOVA88,15,LOST,-15
+2026-11-12,Copa del Rey,Tarancón,Levante,,1X2,HOME,0,2.5,64,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Copa del Rey,Tarancón,Levante,,AH,HOME,0.75,2.05,65,1-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,Coupe de France,Chambéry,Grenoble,,AH,HOME,0.5,2.05,63,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Copa del Rey,Tarancón,Levante,,OU,UNDER,2,1.975,65,1-0,oddsflow_core_strategy,APIFOOTBALL,500,VOID,0
+2026-11-12,Coupe de France,Chambéry,Grenoble,,AH,HOME,0.5,2.05,63,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Copa del Rey,Tarancón,Levante,,AH,HOME,0.75,2.05,65,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,Coupe de France,Chambéry,Grenoble,,AH,HOME,0.5,2.05,64,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,AH,HOME,-0.5,1.825,20,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
+2026-11-12,Coupe de France,Chambéry,Grenoble,,OU,UNDER,1,2.075,65,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Copa del Rey,Tarancón,Levante,,AH,HOME,0.75,2.05,66,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,Copa del Rey,Tarancón,Levante,,OU,OVER,1.75,1.7,71,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,17.5
+2026-11-12,Copa del Rey,Tarancón,Levante,,1X2,HOME,0,2.05,71,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Copa del Rey,Tarancón,Levante,,OU,OVER,1.75,1.7,71,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,17.5
+2026-11-12,Copa del Rey,Tarancón,Levante,,AH,HOME,0.5,2.025,72,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Copa del Rey,Tarancón,Levante,,AH,HOME,0.5,2.025,72,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Copa del Rey,Tarancón,Levante,,AH,HOME,0.5,2.025,72,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-1.25,1.85,27,1-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,21.25
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-1.25,1.89,27,1-0,oddsflow_core_strategy,NOVA88,25,HALF_WON,11.12
+2026-11-12,Coupe de France,Chambéry,Grenoble,,1X2,DRAW,0,2.05,72,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Coupe de France,Chambéry,Grenoble,,1X2,DRAW,0,2.05,73,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-1,2.075,31,2-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,53.75
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-1,2.14,31,2-0,oddsflow_core_strategy,NOVA88,41,WON,46.74
+2026-11-12,Coupe de France,Chambéry,Grenoble,,AH,HOME,0.25,2.2,76,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Coupe de France,Chambéry,Grenoble,,AH,HOME,0.25,2.2,76,0-0,oddsflow_core_strategy,APIFOOTBALL,35,LOST,-35
+2026-11-12,Coupe de France,Chambéry,Grenoble,,AH,HOME,0.25,2.2,76,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Copa del Rey,Tarancón,Levante,,AH,HOME,0.25,2.1,79,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Copa del Rey,Tarancón,Levante,,AH,HOME,0.25,2.1,79,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Copa del Rey,Tarancón,Levante,,AH,HOME,0.25,2.1,79,1-0,oddsflow_core_strategy,APIFOOTBALL,35,LOST,-35
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,AH,AWAY,-0.5,1.875,35,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,AH,AWAY,-0.5,1.91,35,2-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,AH,AWAY,-0.5,1.875,35,2-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,AH,AWAY,-0.5,1.91,35,2-1,oddsflow_beta,NOVA88,15,LOST,-15
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,AH,AWAY,-0.5,1.875,35,2-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,AH,AWAY,-0.5,1.91,35,2-1,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-1,1.95,35,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-1,1.96,35,2-0,oddsflow_active_trader,NOVA88,38,WON,36.48
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-1,1.95,35,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,47.5
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-1,1.96,35,2-0,oddsflow_handicap_sniper,NOVA88,39,WON,37.44
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-1,1.95,35,2-0,oddsflow_beta,APIFOOTBALL,50,WON,47.5
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-1,1.96,35,2-0,oddsflow_beta,NOVA88,39,WON,37.44
+2026-11-12,CONCACAF Nations League,Barbados,Guadeloupe,,AH,HOME,0.25,1.925,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Barbados,Guadeloupe,,AH,HOME,0.25,1.98,35,0-1,oddsflow_active_trader,NOVA88,25,LOST,-25
+2026-11-12,CONCACAF Nations League,Barbados,Guadeloupe,,AH,HOME,0.25,1.925,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Barbados,Guadeloupe,,AH,HOME,0.25,1.98,35,0-1,oddsflow_handicap_sniper,NOVA88,25,LOST,-25
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,OU,UNDER,5.5,2.025,37,3-1,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,OU,UNDER,5.5,2.025,37,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,OU,UNDER,5.5,2.025,37,3-1,oddsflow_beta,APIFOOTBALL,50,WON,51.25
+2026-11-12,Africa Cup of Nations - Qualification,Senegal,Sudan,,AH,AWAY,-1.25,2.025,39,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Senegal,Sudan,,AH,AWAY,-1.25,2.06,39,1-0,oddsflow_handicap_sniper,NOVA88,26,LOST,-26
+2026-11-12,Africa Cup of Nations - Qualification,Senegal,Sudan,,AH,AWAY,-1.25,2.025,39,1-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Senegal,Sudan,,AH,AWAY,-1.25,2.06,39,1-0,oddsflow_beta,NOVA88,25,LOST,-25
+2026-11-12,Africa Cup of Nations - Qualification,Senegal,Sudan,,AH,AWAY,-1.25,2.025,39,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Senegal,Sudan,,AH,AWAY,-1.25,2.06,39,1-0,oddsflow_active_trader,NOVA88,26,LOST,-26
+2026-11-12,CONCACAF Nations League,Barbados,Guadeloupe,,AH,HOME,0.5,1.75,39,0-1,oddsflow_active_trader,NOVA88,33,LOST,-33
+2026-11-12,CONCACAF Nations League,Barbados,Guadeloupe,,AH,HOME,0.5,1.75,39,0-1,oddsflow_handicap_sniper,NOVA88,36,LOST,-36
+2026-11-12,Africa Cup of Nations - Qualification,Senegal,Sudan,,AH,AWAY,-1.25,1.95,42,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Senegal,Sudan,,AH,AWAY,-1.25,1.96,42,1-0,oddsflow_core_strategy,NOVA88,25,LOST,-25
+2026-11-12,Uruguayan Segunda División,Atenas,Oriental,,AH,AWAY,-0.5,1.85,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-0.75,2.05,44,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-0.75,2.05,44,2-0,oddsflow_beta,APIFOOTBALL,50,WON,52.5
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-0.75,2.08,44,2-0,oddsflow_beta,NOVA88,40,WON,43.2
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-0.75,2.05,44,2-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-0.75,2.05,44,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-0.75,2.08,44,2-0,oddsflow_active_trader,NOVA88,38,WON,41.04
+2026-11-12,Uruguayan Segunda División,Cerrito,Colón,,AH,AWAY,0,1.725,11,0-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,Uruguayan Segunda División,Cerrito,Colón,,AH,AWAY,0,1.78,11,0-1,oddsflow_core_strategy,NOVA88,15,VOID,0
+2026-11-12,Uruguayan Segunda División,Cerrito,Colón,,AH,AWAY,0.25,1.975,12,0-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,Uruguayan Segunda División,Plaza Colonia,Rentistas,,AH,HOME,0.25,1.825,15,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Uruguayan Segunda División,Atenas,Oriental,,AH,AWAY,-0.25,1.975,19,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Uruguayan Segunda División,Atenas,Oriental,,AH,AWAY,0,2.4,22,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Uruguayan Segunda División,Plaza Colonia,Rentistas,,AH,HOME,0,2.55,20,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Albania,Finland,,AH,HOME,-0.25,1.8,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
+2026-11-12,UEFA Nations League,Albania,Finland,,AH,HOME,-0.25,1.88,10,0-0,oddsflow_core_strategy,NOVA88,15,WON,13.2
+2026-11-12,UEFA Nations League,England,Croatia,,AH,HOME,-1.25,1.875,11,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,UEFA Nations League,Italy,France,,AH,HOME,0.75,1.85,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
+2026-11-12,UEFA Nations League,England,Croatia,,AH,HOME,-1.25,1.99,11,0-0,oddsflow_core_strategy,NOVA88,22,HALF_LOST,-11
+2026-11-12,UEFA Nations League,Italy,France,,AH,HOME,0.5,2,11,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-11-12,UEFA Nations League,Italy,France,,AH,HOME,0.5,1.94,11,0-1,oddsflow_core_strategy,NOVA88,34,WON,31.96
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,AH,AWAY,-0.25,2.25,45,3-1,oddsflow_handicap_sniper,NOVA88,28,LOST,-28
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,AH,AWAY,-0.25,2.25,45,3-1,oddsflow_beta,NOVA88,30,LOST,-30
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,AH,AWAY,-0.25,2.25,45,3-1,oddsflow_active_trader,NOVA88,32,LOST,-32
+2026-11-12,Africa Cup of Nations - Qualification,Senegal,Sudan,,AH,AWAY,-1,2.375,45,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,AH,AWAY,-0.25,2.2,45,3-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Senegal,Sudan,,AH,AWAY,-1,2.375,45,1-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,AH,AWAY,-0.25,2.2,45,3-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Senegal,Sudan,,AH,AWAY,-1,2.375,45,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Benin,Central African Republic,,AH,AWAY,-0.25,2.2,45,3-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Senegal,Sudan,,AH,AWAY,-1,2.375,45,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-0.5,2.35,45,2-0,oddsflow_handicap_sniper,NOVA88,31,WON,41.85
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-0.5,2.35,45,2-0,oddsflow_active_trader,NOVA88,34,WON,45.9
+2026-11-12,Uruguayan Segunda División,Atenas,Oriental,,AH,AWAY,-0.25,1.9,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Uruguayan Segunda División,Atenas,Oriental,,AH,AWAY,-0.25,1.93,35,0-0,oddsflow_handicap_sniper,NOVA88,25,LOST,-25
+2026-11-12,Uruguayan Segunda División,Atenas,Oriental,,AH,AWAY,-0.25,1.9,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Uruguayan Segunda División,Atenas,Oriental,,1X2,AWAY,0,3.75,35,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-11-12,UEFA Nations League,Czechia,Spain,,AH,AWAY,1.25,1.825,21,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
+2026-11-12,UEFA Nations League,Czechia,Spain,,AH,AWAY,1.25,1.87,21,0-0,oddsflow_core_strategy,NOVA88,15,WON,13.05
+2026-11-12,UEFA Nations League,Albania,Finland,,AH,HOME,-0.5,2.25,22,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,62.5
+2026-11-12,Uruguayan Segunda División,Plaza Colonia,Rentistas,,AH,HOME,0.25,1.74,35,0-1,oddsflow_handicap_sniper,NOVA88,30,HALF_WON,11.1
+2026-11-12,Uruguayan Segunda División,Plaza Colonia,Rentistas,,AH,HOME,0.25,1.74,35,0-1,oddsflow_active_trader,NOVA88,32,HALF_WON,11.84
+2026-11-12,CONCACAF Nations League,Bonaire,Cuba,,AH,HOME,1.25,2.05,50,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Bonaire,Cuba,,AH,HOME,1.25,2.05,50,0-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Bonaire,Cuba,,AH,HOME,1.25,2.05,50,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Uruguayan Segunda División,Atenas,Oriental,,1X2,DRAW,0,2.5,39,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Bonaire,Cuba,,AH,HOME,1.25,2.05,50,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,England,Croatia,,AH,HOME,-1,1.8,23,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,UEFA Nations League,England,Croatia,,AH,HOME,-1,1.85,23,0-0,oddsflow_core_strategy,NOVA88,15,VOID,0
+2026-11-12,Uruguayan Segunda División,Plaza Colonia,Rentistas,,AH,HOME,0,2,36,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-12,Uruguayan Segunda División,Plaza Colonia,Rentistas,,AH,HOME,0,2,36,0-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-12,Uruguayan Segunda División,Cerrito,Colón,,AH,AWAY,0,1.75,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,AH,AWAY,-1.25,2.1,25,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,27.5
+2026-11-12,Uruguayan Segunda División,Plaza Colonia,Rentistas,,AH,HOME,0.25,1.725,37,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,18.13
+2026-11-12,Uruguayan Segunda División,Plaza Colonia,Rentistas,,AH,HOME,0.25,1.725,37,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,18.13
+2026-11-12,Uruguayan Segunda División,Cerrito,Colón,,AH,AWAY,0,1.7,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-1,2,25,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-0.5,2.05,53,2-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-0.5,2.14,53,2-0,oddsflow_core_strategy,NOVA88,42,WON,47.88
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-0.5,2.05,53,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-0.5,2.05,53,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-11-12,Uruguayan Segunda División,Cerrito,Colón,,OU,UNDER,2.5,2,38,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-11-12,Uruguayan Segunda División,Cerrito,Colón,,OU,UNDER,2.5,2,38,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-11-12,CONCACAF Nations League,Barbados,Guadeloupe,,AH,HOME,0,2.75,55,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Barbados,Guadeloupe,,AH,HOME,0,2.75,55,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Uruguayan Segunda División,Atenas,Oriental,,AH,AWAY,0,2.2,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Uruguayan Segunda División,Atenas,Oriental,,AH,AWAY,0,2.2,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,AH,AWAY,-1,2.025,32,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,OU,OVER,3,2,58,2-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,AH,AWAY,-1,2.08,32,0-0,oddsflow_core_strategy,NOVA88,20,VOID,0
+2026-11-12,CONCACAF Nations League,Bonaire,Cuba,,OU,UNDER,5.5,2,61,1-3,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Bonaire,Cuba,,OU,UNDER,5.5,2,61,1-3,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Bonaire,Cuba,,OU,UNDER,5.5,2.06,61,1-3,oddsflow_active_trader,NOVA88,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Bonaire,Cuba,,OU,UNDER,5.5,2.06,61,1-3,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Bonaire,Cuba,,OU,UNDER,5.5,2,61,1-3,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Bonaire,Cuba,,OU,UNDER,5.5,2.06,61,1-3,oddsflow_beta,NOVA88,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Bonaire,Cuba,,AH,HOME,1,2,61,1-3,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Bonaire,Cuba,,AH,HOME,1,2,61,1-3,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Bonaire,Cuba,,AH,HOME,1,2.05,61,1-3,oddsflow_active_trader,NOVA88,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Bonaire,Cuba,,AH,HOME,1,2.05,61,1-3,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Bonaire,Cuba,,AH,HOME,1,2,61,1-3,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-12,CONCACAF Nations League,Bonaire,Cuba,,AH,HOME,1,2.05,61,1-3,oddsflow_beta,NOVA88,50,LOST,-50
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.75,2.05,34,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.75,2.18,34,1-0,oddsflow_core_strategy,NOVA88,15,WON,17.7
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,AH,AWAY,-1,1.95,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,AH,AWAY,-1,1.95,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,1X2,HOME,0,1.5,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,25
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.75,2.1,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,55
+2026-11-12,UEFA Nations League,Albania,Finland,,OU,OVER,1.5,1.975,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,48.75
+2026-11-12,UEFA Nations League,Albania,Finland,,OU,OVER,1.5,1.975,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,48.75
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.75,2.11,35,1-0,oddsflow_active_trader,NOVA88,15,WON,16.65
+2026-11-12,UEFA Nations League,Italy,France,,AH,HOME,0.5,1.975,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,48.75
+2026-11-12,UEFA Nations League,Italy,France,,AH,HOME,0.5,2.03,35,1-1,oddsflow_handicap_sniper,NOVA88,22,WON,22.66
+2026-11-12,UEFA Nations League,Italy,France,,AH,HOME,0.5,1.975,35,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,48.75
+2026-11-12,UEFA Nations League,Italy,France,,AH,HOME,0.5,2.03,35,1-1,oddsflow_active_trader,NOVA88,23,WON,23.69
+2026-11-12,UEFA Nations League,Italy,France,,AH,HOME,0.25,2.35,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,67.5
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.75,2.1,36,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,55
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.75,2.16,36,1-0,oddsflow_handicap_sniper,NOVA88,15,WON,17.4
+2026-11-12,UEFA Nations League,Italy,France,,AH,HOME,0.25,2.35,35,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,67.5
+2026-11-12,UEFA Nations League,Italy,France,,1X2,DRAW,0,3.15,35,1-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-11-12,UEFA Nations League,Italy,France,,AH,HOME,0.25,2.35,35,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,67.5
+2026-11-12,CONCACAF Nations League,Barbados,Guadeloupe,,OU,OVER,3,2,61,0-2,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,UEFA Nations League,Albania,Finland,,AH,AWAY,-0.25,1.975,37,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Italy,France,,AH,HOME,0.25,2.35,36,1-1,oddsflow_beta,APIFOOTBALL,50,WON,67.5
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-1,1.75,37,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,37.5
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,AH,AWAY,-0.75,2.025,38,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,UEFA Nations League,Italy,France,,1X2,DRAW,0,3.05,36,1-1,oddsflow_beta,NOVA88,15,LOST,-15
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,AH,AWAY,-0.75,2.025,38,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-0.25,2.1,65,2-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,27.5
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-0.25,2.16,65,2-0,oddsflow_core_strategy,NOVA88,34,HALF_WON,19.72
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-0.25,2.1,65,2-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,27.5
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-0.25,2.16,65,2-0,oddsflow_active_trader,NOVA88,34,HALF_WON,19.72
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-0.25,2.1,65,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,27.5
+2026-11-12,Africa Cup of Nations - Qualification,Cameroon,Namibia,,AH,AWAY,-0.25,2.16,65,2-0,oddsflow_handicap_sniper,NOVA88,34,HALF_WON,19.72
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,1.25,2.025,41,0-2,oddsflow_beta,APIFOOTBALL,50,WON,51.25
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,1.25,2.08,41,0-2,oddsflow_beta,NOVA88,50,WON,54
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,1.25,2.025,41,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,1X2,HOME,0,1.666,40,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,33.3
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,1.25,2.025,41,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,1.25,2.04,41,0-2,oddsflow_handicap_sniper,NOVA88,50,WON,52
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,1.25,2.025,41,0-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,1.25,2.04,41,0-2,oddsflow_core_strategy,NOVA88,50,WON,52
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-1,1.75,39,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,37.5
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-1,1.77,39,1-0,oddsflow_handicap_sniper,NOVA88,15,WON,11.55
+2026-11-12,UEFA Nations League,Czechia,Spain,,AH,HOME,1,2.025,41,0-1,oddsflow_beta,APIFOOTBALL,50,VOID,0
+2026-11-12,UEFA Nations League,Czechia,Spain,,AH,HOME,1,2.025,41,0-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-12,UEFA Nations League,Czechia,Spain,,AH,HOME,1,2.025,41,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,AH,HOME,-0.5,2.05,25,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-11-12,UEFA Nations League,Italy,France,,1X2,DRAW,0,3.2,40,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,AH,AWAY,-0.75,1.95,43,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,OU,UNDER,1.5,2.025,43,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,OU,UNDER,1.5,2.025,43,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,1,2.05,45,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,1,2.11,45,0-2,oddsflow_handicap_sniper,NOVA88,46,WON,51.06
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,1,2.05,45,0-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,1,2.11,45,0-2,oddsflow_core_strategy,NOVA88,44,WON,48.84
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,1,2.05,45,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,1,2.11,45,0-2,oddsflow_active_trader,NOVA88,46,WON,51.06
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,1,2.05,45,0-2,oddsflow_beta,APIFOOTBALL,50,WON,52.5
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,1,2.11,45,0-2,oddsflow_beta,NOVA88,46,WON,51.06
+2026-11-12,CONCACAF Nations League,Barbados,Guadeloupe,,AH,HOME,0.25,1.71,71,0-2,oddsflow_beta,NOVA88,29,LOST,-29
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,AH,HOME,-0.25,1.9,30,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,45
+2026-11-12,UEFA Nations League,Albania,Finland,,AH,HOME,0,1.95,45,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
+2026-11-12,UEFA Nations League,Albania,Finland,,AH,HOME,0,2.01,45,1-0,oddsflow_core_strategy,NOVA88,15,WON,15.15
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,AH,HOME,-0.75,2.75,34,1-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,43.75
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,AH,AWAY,-0.5,2.3,45,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,AH,HOME,-0.75,2.75,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,43.75
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,AH,AWAY,-0.5,2.3,45,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,AH,HOME,-0.75,2.75,35,1-0,oddsflow_beta,APIFOOTBALL,50,HALF_WON,43.75
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,AH,HOME,-0.75,2.75,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,43.75
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,OU,OVER,2.5,1.8,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,40
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,OU,OVER,2.5,1.8,35,1-0,oddsflow_beta,APIFOOTBALL,50,WON,40
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,OU,OVER,2.5,1.8,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,40
+2026-11-12,UEFA Nations League,Albania,Finland,,AH,HOME,-0.25,2.59,45,1-0,oddsflow_handicap_sniper,NOVA88,15,WON,23.85
+2026-11-12,UEFA Nations League,Albania,Finland,,AH,HOME,-0.25,2.59,45,1-0,oddsflow_active_trader,NOVA88,15,WON,23.85
+2026-11-12,Uruguayan Segunda División,Cerrito,Colón,,AH,AWAY,0.25,2.3,46,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,Uruguayan Segunda División,Cerrito,Colón,,AH,AWAY,0.25,2.33,46,0-1,oddsflow_handicap_sniper,NOVA88,15,HALF_LOST,-7.5
+2026-11-12,Uruguayan Segunda División,Cerrito,Colón,,AH,AWAY,0.25,2.3,46,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,Uruguayan Segunda División,Cerrito,Colón,,AH,AWAY,0.25,2.33,46,0-1,oddsflow_active_trader,NOVA88,15,HALF_LOST,-7.5
+2026-11-12,UEFA Nations League,Albania,Finland,,AH,HOME,0,1.975,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,48.75
+2026-11-12,UEFA Nations League,Albania,Finland,,AH,HOME,0,2.02,45,1-0,oddsflow_active_trader,NOVA88,15,WON,15.3
+2026-11-12,Uruguayan Segunda División,Atenas,Oriental,,OU,OVER,1,2,54,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,Uruguayan Segunda División,Atenas,Oriental,,1X2,DRAW,0,2.1,56,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,1X2,DRAW,0,2.9,48,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-11-12,UEFA Nations League,Albania,Finland,,AH,HOME,0,2,50,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-11-12,Uruguayan Segunda División,Cerrito,Colón,,OU,OVER,2,2,59,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.75,1.825,53,1-0,oddsflow_beta,APIFOOTBALL,50,WON,41.25
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.75,1.85,53,1-0,oddsflow_beta,NOVA88,20,WON,17
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,1X2,DRAW,0,2.875,53,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,England,Croatia,,OU,UNDER,2.5,1.775,54,1-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,England,Croatia,,OU,UNDER,2.5,1.775,54,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,England,Croatia,,OU,UNDER,2.5,1.775,54,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,AH,AWAY,-0.5,2.15,55,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,AH,AWAY,-0.5,2.15,55,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.5,2.05,55,1-0,oddsflow_beta,APIFOOTBALL,50,WON,52.5
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.5,2.05,55,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-11-12,UEFA Nations League,Montenegro,Latvia,,AH,AWAY,-0.5,2.15,55,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.5,2.05,55,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,52.5
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.5,2.05,55,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,52.5
+2026-11-12,UEFA Nations League,Italy,France,,1X2,DRAW,0,2.75,54,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.75,2.075,58,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,53.75
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.75,2.18,58,0-2,oddsflow_handicap_sniper,NOVA88,50,WON,59
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.75,2.075,58,0-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,53.75
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.75,2.075,58,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,53.75
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.75,2.18,58,0-2,oddsflow_core_strategy,NOVA88,50,WON,59
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.75,2.18,58,0-2,oddsflow_active_trader,NOVA88,49,WON,57.82
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.75,2.075,58,0-2,oddsflow_beta,APIFOOTBALL,50,WON,53.75
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.75,2.18,58,0-2,oddsflow_beta,NOVA88,50,WON,59
+2026-11-12,UEFA Nations League,England,Croatia,,1X2,DRAW,0,2.6,62,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,England,Croatia,,1X2,DRAW,0,2.51,62,1-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-1.25,2.025,63,1-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,25.62
+2026-11-12,UEFA Nations League,Italy,France,,AH,AWAY,-0.25,2.025,60,1-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Italy,France,,AH,AWAY,-0.25,2.025,60,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-1.25,2.025,63,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,25.62
+2026-11-12,UEFA Nations League,Italy,France,,AH,AWAY,-0.25,2.025,60,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-1.25,2.025,63,1-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,25.62
+2026-11-12,UEFA Nations League,San Marino,Belarus,,OU,UNDER,3,1.825,65,0-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
+2026-11-12,UEFA Nations League,England,Croatia,,OU,OVER,4,2.15,65,2-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.25,2.1,67,2-1,oddsflow_beta,APIFOOTBALL,50,HALF_WON,27.5
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.25,2.14,67,2-1,oddsflow_beta,NOVA88,16,HALF_WON,9.12
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.25,2.1,67,2-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,27.5
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.25,2.14,67,2-1,oddsflow_core_strategy,NOVA88,18,HALF_WON,10.26
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.25,2.1,67,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,27.5
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.25,2.14,67,2-1,oddsflow_handicap_sniper,NOVA88,17,HALF_WON,9.69
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.25,2.1,67,2-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,27.5
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,-0.25,2.14,67,2-1,oddsflow_active_trader,NOVA88,16,HALF_WON,9.12
+2026-11-12,UEFA Nations League,Italy,France,,1X2,HOME,0,1.79,64,2-1,oddsflow_handicap_sniper,NOVA88,29,WON,22.91
+2026-11-12,UEFA Nations League,Italy,France,,1X2,HOME,0,1.79,64,2-1,oddsflow_active_trader,NOVA88,15,WON,11.85
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.5,2.025,68,0-2,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.5,2.09,68,0-2,oddsflow_core_strategy,NOVA88,50,WON,54.5
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.5,2.025,68,0-2,oddsflow_active_trader,APIFOOTBALL,50,WON,51.25
+2026-11-12,UEFA Nations League,Italy,France,,1X2,HOME,0,1.727,65,2-1,oddsflow_active_trader,APIFOOTBALL,50,WON,36.35
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.5,2.09,68,0-2,oddsflow_active_trader,NOVA88,50,WON,54.5
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.5,2.025,68,0-2,oddsflow_beta,APIFOOTBALL,50,WON,51.25
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.5,2.025,69,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,51.25
+2026-11-12,UEFA Nations League,Italy,France,,1X2,HOME,0,1.727,65,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.35
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.5,2.06,69,0-2,oddsflow_handicap_sniper,NOVA88,50,WON,53
+2026-11-12,UEFA Nations League,Czechia,Spain,,AH,HOME,0.5,1.8,67,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Czechia,Spain,,OU,OVER,2,2.025,67,0-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,UEFA Nations League,Czechia,Spain,,AH,HOME,0.5,1.8,67,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Czechia,Spain,,AH,HOME,0.5,1.8,67,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,AH,HOME,0.75,1.75,52,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,37.5
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,1X2,HOME,0,2.1,52,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,55
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,AH,HOME,0.75,1.75,52,1-0,oddsflow_beta,APIFOOTBALL,50,WON,37.5
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,1X2,HOME,0,2.1,52,1-0,oddsflow_beta,APIFOOTBALL,50,WON,55
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,AH,HOME,0.75,1.75,52,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,37.5
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,1X2,HOME,0,2.1,52,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,55
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,AH,HOME,0.75,1.75,52,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,37.5
+2026-11-12,Uruguayan Segunda División,Cerrito,Colón,,AH,HOME,0,2.05,79,0-1,oddsflow_core_strategy,APIFOOTBALL,35,VOID,0
+2026-11-12,UEFA Nations League,Czechia,Spain,,AH,HOME,0.25,2.15,68,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Czechia,Spain,,AH,HOME,0.25,2.16,68,0-1,oddsflow_core_strategy,NOVA88,15,LOST,-15
+2026-11-12,UEFA Nations League,Czechia,Spain,,AH,HOME,0.25,2.15,68,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Czechia,Spain,,AH,HOME,0.25,2.15,68,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,Czechia,Spain,,AH,HOME,0.25,2.15,68,0-1,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,AH,HOME,-0.25,1.875,55,1-1,oddsflow_beta,APIFOOTBALL,50,WON,43.75
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,AH,HOME,-0.25,1.875,55,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,43.75
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,AH,HOME,-0.25,1.91,55,1-1,oddsflow_beta,NOVA88,15,WON,13.65
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,AH,HOME,-0.25,1.91,55,1-1,oddsflow_active_trader,NOVA88,15,WON,13.65
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,AH,HOME,-0.25,1.9,57,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,AH,HOME,-0.25,1.93,57,1-1,oddsflow_handicap_sniper,NOVA88,15,WON,13.95
+2026-11-12,UEFA Nations League,Italy,France,,AH,AWAY,-0.75,1.75,75,2-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,UEFA Nations League,Italy,France,,AH,AWAY,-0.75,1.75,75,2-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,UEFA Nations League,Italy,France,,AH,AWAY,-0.75,1.75,75,2-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,OU,OVER,3,2.075,62,1-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,53.75
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.25,2.2,80,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,30
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.25,2.2,80,0-2,oddsflow_beta,APIFOOTBALL,50,HALF_WON,30
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.25,2.22,80,0-2,oddsflow_beta,NOVA88,50,HALF_WON,30.5
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.25,2.2,80,0-2,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,30
+2026-11-12,UEFA Nations League,San Marino,Belarus,,AH,HOME,0.25,2.22,80,0-2,oddsflow_active_trader,NOVA88,50,HALF_WON,30.5
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,1X2,DRAW,0,2.05,66,1-1,oddsflow_beta,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,0,2.5,83,2-1,oddsflow_core_strategy,APIFOOTBALL,35,VOID,0
+2026-11-12,UEFA Nations League,England,Croatia,,AH,AWAY,0,2.67,83,2-1,oddsflow_core_strategy,NOVA88,29,VOID,0
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,1X2,DRAW,0,2.05,67,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,UEFA Champions League Women,SL Benfica W,Austria Wien W,,1X2,DRAW,0,1.909,71,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Brasileirão Série B,Ponte Preta,Operario-PR,,AH,AWAY,0.5,1.85,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,42.5
+2026-11-12,Brasileirão Série B,Ponte Preta,Operario-PR,,AH,AWAY,0.5,1.84,12,0-0,oddsflow_core_strategy,NOVA88,15,WON,12.6
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,AH,AWAY,-1,1.825,11,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,41.25
+2026-11-12,CONCACAF Nations League,Aruba,Martinique,,AH,HOME,1.25,2,14,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,AH,AWAY,-0.75,2.025,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,51.25
+2026-11-12,CONCACAF Nations League,Aruba,Martinique,,AH,HOME,1.25,2.03,14,0-0,oddsflow_core_strategy,NOVA88,26,WON,26.78
+2026-11-12,CONCACAF Nations League,Aruba,Martinique,,AH,HOME,1,1.95,21,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
+2026-11-12,CONCACAF Nations League,Aruba,Martinique,,AH,HOME,1,1.98,21,0-0,oddsflow_core_strategy,NOVA88,16,WON,15.68
+2026-11-12,Brasileirão Série B,Ponte Preta,Operario-PR,,1X2,AWAY,0,2,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,AH,AWAY,-0.75,1.95,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,47.5
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,AH,AWAY,-0.75,1.85,35,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,12.75
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,AH,AWAY,-0.75,1.95,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,AH,AWAY,-0.75,1.85,35,0-0,oddsflow_active_trader,NOVA88,15,WON,12.75
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,1X2,DRAW,0,3.25,36,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,AH,AWAY,-0.25,2.6,40,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,80
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,AH,AWAY,-0.25,2.6,40,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,80
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,AH,AWAY,-0.25,2.6,40,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,80
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,AH,AWAY,-0.5,2,41,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,AH,AWAY,-0.5,2,41,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,AH,AWAY,-0.5,1.99,41,0-0,oddsflow_core_strategy,NOVA88,15,WON,14.85
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,AH,AWAY,-0.5,1.99,41,0-0,oddsflow_handicap_sniper,NOVA88,15,WON,14.85
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,1X2,DRAW,0,3.1,41,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,AH,AWAY,-0.5,2,41,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,AH,AWAY,-0.5,1.99,41,0-0,oddsflow_active_trader,NOVA88,15,WON,14.85
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,OU,UNDER,1.5,1.775,50,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,OU,UNDER,1.5,1.775,51,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,1X2,DRAW,0,2.625,53,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Uruguayan Primera División - Apertura,Cerro Largo,Progreso,,AH,AWAY,-0.5,2,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
+2026-11-12,Brasileirão Série B,São Bernardo,Athletic Club,,AH,HOME,-0.25,2.025,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,Brasileirão Série B,São Bernardo,Athletic Club,,AH,HOME,0,1.725,18,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,Brasileirão Série B,São Bernardo,Athletic Club,,AH,HOME,0,1.75,18,0-0,oddsflow_core_strategy,NOVA88,15,VOID,0
+2026-11-12,Brasileirão Série B,Ponte Preta,Operario-PR,,OU,OVER,0.5,1.725,63,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,36.25
+2026-11-12,Venezuelan Primera División,Puerto Cabello,Monagas SC,,OU,OVER,1,2,63,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,Brasileirão Série B,Ponte Preta,Operario-PR,,OU,OVER,0.5,1.725,63,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.25
+2026-11-12,Brasileirão Série B,Ponte Preta,Operario-PR,,1X2,DRAW,0,1.8,66,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Brasileirão Série B,Ponte Preta,Operario-PR,,1X2,DRAW,0,1.8,66,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Brasileirão Série B,Ponte Preta,Operario-PR,,AH,HOME,0,2.75,72,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Brasileirão Série B,Ponte Preta,Operario-PR,,AH,HOME,0,2.75,72,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Brasileirão Série B,Ponte Preta,Operario-PR,,AH,HOME,0,2.75,72,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Uruguayan Primera División - Apertura,Cerro Largo,Progreso,,AH,AWAY,-0.25,1.75,30,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,37.5
+2026-11-12,Brasileirão Série B,São Bernardo,Athletic Club,,AH,HOME,-0.5,2.6,33,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-11-12,Uruguayan Primera División - Apertura,Cerro Largo,Progreso,,AH,AWAY,-0.25,1.8,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,40
+2026-11-12,Uruguayan Primera División - Apertura,Cerro Largo,Progreso,,AH,AWAY,-0.25,1.8,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,40
+2026-11-12,Uruguayan Primera División - Apertura,Cerro Largo,Progreso,,AH,AWAY,-0.25,1.82,35,1-0,oddsflow_active_trader,NOVA88,15,WON,12.3
+2026-11-12,Uruguayan Primera División - Apertura,Cerro Largo,Progreso,,AH,AWAY,-0.25,1.82,35,1-0,oddsflow_handicap_sniper,NOVA88,15,WON,12.3
+2026-11-12,Brasileirão Série B,São Bernardo,Athletic Club,,1X2,HOME,0,2.66,35,0-0,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
+2026-11-12,Brasileirão Série B,São Bernardo,Athletic Club,,AH,HOME,-0.25,2.22,38,0-0,oddsflow_active_trader,NOVA88,15,HALF_LOST,-7.5
+2026-11-12,Brasileirão Série B,São Bernardo,Athletic Club,,AH,HOME,-0.25,2.22,38,0-0,oddsflow_handicap_sniper,NOVA88,15,HALF_LOST,-7.5
+2026-11-12,Uruguayan Primera División - Apertura,Cerro Largo,Progreso,,AH,AWAY,0,2.19,45,1-0,oddsflow_handicap_sniper,NOVA88,15,WON,17.85
+2026-11-12,Uruguayan Primera División - Apertura,Cerro Largo,Progreso,,AH,AWAY,0,2.19,45,1-0,oddsflow_active_trader,NOVA88,15,WON,17.85
+2026-11-12,Brasileirão Série B,São Bernardo,Athletic Club,,AH,HOME,-0.25,2.2,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-11-12,Brasileirão Série B,São Bernardo,Athletic Club,,1X2,AWAY,0,1.571,49,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-11-12,Brasileirão Série B,São Bernardo,Athletic Club,,1X2,DRAW,0,2.4,51,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,70
+2026-11-12,Uruguayan Primera División - Apertura,Cerro Largo,Progreso,,1X2,DRAW,0,2.1,53,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,55
+2026-11-12,Uruguayan Primera División - Apertura,Cerro Largo,Progreso,,1X2,DRAW,0,2.1,54,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,55
+2026-11-12,Brasileirão Série B,São Bernardo,Athletic Club,,1X2,DRAW,0,2.2,55,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,60
+2026-11-12,Uruguayan Primera División - Apertura,Cerro Largo,Progreso,,AH,AWAY,0,2.6,56,1-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-11-12,Uruguayan Primera División - Apertura,Cerro Largo,Progreso,,AH,AWAY,0,2.6,56,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-11-12,Uruguayan Primera División - Apertura,Cerro Largo,Progreso,,AH,AWAY,0,2.6,56,1-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-11-12,Uruguayan Primera División - Apertura,Cerro Largo,Progreso,,1X2,AWAY,0,1.5,63,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-11-12,Uruguayan Primera División - Apertura,Cerro Largo,Progreso,,1X2,AWAY,0,1.5,63,1-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
