@@ -43204,6 +43204,9 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-29,Copa del Rey,Peña Sport,Huesca,,AH,AWAY,0.5,1.975,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
 2026-10-29,UEFA Europa Cup - Women,Rosenborg W,Brøndby W,,AH,AWAY,-0.5,1.875,18,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,43.75
 2026-10-29,Copa del Rey,Peña Sport,Huesca,,AH,AWAY,0.75,2.35,17,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,67.5
+2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,AH,HOME,0,1.975,19,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
+2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,AH,HOME,0,2,19,0-0,oddsflow_core_strategy,NOVA88,15,VOID,0
+2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,AH,HOME,-0.25,2.425,22,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
 2026-10-29,Copa del Rey,Peña Sport,Huesca,,AH,HOME,1.25,1.925,21,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-29,Copa del Rey,Numancia,Oviedo,,AH,HOME,0.5,1.775,24,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,38.75
 2026-10-29,UEFA Europa Cup - Women,Sparta Praha W,Torreense W,,AH,AWAY,-0.25,1.95,29,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,23.75
@@ -43240,12 +43243,15 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-29,UEFA Europa Cup - Women,Sparta Praha W,Torreense W,,AH,AWAY,0,2.15,41,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,57.5
 2026-10-29,UEFA Europa Cup - Women,Sparta Praha W,Torreense W,,AH,AWAY,0,2.15,41,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,57.5
 2026-10-29,Frauen Bundesliga,Werder Bremen W,1899 Hoffenheim W,,AH,AWAY,0,2.11,40,1-0,oddsflow_active_trader,NOVA88,15,LOST,-15
+2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,1X2,DRAW,0,2.3,41,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,65
 2026-10-29,Polish Cup,Chrobry Głogów,Polonia Bytom,,OU,UNDER,3.5,1.775,50,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,38.75
 2026-10-29,Slovenian 1. SNL,Brinje-Grosuplje,Bravo,,AH,HOME,0.75,1.975,39,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,48.75
 2026-10-29,Slovenian 1. SNL,Brinje-Grosuplje,Bravo,,1X2,DRAW,0,3.75,39,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,137.5
+2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,AH,AWAY,0,2.2,41,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-10-29,Ligi kuu Bara,Namungo,Polisi Tanzania,,AH,HOME,0,2.075,83,1-0,oddsflow_core_strategy,APIFOOTBALL,35,VOID,0
 2026-10-29,Slovenian 1. SNL,Brinje-Grosuplje,Bravo,,AH,HOME,0.75,1.975,39,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,48.75
 2026-10-29,Slovenian 1. SNL,Brinje-Grosuplje,Bravo,,AH,HOME,0.75,1.975,39,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,48.75
+2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,AH,AWAY,0,2.2,41,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-10-29,Polish Cup,Chrobry Głogów,Polonia Bytom,,OU,UNDER,3.5,1.775,50,2-0,oddsflow_active_trader,APIFOOTBALL,50,WON,38.75
 2026-10-29,Slovenian 1. SNL,Brinje-Grosuplje,Bravo,,1X2,DRAW,0,3.75,39,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,137.5
 2026-10-29,Albanian Superliga,Egnatia Rrogozhinë,Teuta Durrës,,AH,HOME,0,1.725,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,36.25
@@ -43253,6 +43259,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-29,Egyptian Premier League,Pyramids FC,Wadi Degla,,OU,UNDER,3.5,2,42,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,50
 2026-10-29,Türkiye Kupası,Eskişehirspor,Iğdır FK,,AH,AWAY,0.25,1.85,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-29,Egyptian Premier League,Pyramids FC,Wadi Degla,,OU,UNDER,3.5,2,42,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,50
+2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,AH,AWAY,0,2.2,43,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,AH,AWAY,0,2.27,43,0-0,oddsflow_handicap_sniper,NOVA88,15,VOID,0
 2026-10-29,UEFA Europa Cup - Women,Sparta Praha W,Torreense W,,AH,AWAY,0.25,2.55,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,77.5
 2026-10-29,Polish Cup,Chrobry Głogów,Polonia Bytom,,AH,HOME,0,2.6,55,2-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-10-29,Copa del Rey,Peña Sport,Huesca,,OU,UNDER,3.5,2.025,45,0-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
@@ -43303,6 +43311,7 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-29,Saudi Pro League,Al Riyadh,Al-Qadisiyah FC,,AH,AWAY,1,1.8,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,40
 2026-10-29,Saudi Pro League,Al Riyadh,Al-Qadisiyah FC,,AH,AWAY,1,1.95,13,0-0,oddsflow_core_strategy,NOVA88,25,WON,23.75
 2026-10-29,Polish Cup,Arka Gdynia,Stal Rzeszów,,AH,HOME,-0.5,2,13,1-0,oddsflow_core_strategy,NOVA88,15,LOST,-15
+2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,1X2,DRAW,0,1.909,55,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,45.45
 2026-10-29,Türkiye Kupası,Eskişehirspor,Iğdır FK,,AH,AWAY,0,1.725,44,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-29,Türkiye Kupası,Eskişehirspor,Iğdır FK,,AH,AWAY,0,1.725,44,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-29,Türkiye Kupası,Eskişehirspor,Iğdır FK,,AH,AWAY,0,1.725,44,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
@@ -43313,18 +43322,21 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-29,Türkiye Kupası,Eskişehirspor,Iğdır FK,,OU,OVER,1.25,1.775,45,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
 2026-10-29,Türkiye Kupası,Eskişehirspor,Iğdır FK,,OU,OVER,1.25,1.775,45,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
 2026-10-29,UEFA Europa Cup - Women,Sparta Praha W,Torreense W,,AH,HOME,-0.25,2.475,61,1-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,OU,OVER,0.75,2,58,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-29,UEFA Europa Cup - Women,Sparta Praha W,Torreense W,,AH,HOME,-0.25,2.59,61,1-1,oddsflow_core_strategy,NOVA88,15,HALF_LOST,-7.5
 2026-10-29,Copa del Rey,Numancia,Oviedo,,AH,HOME,0.25,2.1,58,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-29,Copa del Rey,Numancia,Oviedo,,AH,HOME,0.25,2.1,58,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,Copa del Rey,SS Reyes,CD Coria,,AH,HOME,0,1.9,16,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-10-29,UEFA Europa Cup - Women,Sparta Praha W,Torreense W,,AH,HOME,-0.25,2.64,62,1-1,oddsflow_handicap_sniper,NOVA88,15,HALF_LOST,-7.5
+2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,OU,OVER,0.5,1.725,60,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,OU,OVER,0.5,1.725,60,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-29,Egyptian Premier League,Pyramids FC,Wadi Degla,,1X2,DRAW,0,2.4,58,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,Slovenian 1. SNL,Brinje-Grosuplje,Bravo,,AH,HOME,0,2.05,60,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-10-29,UEFA Champions League Women,Paris FC W,Häcken W,,AH,AWAY,-0.75,1.85,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,42.5
 2026-10-29,UEFA Champions League Women,Paris FC W,Häcken W,,AH,AWAY,-0.75,1.85,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,42.5
-2026-10-29,UEFA Champions League Women,Paris FC W,Häcken W,,AH,AWAY,-0.5,2,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
 2026-10-29,UEFA Champions League Women,Austria Wien W,Juventus W,,AH,HOME,0.25,1.95,36,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,Egyptian Premier League,Pyramids FC,Wadi Degla,,AH,AWAY,-0.25,2.075,59,2-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,26.88
+2026-10-29,UEFA Champions League Women,Paris FC W,Häcken W,,AH,AWAY,-0.5,2,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,WON,50
 2026-10-29,Copa del Rey,SS Reyes,CD Coria,,AH,HOME,-0.5,2.75,20,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-29,UEFA Champions League Women,Paris FC W,Häcken W,,AH,AWAY,-0.5,2.03,35,1-0,oddsflow_active_trader,NOVA88,40,WON,41.2
 2026-10-29,Copa del Rey,Numancia,Oviedo,,OU,OVER,3,2.05,62,2-0,oddsflow_core_strategy,APIFOOTBALL,500,WON,525
@@ -43539,10 +43551,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-29,Saudi Pro League,Al Riyadh,Al-Qadisiyah FC,,OU,UNDER,3.5,2.025,55,0-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,Peruvian Primera División,Club Deportivo Los Chankas,Cusco,,1X2,DRAW,0,2.6,51,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,Copa del Rey,Conquense,Castellón,,AH,AWAY,0.75,2,10,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
-2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,AWAY,0.25,1.875,14,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,43.75
 2026-10-29,KNVB Beker,De Treffers,Heracles,,AH,AWAY,0.25,1.8,13,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-29,Allsvenskan,Kalmar FF,Gais,,OU,OVER,1,2.025,59,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
-2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,AWAY,0.25,1.93,14,1-0,oddsflow_core_strategy,NOVA88,17,WON,15.81
 2026-10-29,KNVB Beker,De Treffers,Heracles,,AH,AWAY,0.25,1.85,13,0-0,oddsflow_core_strategy,NOVA88,50,LOST,-50
 2026-10-29,Polish Cup,Arka Gdynia,Stal Rzeszów,,AH,HOME,0,1.725,58,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,KNVB Beker,GVVV Veenendaal,Noordwijk,,AH,AWAY,-0.75,2.25,14,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
@@ -43622,14 +43632,13 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-29,KNVB Beker,Purmersteijn,Gemert,,AH,HOME,-0.5,2.5,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-29,Colombian Primera B,Envigado,Ind. Yumbo,,AH,AWAY,-0.25,1.84,35,2-0,oddsflow_handicap_sniper,NOVA88,16,HALF_WON,6.72
 2026-10-29,Copa del Rey,Varea,FC Andorra,,AH,HOME,1.25,1.75,34,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-10-29,KNVB Beker,Purmersteijn,Gemert,,AH,HOME,-0.5,2.5,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,Colombian Primera B,Envigado,Ind. Yumbo,,AH,AWAY,-0.25,1.875,35,2-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,21.88
+2026-10-29,KNVB Beker,Purmersteijn,Gemert,,AH,HOME,-0.5,2.5,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,Colombian Primera B,Envigado,Ind. Yumbo,,AH,AWAY,-0.25,1.84,35,2-0,oddsflow_active_trader,NOVA88,15,HALF_WON,6.3
 2026-10-29,Polish Cup,Arka Gdynia,Stal Rzeszów,,1X2,DRAW,0,1.533,77,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,Copa del Rey,Laredo,Burgos,,AH,HOME,0.75,1.825,35,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
 2026-10-29,Copa del Rey,Laredo,Burgos,,AH,HOME,0.75,1.83,35,0-1,oddsflow_handicap_sniper,NOVA88,27,HALF_LOST,-13.5
 2026-10-29,Copa del Rey,Laredo,Burgos,,AH,HOME,0.75,1.825,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
-2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,1X2,HOME,0,1.615,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,Polish Cup,Arka Gdynia,Stal Rzeszów,,1X2,DRAW,0,1.533,78,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-29,Polish Cup,Arka Gdynia,Stal Rzeszów,,AH,AWAY,0,2.1,78,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,55
 2026-10-29,Polish Cup,Arka Gdynia,Stal Rzeszów,,AH,AWAY,0,2.1,78,1-1,oddsflow_core_strategy,APIFOOTBALL,35,WON,38.5
@@ -43645,8 +43654,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-29,Copa del Rey,Covadonga,Valladolid,,AH,HOME,1,2,35,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,50
 2026-10-29,KNVB Beker,De Treffers,Heracles,,AH,AWAY,0.5,2.25,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,KNVB Beker,GVVV Veenendaal,Noordwijk,,AH,AWAY,-0.75,1.9,35,2-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
-2026-10-29,Copa del Rey,Cieza,Granada CF,,AH,AWAY,0,1.7,48,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,35
 2026-10-29,Taça da Liga,SC Braga,Famalicao,,AH,HOME,0.25,1.8,45,1-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,20
+2026-10-29,Copa del Rey,Cieza,Granada CF,,AH,AWAY,0,1.7,48,0-1,oddsflow_active_trader,APIFOOTBALL,50,WON,35
 2026-10-29,Taça da Liga,SC Braga,Famalicao,,1X2,HOME,0,3.4,45,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,KNVB Beker,De Treffers,Heracles,,1X2,AWAY,0,2.33,35,0-0,oddsflow_active_trader,NOVA88,15,LOST,-15
 2026-10-29,Copa del Rey,Covadonga,Valladolid,,AH,HOME,1,2,35,0-1,oddsflow_core_strategy,APIFOOTBALL,50,WON,50
@@ -43655,7 +43664,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-29,KNVB Beker,GVVV Veenendaal,Noordwijk,,AH,AWAY,-0.75,1.9,35,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
 2026-10-29,KNVB Beker,GVVV Veenendaal,Noordwijk,,AH,AWAY,-0.75,1.9,35,2-0,oddsflow_beta,APIFOOTBALL,50,HALF_LOST,-25
 2026-10-29,KNVB Beker,ACV,AFC Amsterdam,,AH,AWAY,0,1.75,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
-2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,AWAY,0.25,1.97,36,1-0,oddsflow_handicap_sniper,NOVA88,15,WON,14.55
 2026-10-29,KNVB Beker,ACV,AFC Amsterdam,,AH,AWAY,0,1.75,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-10-29,KNVB Beker,Hoek,Sparta Nijkerk,,AH,HOME,-0.75,1.8,35,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,40
 2026-10-29,KNVB Beker,Hoek,Sparta Nijkerk,,AH,HOME,-0.75,1.8,35,1-2,oddsflow_active_trader,APIFOOTBALL,50,WON,40
@@ -43685,13 +43693,13 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-29,Taça da Liga,SC Braga,Famalicao,,1X2,AWAY,0,2.16,45,1-2,oddsflow_handicap_sniper,NOVA88,19,LOST,-19
 2026-10-29,Copa del Rey,Varea,FC Andorra,,AH,HOME,1,1.95,38,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,KNVB Beker,ACV,AFC Amsterdam,,AH,AWAY,0.25,2.15,37,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
-2026-10-29,KNVB Beker,RKAV Volendam,ROHDA Raalte,,AH,AWAY,-1.25,2,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-29,KNVB Beker,Purmersteijn,Gemert,,AH,HOME,-0.25,2.2,39,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-29,KNVB Beker,RKAV Volendam,ROHDA Raalte,,AH,AWAY,-1.25,2,35,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-29,KNVB Beker,RKAV Volendam,ROHDA Raalte,,AH,AWAY,-1.25,2.01,35,1-0,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
 2026-10-29,KNVB Beker,RKAV Volendam,ROHDA Raalte,,AH,AWAY,-1.25,2,35,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-29,KNVB Beker,RKAV Volendam,ROHDA Raalte,,AH,AWAY,-1.25,2.01,35,1-0,oddsflow_core_strategy,NOVA88,50,LOST,-50
-2026-10-29,KNVB Beker,ACV,AFC Amsterdam,,AH,AWAY,0.25,2.15,37,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
 2026-10-29,KNVB Beker,Purmersteijn,Gemert,,AH,HOME,-0.25,2.2,39,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-29,KNVB Beker,ACV,AFC Amsterdam,,AH,AWAY,0.25,2.15,37,0-0,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
 2026-10-29,KNVB Beker,RKAV Volendam,ROHDA Raalte,,AH,AWAY,-1.25,2,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,Copa del Rey,Laredo,Burgos,,OU,UNDER,2.5,2,39,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,KNVB Beker,RKAV Volendam,ROHDA Raalte,,AH,AWAY,-1.25,2.01,35,1-0,oddsflow_active_trader,NOVA88,50,LOST,-50
@@ -43722,10 +43730,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-29,KNVB Beker,Hoek,Sparta Nijkerk,,1X2,HOME,0,1.8,40,2-2,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,40
 2026-10-29,Copa del Rey,Varea,FC Andorra,,AH,HOME,0.75,2.3,41,0-1,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-29,KNVB Beker,Hoek,Sparta Nijkerk,,1X2,HOME,0,1.8,40,2-2,oddsflow_active_trader,APIFOOTBALL,50,WON,40
-2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,HOME,0.25,1.9,42,1-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,22.5
-2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,HOME,0.25,1.9,42,1-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,22.5
-2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,HOME,0.25,1.9,42,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,22.5
-2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,1X2,DRAW,0,2.75,42,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,87.5
 2026-10-29,Copa del Rey,Laredo,Burgos,,AH,HOME,0.5,2.025,43,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-29,Copa del Rey,Laredo,Burgos,,AH,HOME,0.5,2.05,43,0-1,oddsflow_handicap_sniper,NOVA88,31,LOST,-31
 2026-10-29,Copa del Rey,Lebrijana,Getafe,,AH,HOME,0.25,2.1,82,2-3,oddsflow_core_strategy,APIFOOTBALL,35,HALF_WON,19.25
@@ -43736,8 +43740,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-29,KNVB Beker,GVVV Veenendaal,Noordwijk,,AH,AWAY,-0.25,2.025,43,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-29,KNVB Beker,GVVV Veenendaal,Noordwijk,,AH,AWAY,-0.25,2.025,44,2-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,KNVB Beker,GVVV Veenendaal,Noordwijk,,AH,AWAY,-0.25,2.025,44,2-0,oddsflow_beta,APIFOOTBALL,50,LOST,-50
-2026-10-29,KNVB Beker,GVVV Veenendaal,Noordwijk,,AH,AWAY,-0.25,2.025,44,2-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-29,Copa del Rey,Guijuelo,Sporting Gijon,,AH,HOME,1,1.775,45,1-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
+2026-10-29,KNVB Beker,GVVV Veenendaal,Noordwijk,,AH,AWAY,-0.25,2.025,44,2-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-29,Copa del Rey,Guijuelo,Sporting Gijon,,AH,HOME,1,1.775,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,Copa del Rey,Guijuelo,Sporting Gijon,,OU,UNDER,2.5,2,45,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,Copa del Rey,Guijuelo,Sporting Gijon,,AH,HOME,1,1.775,45,1-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
@@ -43841,7 +43845,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-29,Copa del Rey,Guijuelo,Sporting Gijon,,AH,HOME,0.5,1.84,63,1-2,oddsflow_active_trader,NOVA88,48,LOST,-48
 2026-10-29,Copa del Rey,Guijuelo,Sporting Gijon,,AH,HOME,0.5,1.85,64,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-29,Copa del Rey,Guijuelo,Sporting Gijon,,AH,HOME,0.5,1.84,64,1-2,oddsflow_handicap_sniper,NOVA88,50,LOST,-50
-2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,1X2,DRAW,0,1.909,64,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,45.45
 2026-10-29,Copa del Rey,Guijuelo,Sporting Gijon,,OU,UNDER,4,1.9,65,1-2,oddsflow_core_strategy,APIFOOTBALL,500,VOID,0
 2026-10-29,Taça da Liga,SC Braga,Famalicao,,AH,AWAY,-0.25,2.1,73,1-2,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
 2026-10-29,Copa del Rey,Covadonga,Valladolid,,OU,UNDER,2.5,1.75,65,0-1,oddsflow_core_strategy,APIFOOTBALL,500,WON,375
@@ -43851,11 +43854,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-29,KNVB Beker,ACV,AFC Amsterdam,,OU,OVER,0.75,1.725,62,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-29,Taça da Liga,SC Braga,Famalicao,,AH,AWAY,-0.25,2.1,73,1-2,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-29,KNVB Beker,GVVV Veenendaal,Noordwijk,,OU,UNDER,3,2.05,65,2-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
-2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,HOME,0,2.15,67,1-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-10-29,KNVB Beker,Purmersteijn,Gemert,,1X2,DRAW,0,1.909,68,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,45.45
 2026-10-29,KNVB Beker,Purmersteijn,Gemert,,OU,OVER,0.75,2.025,70,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,HOME,0,2.1,71,1-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
-2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,HOME,0,2.15,71,1-1,oddsflow_active_trader,NOVA88,15,VOID,0
 2026-10-29,Copa del Rey,Guijuelo,Sporting Gijon,,AH,HOME,0.25,2.1,71,1-2,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,KNVB Beker,Purmersteijn,Gemert,,OU,OVER,0.5,1.75,71,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,Copa del Rey,Guijuelo,Sporting Gijon,,AH,HOME,0.25,2.14,71,1-2,oddsflow_active_trader,NOVA88,44,LOST,-44
@@ -43866,8 +43866,6 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-29,Copa del Rey,Guijuelo,Sporting Gijon,,AH,HOME,0.25,2.14,71,1-2,oddsflow_handicap_sniper,NOVA88,44,LOST,-44
 2026-10-29,KNVB Beker,RKAV Volendam,ROHDA Raalte,,OU,UNDER,3.25,1.75,65,2-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,18.75
 2026-10-29,KNVB Beker,Purmersteijn,Gemert,,1X2,DRAW,0,1.727,72,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,36.35
-2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,HOME,0,2.15,72,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
-2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,HOME,0,2.14,72,1-1,oddsflow_handicap_sniper,NOVA88,15,VOID,0
 2026-10-29,Copa del Rey,Antequera,Águilas,,AH,AWAY,0,2.05,72,2-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-10-29,KNVB Beker,ACV,AFC Amsterdam,,OU,OVER,0.5,1.725,70,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,Copa del Rey,Antequera,Águilas,,AH,AWAY,0,2.05,72,2-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
@@ -43887,20 +43885,16 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-29,Copa del Rey,Real Ávila,Unionistas de Salamanca,,AH,HOME,0,2.075,80,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
 2026-10-29,Copa del Rey,Real Ávila,Unionistas de Salamanca,,AH,HOME,0,2.075,80,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
 2026-10-29,Copa del Rey,Antequera,Águilas,,AH,AWAY,0,2.1,79,2-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
-2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,AH,HOME,0,1.975,19,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
-2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,AH,HOME,0,2,19,0-0,oddsflow_core_strategy,NOVA88,15,VOID,0
-2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,AH,HOME,-0.25,2.425,22,0-0,oddsflow_core_strategy,APIFOOTBALL,50,HALF_LOST,-25
-2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,1X2,DRAW,0,2.3,41,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,65
-2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,AH,AWAY,0,2.2,41,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
-2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,AH,AWAY,0,2.2,41,0-0,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
-2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,AH,AWAY,0,2.2,43,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
-2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,AH,AWAY,0,2.27,43,0-0,oddsflow_handicap_sniper,NOVA88,15,VOID,0
-2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,1X2,DRAW,0,1.909,55,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,45.45
-2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,OU,OVER,0.75,2,58,0-0,oddsflow_core_strategy,APIFOOTBALL,50,LOST,-50
-2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,OU,OVER,0.5,1.725,60,0-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
-2026-10-29,Botola Pro,Maghreb Fès,Renaissance Berkane,,OU,OVER,0.5,1.725,60,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,AWAY,0.25,1.875,14,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,43.75
+2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,AWAY,0.25,1.93,14,1-0,oddsflow_core_strategy,NOVA88,17,WON,15.81
+2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,1X2,HOME,0,1.615,35,1-0,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
+2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,AWAY,0.25,1.97,36,1-0,oddsflow_handicap_sniper,NOVA88,15,WON,14.55
 2026-10-29,Copa del Rey,Gimnástica Torrelavega,UD Ourense,,AH,AWAY,0,1.775,10,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,38.75
 2026-10-29,Copa del Rey,Gimnástica Torrelavega,UD Ourense,,AH,AWAY,0.25,1.95,12,1-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,47.5
+2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,HOME,0.25,1.9,42,1-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_WON,22.5
+2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,HOME,0.25,1.9,42,1-1,oddsflow_core_strategy,APIFOOTBALL,50,HALF_WON,22.5
+2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,HOME,0.25,1.9,42,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_WON,22.5
+2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,1X2,DRAW,0,2.75,42,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,87.5
 2026-10-29,Polish Cup,Odra Opole,Slask Wroclaw,,AH,HOME,0.5,1.775,12,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,38.75
 2026-10-29,Polish Cup,Odra Opole,Slask Wroclaw,,AH,HOME,0.5,1.82,12,0-0,oddsflow_core_strategy,NOVA88,15,WON,12.3
 2026-10-29,Polish Cup,Odra Opole,Slask Wroclaw,,AH,HOME,0,2.75,17,0-0,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
@@ -43932,17 +43926,23 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-29,French National 1,Amiens,Thionville Lusitanos,,AH,AWAY,-0.5,2.09,35,0-0,oddsflow_handicap_sniper,NOVA88,19,WON,20.71
 2026-10-29,French National 1,Amiens,Thionville Lusitanos,,AH,AWAY,-0.5,1.95,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,47.5
 2026-10-29,French National 1,Amiens,Thionville Lusitanos,,AH,AWAY,-0.5,2.09,35,0-0,oddsflow_active_trader,NOVA88,16,WON,17.44
+2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,1X2,DRAW,0,1.909,64,1-1,oddsflow_active_trader,APIFOOTBALL,50,WON,45.45
 2026-10-29,French National 1,Amiens,Thionville Lusitanos,,1X2,HOME,0,3.5,35,0-0,oddsflow_active_trader,NOVA88,19,LOST,-19
 2026-10-29,French National 1,Amiens,Thionville Lusitanos,,1X2,HOME,0,3.5,35,0-0,oddsflow_handicap_sniper,NOVA88,36,LOST,-36
 2026-10-29,French National 1,Amiens,Thionville Lusitanos,,1X2,AWAY,0,2.1,37,0-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,French National 1,Amiens,Thionville Lusitanos,,1X2,AWAY,0,2.1,37,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
 2026-10-29,French National 1,Amiens,Thionville Lusitanos,,1X2,AWAY,0,2.25,37,0-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
 2026-10-29,French National 1,Amiens,Thionville Lusitanos,,AH,AWAY,-0.75,1.9,37,0-1,oddsflow_active_trader,APIFOOTBALL,50,HALF_LOST,-25
+2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,HOME,0,2.15,67,1-1,oddsflow_core_strategy,APIFOOTBALL,50,VOID,0
 2026-10-29,French National 1,Amiens,Thionville Lusitanos,,AH,AWAY,-0.75,1.94,40,0-1,oddsflow_handicap_sniper,NOVA88,15,HALF_LOST,-7.5
 2026-10-29,UEFA Champions League Women,Manchester City W,Paris Saint Germain W,,AH,AWAY,-1,2.05,26,0-0,oddsflow_core_strategy,APIFOOTBALL,50,WON,52.5
+2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,HOME,0,2.1,71,1-1,oddsflow_active_trader,APIFOOTBALL,50,VOID,0
+2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,HOME,0,2.15,71,1-1,oddsflow_active_trader,NOVA88,15,VOID,0
 2026-10-29,French National 1,Amiens,Thionville Lusitanos,,AH,AWAY,-0.75,1.85,42,0-1,oddsflow_handicap_sniper,APIFOOTBALL,50,HALF_LOST,-25
-2026-10-29,UEFA Champions League Women,Manchester City W,Paris Saint Germain W,,AH,AWAY,-1,1.9,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45
+2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,HOME,0,2.15,72,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,VOID,0
+2026-10-29,Colombian Primera B,Popayan,Union Magdalena,,AH,HOME,0,2.14,72,1-1,oddsflow_handicap_sniper,NOVA88,15,VOID,0
 2026-10-29,Copa del Rey,Xerez,Cadiz,,1X2,AWAY,0,2.1,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,55
+2026-10-29,UEFA Champions League Women,Manchester City W,Paris Saint Germain W,,AH,AWAY,-1,1.9,35,0-0,oddsflow_handicap_sniper,APIFOOTBALL,50,WON,45
 2026-10-29,UEFA Champions League Women,Manchester City W,Paris Saint Germain W,,AH,AWAY,-1,1.91,35,0-0,oddsflow_handicap_sniper,NOVA88,18,WON,16.38
 2026-10-29,UEFA Champions League Women,Manchester City W,Paris Saint Germain W,,AH,AWAY,-1,1.9,35,0-0,oddsflow_active_trader,APIFOOTBALL,50,WON,45
 2026-10-29,UEFA Champions League Women,Manchester City W,Paris Saint Germain W,,AH,AWAY,-1,1.96,35,0-0,oddsflow_active_trader,NOVA88,21,WON,20.16
@@ -44113,8 +44113,8 @@ match_date,league,home_team,away_team,final_score,market,selection,line,entry_od
 2026-10-29,Brasileirão Série A,Vasco da Gama,Flamengo,,AH,HOME,0.5,2.05,35,1-1,oddsflow_active_trader,APIFOOTBALL,50,LOST,-50
 2026-10-29,Brasileirão Série A,Vasco da Gama,Flamengo,,AH,HOME,0.5,2.1,35,1-1,oddsflow_active_trader,NOVA88,35,LOST,-35
 2026-10-29,Brasileirão Série A,Vasco da Gama,Flamengo,,AH,HOME,0.5,2.05,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
-2026-10-29,Brasileirão Série A,Vasco da Gama,Flamengo,,AH,HOME,0.5,2.1,35,1-1,oddsflow_handicap_sniper,NOVA88,31,LOST,-31
 2026-10-29,Brasileirão Série A,Vasco da Gama,Flamengo,,1X2,DRAW,0,3.2,35,1-1,oddsflow_handicap_sniper,APIFOOTBALL,50,LOST,-50
+2026-10-29,Brasileirão Série A,Vasco da Gama,Flamengo,,AH,HOME,0.5,2.1,35,1-1,oddsflow_handicap_sniper,NOVA88,31,LOST,-31
 2026-10-29,Brasileirão Série A,Vasco da Gama,Flamengo,,1X2,DRAW,0,3.05,35,1-1,oddsflow_handicap_sniper,NOVA88,15,LOST,-15
 2026-10-29,Brasileirão Série A,Atletico Mineiro,Cruzeiro,,AH,HOME,-0.25,2.61,45,0-1,oddsflow_beta,NOVA88,25,HALF_LOST,-12.5
 2026-10-29,Brasileirão Série A,Atletico Mineiro,Cruzeiro,,AH,HOME,-0.25,2.61,45,0-1,oddsflow_active_trader,NOVA88,24,HALF_LOST,-12
